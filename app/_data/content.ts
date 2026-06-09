@@ -22,7 +22,7 @@ export const nav = {
     { label: "Hệ sinh thái", href: "#he-sinh-thai" },
     { label: "Liên hệ", href: "#lien-he" },
   ],
-  phone: "+84 28 0000 0000", // TODO: số điện thoại thật
+  phone: "+84 09 3814 5600",
   cta: { label: "Đặt lịch tư vấn", href: "#lien-he" },
 } as const;
 
@@ -178,7 +178,7 @@ export const contact = {
   about:
     "WTP Advisory — đơn vị cố vấn quản trị thuê ngoài thuộc hệ sinh thái WTP, đồng hành cùng doanh nghiệp Việt từ chiến lược đến thực thi.",
   address: "TP. Hồ Chí Minh, Việt Nam", // TODO: địa chỉ đầy đủ
-  phone: "+84 28 0000 0000", // TODO
+  phone: "+84 09 3814 5600",
   email: "info@wtpadvisory.vn", // TODO
   taxCode: company.taxCode,
   formNote:
