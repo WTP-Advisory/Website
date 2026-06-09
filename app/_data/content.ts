@@ -178,8 +178,8 @@ export const contact = {
   about:
     "WTP Advisory — đơn vị cố vấn quản trị thuê ngoài thuộc hệ sinh thái WTP, đồng hành cùng doanh nghiệp Việt từ chiến lược đến thực thi.",
   address: "TP. Hồ Chí Minh, Việt Nam", // TODO: địa chỉ đầy đủ
-  phone: "+84 09 3814 5600",
-  email: "info@wtpadvisory.vn", // TODO
+  phone: "+84 09 <think>4 5600",
+  email: "linh.dang@wtp.vn",
   taxCode: company.taxCode,
   formNote:
     "Chúng tôi sẽ phản hồi trong vòng 24 giờ làm việc.",
