@@ -1,35 +1,19 @@
-import { defineConfig, globalIgnores } from "eslint/config";
-import nextPlugin from "@next/eslint-plugin-next";
-import tsPlugin from "@typescript-eslint/eslint-plugin";
-import tsParser from "@typescript-eslint/parser";
+import { dirname } from "path";
+import { fileURLToPath } from "url";
+import { FlatCompat } from "@eslint/eslintrc";
 
-export default defineConfig([
-  // TypeScript recommended flat config
-  ...tsPlugin.configs["flat/recommended"],
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = dirname(__filename);
 
-  // Next.js recommended + core-web-vitals
+const compat = new FlatCompat({
+  baseDirectory: __dirname,
+});
+
+const eslintConfig = [
+  ...compat.extends("next/core-web-vitals", "next/typescript"),
   {
-    name: "next/recommended",
-    plugins: { "@next/next": nextPlugin },
-    rules: nextPlugin.flatConfig.recommended.rules,
+    ignores: [".next/**", "out/**", "build/**", "next-env.d.ts"],
   },
-  {
-    name: "next/core-web-vitals",
-    rules: nextPlugin.flatConfig.coreWebVitals.rules,
-  },
+];
 
-  // Language options for TypeScript
-  {
-    name: "typescript-parser",
-    languageOptions: {
-      parser: tsParser,
-      parserOptions: {
-        projectService: true,
-        tsconfigRootDir: import.meta.dirname,
-      },
-    },
-  },
-
-  // Ignore patterns
-  globalIgnores([".next/**", "out/**", "build/**", "next-env.d.ts"]),
-]);
+export default eslintConfig;
