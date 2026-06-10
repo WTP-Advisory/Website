@@ -1,0 +1,139 @@
+﻿{
+  "title": "Internal Control Review Services with WTP Advisory",
+  "metaDescription": "WTP Advisory strengthens internal controls to safeguard assets, prevent fraud, and ensure compliance with efficient, risk-mitigating solutions.",
+  "hero": {
+    "eyebrow": "Services",
+    "title": "Internal Control Review Services with WTP Advisory",
+    "subtitle": "Ensuring strong internal controls is critical for safeguarding assets, preventing fraud, and maintaining regulatory compliance. At WTP Advisory, we help businesses identify weaknesses in their internal control systems and provide actionable solutions to enhance efficiency and mitigate risks.",
+    "cta": {
+      "label": "Make an Inquiry",
+      "href": "/make-an-inquiry"
+    },
+    "image": "/incorp/solutions/accounting-finance.jpg"
+  },
+  "sections": [
+    {
+      "type": "richText",
+      "heading": "Why Internal Control Review Matters?",
+      "body": [
+        "A thorough internal control review helps businesses:",
+        "Detect and prevent fraud or financial misstatements",
+        "Improve operational efficiency and accountability",
+        "Ensure compliance with regulatory requirements",
+        "Strengthen financial reporting and risk management",
+        "Safeguard company assets and data"
+      ]
+    },
+    {
+      "type": "stats",
+      "heading": "Your trusted accounting services provider",
+      "items": [
+        {
+          "value": "30+",
+          "label": "Years Track Record"
+        },
+        {
+          "value": "15,000+",
+          "label": "Clients Worldwide"
+        },
+        {
+          "value": "120+",
+          "label": "Accounting & Tax Clients"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Why Choose WTP Advisory?",
+      "columns": 2,
+      "items": [
+        {
+          "title": "Experienced Risk & Compliance Experts",
+          "desc": "Our team brings deep expertise in assessing and optimizing internal control systems.",
+          "icon": "users"
+        },
+        {
+          "title": "Comprehensive Evaluation",
+          "desc": "We review financial controls, operational processes, and IT security measures to identify gaps.",
+          "icon": "eye"
+        },
+        {
+          "title": "Regulatory Compliance",
+          "desc": "Stay ahead of local and international compliance requirements with our expert guidance.",
+          "icon": "shield"
+        },
+        {
+          "title": "Actionable Insights",
+          "desc": "Receive clear, practical recommendations to enhance control mechanisms and minimize risks.",
+          "icon": "lightbulb"
+        },
+        {
+          "title": "Customized Solutions",
+          "desc": "Tailored internal control strategies to fit your industry and business size.",
+          "icon": "target"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Benefits to Expect from our Internal Control Review",
+      "columns": 4,
+      "items": [
+        {
+          "title": "Cost-effective",
+          "desc": "Receive expert compliance advice for a fixed monthly fee, saving on the expense of a full-time legal team.",
+          "icon": "wallet"
+        },
+        {
+          "title": "Ongoing Support",
+          "desc": "Regular, reliable guidance ensures your business stays compliant with Vietnam's regulations.",
+          "icon": "headset"
+        },
+        {
+          "title": "In-house Expertise",
+          "desc": "We act as your in-house legal team, offering tailored advice on compliance issues without the overhead.",
+          "icon": "briefcase"
+        },
+        {
+          "title": "Proactive Risk Management",
+          "desc": "Address potential legal challenges before they become issues, minimizing risk to your business.",
+          "icon": "clipboard"
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "variant": "red",
+      "heading": "Backed by WTP Advisory",
+      "items": [
+        {
+          "value": "30+",
+          "label": "Years of experience"
+        },
+        {
+          "value": "1,500+",
+          "label": "Professionals across APAC"
+        },
+        {
+          "value": "20,000+",
+          "label": "Clients served globally"
+        },
+        {
+          "value": "8",
+          "label": "Markets in Asia-Pacific"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Ready to get started in Vietnam?",
+      "subtitle": "Talk to our experts about how we can support your business.",
+      "button": {
+        "label": "Make an Inquiry",
+        "href": "/make-an-inquiry"
+      },
+      "variant": "red"
+    }
+  ],
+  "showContactForm": true
+}

@@ -1,0 +1,85 @@
+﻿{
+  "layout": "event",
+  "title": "From Singapore to Vietnam: The 2026 Cross-Border Business & Investment Dialogue",
+  "metaDescription": "An exclusive in-person briefing with WTP Advisory and Standard Chartered on Vietnam's 2026 regulatory shifts, tax incentives and cross-border investment opportunities for Singaporean investors.",
+  "banner": "/incorp/events/sg-vn-2026-dialogue.jpeg",
+  "format": "Webinar",
+  "date": "December 9, 2025",
+  "about": [
+    "Gain first-hand insights into Vietnam's major regulatory shifts for 2026 and what they mean for Singaporean investors. This exclusive in-person briefing brings together experts from WTP Advisory and Standard Chartered to deliver critical updates on tax incentives, market outlooks, and cross-border investment opportunities.",
+    "A must-attend session for businesses planning expansion into one of Asia's fastest-growing markets."
+  ],
+  "details": [
+    { "label": "Organizer", "value": "Ascentium" },
+    { "label": "Venue", "value": "Ascentium Singapore Office, 39-06/10 Ocean Financial Centre, 10 Collyer Quay, Singapore" },
+    { "label": "Date", "value": "9 December 2025" },
+    { "label": "Time", "value": "2:00 PM – 4:00 PM (SGT)" },
+    { "label": "Format", "value": "In-person | Registration confirmation will be sent separately" },
+    { "label": "Contact", "value": "Wei Boon Lim, Associate Director – Group Commercial" },
+    { "label": "Email", "value": "kahseng.lok@ascentium.com" },
+    { "label": "Phone", "value": "+65 8454 8107" }
+  ],
+  "matters": {
+    "heading": "Why This Event Matters Now",
+    "body": [
+      "Vietnam is entering one of its most significant regulatory transitions in a decade. Major updates across tax incentives, investment licensing, e-invoicing, payroll compliance, foreign ownership rules, and enterprise registration are fundamentally reshaping what foreign investors must prepare for in 2026.",
+      "For Singaporean and regional investors, staying ahead of these changes is no longer optional. It is essential for protecting operations, reducing compliance risks, and capturing early-mover advantages in one of Asia's fastest-growing markets.",
+      "Building on the strong engagement from our previous online event for Singaporean investors, this exclusive in-person briefing — organized by Ascentium — brings together senior representatives from WTP Advisory, Standard Chartered Vietnam, and Standard Chartered Singapore. This session will deliver the latest Vietnam market and FDI updates, with a deeper focus on newly announced tax incentives and policy developments that will directly impact investment decisions in 2026."
+    ]
+  },
+  "agenda": [
+    {
+      "title": "Vietnam Market Update",
+      "speaker": "Standard Chartered Vietnam",
+      "desc": "Key economic indicators, sector outlooks, and cross-border investment trends heading into 2026."
+    },
+    {
+      "title": "Vietnam's Investment Landscape: Challenges & Opportunities",
+      "speaker": "Michael Tran, CEO, WTP Advisory",
+      "desc": "Overview of market entry trends, regulatory hotspots, priority FDI sectors, and strategic expansion pathways."
+    },
+    {
+      "title": "Tax Incentives & Policy Developments 2025–2026",
+      "speaker": "Michael Tran, CEO, WTP Advisory",
+      "desc": "Essential updates on CIT rates, VAT and PIT changes, e-invoicing, UBO rules, and new government incentives."
+    },
+    {
+      "title": "SC Network: Connecting Corridors for FDI Growth",
+      "speaker": "Standard Chartered Singapore",
+      "desc": "How Standard Chartered supports cross-border financing, expansion, and Singapore–Vietnam capital flows."
+    }
+  ],
+  "bulletSections": [
+    {
+      "heading": "Who Should Attend",
+      "intro": "This session is tailored for:",
+      "items": [
+        "Singaporean SMEs and corporates planning Vietnam expansion",
+        "Investors evaluating market entry in 2026",
+        "CFOs, founders, and legal/compliance leaders",
+        "Regional businesses seeking tax-efficient structures",
+        "Companies reviewing upcoming policy impacts on existing operations"
+      ]
+    },
+    {
+      "heading": "Why Join This Closed-Door Session",
+      "items": [
+        "First-hand insights from Vietnam's tax, policy, and market experts",
+        "Deep understanding of 2026 regulatory changes",
+        "Practical guidance for FDI strategy and risk mitigation",
+        "Access to Standard Chartered's regional banking corridor specialists",
+        "Networking with senior investors and cross-border operators",
+        "Seats are limited to ensure meaningful discussion and participant engagement"
+      ]
+    }
+  ],
+  "registration": {
+    "heading": "Secure Your Seat",
+    "subtitle": "Participation is free but strictly limited. Register now to reserve your place at this exclusive investor briefing.",
+    "schedule": "9 December 2025 | 2:00 PM – 4:00 PM (SGT)"
+  },
+  "prev": {
+    "title": "From Singapore to Vietnam: Turning Strategic Ties into Smart Investments",
+    "href": "/events/from-singapore-to-vietnam-smart-strategies-for-sme-expansion-compliance"
+  }
+}

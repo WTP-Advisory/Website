@@ -1,0 +1,60 @@
+﻿{
+  "title": "Transfer Ownership in Vietnam",
+  "metaDescription": "WTP Advisory provides expert transfer-of-ownership services, ensuring a smooth and legally compliant business ownership transition through official registration with relevant government authorities.",
+  "hero": {
+    "eyebrow": "Incorporation",
+    "title": "Transfer Ownership in Vietnam",
+    "subtitle": "WTP Advisory provides expert transfer ownership services, ensuring a smooth and legally compliant business ownership transition through official registration with relevant government authorities.",
+    "cta": {
+      "label": "Talk to Our Experts",
+      "href": "/make-an-inquiry"
+    },
+    "image": "/incorp/solutions/incorporation.webp"
+  },
+  "sections": [
+    {
+      "type": "richText",
+      "heading": "What are the benefits of transferring a business ownership in Vietnam?",
+      "align": "left",
+      "body": [
+        "Transferring business ownership in Vietnam offers several key advantages, including a quick process with fewer bureaucratic hurdles, reduced paperwork compared to starting a new company, and no requirement to prove financial capability.",
+        "Additionally, foreign investors can gain long-term residency through investor visas or temporary residence cards, enabling stable business operations and personal settlement in Vietnam."
+      ]
+    },
+    {
+      "type": "stats",
+      "heading": "Your Experts in Company Incorporation",
+      "items": [
+        { "value": "30+", "label": "Years Track Record" },
+        { "value": "15,000+", "label": "Clients Worldwide" },
+        { "value": "100+", "label": "Companies Incorporated Yearly" },
+        { "value": "1,500+", "label": "Professionals" }
+      ]
+    },
+    {
+      "type": "cards",
+      "eyebrow": "Why WTP Advisory",
+      "heading": "Benefits of transferring your company ownership with WTP Advisory",
+      "columns": 4,
+      "items": [
+        { "title": "Work with Professional Bilingual Experts", "icon": "headset", "desc": "Ensure flawless cross-communication with no disruptions." },
+        { "title": "Guidance for Your Dream Business", "icon": "rocket", "desc": "Get the support you need for your specific business goals." },
+        { "title": "Complete Cost and Time Transparency", "icon": "fileCheck", "desc": "Receive clear trajectory estimates in advance with no hidden fees." },
+        { "title": "Direct and Virtual Consultations", "icon": "globe", "desc": "Flexible timing and solutions for your convenience." }
+      ]
+    },
+    {
+      "type": "team",
+      "eyebrow": "Our Team",
+      "heading": "Meet Our Experts",
+      "variant": "portrait",
+      "columns": 3,
+      "items": [
+        { "name": "Michael Tran, CPA, CA", "role": "Chief Executive Officer", "image": "/incorp/people/placeholder.svg", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" },
+        { "name": "David Pham", "role": "Head of Business", "image": "/incorp/people/placeholder.svg", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" },
+        { "name": "Linh Hoang", "role": "Head of Corporate Secretarial", "image": "/incorp/people/placeholder.svg", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" }
+      ]
+    }
+  ],
+  "showContactForm": true
+}

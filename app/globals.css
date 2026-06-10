@@ -1,43 +1,44 @@
-@import "tailwindcss";
+﻿@import "tailwindcss";
 
 /* WTP Advisory brand tokens (Tailwind v4 @theme — generates utilities like bg-brand-600) */
 @theme {
-  /* Primary orange-red scale (brand-500 = #ff4500) */
-  --color-brand-50: #fff3ed;
-  --color-brand-100: #ffe5d6;
-  --color-brand-200: #fec5a9;
-  --color-brand-300: #fd9b71;
-  --color-brand-400: #fc6838;
-  --color-brand-500: #ff4500;
-  --color-brand-600: #e23900;
-  --color-brand-700: #bb2f04;
-  --color-brand-800: #94290c;
-  --color-brand-900: #78240f;
-  --color-brand-950: #2c0d03;
+  /* Primary WTP Advisory red scale (brand-600 = #bb2121) */
+  --color-brand-50: #fbeaea;
+  --color-brand-100: #f6d2d2;
+  --color-brand-200: #eaa3a3;
+  --color-brand-300: #de7474;
+  --color-brand-400: #d34848;
+  --color-brand-500: #c52f2f;
+  --color-brand-600: #bb2121;
+  --color-brand-700: #9c1b1b;
+  --color-brand-800: #7c1616;
+  --color-brand-900: #5e1010;
 
-  /* Accent (warm amber for secondary highlights) */
-  --color-accent-400: #fbbf45;
-  --color-accent-500: #f5a623;
-  --color-accent-600: #d98a0c;
+  /* Accent blue (CTA band) */
+  --color-blue-cta: #0056a7;
 
   /* Ink / neutrals */
-  --color-ink: #1a1410;
-  --color-ink-soft: #44403c;
-  --color-muted: #78716c;
-  --color-surface: #faf8f6;
-  --color-surface-2: #f3efec;
+  --color-ink: #222222;
+  --color-ink-soft: #444444;
+  --color-muted: #6b7280;
+  --color-surface: #f8f8f8;
+  --color-surface-2: #f6f7fb;
+  --color-surface-3: #f4f4f4;
+  --color-footer-light: #f1f1f1;
+  --color-footer-dark: #333333;
+  --color-footer-darker: #262626;
 
-  --font-sans: var(--font-montserrat), ui-sans-serif, system-ui, sans-serif;
+  --font-sans: var(--font-roboto), ui-sans-serif, system-ui, sans-serif;
 }
 
 :root {
   --background: #ffffff;
-  --foreground: var(--color-ink);
+  --foreground: var(--color-ink-soft);
 }
 
 html {
   scroll-behavior: smooth;
-  scroll-padding-top: 5rem; /* offset for sticky header on anchor jumps */
+  scroll-padding-top: 7.5rem; /* offset for sticky header on anchor jumps */
 }
 
 body {

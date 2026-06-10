@@ -1,0 +1,103 @@
+﻿{
+  "title": "IFRS Conversion Services in Vietnam",
+  "metaDescription": "Ensure financial transparency with our IFRS conversion services. WTP Advisory aligns your reporting with international standards, minimizing disruptions.",
+  "hero": {
+    "eyebrow": "Services",
+    "title": "IFRS Conversion Services in Vietnam",
+    "subtitle": "Ensure global financial transparency with our expert IFRS conversion services. WTP Advisory streamlines the process, aligning your financial reporting with international standards while minimizing business disruptions.",
+    "cta": {
+      "label": "Make an Inquiry",
+      "href": "/make-an-inquiry"
+    },
+    "image": "/incorp/solutions/accounting-finance.jpg"
+  },
+  "sections": [
+    {
+      "type": "richText",
+      "heading": "Why choose IFRS Conversion services at WTP Advisory?",
+      "body": [
+        "Adopting International Financial Reporting Standards (IFRS) is essential for businesses aiming for transparency, global competitiveness, and seamless financial reporting. However, the conversion process can be complex, requiring deep expertise and a strategic approach.",
+        "At WTP Advisory, we provide end-to-end IFRS conversion services, ensuring accurate compliance with international standards while minimizing disruptions to your operations. Our experts guide you through the entire process, from assessing current financial systems to implementing IFRS-compliant reporting frameworks, enabling your business to meet global financial reporting requirements with confidence."
+      ],
+      "align": "left"
+    },
+    {
+      "type": "stats",
+      "heading": "Your trusted accounting services provider",
+      "items": [
+        {
+          "value": "30+",
+          "label": "Years Track Record"
+        },
+        {
+          "value": "15,000+",
+          "label": "Clients Worldwide"
+        },
+        {
+          "value": "120+",
+          "label": "Accounting & Tax Clients"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Benefits of IFRS Conversion Services with WTP Advisory",
+      "columns": 4,
+      "items": [
+        {
+          "title": "Expert Consultation",
+          "desc": "Our accounting experts offer insights into financial best practices and regulations to help you optimize your business operations.",
+          "icon": "globe"
+        },
+        {
+          "title": "Comprehensive Support",
+          "desc": "We offer a full suite of accounting services, from bookkeeping to tax compliance, ensuring seamless financial management.",
+          "icon": "handshake"
+        },
+        {
+          "title": "Simplified Process",
+          "desc": "We handle the time-consuming tasks of financial record-keeping and reporting, allowing you to focus on your core business activities.",
+          "icon": "rocket"
+        },
+        {
+          "title": "Focus on Core Business",
+          "desc": "With our accounting expertise, you can focus on achieving your business goals while ensuring financial accuracy and compliance.",
+          "icon": "network"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Meet Our Experts",
+      "columns": 3,
+      "items": [
+        {
+          "title": "Michael Tran, CPA, CA",
+          "desc": "Chief Executive Officer",
+          "icon": "user"
+        },
+        {
+          "title": "David Pham",
+          "desc": "Head of Business Advisory",
+          "icon": "userCheck"
+        },
+        {
+          "title": "Linh Hoang",
+          "desc": "Head of Corporate Secretarial and Advisory Services",
+          "icon": "users"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Ready to get started in Vietnam?",
+      "subtitle": "Talk to our experts about how we can support your business.",
+      "button": {
+        "label": "Make an Inquiry",
+        "href": "/make-an-inquiry"
+      },
+      "variant": "red"
+    }
+  ],
+  "showContactForm": true
+}

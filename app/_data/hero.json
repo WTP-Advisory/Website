@@ -1,0 +1,36 @@
+﻿{
+  "slides": [
+    {
+      "image": "/incorp/hero/slide-bpo.jpg",
+      "alt": "Business solutions for SMEs in Vietnam, featuring diverse professionals collaborating to boost efficiency and growth.",
+      "href": "/business-process-outsourcing-bpo-services"
+    },
+    {
+      "image": "/incorp/hero/slide-rebranding.png",
+      "alt": "WTP Advisory rebranding announcement banner.",
+      "href": "/about-us"
+    },
+    {
+      "image": "/incorp/hero/slide-power-of-one.png",
+      "alt": "Ho Chi Minh City skyline featuring Landmark 81, symbolizing Vietnam's growing business hub potential.",
+      "heading": "Your Business Expansion Expert in Vietnam",
+      "subtitle": "Jumpstart your business in Vietnam with our one-stop company formation solutions",
+      "cta": { "label": "Get Started", "href": "/services" }
+    },
+    {
+      "image": "/incorp/hero/slide-outsourcein.jpg",
+      "alt": "Vina OutsourceIn banner promoting Vietnam business expansion and outsourcing services with modern city illustration.",
+      "href": "/business-process-outsourcing-bpo-services"
+    },
+    {
+      "image": "/incorp/hero/slide-tax.jpg",
+      "alt": "Group discussing tax compliance for business growth in Vietnam, featuring logos of advisory firms.",
+      "href": "/tax-advisory-services"
+    },
+    {
+      "image": "/incorp/hero/slide-hr.jpg",
+      "alt": "Business discussion on HR, payroll solutions for growth in Vietnam with logos of partner companies and a team at work.",
+      "href": "/hr-payroll-services"
+    }
+  ]
+}

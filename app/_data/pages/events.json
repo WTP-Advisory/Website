@@ -1,0 +1,121 @@
+﻿{
+  "title": "Events",
+  "metaDescription": "Join WTP Advisory at our upcoming webinars, seminars and networking events on doing business in Vietnam.",
+  "hero": {
+    "eyebrow": "Events",
+    "title": "Our Events",
+    "subtitle": "Take part in WTP Advisory's events, webinars and networking opportunities and maximize your network with our partners to grow your business and career."
+  },
+  "sections": [
+    {
+      "type": "events",
+      "heading": "WTP Advisory's Schedule of Events",
+      "subtitle": "Looking for additional insights? Join one of our upcoming virtual events or watch a recording from anywhere.",
+      "items": [
+        {
+          "title": "From Singapore to Vietnam: The 2026 Cross-Border Business & Investment Dialogue",
+          "format": "Webinar",
+          "date": "December 9, 2025",
+          "desc": "Gain first-hand insights into Vietnam's major regulatory shifts for 2026 and what they mean for cross-border investors.",
+          "image": "/incorp/events/sg-vn-2026-dialogue.jpeg",
+          "href": "/events/from-singapore-to-vietnam-the-2026-cross-border-business-investment-dialogue"
+        },
+        {
+          "title": "From Singapore to Vietnam: Turning Strategic Ties into Smart Investments",
+          "format": "Webinar",
+          "date": "May 29, 2025",
+          "desc": "An insightful session designed for Singapore-based business owners, SME leaders and startups expanding into Vietnam.",
+          "image": "/incorp/events/sg-to-vn-smart-investments.png",
+          "href": "/events/from-singapore-to-vietnam-smart-strategies-for-sme-expansion-compliance"
+        },
+        {
+          "title": "Is “Made in Vietnam” The New “Made in China”?",
+          "format": "Webinar",
+          "date": "March 20, 2025",
+          "desc": "Exploring Vietnam's manufacturing trends and what they mean for foreign investors and businesses.",
+          "image": "/incorp/events/made-in-vietnam.png",
+          "href": "/events/made-in-vietnam-the-new-made-in-china"
+        },
+        {
+          "title": "Tax Compliance Risks for Foreigners in Vietnam",
+          "format": "Webinar",
+          "date": "November 7, 2024",
+          "desc": "A practical webinar for foreign individuals and businesses on avoiding common tax compliance pitfalls in Vietnam.",
+          "image": "/incorp/events/tax-compliance-risks.png",
+          "href": "/events/webinar-tax-compliance-risks"
+        },
+        {
+          "title": "WTP Advisory x FLI: How can sales strategic management boost your sales? – Hanoi",
+          "format": "Offline",
+          "date": "September 19, 2024",
+          "desc": "FDI enterprise solutions seminar on strategic sales management for businesses in northern Vietnam.",
+          "image": "/incorp/events/fdi-fli.jpg",
+          "href": "/events/fdi-enterprise-solutions-fli-vietnam"
+        },
+        {
+          "title": "Vietnam Economic Outlook: Half-Year Review and Future Prospects for H2 2024 and Beyond",
+          "format": "Offline",
+          "date": "September 4, 2024",
+          "desc": "A mid-year review of Vietnam's economy and what lies ahead, hosted with CanCham.",
+          "image": "/incorp/events/economic-outlook.png",
+          "href": "/events/economic-outlook-half-year-review-future-prospects-h2-2024"
+        },
+        {
+          "title": "[Savills x WTP Advisory] Gateway to Growth 2024: Ha Noi and Northern Vietnam's Investment Landscape",
+          "format": "Offline",
+          "date": "August 15, 2024",
+          "desc": "Exploring investment opportunities across Hanoi and northern Vietnam, co-hosted with Savills.",
+          "image": "/incorp/events/gateway-to-growth.png",
+          "href": "/events/gateway-to-growth-hanoi-and-northern-investment"
+        },
+        {
+          "title": "Representative Offices in Vietnam: 5 Key Legal Exemptions for Businesses to Keep in Mind",
+          "format": "Webinar",
+          "date": "August 1, 2024",
+          "desc": "Understand the key legal exemptions and obligations when running a representative office in Vietnam.",
+          "image": "/incorp/events/representative-offices.png",
+          "href": "/events/webinar-representative-office-setup"
+        },
+        {
+          "title": "Mastering Chief Accountant Compliance in Vietnam: Essential Guidelines for 2024",
+          "format": "Webinar",
+          "date": "June 13, 2024",
+          "desc": "Essential guidance on the chief accountant requirement and accounting compliance in Vietnam.",
+          "image": "/incorp/events/chief-accountant.jpg",
+          "href": "/events/webinar-chief-accountant-requirements"
+        },
+        {
+          "title": "One WTP Advisory, Eight Markets: Expand Your Horizons Series – Vietnam Market Insights in Hong Kong",
+          "format": "Offline",
+          "date": "May 29, 2024",
+          "desc": "Vietnam market insights for Hong Kong-based investors as part of the One WTP Advisory, Eight Markets series.",
+          "image": "/incorp/events/eight-markets-hongkong.png",
+          "href": "/events/one-incorp-eight-markets-vietnam-market-insights-in-hongkong"
+        },
+        {
+          "title": "Bridging Borders: Vietnam Launchpad – Move, Build, Succeed for Overseas Vietnamese",
+          "format": "Offline",
+          "date": "May 5, 2024",
+          "desc": "Season 2 of Bridging Borders returns with practical insights for Overseas Vietnamese building in Vietnam.",
+          "image": "/incorp/events/bridging-borders-launchpad.png",
+          "href": "/events/bridging-borders-vietnam-launchpad"
+        },
+        {
+          "title": "Bridging Borders: Navigating Opportunities and Challenges for Overseas Vietnamese in Vietnam",
+          "format": "Offline",
+          "date": "May 6, 2024",
+          "desc": "A discussion of the opportunities and challenges facing Overseas Vietnamese returning to do business in Vietnam.",
+          "image": "/incorp/events/bridging-borders-overseas.png",
+          "href": "/events/bridging-borders-overseas-vietnamese"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Want to be notified of upcoming events?",
+      "subtitle": "Subscribe and never miss an WTP Advisory event.",
+      "button": { "label": "Make an Inquiry", "href": "/make-an-inquiry" },
+      "variant": "blue"
+    }
+  ]
+}

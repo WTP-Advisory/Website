@@ -1,0 +1,46 @@
+﻿{
+  "title": "Offshore Incorporation with WTP Advisory",
+  "metaDescription": "Offshore incorporation enables businesses to expand globally, optimize taxes, and protect assets. WTP Advisory offers tailored solutions to meet diverse business needs.",
+  "hero": {
+    "eyebrow": "Incorporation",
+    "title": "Offshore InCorporation with WTP Advisory",
+    "subtitle": "Offshore incorporation enables businesses to expand globally, optimize taxes, and protect assets. WTP Advisory offers tailored solutions to meet diverse business needs.",
+    "cta": {
+      "label": "Talk to Our Experts",
+      "href": "/make-an-inquiry"
+    },
+    "image": "/incorp/solutions/incorporation.webp"
+  },
+  "sections": [
+    {
+      "type": "richText",
+      "heading": "Benefits of setting up your offshore business",
+      "body": [
+        "Offshore incorporation is a strategic approach that allows businesses to expand their global footprint, optimize tax efficiency, and safeguard assets in a rapidly evolving economic landscape. At WTP Advisory, we provide comprehensive offshore incorporation solutions tailored to meet the diverse needs of businesses across industries.",
+        "With over 30 years of regional expertise and a deep understanding of international corporate structures, WTP Advisory has established itself as a trusted partner for businesses looking to leverage the benefits of offshore jurisdictions. Our team of seasoned professionals ensures seamless navigation through complex legal, regulatory, and financial frameworks, enabling clients to establish and manage their offshore entities with ease and compliance."
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Benefits you can expect when using our Incorporation Service",
+      "columns": 4,
+      "items": [
+        { "title": "Up to 100% foreign owned entity", "icon": "rocket" },
+        { "title": "One-stop market entry solution", "icon": "network" },
+        { "title": "Complete Transparency", "icon": "fileCheck", "desc": "Only pay for the services you need." },
+        { "title": "International Prestige", "icon": "globe", "desc": "As part of WTP Advisory." }
+      ]
+    },
+    {
+      "type": "stats",
+      "heading": "Your Experts in Company Incorporation",
+      "items": [
+        { "value": "30+", "label": "Years Track Record" },
+        { "value": "15,000+", "label": "Clients Worldwide" },
+        { "value": "100+", "label": "Companies Incorporated Yearly" },
+        { "value": "1,500+", "label": "Professionals" }
+      ]
+    }
+  ],
+  "showContactForm": true
+}

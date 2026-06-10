@@ -1,37 +1,38 @@
-import type { Metadata } from "next";
-import { Montserrat } from "next/font/google";
+﻿import type { Metadata } from "next";
+import { Roboto } from "next/font/google";
+import Script from "next/script";
 import "./globals.css";
 
-const montserrat = Montserrat({
-  variable: "--font-montserrat",
+const roboto = Roboto({
+  variable: "--font-roboto",
   subsets: ["latin", "vietnamese"],
-  weight: ["400", "500", "600", "700", "800"],
+  weight: ["300", "400", "500", "700", "900"],
   display: "swap",
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://wtpadvisory.vn"),
+  metadataBase: new URL("https://vietnam.incorp.asia"),
   title: {
-    default: "WTP Advisory — Cố vấn Quản trị thuê ngoài cho doanh nghiệp Việt",
+    default: "WTP Advisory - Leading Market Entry & Corporate Services",
     template: "%s | WTP Advisory",
   },
   description:
-    "WTP Advisory cung cấp dịch vụ Cố vấn Quản trị thuê ngoài — khai phóng lãnh đạo, đồng hành cùng doanh nghiệp Việt từ chiến lược đến thực thi để tăng trưởng bền vững và vươn ra toàn cầu.",
+    "WTP Advisory is a leading market entry & corporate services firm. We provide incorporation, legal advisory, accounting, tax, HR & payroll, and immigration services to help you expand your business in Vietnam.",
   keywords: [
     "WTP Advisory",
-    "cố vấn quản trị thuê ngoài",
-    "tư vấn quản trị doanh nghiệp",
-    "khai phóng lãnh đạo",
-    "tư vấn chiến lược",
-    "WTP Capital",
+    "company formation Vietnam",
+    "market entry Vietnam",
+    "corporate services Vietnam",
+    "incorporation Vietnam",
+    "business expansion Vietnam",
   ],
   openGraph: {
     type: "website",
-    locale: "vi_VN",
+    locale: "en_US",
     siteName: "WTP Advisory",
-    title: "WTP Advisory — Cố vấn Quản trị thuê ngoài cho doanh nghiệp Việt",
+    title: "WTP Advisory - Leading Market Entry & Corporate Services",
     description:
-      "Khai phóng lãnh đạo — đồng hành cùng doanh nghiệp Việt từ chiến lược đến thực thi.",
+      "Your business expansion expert in Vietnam — one-stop company formation and corporate services.",
   },
   icons: {
     icon: [
@@ -48,11 +49,20 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html
-      lang="vi"
-      className={`${montserrat.variable} h-full antialiased`}
-    >
-      <body className="min-h-full flex flex-col bg-white text-ink">{children}</body>
+    <html lang="en" className={`${roboto.variable} h-full antialiased`}>
+      <body className="min-h-full flex flex-col bg-white text-ink-soft">
+        {children}
+        <Script id="rocketchat-livechat" strategy="afterInteractive">
+          {`(function(w, d, s, u) {
+    w.RocketChat = function(c) { w.RocketChat._.push(c) }; w.RocketChat._ = []; w.RocketChat.url = u;
+    var h = d.getElementsByTagName(s)[0], j = d.createElement(s);
+    j.async = true; j.src = 'https://livechat.jarvis.cx/livechat/rocketchat-livechat.min.js?_=201903270000';
+    h.parentNode.insertBefore(j, h);
+    w.ticketplus = w.ticketplus || {};
+    w.ticketplus.tenantid = 'c3a8c883-06c0-4b10-9ae3-0ba0604ce727';
+})(window, document, 'script', 'https://livechat.jarvis.cx/livechat');`}
+        </Script>
+      </body>
     </html>
   );
 }

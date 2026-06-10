@@ -1,0 +1,214 @@
+﻿{
+  "title": "Immigration Services in Vietnam",
+  "metaDescription": "Having the right paperwork is crucial for working and staying in Vietnam. Our immigration services can simplify your entry, permits, and residency.",
+  "hero": {
+    "eyebrow": "Services",
+    "title": "Immigration Services in Vietnam",
+    "subtitle": "Vietnam's strict regulations for foreigners can be navigated with WTP Advisory's immigration services, aiding businesses and individuals. Obtain immigration services quickly and effectively with a trusted partner who puts your needs first.",
+    "cta": {
+      "label": "Make an Inquiry",
+      "href": "/make-an-inquiry"
+    },
+    "image": "/incorp/solutions/immigration.jpg"
+  },
+  "sections": [
+    {
+      "type": "cards",
+      "heading": "Benefits of Immigration Services with WTP Advisory",
+      "columns": 4,
+      "items": [
+        {
+          "title": "Meet the International Team of Experts",
+          "desc": "Multilingual experts ensure seamless communication, no breakdowns",
+          "icon": "globe"
+        },
+        {
+          "title": "Full Transparency for the Entire Process",
+          "desc": "Transparent, reliable, and client-focused. No hidden fees or scams",
+          "icon": "headset"
+        },
+        {
+          "title": "Both Remote and Direct Communication",
+          "desc": "Online & in-person consulting. Tailored, digital processes for convenience",
+          "icon": "chart"
+        },
+        {
+          "title": "Enhances Scalability and Adaptability",
+          "desc": "Adaptable support, including seasonal assistance and ongoing help",
+          "icon": "fileCheck"
+        }
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "For Business Purposes",
+      "body": [
+        "If you're a businessperson coming to Vietnam to meet partners, sign contracts, or do administrative work, you'll need the right entry paperwork specific to your purposes."
+      ]
+    },
+    {
+      "type": "list",
+      "subtitle": "This service from WTP Advisory will help your business with",
+      "columns": 1,
+      "items": [
+        "Easy access and extended stay in Vietnam",
+        "Networking with local stakeholders, government officials, and industry peers",
+        "Exploring opportunities without violating restrictions"
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "For Investment Purposes",
+      "body": [
+        "Vietnam offers longer entry and residence for international investors who seek to start their own business in Vietnam or invest in Vietnamese firms or industries."
+      ]
+    },
+    {
+      "type": "list",
+      "subtitle": "This service from WTP Advisory will help you:",
+      "columns": 1,
+      "items": [
+        "Stay in Vietnam for an extended duration as per the validity period depending on your investment",
+        "Prolong your stay with the necessary procedures",
+        "Submit an application for a temporary residence card with a validity period of up to 10 years with DT1, DT2 and DT3"
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "WTP Advisory offers contractor payroll services that give your company a strategic advantage.",
+      "button": {
+        "label": "Make an Inquiry",
+        "href": "/make-an-inquiry"
+      },
+      "variant": "blue"
+    },
+    {
+      "type": "richText",
+      "heading": "Work Permit",
+      "body": [
+        "A Work Permit enables foreign workers in Vietnam to be employed and conduct business activities that result in profits. Foreign investors who have companies in Vietnam can be exempted from work permit applications."
+      ]
+    },
+    {
+      "type": "list",
+      "subtitle": "This service from WTP Advisory will help you:",
+      "columns": 1,
+      "items": [
+        "Stay protected and ensure your rights under employment contracts",
+        "Become eligible for a Temporary Residence Card, allowing for much longer residence in Vietnam"
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Temporary Residence Card",
+      "body": [
+        "A temporary residence card (TRC) is a document issued to a foreigner who is permitted to reside in Vietnam for a certain period of time. It has the same value as a visa and allows multiple entries during its validity."
+      ]
+    },
+    {
+      "type": "list",
+      "subtitle": "This service from WTP Advisory will help you:",
+      "columns": 1,
+      "items": [
+        "Reside in Vietnam for two to five years, saving time, money, and resources",
+        "Enjoy streamlined entry processes",
+        "Smoothly acquire real estate and get a driving license in Vietnam"
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Need help with immigration in Vietnam?",
+      "subtitle": "Talk to our experts about visas, work permits, and residence cards.",
+      "button": {
+        "label": "Talk to Our Experts",
+        "href": "/make-an-inquiry"
+      },
+      "variant": "red"
+    },
+    {
+      "type": "faq",
+      "eyebrow": "FAQ",
+      "heading": "Frequently Asked Questions on Immigration Services",
+      "items": [
+        {
+          "q": "Do I need a legal entity in Vietnam to hire employees?",
+          "a": "You can recruit both local and foreign employees in Vietnam for your company without establishing a legal entity. Common ways to do this include using recruitment technology platforms, employer of record (EOR) providers, or direct hiring through various communication channels."
+        },
+        {
+          "q": "Can I pay my employees from abroad as a foreign employer?",
+          "a": "You can set up your payroll and payroll compliance entirely remotely. As legal obligations, you have to submit all paperwork for employee registration and salary payment to relevant authorities, namely the Department or Ministry of Labour, Invalids and Social Affairs."
+        },
+        {
+          "q": "What are all the services included in the HR outsourcing package?",
+          "a": "When applying for our comprehensive HR outsourcing services, you have the option of choosing one of, some of, or all of the available services, including payroll, recruitment, work permits, and immigration support."
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "eyebrow": "Explore More",
+      "heading": "Other Services for Businesses in Vietnam",
+      "columns": 4,
+      "items": [
+        {
+          "title": "Incorporation",
+          "desc": "Gain a presence in the Vietnamese market through our incorporation services.",
+          "href": "/incorporation",
+          "icon": "rocket"
+        },
+        {
+          "title": "Accounting & Taxation",
+          "desc": "Save time and money while ensuring compliance with full-service accounting services.",
+          "href": "/accounting-taxation",
+          "icon": "calculator"
+        },
+        {
+          "title": "Legal Advisory",
+          "desc": "Obtain all the necessary licenses and sublicenses for doing business in Vietnam.",
+          "href": "/legal-advisory",
+          "icon": "scale"
+        },
+        {
+          "title": "HR & Payroll",
+          "desc": "Comprehensive outsourcing services for recruitment, payroll, insurance, and taxes.",
+          "href": "/hr-payroll-services",
+          "icon": "handshake"
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "variant": "red",
+      "heading": "Backed by WTP Advisory",
+      "items": [
+        {
+          "value": "30+",
+          "label": "Years of experience"
+        },
+        {
+          "value": "1,500+",
+          "label": "Professionals across APAC"
+        },
+        {
+          "value": "20,000+",
+          "label": "Clients served globally"
+        },
+        {
+          "value": "8",
+          "label": "Markets in Asia-Pacific"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Ready to get started in Vietnam?",
+      "subtitle": "Talk to our experts about how we can support your business.",
+      "button": {
+        "label": "Make an Inquiry",
+        "href": "/make-an-inquiry"
+      },
+      "variant": "red"
+    }
+  ],
+  "showContactForm": true
+}

@@ -1,0 +1,232 @@
+﻿{
+  "title": "Company Formation Services in Vietnam",
+  "metaDescription": "Set up your company in Vietnam with ease. We handle every step of the company formation process — from registration to compliance — so you can focus on growth.",
+  "hero": {
+    "eyebrow": "Services",
+    "title": "Company Formation Services in Vietnam",
+    "subtitle": "Setting up a business in Vietnam can be challenging, but it doesn't have to be. Simplify your Vietnam company formation with a partner who puts your needs first. From representative office setup to complete company registration in Vietnam, we handle the entire company establishment process for you.",
+    "cta": {
+      "label": "Make an Inquiry",
+      "href": "/make-an-inquiry"
+    },
+    "image": "/incorp/solutions/incorporation.webp"
+  },
+  "sections": [
+    {
+      "type": "richText",
+      "heading": "Open a company in Vietnam with help of our company registration consultants",
+      "body": [
+        "Expanding your business into a new region can be complex. In Vietnam, navigating regulations and administrative requirements is crucial for establishing your company legally and ensuring long-term success.",
+        "At WTP Advisory, we've assisted global businesses from Asia Pacific, Europe, and North America in smoothly setting up operations in Vietnam. Our experienced team is here to make your business setup seamless — from registration and compliance to outsourcing and secretarial services. Let us handle the complexities while you focus on growing your business."
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Benefits to Expect from Our Vietnam Company Registry Services",
+      "columns": 3,
+      "items": [
+        {
+          "title": "One-stop market entry solution",
+          "desc": "Our package includes legal consultation, HR, taxation, and accounting services.",
+          "icon": "rocket"
+        },
+        {
+          "title": "Up to 100% foreign owned entity",
+          "desc": "Take complete control over your business with no risks when registering a company in Vietnam.",
+          "icon": "globe"
+        },
+        {
+          "title": "Local expertise",
+          "desc": "Our incorporation team has deep-rooted local knowledge and understanding of the Vietnam market.",
+          "icon": "users"
+        },
+        {
+          "title": "Speed and flexibility",
+          "desc": "We act swiftly and decisively on your behalf, cutting through red tape and guiding you with efficient processes.",
+          "icon": "clock"
+        },
+        {
+          "title": "Long-term commitment",
+          "desc": "We approach every stakeholder in our firm, genuinely committed to your long-term success.",
+          "icon": "handshake"
+        },
+        {
+          "title": "International prestige",
+          "desc": "As part of WTP Advisory, with a presence in 9 APAC countries, we enhance your global reputation.",
+          "icon": "award"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Choose the Right Company Formation Options",
+      "subtitle": "In Vietnam, businesses can operate under various entity types, with distinct features catering to different business needs, from investment to market exploration.",
+      "columns": 4,
+      "items": [
+        {
+          "title": "Limited Liability Company",
+          "desc": "A flexible, protected entity for all investors, easy to set up and raise capital with minimal paperwork.",
+          "icon": "shield"
+        },
+        {
+          "title": "Representative Office",
+          "desc": "A non-profit, foreign-owned office for market research and hiring, with no capital needs.",
+          "icon": "building"
+        },
+        {
+          "title": "Branch Office",
+          "desc": "A foreign branch operating under the parent company's structure, able to acquire permits and do business.",
+          "icon": "network"
+        },
+        {
+          "title": "Joint-stock Company (JSC)",
+          "desc": "A shareholder-based company with transferable shares and limited liability.",
+          "icon": "briefcase"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Options for Setting up a Business in Vietnam",
+      "columns": [
+        "Limited Liability Company (LLC)",
+        "Representative Office (RO)",
+        "Branch Office (BO)",
+        "Joint-stock Company (JSC)"
+      ],
+      "rows": [
+        {
+          "label": "Applicable",
+          "cells": ["All investors", "All members of WTO", "All investors", "All investors"]
+        },
+        {
+          "label": "Minimum Capital",
+          "cells": ["Depending on the business activities", "No requirements", "No requirements", "If trading on stock market, minimum 10 billion VND (~US$ 440,000)"]
+        },
+        {
+          "label": "Minimum Number of shareholders",
+          "cells": ["≥ 1 (individual or corporate)", "Owned by head office", "Owned by head office", "≥ 3 (individual or entity)"]
+        },
+        {
+          "label": "Limited Liability Protection",
+          "cells": [true, "", "", true]
+        },
+        {
+          "label": "Import-Export Activities",
+          "cells": [true, "", true, true]
+        },
+        {
+          "label": "Be a Shareholder of Another Entity",
+          "cells": [true, "", "", true]
+        },
+        {
+          "label": "Conversion to other entity type",
+          "cells": [true, "", "", true]
+        },
+        {
+          "label": "Corporate Income Tax",
+          "cells": ["Depending on the business industries", "No business activities that yield profit", "Depending on the business industries", "Depending on the business industries"]
+        }
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "Your Success Plan in Vietnam",
+      "items": [
+        {
+          "title": "Submit Your Information & Needs",
+          "desc": "Tell us about your company's needs and aspirations in Vietnam"
+        },
+        {
+          "title": "Book a Consultation With Our Experts",
+          "desc": "Go over your plan with one of our bilingual business Consultants"
+        },
+        {
+          "title": "Verify KYC Documents",
+          "desc": "Our consultants will contact you to process the necessary paperwork and create your company dossier"
+        },
+        {
+          "title": "Choose a Plan & Succeed In Vietnam",
+          "desc": "Let us simplify your business journey and make your mark in APAC's fastest-growing economy"
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "FAQ",
+      "heading": "Frequently Asked Questions on Opening a Company in Vietnam",
+      "items": [
+        {
+          "q": "Can I set up a company in Vietnam as a foreigner?",
+          "a": "Yes, foreign investors looking to register a company in Vietnam can establish a foreign-owned company here. The most common type is an LLC (Limited Liability Company), known for its straightforward structure and quick setup process. Depending on your business type, certain licenses or conditions may apply."
+        },
+        {
+          "q": "What are the company types available in Vietnam?",
+          "a": "You can open a new company in Vietnam as one of four entities: Limited Liability Company (LLC), Joint-stock Company (JSC), Branch Office and Representative Office."
+        },
+        {
+          "q": "Is there any minimum capital requirements for Vietnam company formation?",
+          "a": "While Vietnamese law does not specify a minimum capital requirement, having around 25-30,000 USD is typically advised to ensure smooth incorporation and business operations."
+        },
+        {
+          "q": "Will I be able to hold 100-percent ownership of a foreign-owned company?",
+          "a": "Yes. Vietnamese law enables foreigners to own 100% of companies in most business sectors. A few restricted sectors apply, where local participation or conditional licensing is required."
+        },
+        {
+          "q": "Is there any option to expand my business without incorporating a company in Vietnam?",
+          "a": "Yes, there are several options suitable for investors who wish to open a foreign company in Vietnam and expand without forming a legal entity, such as a representative office or an employer of record arrangement."
+        },
+        {
+          "q": "I want to set up a company as soon as possible, is there a way to speed up the incorporation process?",
+          "a": "Setting up an LLC or JSC in Vietnam typically takes 40-60 days. To expedite the process, consider purchasing a shelf company from WTP Advisory for a quicker operational start-up. This allows WTP Advisory to open a new company and transfer management control to you within a few working days."
+        },
+        {
+          "q": "What are the benefits of a local nominee company and a shelf company?",
+          "a": "Both options offer quick incorporation and entry into the Vietnamese market. A local nominee company involves a partnership agreement with a trustworthy local partner, while a shelf company allows immediate business operations without the typical setup process."
+        },
+        {
+          "q": "I would like to set up a joint venture local company, but I do not have a reliable local partner to act as a shareholder. What should I do?",
+          "a": "Choosing a reliable local partner for your company is key to success while reducing potential risks. WTP Advisory offers local nominee services without any intervention in your business processes. We also allow our partners to terminate the contract sooner than its expiration date."
+        },
+        {
+          "q": "Does WTP Advisory offer market entry and corporate services outside Vietnam?",
+          "a": "Yes. As part of WTP Advisory, we provide market entry and corporate services across 9 markets in Asia-Pacific, helping clients expand seamlessly throughout the region."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "variant": "red",
+      "heading": "Your Experts in Company Incorporation",
+      "items": [
+        {
+          "value": "30+",
+          "label": "Years Track Record"
+        },
+        {
+          "value": "15,000+",
+          "label": "Clients Worldwide"
+        },
+        {
+          "value": "100+",
+          "label": "Companies Incorporated Yearly"
+        },
+        {
+          "value": "1,500+",
+          "label": "Professionals"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Ready to get started in Vietnam?",
+      "subtitle": "Talk to our experts about how we can support your business.",
+      "button": {
+        "label": "Make an Inquiry",
+        "href": "/make-an-inquiry"
+      },
+      "variant": "red"
+    }
+  ],
+  "showContactForm": true
+}

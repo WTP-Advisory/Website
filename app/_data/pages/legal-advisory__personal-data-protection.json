@@ -1,0 +1,169 @@
+﻿{
+  "title": "Personal Data Protection Service for Companies in Vietnam",
+  "metaDescription": "Vietnam tightens data regulations, meaning you'll need more audits, procedures, and awareness. Partner with an expert to get a headstart.",
+  "hero": {
+    "eyebrow": "Services",
+    "title": "Personal Data Protection Service for Companies in Vietnam",
+    "subtitle": "In response to the Vietnamese government's increased focus on Personal Data Protection (PDP), businesses are facing new challenges in complying with stringent legal requirements. At WTP Advisory, we recognize the complexities of these regulations and the critical importance of safeguarding personal data.",
+    "cta": {
+      "label": "Make an Inquiry",
+      "href": "/make-an-inquiry"
+    },
+    "image": "/incorp/solutions/legal-advisory.jpg"
+  },
+  "sections": [
+    {
+      "type": "cards",
+      "heading": "Benefits to Expect from Our Personal Data Protection Service",
+      "columns": 4,
+      "items": [
+        {
+          "title": "Comprehensive Regulatory Expertise",
+          "desc": "WTP Advisory provides in-depth knowledge of Vietnamese PDP regulations, ensuring businesses are fully equipped to meet complex legal requirements.",
+          "icon": "scale"
+        },
+        {
+          "title": "Tailored Compliance Solutions",
+          "desc": "We offer customized solutions based on your business needs, from policy development to compliance inspections and data breach response planning.",
+          "icon": "rocket"
+        },
+        {
+          "title": "Proactive Risk Management",
+          "desc": "Our team helps identify potential risks early, providing strategic guidance to mitigate data protection risks and ensure long-term compliance.",
+          "icon": "clipboard"
+        },
+        {
+          "title": "Seamless Integration",
+          "desc": "With our dedicated support, businesses can integrate PDP compliance seamlessly into their operations without disrupting their workflows, ensuring smooth and efficient protection of personal data.",
+          "icon": "network"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "What is Included in Personal Data Protection Services?",
+      "subtitle": "WTP Advisory offers a comprehensive range of services to help businesses comply with Vietnam's PDP regulations.",
+      "columns": 3,
+      "items": [
+        {
+          "title": "Personal Data Inventory and Mapping",
+          "desc": "We assist businesses in identifying and mapping the flow of personal data within their organization to ensure all data handling complies with legal requirements.",
+          "icon": "eye"
+        },
+        {
+          "title": "Gap Analysis and Compliance Roadmap",
+          "desc": "Our experts conduct a thorough gap analysis of your current data protection practices, helping identify areas for improvement and providing a clear roadmap to achieve full PDP compliance.",
+          "icon": "target"
+        },
+        {
+          "title": "Policy Development and Implementation",
+          "desc": "We help draft and implement comprehensive personal data protection policies that align with both local and international standards, ensuring your business is fully protected.",
+          "icon": "fileCheck"
+        },
+        {
+          "title": "Data Breach Response Planning",
+          "desc": "WTP Advisory supports your business in developing and executing effective response plans for potential data breaches, ensuring quick action to mitigate damage and comply with legal reporting requirements.",
+          "icon": "shield"
+        },
+        {
+          "title": "Employee Training and Awareness",
+          "desc": "We offer tailored training programs to educate your staff on PDP compliance, ensuring everyone in your organization understands their role in safeguarding personal data.",
+          "icon": "users"
+        },
+        {
+          "title": "PDP Audits and Compliance Monitoring",
+          "desc": "Our team conducts regular audits and monitors compliance to ensure your business remains up to date with the latest PDP regulations and practices.",
+          "icon": "clipboard"
+        }
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "Your Success Plan in Vietnam",
+      "items": [
+        {
+          "title": "Submit Your Information & Needs",
+          "desc": "Tell us about your company's needs and aspirations in Vietnam"
+        },
+        {
+          "title": "Book a Consultation With Our Experts",
+          "desc": "Go over your plan with one of our bilingual business Consultants"
+        },
+        {
+          "title": "Verify KYC Documents",
+          "desc": "Our consultants will contact you to process the necessary paperwork and create your company dossier"
+        },
+        {
+          "title": "Choose a Plan & Succeed In Vietnam",
+          "desc": "Let us simplify your business journey and make your mark in APAC’s fastest-growing economy"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "eyebrow": "Explore More",
+      "heading": "Other Services for Businesses in Vietnam",
+      "columns": 4,
+      "items": [
+        {
+          "title": "Incorporation",
+          "desc": "Gain a presence in the Vietnamese market through our incorporation services.",
+          "href": "/incorporation",
+          "icon": "rocket"
+        },
+        {
+          "title": "Accounting & Taxation",
+          "desc": "Save time and money while ensuring compliance with full-service accounting services.",
+          "href": "/accounting-taxation",
+          "icon": "coins"
+        },
+        {
+          "title": "HR & Payroll",
+          "desc": "Comprehensive outsourcing services for recruitment, payroll, insurance, and taxes.",
+          "href": "/hr-payroll-services",
+          "icon": "users"
+        },
+        {
+          "title": "Immigration",
+          "desc": "Navigate visa requirements and obtain work permits, investor, and business visa.",
+          "href": "/immigration",
+          "icon": "globe"
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "variant": "red",
+      "heading": "Backed by WTP Advisory",
+      "items": [
+        {
+          "value": "30+",
+          "label": "Years of experience"
+        },
+        {
+          "value": "1,500+",
+          "label": "Professionals across APAC"
+        },
+        {
+          "value": "20,000+",
+          "label": "Clients served globally"
+        },
+        {
+          "value": "8",
+          "label": "Markets in Asia-Pacific"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Ready to get started in Vietnam?",
+      "subtitle": "Talk to our experts about how we can support your business.",
+      "button": {
+        "label": "Make an Inquiry",
+        "href": "/make-an-inquiry"
+      },
+      "variant": "red"
+    }
+  ],
+  "showContactForm": true
+}

@@ -1,0 +1,76 @@
+{
+  "title": "Automation in Vietnam 2026: Advancing Industrial Innovation with AI",
+  "metaDescription": "How AI-driven automation is reshaping Vietnam's industry in 2026: market growth, government incentives, leading manufacturers, workforce impact, and the sectors set to benefit most.",
+  "hero": {
+    "eyebrow": "News & Insights",
+    "title": "Automation in Vietnam 2026: Advancing Industrial Innovation with AI",
+    "subtitle": "A look at the policies, investments, and technologies driving Vietnam's rapid shift toward AI-powered industrial automation.",
+    "image": "/incorp/news/automation.jpg"
+  },
+  "sections": [
+    {
+      "type": "richText",
+      "heading": "Why Automation in Vietnam Is Surging in 2026",
+      "body": [
+        "Vietnam's manufacturing sector is adopting automation at speed. The country's industrial automation market was valued at approximately USD 2.52 billion in 2024 and is projected to reach USD 4.21 billion by 2030, growing at around 8.78% annually.",
+        "This acceleration is more than a technology trend. It reflects a deliberate economic strategy to move up the value chain, strengthen export competitiveness, and offset rising labor costs through higher productivity and consistent quality."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Government Policies and Incentives Driving Automation",
+      "body": [
+        "Public policy is a major catalyst. Vietnam enacted Law No. 90/2025, which establishes investment thresholds for automation projects, and the Ministry of Industry and Trade launched a Smart Production Programme with targets extending to 2035.",
+        "Together, these measures signal a long-term commitment to industrial modernization, encouraging both domestic firms and foreign investors to deploy advanced manufacturing technologies with greater confidence."
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Industry Leadership and Market Statistics",
+      "columns": 1,
+      "items": [
+        "VinFast operates facilities running over 1,200 ABB robots, achieving production rates of roughly 43 vehicles per hour.",
+        "Samsung's Smart Factory Initiative improved equipment efficiency to 95% while reducing defects by up to 75%.",
+        "The industrial robotics market reached USD 104.3 million in 2025, with projections of USD 168.3 million by 2034 at about 5.45% annual growth.",
+        "The broader industrial automation market is on track to nearly double, from USD 2.52 billion in 2024 to USD 4.21 billion by 2030."
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Strategic Sectors for Automation Growth",
+      "columns": 2,
+      "items": [
+        "Automotive manufacturing",
+        "Electronics production",
+        "Textile modernization",
+        "Healthcare and medical robotics",
+        "Logistics and warehouse automation",
+        "Export-oriented assembly driven by foreign direct investment"
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Implications for the Vietnamese Workforce",
+      "body": [
+        "Automation brings opportunity and anxiety in equal measure. A December 2025 UNDP report found that 61% of Vietnamese people fear losing their jobs or being unable to find work because of AI, underscoring the human dimension of the transition.",
+        "Many traditional workers lack the digital and analytical competencies that automated environments demand, creating substantial retraining needs. Employers that pair automation investment with structured upskilling programs will be best positioned to retain talent and capture productivity gains."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "A Bright Future, With Challenges to Manage",
+      "body": [
+        "The outlook for industrial automation in Vietnam is strong, supported by government incentives, marquee investments from global manufacturers, and rising export demand. The country is increasingly seen as a credible hub for advanced, technology-driven production within the APAC region.",
+        "Realizing that potential depends on managing the workforce transition, closing the digital skills gap, and ensuring that small and mid-sized manufacturers, not just the largest players, can access automation. Companies that plan for both the technology and the people will be the ones that benefit most."
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Need help with this in Vietnam?",
+      "subtitle": "From market entry to investment structuring for automation projects, our team can help you navigate Vietnam's industrial landscape.",
+      "button": { "label": "Make an inquiry", "href": "/make-an-inquiry" },
+      "variant": "red"
+    }
+  ],
+  "showContactForm": false
+}

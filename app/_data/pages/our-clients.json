@@ -1,0 +1,89 @@
+﻿{
+  "title": "Our Clients",
+  "metaDescription": "WTP Advisory works with a diverse range of clients across industries, delivering tailored solutions, strategic insights, and measurable success for businesses expanding into Vietnam and Asia-Pacific.",
+  "hero": {
+    "eyebrow": "Our Clients",
+    "title": "Our Clients",
+    "subtitle": "At WTP Advisory, we take pride in working with a diverse range of clients across industries. Each partnership is built on a foundation of tailored solutions, strategic insights, and measurable success. Whether it's driving brand growth or optimizing operations, we help our clients achieve their goals with confidence."
+  },
+  "sections": [
+    {
+      "type": "logos",
+      "heading": "Brands That Trust Us",
+      "subtitle": "Our clients operate in a variety of industries, from fintech and manufacturing to medical and health products. We assist businesses of all sizes to expand to Vietnam and Asia-Pacific.",
+      "columns": 4,
+      "items": [
+        { "name": "BCG" },
+        { "name": "Kirin" },
+        { "name": "PMG Group" },
+        { "name": "Hubert" },
+        { "name": "Mizuho" },
+        { "name": "Canon" },
+        { "name": "Kubota" },
+        { "name": "Bureau Veritas" },
+        { "name": "Nidec" },
+        { "name": "Savills" },
+        { "name": "FrieslandCampina" },
+        { "name": "Marubeni" }
+      ]
+    },
+    {
+      "type": "cards",
+      "eyebrow": "Why WTP Advisory",
+      "heading": "Why clients choose us",
+      "columns": 2,
+      "items": [
+        { "title": "Tailored solutions", "desc": "Customized services designed around each client's structure, sector, and ambitions in Vietnam." },
+        { "title": "Strategic insights", "desc": "Local market knowledge and regulatory expertise that inform smart, well-timed decisions." },
+        { "title": "Measurable success", "desc": "A track record of demonstrated results helping clients enter and grow with confidence." },
+        { "title": "Transparent & reliable", "desc": "Honest, dependable service delivered to international standards for overseas clients." }
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "Industries",
+      "heading": "Industries we serve",
+      "subtitle": "We support businesses of all sizes across a broad range of sectors.",
+      "columns": 3,
+      "items": [
+        "Fintech & financial services",
+        "Manufacturing",
+        "Medical & health products",
+        "Technology & software",
+        "Consumer & retail",
+        "Media & entertainment",
+        "Professional services",
+        "Education",
+        "Logistics & distribution"
+      ]
+    },
+    {
+      "type": "richText",
+      "eyebrow": "Track Record",
+      "heading": "Partnering with leading brands",
+      "align": "center",
+      "body": [
+        "WTP Advisory is trusted by globally recognised organisations and regional enterprises alike, supporting their market entry and ongoing corporate compliance needs from our offices in Ho Chi Minh City and Hanoi.",
+        "Backed by WTP Advisory's 30+ years of experience, 1,500 professionals, and 20,000 clients assisted across the Asia-Pacific region, we bring the scale and local depth to help every client succeed."
+      ]
+    },
+    {
+      "type": "stats",
+      "heading": "A partner you can count on",
+      "items": [
+        { "value": "20,000", "label": "Clients assisted globally" },
+        { "value": "1,500", "label": "Professionals across the group" },
+        { "value": "30+", "label": "Years of experience" },
+        { "value": "2", "label": "Offices in Vietnam" }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Join the businesses that trust WTP Advisory",
+      "subtitle": "Let's discuss how we can support your goals in Vietnam.",
+      "button": { "label": "Start a Conversation", "href": "/make-an-inquiry" },
+      "variant": "blue"
+    }
+  ],
+  "showContactForm": false
+}

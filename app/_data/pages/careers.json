@@ -1,0 +1,94 @@
+﻿{
+  "title": "Careers",
+  "metaDescription": "Make the next step in your career at WTP Advisory. Join a diverse, inclusive culture that promotes growth, with sector-specific projects across accounting, tax, corporate secretarial, and advisory services.",
+  "hero": {
+    "eyebrow": "Careers",
+    "title": "Make the Next Step in Your Career",
+    "subtitle": "At WTP Advisory, we foster a diverse, inclusive working culture promoting growth and development. Join our team to gain valuable experience in sector-specific projects, enhancing your skills and knowledge."
+  },
+  "sections": [
+    {
+      "type": "jobBoard",
+      "heading": "Explore Our Teams",
+      "subtitle": "Discover how WTP Advisory is committed to your professional growth and success. Explore our teams and find your ideal role to kickstart your dream career and beyond.",
+      "keywordPlaceholder": "Job Title, Keyword",
+      "buttonLabel": "Find Job",
+      "columns": 3,
+      "items": [
+        { "title": "Accounts Associate", "location": "Singapore", "href": "/careers/accounts-associate", "desc": "Join our rapidly expanding team. We are looking for an experienced Associate – Accounts to join our Outsourcing Department in Singapore." },
+        { "title": "Assistant Manager – Corporate Secretarial", "location": "Singapore", "href": "/careers/assistant-manager-corporate-secretarial", "desc": "Join our rapidly expanding team. We are looking for an experienced Assistant Manager to join our Corporate Secretarial Department in Singapore." },
+        { "title": "Assistant Manager – Tax", "location": "Singapore", "href": "/careers/assistant-manager-tax", "desc": "Join our rapidly expanding team. We are looking for an experienced Assistant Manager to join our Tax Team in Singapore." },
+        { "title": "Associate – Corporate Secretarial", "location": "Singapore", "href": "/careers/associate-corporate-secretarial", "desc": "Join our rapidly expanding team. We are looking for an experienced Associate to join our Corporate Secretarial Department in Singapore." },
+        { "title": "Associate – Transfer Pricing", "location": "Singapore", "href": "/careers/associate-transfer-pricing", "desc": "Join our rapidly expanding team. We are looking for an experienced Associate – Transfer Pricing to join our team in Singapore." },
+        { "title": "Business Analyst", "location": "Singapore", "href": "/careers/business-analyst", "desc": "Join our rapidly expanding team. We are looking for an experienced Business Analyst to join our team in Singapore." },
+        { "title": "Chief Financial Officer", "location": "Vietnam", "href": "/careers/chief-financial-officer", "desc": "Join our rapidly expanding team. We are looking for an experienced Chief Financial Officer to join our team in SEA (Vietnam)." },
+        { "title": "Executive – Compliance", "location": "Singapore", "href": "/careers/executive-compliance", "desc": "Join our rapidly expanding team. We are looking for an Executive – Compliance to join our COO team in Singapore." },
+        { "title": "Finance Manager", "location": "Singapore", "href": "/careers/finance-manager", "desc": "Join our rapidly expanding team. We are looking for an experienced Finance Manager to join our team in Singapore." },
+        { "title": "Manager – Business Development", "location": "Singapore", "href": "/careers/manager-business-development", "desc": "Join our rapidly expanding team. We are looking for a Manager to join our Business Development team in Singapore." },
+        { "title": "Manager – Compliance Relationship", "location": "Singapore", "href": "/careers/manager-compliance-relationship", "desc": "Join our rapidly expanding team. We are looking for a Compliance Relationship Manager to join our Compliance team in Singapore." },
+        { "title": "Manager – Corporate Secretarial", "location": "Singapore", "href": "/careers/manager-corporate-secretarial", "desc": "You will advise the Board, manage client portfolios, and ensure legal compliance in meeting records." },
+        { "title": "Senior Associate – Accounting & Finance", "location": "Singapore", "href": "/careers/senior-associate-accounting-finance", "desc": "Join our rapidly expanding team. We are looking for an experienced Senior Associate to join our Accounting & Finance Team in Singapore." },
+        { "title": "Senior Associate – Corporate Secretarial", "location": "Singapore", "href": "/careers/senior-associate-corporate-secretarial", "desc": "Join our rapidly expanding team. We are looking for an experienced Senior Associate to join our Corporate Secretarial Department in Singapore." },
+        { "title": "Senior Associate – Tax", "location": "Singapore", "href": "/careers/senior-associate-tax", "desc": "Join our rapidly expanding team. We are looking for Senior Associates – Tax to join our Tax team in Singapore." },
+        { "title": "Senior Associate / Associate – Risk Assurance", "location": "Vietnam", "href": "/careers/senior-associate-risk-assurance", "desc": "Join our Risk Assurance team to work with top clients and gain expertise in audits, sustainability, and risk management." }
+      ]
+    },
+    {
+      "type": "richText",
+      "eyebrow": "Working at WTP Advisory",
+      "heading": "Grow with us",
+      "align": "center",
+      "body": [
+        "Our people are at the heart of everything we do. We invest in our teams, encouraging every individual to develop and thrive, and our objective is to be a go-to destination for local talent in Vietnam.",
+        "Working at WTP Advisory means collaborating across departments — from accounting and tax advisory to corporate secretarial services and risk assurance — on meaningful projects for clients ranging from global multinationals to ambitious local enterprises."
+      ]
+    },
+    {
+      "type": "cards",
+      "eyebrow": "Why Join Us",
+      "heading": "What we offer",
+      "columns": 3,
+      "items": [
+        { "title": "Professional growth", "desc": "Hands-on experience and clear pathways to develop your career and expertise." },
+        { "title": "Diverse & inclusive", "desc": "A welcoming culture where every voice is valued and supported." },
+        { "title": "Sector-specific work", "desc": "Exposure to varied industries and complex, real-world client projects." },
+        { "title": "Expert mentorship", "desc": "Learn from an experienced leadership team committed to your success." },
+        { "title": "Regional reach", "desc": "Be part of WTP Advisory with 1,500 professionals across Asia-Pacific." },
+        { "title": "Multiple locations", "desc": "Opportunities in Ho Chi Minh City, Hanoi, and Danang." }
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "Open Roles",
+      "heading": "Areas we're hiring across",
+      "columns": 2,
+      "items": [
+        "Accounting & Finance",
+        "Tax Advisory",
+        "Corporate Secretarial",
+        "Compliance",
+        "Business Development",
+        "Risk Assurance"
+      ]
+    },
+    {
+      "type": "steps",
+      "eyebrow": "How to Apply",
+      "heading": "Joining our team",
+      "items": [
+        { "title": "Explore opportunities", "desc": "Review our open roles by location across Danang, Hanoi, and Ho Chi Minh City." },
+        { "title": "Submit your application", "desc": "Send us your CV and tell us why you'd be a great fit for WTP Advisory." },
+        { "title": "Meet the team", "desc": "Interview with our hiring managers and learn more about life at WTP Advisory." },
+        { "title": "Start your journey", "desc": "Join us and begin developing your career on impactful client projects." }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Ready to take the next step?",
+      "subtitle": "Get in touch to learn more about careers at WTP Advisory.",
+      "button": { "label": "Apply Now", "href": "/make-an-inquiry" },
+      "variant": "blue"
+    }
+  ],
+  "showContactForm": false
+}

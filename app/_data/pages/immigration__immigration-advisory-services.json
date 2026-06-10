@@ -1,0 +1,109 @@
+﻿{
+  "title": "Immigration Advisory Services in Vietnam",
+  "metaDescription": "We offer expert immigration advisory services for hassle-free visa applications, work permits, and residency compliance.",
+  "hero": {
+    "eyebrow": "Services",
+    "title": "Immigration Advisory Services in Vietnam",
+    "subtitle": "Expanding your business operations or career into Vietnam often involves navigating complex immigration processes. At WTP Advisory, we provide expert immigration advisory services to help businesses and individuals streamline visa applications, work permits, and residency requirements with ease and compliance.",
+    "cta": {
+      "label": "Make an Inquiry",
+      "href": "/make-an-inquiry"
+    },
+    "image": "/incorp/solutions/immigration.jpg"
+  },
+  "sections": [
+    {
+      "type": "richText",
+      "heading": "Why choose immigration advisory services at WTP Advisory?",
+      "body": [
+        "Expanding your business operations or career into Vietnam often involves navigating complex immigration processes. At WTP Advisory, we provide expert immigration advisory services to help businesses and individuals streamline visa applications, work permits, and residency requirements with ease and compliance.",
+        "Our dedicated team of specialists has extensive knowledge of Vietnam's immigration regulations and procedures, ensuring tailored solutions that align with your unique needs. Whether you're hiring foreign talent, relocating staff, or seeking long-term residency, we guide you through every step of the process to eliminate uncertainty and delays.",
+        "With a commitment to efficiency and professionalism, WTP Advisory simplifies immigration challenges, enabling you to focus on what matters most - achieving your goals in Vietnam's thriving market."
+      ],
+      "align": "left"
+    },
+    {
+      "type": "cards",
+      "heading": "Benefits of Immigration Services with WTP Advisory",
+      "columns": 4,
+      "items": [
+        {
+          "title": "Meet the International Team of Experts",
+          "desc": "Multilingual experts ensure seamless communication, no breakdowns.",
+          "icon": "users"
+        },
+        {
+          "title": "Full Transparency for the Entire Process",
+          "desc": "Transparent, reliable, and client-focused. No hidden fees or scams.",
+          "icon": "eye"
+        },
+        {
+          "title": "Both Remote and Direct Communication",
+          "desc": "Online & in-person consulting. Tailored digital processes for convenience.",
+          "icon": "headset"
+        },
+        {
+          "title": "Enhances Scalability and Adaptability",
+          "desc": "Adaptable support, including seasonal assistance and ongoing help.",
+          "icon": "trending"
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "heading": "Your Experts in Company Incorporation",
+      "items": [
+        {
+          "value": "30+",
+          "label": "Years Track Record"
+        },
+        {
+          "value": "15,000+",
+          "label": "Clients Worldwide"
+        },
+        {
+          "value": "100+",
+          "label": "Companies Incorporated Yearly"
+        },
+        {
+          "value": "1,500+",
+          "label": "Professionals"
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "variant": "red",
+      "heading": "Backed by WTP Advisory",
+      "items": [
+        {
+          "value": "30+",
+          "label": "Years of experience"
+        },
+        {
+          "value": "1,500+",
+          "label": "Professionals across APAC"
+        },
+        {
+          "value": "20,000+",
+          "label": "Clients served globally"
+        },
+        {
+          "value": "8",
+          "label": "Markets in Asia-Pacific"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Ready to get started in Vietnam?",
+      "subtitle": "Talk to our experts about how we can support your business.",
+      "button": {
+        "label": "Make an Inquiry",
+        "href": "/make-an-inquiry"
+      },
+      "variant": "red"
+    }
+  ],
+  "showContactForm": true
+}

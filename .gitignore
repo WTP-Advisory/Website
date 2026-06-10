@@ -42,3 +42,8 @@ next-env.d.ts
 
 .vercel
 .env
+.playwright-mcp
+.next-dev.log
+
+/services_pages/*
+/services_screenshots/*

@@ -1,0 +1,124 @@
+﻿{
+  "title": "Services",
+  "metaDescription": "One-stop corporate solutions for your business in Vietnam — incorporation, legal advisory, accounting, tax, HR & payroll, immigration and more.",
+  "hero": {
+    "title": "One-stop corporate solutions for your business in Vietnam",
+    "subtitle": "See how WTP Advisory services help foreign and local enterprises enter the Vietnam market.",
+    "image": "/incorp/solutions/incorporation.webp",
+    "variant": "brand",
+    "cta": { "label": "Download free brochure", "href": "/make-an-inquiry" }
+  },
+  "sections": [
+    {
+      "type": "richText",
+      "heading": "Expanding into Vietnam in the Most Seamless Ways",
+      "align": "center",
+      "body": [
+        "Expansion overseas is challenging, and Vietnam is known to have strict conduct regulations. WTP Advisory provides comprehensive support for corporate services, experienced consultants, and deep market expertise to simplify business in Vietnam."
+      ]
+    },
+    {
+      "type": "solutions",
+      "eyebrow": "What we do",
+      "heading": "Comprehensive corporate services",
+      "subtitle": "Service lines covering every stage of your business journey in Vietnam.",
+      "items": [
+        {
+          "title": "Incorporation",
+          "href": "/incorporation",
+          "image": "/incorp/solutions/incorporation.webp",
+          "alt": "Ho Chi Minh City skyline at dusk, highlighting potential for business expansion in Vietnam with modern skyscrapers.",
+          "icon": "incorporation",
+          "desc": "Gain a presence in the Vietnamese market through our comprehensive incorporation services.",
+          "links": [
+            { "label": "Company Formation", "href": "/incorporation/company-formation" },
+            { "label": "Virtual Office", "href": "/incorporation/virtual-office-ho-chi-minh-city" },
+            { "label": "Transferring Ownership", "href": "/incorporation/transfer-ownership-in-vietnam" },
+            { "label": "Buy A Company", "href": "/incorporation/buy-company" },
+            { "label": "Manufacturing Setup", "href": "/manufacturing-company-setup-vietnam" },
+            { "label": "Offshore Structuring", "href": "/incorporation/offshore-incorporation" }
+          ]
+        },
+        {
+          "title": "Legal Advisory",
+          "href": "/legal-advisory",
+          "image": "/incorp/solutions/legal-advisory.jpg",
+          "alt": "Businesspeople shaking hands over a contract, symbolizing a business expansion deal in Vietnam.",
+          "icon": "legal",
+          "desc": "Obtain all the necessary licenses and sublicenses for doing business in Vietnam.",
+          "links": [
+            { "label": "All Legal Advisory Services", "href": "/legal-advisory" },
+            { "label": "Product Licensing", "href": "/legal-advisory/product-registration" },
+            { "label": "Trademark Filing", "href": "/legal-advisory/trademark-licensing" },
+            { "label": "Tax & Legal Advisory", "href": "/tax-advisory-services" },
+            { "label": "Conditional Business License", "href": "/legal-advisory/conditional-business-license" }
+          ]
+        },
+        {
+          "title": "Accounting & Finance",
+          "href": "/accounting-taxation",
+          "image": "/incorp/solutions/accounting-finance.jpg",
+          "alt": "Business professionals discussing expansion strategies in Vietnam with graphs on a tablet and documents on a table.",
+          "icon": "accounting",
+          "desc": "Keep your books accurate and fully compliant with Vietnam's regulations through end-to-end accounting and finance support.",
+          "links": [
+            { "label": "Bookkeeping Services", "href": "/accounting-taxation/bookkeeping-services" },
+            { "label": "Financial Statement Preparation", "href": "/accounting-taxation/financial-statement-preparation" },
+            { "label": "Nominee Chief Accountant", "href": "/accounting-taxation/nominee-chief-accountant" },
+            { "label": "IFRS Conversion", "href": "/accounting-taxation/ifrs-conversion-services" },
+            { "label": "Financial Due Diligence", "href": "/accounting-taxation/financial-due-diligence-services" },
+            { "label": "Valuation", "href": "/accounting-taxation/valuation-services" }
+          ]
+        },
+        {
+          "title": "Tax Services",
+          "href": "/tax-advisory-services",
+          "image": "/incorp/solutions/tax-services.jpg",
+          "alt": "Business team analyzing graphs and data on tablet for Vietnam market expansion.",
+          "icon": "tax",
+          "desc": "Stay compliant and optimize your tax position with expert tax advisory, compliance, and reporting services.",
+          "links": [
+            { "label": "Tax Advisory", "href": "/tax-advisory-services" },
+            { "label": "Tax Compliance & Reporting", "href": "/tax-advisory-services/tax-compliance-and-tax-reporting" },
+            { "label": "VAT Refund Services", "href": "/tax-advisory-services/vat-refund-services" },
+            { "label": "Other Tax Services", "href": "/tax-advisory-services/other-tax-services" }
+          ]
+        },
+        {
+          "title": "HR & Payroll",
+          "href": "/hr-payroll-services",
+          "image": "/incorp/solutions/hr-payroll.jpg",
+          "alt": "Handshake over financial charts, symbolizing business partnership and expansion in Vietnam.",
+          "icon": "hr",
+          "desc": "Manage your people and payroll efficiently with fully outsourced HR solutions tailored to Vietnam.",
+          "links": [
+            { "label": "General HR & Payroll", "href": "/hr-payroll-services" },
+            { "label": "Payroll Outsourcing", "href": "/hr-payroll/payroll-services" },
+            { "label": "Employer of Record", "href": "/hr-payroll/employer-of-record" },
+            { "label": "Recruitment & Staffing", "href": "/recruitment-staffing-services-in-vietnam" }
+          ]
+        },
+        {
+          "title": "Immigration",
+          "href": "/immigration",
+          "image": "/incorp/solutions/immigration.jpg",
+          "alt": "Colleagues reviewing documents for Vietnam business expansion, with a laptop and travel brochures on a desk.",
+          "icon": "immigration",
+          "desc": "Relocate your team and stay compliant in Vietnam with expert immigration and expat support.",
+          "links": [
+            { "label": "Immigration Advisory", "href": "/immigration/immigration-advisory-services" },
+            { "label": "Expat Services", "href": "/expat-services" }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Are you ready to make your mark in Vietnam?",
+      "subtitle": "Let our experts map out the most seamless path for your business.",
+      "button": { "label": "Get Started", "href": "/make-an-inquiry" },
+      "variant": "red"
+    }
+  ],
+  "showContactForm": true
+}

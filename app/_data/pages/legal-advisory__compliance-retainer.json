@@ -1,0 +1,154 @@
+﻿{
+  "title": "Compliance Retainer for Companies in Vietnam",
+  "metaDescription": "Get your own in-house team of compliance retainer experts, constantly monitoring and safeguarding you against violations and penalties.",
+  "hero": {
+    "eyebrow": "Services",
+    "title": "Compliance Retainer for Companies in Vietnam",
+    "subtitle": "Get your own in-house team of compliance retainer experts, constantly monitoring and safeguarding you against violations and penalties.",
+    "cta": {
+      "label": "Make an Inquiry",
+      "href": "/make-an-inquiry"
+    },
+    "image": "/incorp/solutions/legal-advisory.jpg"
+  },
+  "sections": [
+    {
+      "type": "cards",
+      "heading": "Benefits to Expect from Our Compliance Retainer Services",
+      "columns": 4,
+      "items": [
+        {
+          "title": "Cost-effective",
+          "desc": "Receive expert compliance advice for a fixed monthly fee, saving on the expense of a full-time legal team.",
+          "icon": "banknote"
+        },
+        {
+          "title": "Ongoing Support",
+          "desc": "Regular, reliable guidance ensures your business stays aligned with Vietnam's regulations.",
+          "icon": "headset"
+        },
+        {
+          "title": "In-house Expertise",
+          "desc": "We act as your in-house legal team, offering tailored advice on compliance issues without the overhead.",
+          "icon": "users"
+        },
+        {
+          "title": "Proactive Risk Management",
+          "desc": "Address potential legal challenges before they become issues, minimizing risk to your business.",
+          "icon": "shield"
+        }
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "How Does the Compliance Retainer Service Work?",
+      "body": [
+        "Keeping Your Business Constantly Monitored and Safeguarded",
+        "At WTP Advisory, we understand that every inquiry is unique. We take great care in matching your specific compliance needs with a consultant who possesses the specialized skills and experience to support your compliance and commercial objectives.",
+        "Once appointed, our Compliance Retainer service can be delivered through various communication channels, whether it be via email, telephone conversations, document provisions, or other formats that suit your needs.",
+        "Our comprehensive Compliance Retainer service includes ongoing regulatory monitoring, advisory support, and dedicated guidance to keep your business compliant."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "Your Success Plan in Vietnam",
+      "items": [
+        {
+          "title": "Submit Your Information & Needs",
+          "desc": "Tell us about your company's needs and aspirations in Vietnam",
+          "icon": "file"
+        },
+        {
+          "title": "Book a Consultation With Our Experts",
+          "desc": "Go over your plan with one of our bilingual business Consultants",
+          "icon": "headset"
+        },
+        {
+          "title": "Verify KYC Documents",
+          "desc": "Our consultants will contact you to process the necessary paperwork and create your company dossier",
+          "icon": "clipboard"
+        },
+        {
+          "title": "Choose a Plan & Succeed In Vietnam",
+          "desc": "Let us simplify your business journey and make your mark in APAC's fastest-growing economy",
+          "icon": "rocket"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Other Services for Businesses in Vietnam",
+      "columns": 4,
+      "items": [
+        {
+          "title": "Incorporation",
+          "desc": "Gain a presence in the Vietnamese market through our incorporation services.",
+          "href": "/incorporation",
+          "icon": "rocket"
+        },
+        {
+          "title": "Accounting & Taxation",
+          "desc": "Save time and money while ensuring compliance with full-service accounting services.",
+          "href": "/accounting-taxation",
+          "icon": "calculator"
+        },
+        {
+          "title": "HR & Payroll",
+          "desc": "Comprehensive outsourcing services for recruitment, payroll, insurance, and taxes.",
+          "href": "/hr-payroll-services",
+          "icon": "users"
+        },
+        {
+          "title": "Immigration",
+          "desc": "Navigate visa requirements and obtain work permits, investor, and business visa.",
+          "href": "/immigration",
+          "icon": "globe"
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "heading": "Frequently Asked Questions on Compliance Retainer",
+      "items": [
+        {
+          "q": "How can compliance retainer services help my business stay updated with evolving regulatory changes in Vietnam?",
+          "a": "Our compliance retainer service continuously monitors changes to Vietnam's laws and regulations and provides timely advisory updates, ensuring your business remains aligned with current requirements and avoids penalties from non-compliance."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "variant": "red",
+      "heading": "Backed by WTP Advisory",
+      "items": [
+        {
+          "value": "30+",
+          "label": "Years of experience"
+        },
+        {
+          "value": "1,500+",
+          "label": "Professionals across APAC"
+        },
+        {
+          "value": "20,000+",
+          "label": "Clients served globally"
+        },
+        {
+          "value": "8",
+          "label": "Markets in Asia-Pacific"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Ready to get started in Vietnam?",
+      "subtitle": "Talk to our experts about how we can support your business.",
+      "button": {
+        "label": "Make an Inquiry",
+        "href": "/make-an-inquiry"
+      },
+      "variant": "red"
+    }
+  ],
+  "showContactForm": true
+}

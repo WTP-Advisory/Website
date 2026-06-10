@@ -1,0 +1,41 @@
+﻿{
+  "layout": "event",
+  "title": "One WTP Advisory, Eight Markets: Expand Your Horizons Series – Vietnam Market Insights in Hong Kong",
+  "metaDescription": "An in-person session sharing Vietnam market insights with Hong Kong-based investors, part of WTP Advisory's One WTP Advisory, Eight Markets series.",
+  "banner": "/incorp/events/eight-markets-hongkong.png",
+  "format": "Offline",
+  "date": "May 29, 2024",
+  "about": [
+    "Ready to take your business to Vietnam? In this unique multi-country series tailored for business professionals, we invite you to join our Vietnamese expert teams for an in-person experience.",
+    "Dive into insightful discussions about expanding your business across our Vietnam market in the Asia-Pacific region. Gain valuable knowledge on strategies and opportunities that will enable you to make well-informed decisions, fostering growth and success in this diverse and dynamic market.",
+    "This series is an exceptional opportunity to network, learn, and explore pathways for your business's expansion in the Vietnam business landscape."
+  ],
+  "details": [
+    { "label": "Date", "value": "May 29, 2024" },
+    { "label": "Time", "value": "10:00 AM – 12:00 PM (Vietnam Time)" },
+    { "label": "Venue", "value": "Unit 1307A, 13/F, Two Harbourfront, 22 Tak Fung St, Hung Hom, Hong Kong" }
+  ],
+  "bulletSections": [
+    {
+      "heading": "Who Should Attend",
+      "items": [
+        "Companies of all sizes interested in business expansion in Vietnam",
+        "Business leaders and decision-makers",
+        "Investors exploring the Vietnam market"
+      ]
+    }
+  ],
+  "registration": {
+    "heading": "Register Now",
+    "subtitle": "View our Vietnam market insights sessions and reserve your place at this in-person event.",
+    "schedule": "May 29, 2024 | 10:00 AM – 12:00 PM (Vietnam Time)"
+  },
+  "prev": {
+    "title": "Bridging Borders: Navigating Opportunities and Challenges for Overseas Vietnamese in Vietnam",
+    "href": "/events/bridging-borders-overseas-vietnamese"
+  },
+  "next": {
+    "title": "Mastering Chief Accountant Compliance in Vietnam: Essential Guidelines for 2024",
+    "href": "/events/webinar-chief-accountant-requirements"
+  }
+}

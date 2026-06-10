@@ -1,0 +1,150 @@
+﻿{
+  "title": "Tax Advisory Services in Vietnam",
+  "metaDescription": "WTP Advisory provides expert tax advisory services to ensure compliance, optimize tax positions, minimize risks, and support business growth.",
+  "hero": {
+    "eyebrow": "Services",
+    "title": "Tax Advisory Services in Vietnam",
+    "subtitle": "WTP Advisory offers expert tax advisory services to help your business navigate Vietnam's tax system. We ensure compliance, optimize tax positions, and minimize risks with tailored solutions for tax planning, incentives, and audits, supporting your business growth.",
+    "cta": {
+      "label": "Make an Inquiry",
+      "href": "/make-an-inquiry"
+    },
+    "image": "/incorp/solutions/tax-services.jpg"
+  },
+  "sections": [
+    {
+      "type": "richText",
+      "heading": "The importance of tax compliance in Vietnam",
+      "body": [
+        "Vietnam's tax system is complex and constantly evolving, making it essential for businesses to stay informed and compliant. With a range of taxes, including corporate income tax, value-added tax, and personal income tax, navigating these regulations can be challenging, especially for foreign companies.",
+        "At WTP Advisory, we offer comprehensive tax advisory services to help businesses understand and comply with Vietnamese tax laws. Our team of experts provides tailored solutions for tax planning, compliance, incentives, and audits, ensuring that your business minimizes risks and optimizes its tax position while focusing on growth and success in Vietnam."
+      ],
+      "align": "left"
+    },
+    {
+      "type": "stats",
+      "variant": "red",
+      "heading": "Your trusted accounting services provider",
+      "items": [
+        {
+          "value": "30+",
+          "label": "Years Track Record"
+        },
+        {
+          "value": "15,000+",
+          "label": "Clients Worldwide"
+        },
+        {
+          "value": "120+",
+          "label": "In-house Experts"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Strategic Tax Advisory Services",
+      "columns": 4,
+      "items": [
+        {
+          "title": "Personal Income Tax Advisory",
+          "icon": "wallet"
+        },
+        {
+          "title": "Corporate Income Tax Advisory",
+          "icon": "receipt"
+        },
+        {
+          "title": "Foreign Contractor Tax",
+          "icon": "banknote"
+        },
+        {
+          "title": "VAT Refund Advisory",
+          "icon": "percent"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Seamless Tax Management with Vietnam WTP Advisory",
+      "columns": 4,
+      "items": [
+        {
+          "title": "Expert Consultation",
+          "desc": "Our tax specialists provide insights into regulations and best practices, helping you navigate Vietnam's tax landscape with confidence.",
+          "icon": "globe"
+        },
+        {
+          "title": "Comprehensive Support",
+          "desc": "We offer a full suite of tax services, from reporting to compliance, ensuring every aspect of your tax obligations is covered.",
+          "icon": "handshake"
+        },
+        {
+          "title": "Simplified Process",
+          "desc": "We handle the time-consuming tasks of tax reporting and compliance, allowing you to focus on running your business.",
+          "icon": "rocket"
+        },
+        {
+          "title": "Focus on Core Business",
+          "desc": "With our tax expertise, you can concentrate on achieving your business goals while ensuring full tax compliance.",
+          "icon": "target"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Meet Our Experts",
+      "columns": 3,
+      "items": [
+        {
+          "title": "Michael Tran, CPA, CA",
+          "desc": "Chief Executive Officer",
+          "icon": "user"
+        },
+        {
+          "title": "David Pham",
+          "desc": "Head of Business Advisory",
+          "icon": "userCheck"
+        },
+        {
+          "title": "Linh Hoang",
+          "desc": "Head of Corporate Secretarial and Advisory Services",
+          "icon": "briefcase"
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "variant": "red",
+      "heading": "Backed by WTP Advisory",
+      "items": [
+        {
+          "value": "30+",
+          "label": "Years of experience"
+        },
+        {
+          "value": "1,500+",
+          "label": "Professionals across APAC"
+        },
+        {
+          "value": "20,000+",
+          "label": "Clients served globally"
+        },
+        {
+          "value": "8",
+          "label": "Markets in Asia-Pacific"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Ready to get started in Vietnam?",
+      "subtitle": "Talk to our experts about how we can support your business.",
+      "button": {
+        "label": "Make an Inquiry",
+        "href": "/make-an-inquiry"
+      },
+      "variant": "red"
+    }
+  ],
+  "showContactForm": true
+}

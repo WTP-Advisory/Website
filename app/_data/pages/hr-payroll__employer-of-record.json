@@ -1,0 +1,193 @@
+﻿{
+  "title": "Employer of Record Services in Vietnam",
+  "metaDescription": "Recruit both local and foreign employees for your company without establishing a legal entity in Vietnam with an employer of record (EOR) agency.",
+  "hero": {
+    "eyebrow": "Services",
+    "title": "Employer of Record Services in Vietnam",
+    "subtitle": "Employer of Record (EOR) services allow you to hire employees in Vietnam without establishing a legal entity. Professional Employer Organization (PEO) allows you to outsource all recruitment, payroll, and legal compliance needs so you can focus on your company's bottom line.",
+    "cta": {
+      "label": "Make an Inquiry",
+      "href": "/make-an-inquiry"
+    },
+    "image": "/incorp/solutions/hr-payroll.jpg"
+  },
+  "sections": [
+    {
+      "type": "cards",
+      "heading": "Benefits of Employer of Record Services",
+      "columns": 4,
+      "items": [
+        {
+          "title": "Global Workforce Expansion for Business",
+          "desc": "Simplify global hiring, broadens talent pool and opens markets",
+          "icon": "globe"
+        },
+        {
+          "title": "Replace In-House Functions, Cut Overheads",
+          "desc": "Offer cost-effective alternatives, cutting in-house HR, legal, and finance",
+          "icon": "wallet"
+        },
+        {
+          "title": "Compliance and Risk Management through Expertise",
+          "desc": "Expertly navigate labor laws, ensure local compliance, and mitigate risks",
+          "icon": "shield"
+        },
+        {
+          "title": "Time and Resource Savings with EORs and PEOs",
+          "desc": "Streamline tasks, frees resources for core business activities",
+          "icon": "clock"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Types of Vietnam Increased Insurance Payment Caps",
+      "columns": ["Changes", "For Employees", "For Employers"],
+      "rows": [
+        {
+          "label": "Maximum cap of Social Insurance",
+          "cells": ["1,800,000 * 20 * 8% = VND 2,880,000 per month", "1,800,000 * 20 * 17% = VND 6,120,000 per month"]
+        },
+        {
+          "label": "Maximum cap of Health Insurance",
+          "cells": ["1,800,000 * 20 * 1.5% = VND 540,000 per month", "1,800,000 * 20 * 3% = VND 1,080,000 per month"]
+        },
+        {
+          "label": "Maximum cap of Accident & Occupational Disease Insurance",
+          "cells": ["N/A", "1,800,000 * 20 * 0.5% = VND 180,000 per month"]
+        },
+        {
+          "label": "Eligibility for 100% coverage of medical expenses (after paying 5 consecutive years of health insurance)",
+          "cells": ["Co-insurance amount VND 10,800,000", "N/A"]
+        }
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Employer of Record (EOR) with WTP Advisory",
+      "body": [
+        "Initial Tasks & Implementation: Our all-inclusive HR services ensure compliance and efficiency. We conduct thorough KYC checks, gather employee data, create compliant contracts, facilitate signings, and manage payroll and insurance registration for seamless HR operations. The service helps you: perform KYC of client; collect employee's salary package, contract terms from the client; interview and perform standard background check of employee; prepare and finalize all required HR contracts in compliance with Vietnam labor law; meet with employees and sign contracts with employees; prepare payroll document template and send it to the client.",
+        "Initial Labor Registration: WTP Advisory manages vital labor aspects, registering employees, ensuring local compliance, and structuring salary scales tailored to organizational positions for efficient HR management. The service helps you: Labor Report Registration (to register employee with company); Company Regulation registered with the local authorities; salary scale set up.",
+        "Initial Social Insurance Registration: WTP Advisory offers vital documentation for HR and insurance management, including delivery documents, declaration sheets, and employee information and labor lists. The service helps you: delivery documents sheet; participating and adjusting declaration sheet on Social, Health and Unemployment Insurance for each employee; list of Employee Information and Company Labor List.",
+        "Monthly and Quarterly Tasks: WTP Advisory offers vital documentation for HR and insurance management, including delivery documents, declaration sheets, and employee information and labor lists. The service helps you: monthly, based on client timesheet, annual leave and basic employee information reports to do monthly payroll and business trip reimbursement (if any); send payslip and create salary payment order; collect and provide client employee PIT information for the accounting department; calculate, withhold and settle monthly/quarterly PIT for EOR employees.",
+        "Outsourcing Service: WTP Advisory offers a range of services for seamless HR management, including monthly salary transfers, payroll processing based on employee reports, and dispute resolution facilitation. The service helps you: monthly transfer of employee salary from HR Techsoft bank account to employee bank account, based on client timesheets, annual leave and basic employee information reports to do monthly payroll; act as a mediator between employee and the Client to negotiate, settle labor disputes (if any)."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "What to Know about Vietnam's Labor Rules",
+      "body": [
+        "Working Hours: Regular working hours: 8 hours/day or 48 hours/week. Employers choose daily or weekly hours, but daily not over 10. Weekly hours should not exceed 48, with a 40-hour option encouraged by the State.",
+        "National Holidays: All Employees shall be entitled to fully paid days off on the following public holidays: Gregorian Calendar New Year Holiday: 01 day (the 1st of January of the Gregorian calendar); Lunar New Year (Tet Holiday): 05 days, decided by the Prime Minister; Victory Day: 30th of April; International Labor Day: May 1st; National Day: 02 days off (the 2nd of September and the previous or next day). Foreign employees in Vietnam are additionally entitled to 01 traditional public holiday and 01 National Day of their country, in addition to the public holidays stipulated above.",
+        "Tet Holiday (Lunar New Year) Days off & Bonus: The Tet falls at the beginning of the Lunar Calendar, and most businesses take 5 days off for this holiday. The exact days are decided by the Prime Minister of Vietnam. Tet holiday can be a disruptive time for a company's workforce. This is the most important holiday of the year and often times employees will take extra days off. Furthermore, the turnover rate during this time tends to increase significantly. It is not required but it is expected to pay Vietnamese employees a special bonus for the Tet holiday, usually calculated as the 13th month's salary."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "Your Success Plan in Vietnam",
+      "items": [
+        {
+          "title": "Submit Your Information & Needs",
+          "desc": "Tell us about your company's needs and aspirations in Vietnam"
+        },
+        {
+          "title": "Book a Consultation With Our Experts",
+          "desc": "Go over your plan with one of our bilingual business Consultants"
+        },
+        {
+          "title": "Verify KYC Documents",
+          "desc": "Our consultants will contact you to process the necessary paperwork and create your company dossier"
+        },
+        {
+          "title": "Choose a Plan & Succeed In Vietnam",
+          "desc": "Let us simplify your business journey and make your mark in APAC's fastest-growing economy"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "eyebrow": "Explore More",
+      "heading": "Other Services for Doing Business in Vietnam",
+      "columns": 4,
+      "items": [
+        {
+          "title": "Incorporation",
+          "desc": "Gain a presence in the Vietnamese market through our incorporation services.",
+          "href": "/incorporation",
+          "icon": "rocket"
+        },
+        {
+          "title": "Accounting & Taxation",
+          "desc": "Save time and money while ensuring compliance with full-service accounting services.",
+          "href": "/accounting-taxation",
+          "icon": "calculator"
+        },
+        {
+          "title": "Legal Advisory",
+          "desc": "Obtain all the necessary licenses and sublicenses for doing business in Vietnam.",
+          "href": "/legal-advisory",
+          "icon": "scale"
+        },
+        {
+          "title": "Immigration",
+          "desc": "Navigate visa requirements and obtain work permits, investor, and business visa.",
+          "href": "/immigration",
+          "icon": "plane"
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "FAQ",
+      "heading": "Frequently Asked Questions on Employer of Record Services in Vietnam",
+      "items": [
+        {
+          "q": "Do I need a legal entity in Vietnam to hire employees?",
+          "a": "No. You can recruit both local and foreign employees in Vietnam for your company without establishing a legal entity. Common ways to do this include using recruitment technology platforms, employer of record (EOR) providers, or direct hiring through various communication channels such as LinkedIn and Facebook."
+        },
+        {
+          "q": "Can I pay my employees from abroad as a foreign employer?",
+          "a": "Yes. You can set up your payroll and payroll compliance entirely remotely. As legal obligations, you have to submit all paperwork for employee registration and salary payment to relevant authorities, namely the Department or Ministry of Labour, Invalids and Social Affairs."
+        },
+        {
+          "q": "What are all the services included in the HR outsourcing package?",
+          "a": "When applying for our comprehensive HR outsourcing services, you can choose one, some, or all of the following: initial tasks and implementation, initial labor registration, initial social insurance registration, monthly and quarterly tasks, and outsourcing service."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "variant": "red",
+      "heading": "Backed by WTP Advisory",
+      "items": [
+        {
+          "value": "30+",
+          "label": "Years of experience"
+        },
+        {
+          "value": "1,500+",
+          "label": "Professionals across APAC"
+        },
+        {
+          "value": "20,000+",
+          "label": "Clients served globally"
+        },
+        {
+          "value": "8",
+          "label": "Markets in Asia-Pacific"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Ready to get started in Vietnam?",
+      "subtitle": "Talk to our experts about how we can support your business.",
+      "button": {
+        "label": "Make an Inquiry",
+        "href": "/make-an-inquiry"
+      },
+      "variant": "red"
+    }
+  ],
+  "showContactForm": true
+}

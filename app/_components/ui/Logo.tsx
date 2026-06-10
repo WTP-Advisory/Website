@@ -1,40 +1,39 @@
 import Image from "next/image";
 
-/**
- * WTP Advisory wordmark: official "WTP" logo image paired with an
- * "Advisory" label and the brand tagline.
- */
-export function Logo({ invert = false }: { invert?: boolean }) {
+type LogoVariant = "horizontal" | "vertical";
+
+const configs: Record<LogoVariant, { src: string; width: number; height: number; className: string }> = {
+  horizontal: {
+    src: "/wtp-advisory-horizontal.png",
+    width: 495,
+    height: 56,
+    className: "h-9 w-auto object-contain",
+  },
+  vertical: {
+    src: "/wtp-advisory-vertical.png",
+    width: 358,
+    height: 160,
+    className: "h-20 w-auto object-contain",
+  },
+};
+
+export function Logo({
+  className = "",
+  variant = "horizontal",
+}: {
+  className?: string;
+  variant?: LogoVariant;
+}) {
+  const cfg = configs[variant];
   return (
-    <span className="inline-flex items-center gap-2.5">
+    <span className={`inline-flex items-center ${className}`}>
       <Image
-        src="/wtp-logo.png"
+        src={cfg.src}
         alt="WTP Advisory"
-        width={375}
-        height={166}
-        priority
-        className="h-8 w-auto"
+        width={cfg.width}
+        height={cfg.height}
+        className={cfg.className}
       />
-      <span
-        className={`flex flex-col border-l pl-2.5 leading-none ${
-          invert ? "border-white/25" : "border-brand-200"
-        }`}
-      >
-        <span
-          className={`text-base font-bold tracking-tight ${
-            invert ? "text-white" : "text-ink"
-          }`}
-        >
-          Advisory
-        </span>
-        <span
-          className={`mt-0.5 text-[9px] font-semibold uppercase tracking-[0.16em] ${
-            invert ? "text-brand-200" : "text-muted"
-          }`}
-        >
-          Khai phóng lãnh đạo
-        </span>
-      </span>
     </span>
   );
 }

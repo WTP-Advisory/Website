@@ -1,0 +1,41 @@
+﻿{
+  "layout": "event",
+  "title": "Bridging Borders: Navigating Opportunities and Challenges for Overseas Vietnamese in Vietnam",
+  "metaDescription": "An evening of discussion on the opportunities and challenges facing Overseas Vietnamese returning to live, work and do business in Vietnam.",
+  "banner": "/incorp/events/bridging-borders-overseas.png",
+  "format": "Offline",
+  "date": "May 6, 2024",
+  "about": [
+    "Embark on a transformative journey with us at “Bridging Borders: Navigating Opportunities and Challenges for Overseas Vietnamese in Vietnam.” Are you an Overseas Vietnamese planning to relocate to Vietnam to make a career transition, explore business opportunities, or contribute to Vietnam's dynamic landscape? Join us for an evening of insightful discussions, inspiring stories, and meaningful connections."
+  ],
+  "matters": {
+    "heading": "Why Attend",
+    "body": [
+      "In today's interconnected world, the opportunities for Overseas Vietnamese in Vietnam are boundless. Whether you're a seasoned entrepreneur, a budding professional, or simply curious about the evolving socio-economic landscape of Vietnam, this event is designed to empower you with the knowledge, insights, and networks you need to thrive."
+    ]
+  },
+  "details": [
+    { "label": "Date", "value": "May 6, 2024" },
+    { "label": "Time", "value": "From 17:30 (GMT+7)" },
+    { "label": "Participation Fee", "value": "At door: VND 250,000" }
+  ],
+  "agenda": [
+    { "time": "17:30 – 18:00", "title": "Registration and Networking" },
+    { "time": "18:00 – 18:05", "title": "Welcome Guest Speakers" },
+    { "time": "18:05 – 18:10", "title": "Vietnam's Economic Journey: Looking Back at 2023 and Ahead to 2024", "speaker": "Michael Tran, CPA, CA – CEO, WTP Advisory" },
+    { "time": "18:10 – 18:20", "title": "Sharing success stories of Overseas Vietnamese in Vietnam", "speaker": "Michael Tran, CPA, CA – CEO, WTP Advisory" },
+    { "time": "18:20 – 18:30", "title": "Strategic approaches to attract high-quality FDI to Vietnam", "speaker": "Brian D. Hoang, Esq., MBA – CEO, Duong Business Consulting" },
+    { "time": "18:30 – 18:40", "title": "Overseas Vietnamese Reintegration Roadmap: Breaking language barriers, bridging cultures and beyond", "speaker": "AnHa (Annie) Vo – COO, Premier Dental" },
+    { "time": "18:40 – 19:10", "title": "Panel Discussion", "speaker": "Duy Nguyen (Founder, Overseas Vietnamese), Hung Le (Co-Founder & General Partner, Ascend Vietnam Ventures) and AnHa (Annie) Vo (COO, Premier Dental)" },
+    { "time": "19:10 – 20:00", "title": "Networking" }
+  ],
+  "registration": {
+    "heading": "RSVP Now",
+    "subtitle": "Register for our exclusive event and save your seat. Bridging Borders is your gateway to success in the land of endless opportunities.",
+    "schedule": "May 6, 2024 | From 17:30 (GMT+7)"
+  },
+  "next": {
+    "title": "One WTP Advisory, Eight Markets: Expand Your Horizons Series – Vietnam Market Insights in Hong Kong",
+    "href": "/events/one-incorp-eight-markets-vietnam-market-insights-in-hongkong"
+  }
+}

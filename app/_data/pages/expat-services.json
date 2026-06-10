@@ -1,0 +1,107 @@
+﻿{
+  "title": "Expat Services with WTP Advisory",
+  "metaDescription": "Relocating to Vietnam? WTP Advisory offers comprehensive expat services for a seamless, stress-free transition.",
+  "hero": {
+    "eyebrow": "Services",
+    "title": "Expat Services with WTP Advisory",
+    "subtitle": "Relocating to Vietnam as an expatriate can be both exciting and challenging, with various legal, cultural, and logistical aspects to navigate. At WTP Advisory, we offer comprehensive expat services designed to make your transition seamless and stress-free.",
+    "cta": {
+      "label": "Make an Inquiry",
+      "href": "/make-an-inquiry"
+    },
+    "image": "/incorp/solutions/immigration.jpg"
+  },
+  "sections": [
+    {
+      "type": "richText",
+      "heading": "Why choose expat services with WTP Advisory?",
+      "body": [
+        "Our services cover everything from visa and work permit processing to tax advisory and local orientation. Whether you're an individual moving for a career opportunity or a company bringing foreign talent into Vietnam, our experienced team ensures personalized support tailored to your unique needs.",
+        "With WTP Advisory as your trusted partner, you can confidently settle into Vietnam's vibrant culture and dynamic economy, knowing all the details are expertly handled. Let us help you make Vietnam feel like home."
+      ]
+    },
+    {
+      "type": "stats",
+      "heading": "Your Experts in Company Incorporation",
+      "items": [
+        {
+          "value": "30+",
+          "label": "Years Track Record"
+        },
+        {
+          "value": "15,000+",
+          "label": "Clients Worldwide"
+        },
+        {
+          "value": "100+",
+          "label": "Companies Incorporated Yearly"
+        },
+        {
+          "value": "1,500+",
+          "label": "Professionals"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Benefits of Expat Services with WTP Advisory",
+      "columns": 4,
+      "items": [
+        {
+          "title": "Meet the International Team of Experts",
+          "desc": "Multilingual experts ensure seamless communication, no breakdowns.",
+          "icon": "globe"
+        },
+        {
+          "title": "Full Transparency for the Entire Process",
+          "desc": "Transparent, reliable, and client-focused. No hidden fees or scams.",
+          "icon": "eye"
+        },
+        {
+          "title": "Both Remote and Direct Communication",
+          "desc": "Online & in-person consulting. Tailored digital processes for convenience.",
+          "icon": "headset"
+        },
+        {
+          "title": "Enhances Scalability and Adaptability",
+          "desc": "Adaptable support, including seasonal assistance and ongoing help.",
+          "icon": "trending"
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "variant": "red",
+      "heading": "Backed by WTP Advisory",
+      "items": [
+        {
+          "value": "30+",
+          "label": "Years of experience"
+        },
+        {
+          "value": "1,500+",
+          "label": "Professionals across APAC"
+        },
+        {
+          "value": "20,000+",
+          "label": "Clients served globally"
+        },
+        {
+          "value": "8",
+          "label": "Markets in Asia-Pacific"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Ready to get started in Vietnam?",
+      "subtitle": "Talk to our experts about how we can support your business.",
+      "button": {
+        "label": "Make an Inquiry",
+        "href": "/make-an-inquiry"
+      },
+      "variant": "red"
+    }
+  ],
+  "showContactForm": true
+}

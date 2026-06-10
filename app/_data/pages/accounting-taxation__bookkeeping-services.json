@@ -1,0 +1,157 @@
+﻿{
+  "title": "Bookkeeping Services in Vietnam",
+  "metaDescription": "WTP Advisory provides expert bookkeeping for accurate records, compliance, and streamlined finances.",
+  "hero": {
+    "eyebrow": "Services",
+    "title": "Bookkeeping Services in Vietnam",
+    "subtitle": "WTP Advisory offers expert bookkeeping services to ensure accurate and timely financial record-keeping, helping your business maintain compliance and streamline its financial operations.",
+    "cta": {
+      "label": "Make an Inquiry",
+      "href": "/make-an-inquiry"
+    },
+    "image": "/incorp/solutions/accounting-finance.jpg"
+  },
+  "sections": [
+    {
+      "type": "richText",
+      "heading": "Why choose bookkeeping services at WTP Advisory?",
+      "body": [
+        "At WTP Advisory, we offer comprehensive bookkeeping services at competitive rates. Many national and international clients have benefited from our tailored bookkeeping solutions. As a professional firm providing bookkeeping services in Vietnam, WTP Advisory ensures that your accounts are accurately maintained, saving you time and boosting the productivity of your business. Our consistent and reliable services allow you to focus on your company's core activities while we handle the complexities of financial management."
+      ],
+      "align": "left"
+    },
+    {
+      "type": "stats",
+      "heading": "Your trusted accounting services provider",
+      "items": [
+        {
+          "value": "30+",
+          "label": "Years Track Record"
+        },
+        {
+          "value": "15,000+",
+          "label": "Clients Worldwide"
+        },
+        {
+          "value": "120+",
+          "label": "Accounting & Tax Clients"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Comprehensive Bookkeeping Services",
+      "columns": 4,
+      "items": [
+        {
+          "title": "Daily Transaction Recording",
+          "icon": "file"
+        },
+        {
+          "title": "Accounts Payable & Receivable Management",
+          "icon": "coins"
+        },
+        {
+          "title": "General Ledger Maintenance",
+          "icon": "book"
+        },
+        {
+          "title": "Bank Reconciliation",
+          "icon": "landmark"
+        },
+        {
+          "title": "Payroll Processing & Management",
+          "icon": "banknote"
+        },
+        {
+          "title": "Financial Statement Preparation",
+          "icon": "fileCheck"
+        },
+        {
+          "title": "Tax Filing Support",
+          "icon": "receipt"
+        },
+        {
+          "title": "Inventory Management",
+          "icon": "layers"
+        },
+        {
+          "title": "Cost Allocation and Expense Tracking",
+          "icon": "wallet"
+        },
+        {
+          "title": "Financial Reporting & Analysis",
+          "icon": "chart"
+        },
+        {
+          "title": "VAT Reporting & VAT Refund",
+          "icon": "percent"
+        },
+        {
+          "title": "Compliance with Local Regulations",
+          "icon": "shield"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Bookkeeping Services with WTP Advisory",
+      "columns": 4,
+      "items": [
+        {
+          "title": "Expert Consultation",
+          "desc": "Our accounting experts offer insights into financial best practices and regulations to help you optimize your business operations.",
+          "icon": "users"
+        },
+        {
+          "title": "Comprehensive Support",
+          "desc": "We offer a full suite of accounting services, from bookkeeping to tax compliance, ensuring seamless financial management.",
+          "icon": "handshake"
+        },
+        {
+          "title": "Simplified Process",
+          "desc": "We handle the time-consuming tasks of financial record-keeping and reporting, allowing you to focus on your core business activities.",
+          "icon": "rocket"
+        },
+        {
+          "title": "Focus on Core Business",
+          "desc": "With our accounting expertise, you can focus on achieving your business goals while ensuring financial accuracy and compliance.",
+          "icon": "target"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Meet Our Experts",
+      "columns": 3,
+      "items": [
+        {
+          "title": "Michael Tran, CPA, CA",
+          "desc": "Chief Executive Officer",
+          "icon": "user"
+        },
+        {
+          "title": "David Pham",
+          "desc": "Head of Business Advisory",
+          "icon": "user"
+        },
+        {
+          "title": "Linh Hoang",
+          "desc": "Head of Corporate Secretarial and Advisory Services",
+          "icon": "user"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Ready to get started in Vietnam?",
+      "subtitle": "Talk to our experts about how we can support your business.",
+      "button": {
+        "label": "Make an Inquiry",
+        "href": "/make-an-inquiry"
+      },
+      "variant": "red"
+    }
+  ],
+  "showContactForm": true
+}

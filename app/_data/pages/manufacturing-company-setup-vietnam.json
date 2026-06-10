@@ -1,0 +1,180 @@
+﻿{
+  "title": "Manufacturing Setup and Business Operations Outsourcing in Vietnam",
+  "metaDescription": "Launch your manufacturing presence in Vietnam with preferential tax rates and specialized locations, including factory inspection, accounting, etc.",
+  "hero": {
+    "eyebrow": "Services",
+    "title": "Manufacturing Setup and Business Operations Outsourcing in Vietnam",
+    "subtitle": "Our manufacturing setup and outsourcing services are designed to optimize processes and reduce operational costs. We provide customized solutions that ensure efficiency, quality control, and scalability, helping businesses enhance their manufacturing capabilities with focus on excellence.",
+    "cta": {
+      "label": "Make an Inquiry",
+      "href": "/make-an-inquiry"
+    },
+    "image": "/incorp/solutions/incorporation.webp"
+  },
+  "sections": [
+    {
+      "type": "richText",
+      "heading": "Why Vietnam for Your Manufacturing Company Setup?",
+      "body": [
+        "A preferential corporate income tax rate of 10% for 15 years, applicable to newly established enterprises from investment projects in specific industries:",
+        "High technology, scientific research, and technological development",
+        "Development of water plants, water supply, and drainage systems",
+        "Software production",
+        "Tax exemption for 2 years and 50% tax reduction for the subsequent 4 years."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "A Comprehensive Roadmap to Manufacturing Success in Vietnam",
+      "body": [
+        "A comprehensive roadmap for expanding and operating your manufacturing business in Vietnam is crucial for long-term success. It helps businesses navigate regulatory requirements, optimize supply chains, and establish efficient production systems. By aligning with local labor markets, industry standards, and trade regulations, companies can reduce risks and minimize disruptions. With a strategic plan, businesses can capitalize on Vietnam's growth potential while ensuring scalability and sustainability in the evolving market."
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Your Roadmap with WTP Advisory",
+      "columns": 1,
+      "items": [
+        "Phase 1: Initial consultation on establishment and regulatory frameworks",
+        "Phase 2: Factory tour services",
+        "Phase 3: Setup manufacturing company and full consultation in HR, payroll, and accounting operations",
+        "Phase 4: Monthly consultation on legal compliance, HR, accounting, and tax advisory"
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Benefits of Manufacturing Company Setup Services",
+      "columns": 4,
+      "items": [
+        {
+          "title": "Comprehensive legal and tax guidance",
+          "desc": "Expert legal, CIT, tax incentives, and transfer pricing guidance",
+          "icon": "rocket"
+        },
+        {
+          "title": "Effortless licensing and compliance",
+          "desc": "Streamline licenses, permits, and compliance with standards",
+          "icon": "headset"
+        },
+        {
+          "title": "Investment and financial insights",
+          "desc": "Investment rules, reporting, and asset capitalization guidance",
+          "icon": "fileCheck"
+        },
+        {
+          "title": "Labor law and workplace safety",
+          "desc": "Labor law and safety rights ensured",
+          "icon": "globe"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Simplify Business Setup in Vietnam with a Video Guide",
+      "columns": 1,
+      "items": [
+        "Why choose Vietnam to set up your business",
+        "Types of business structures available in Vietnam",
+        "Legal documents needed to establish a company",
+        "Compliance with accounting regulations"
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "2024 Manufacturing Package Contents",
+      "columns": 3,
+      "items": [
+        {
+          "title": "Manufacturing Setup Advisory",
+          "desc": "Pre-Establishment Consultation; Factory Site Inspection",
+          "icon": "headset"
+        },
+        {
+          "title": "Manufacturing Setup Standard Package",
+          "desc": "Company Formation; Manufacturing Compliance/FDI Report",
+          "icon": "building"
+        },
+        {
+          "title": "Manufacturing Setup Premium Package",
+          "desc": "Pre-Establishment Consultation; Company Formation; Manufacturing Compliance/FDI Report; Accounting Recurring (Tax Reporting Service); HR Ad-hoc/Recruitment",
+          "icon": "briefcase"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Detailed Comparison",
+      "columns": [
+        "Manufacturing Setup Advisory",
+        "Manufacturing Setup Standard Package",
+        "Manufacturing Setup Premium Package"
+      ],
+      "rows": [
+        { "label": "Pre-Establishment Consultation", "cells": [true, "", true] },
+        { "label": "Factory Site Inspection", "cells": [true, "", true] },
+        { "label": "Company Formation", "cells": ["", true, true] },
+        { "label": "Post-Establishment & Other Services", "cells": ["", "TBA", "TBA"] },
+        { "label": "Manufacturing Compliance/FDI Report", "cells": ["", true, true] },
+        { "label": "Accounting Recurring (Tax Reporting Service)", "cells": ["", "", true] },
+        { "label": "HR Ad-hoc/Recruitment", "cells": ["", "", true] },
+        { "label": "HR & Payroll (First 6 months)", "cells": ["", "", true] }
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "Your Success Plan in Vietnam",
+      "items": [
+        {
+          "title": "Submit Your Information & Needs",
+          "desc": "Tell us about your company's needs and aspirations in Vietnam"
+        },
+        {
+          "title": "Book a Consultation With Our Experts",
+          "desc": "Go over your plan with one of our bilingual business Consultants"
+        },
+        {
+          "title": "Verify KYC Documents",
+          "desc": "Our consultants will contact you to process the necessary paperwork and create your company dossier"
+        },
+        {
+          "title": "Choose a Plan & Succeed In Vietnam",
+          "desc": "Let us simplify your business journey and make your mark in APAC's fastest-growing economy"
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "variant": "red",
+      "heading": "Your Experts in Company Incorporation",
+      "items": [
+        {
+          "value": "30+",
+          "label": "Years Track Record"
+        },
+        {
+          "value": "15,000+",
+          "label": "Clients Worldwide"
+        },
+        {
+          "value": "100+",
+          "label": "Companies Incorporated Yearly"
+        },
+        {
+          "value": "1,500+",
+          "label": "Professionals"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Ready to get started in Vietnam?",
+      "subtitle": "Talk to our experts about how we can support your business.",
+      "button": {
+        "label": "Make an Inquiry",
+        "href": "/make-an-inquiry"
+      },
+      "variant": "red"
+    }
+  ],
+  "showContactForm": true
+}

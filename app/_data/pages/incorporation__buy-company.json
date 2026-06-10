@@ -1,0 +1,280 @@
+﻿{
+  "title": "Buy a Company in Vietnam",
+  "metaDescription": "To buy a company in Vietnam is the fastest way to start doing business in Vietnam for foreign investors. Read more about the procedures here.",
+  "hero": {
+    "eyebrow": "Services",
+    "title": "Buy a Company in Vietnam",
+    "subtitle": "Buying a company is the fastest way to own a business in Vietnam. Start doing business within as little as one week and tap into Vietnam's exciting investment opportunities.",
+    "cta": {
+      "label": "Make an Inquiry",
+      "href": "/make-an-inquiry"
+    },
+    "image": "/incorp/solutions/incorporation.webp"
+  },
+  "sections": [
+    {
+      "type": "richText",
+      "heading": "Why Buy a Local Company in Vietnam?",
+      "body": [
+        "Foreign investors in Vietnam often consider buying a shelf company to quickly enhance their business's finances, reputation, and sales. A shelf company, also known as an aged or ready-made company, is pre-established and ready for new ownership.",
+        "This approach enables business owners to swiftly set up their companies, bypassing the lengthy and exhausting process of creating a new establishment from scratch."
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Benefits of Buying a Company with WTP Advisory",
+      "columns": 4,
+      "items": [
+        {
+          "title": "Work with Professional Bilingual Experts",
+          "icon": "users",
+          "desc": "Ensure flawless cross-communication with no disruptions."
+        },
+        {
+          "title": "Guidance for Your Dream Business",
+          "icon": "rocket",
+          "desc": "Get the support you need for your specific business goals."
+        },
+        {
+          "title": "Complete Cost and Time Transparency",
+          "icon": "fileCheck",
+          "desc": "Receive clear trajectory estimates in advance with no hidden fees."
+        },
+        {
+          "title": "Direct and Virtual Consultations",
+          "icon": "globe",
+          "desc": "Flexible timing and solutions for your convenience."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Your Vietnam Company Formation Options",
+      "subtitle": "Compare the main entity types available to foreign investors in Vietnam.",
+      "columns": [
+        "Limited Liability Company (LLC)",
+        "Representative Office (RO)",
+        "Branch Office (BO)",
+        "Joint-stock Company (JSC)"
+      ],
+      "rows": [
+        {
+          "label": "Applicable",
+          "cells": [
+            "All investors",
+            "All members of WTO",
+            "All investors",
+            "All investors"
+          ]
+        },
+        {
+          "label": "Minimum Capital",
+          "cells": [
+            "Depending on the business activities",
+            "No requirements",
+            "No requirements",
+            "If trading on stock market, minimum 10 billion VND (~US$ 440,000)"
+          ]
+        },
+        {
+          "label": "Minimum Number of shareholders",
+          "cells": [
+            "≥ 1 (individual or corporate)",
+            "Owned by head office",
+            "Owned by head office",
+            "≥ 3 (individual or entity)"
+          ]
+        },
+        {
+          "label": "Limited Liability Protection",
+          "cells": [
+            true,
+            "",
+            "",
+            true
+          ]
+        },
+        {
+          "label": "Import- Export Activities",
+          "cells": [
+            true,
+            "",
+            true,
+            true
+          ]
+        },
+        {
+          "label": "Be a Shareholder of Another Entity",
+          "cells": [
+            true,
+            "",
+            "",
+            true
+          ]
+        },
+        {
+          "label": "Conversion to other entity type",
+          "cells": [
+            true,
+            "",
+            "",
+            true
+          ]
+        },
+        {
+          "label": "Corporate Income Tax",
+          "cells": [
+            "Depending on the business industries",
+            "No business activities that yield profit",
+            "Depending on the business industries",
+            "Depending on the business industries"
+          ]
+        },
+        {
+          "label": "Benefits",
+          "cells": [
+            "Easiest to set up. Easy to raise capital. Less paperwork.",
+            "No capital requirements. Eligible to hire employees. Research target market.",
+            "Same structure as original entity. Legal representative can get more permits.",
+            "Shareholders only limited to liability of their investment. Easy to transfer shares."
+          ]
+        },
+        {
+          "label": "Setup Time",
+          "cells": [
+            "6-8 weeks",
+            "4-6 weeks",
+            "4-8 weeks",
+            "6-8 weeks"
+          ]
+        },
+        {
+          "label": "Most suitable for",
+          "cells": [
+            "Small businesses to generate profit",
+            "Quick setup for sponsorships and market research",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "How to Buy a Company in Vietnam",
+      "items": [
+        {
+          "title": "Research & Find the Right Business",
+          "desc": "Start by researching potential industries and assessing market demand. Search for businesses that meet key criteria such as sales focus, exclusivity, product demand, and profit margins."
+        },
+        {
+          "title": "Value the Company",
+          "desc": "Determine the company's value by reviewing projected revenue, assets, and market comparisons. Use this to negotiate a fair price with the seller."
+        },
+        {
+          "title": "Paperwork & Due Diligence",
+          "desc": "Audit the business for any risks by reviewing financials, market position, and legal compliance. Optional evaluations may include management structure, facilities, and customer satisfaction."
+        },
+        {
+          "title": "Complete the Transaction and Handover",
+          "desc": "Finalize the purchase by ensuring all legal, financial, and licensing details are in order. Use a third party to manage the transfer, and notify key stakeholders before updating ownership records."
+        }
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "Your Success Plan in Vietnam",
+      "items": [
+        {
+          "title": "Submit Your Information & Needs",
+          "desc": "Tell us about your company's needs and aspirations in Vietnam"
+        },
+        {
+          "title": "Book a Consultation With Our Experts",
+          "desc": "Go over your plan with one of our bilingual business Consultants"
+        },
+        {
+          "title": "Verify KYC Documents",
+          "desc": "Our consultants will contact you to process the necessary paperwork and create your company dossier"
+        },
+        {
+          "title": "Choose a Plan & Succeed In Vietnam",
+          "desc": "Let us simplify your business journey and make your mark in APAC's fastest-growing economy"
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "FAQ",
+      "heading": "Frequently Asked Questions on How to Buy a Company in Vietnam",
+      "items": [
+        {
+          "q": "Can I set up a company in Vietnam as a foreigner?",
+          "a": "Yes, foreign investors who want to expand to Vietnam can set up a foreign-owned company in the country. The most common type of company setup for foreign ownership is an LLC (Limited Liability Company) due to its simple business structure and faster setup timeline."
+        },
+        {
+          "q": "What are the company types available in Vietnam?",
+          "a": "There are four types of entities: Limited Liability Company (LLC), Joint-stock Company (JSC), Branch Office and Representative Office."
+        },
+        {
+          "q": "Is there any minimum capital required prior to company registration in Vietnam?",
+          "a": "Although local laws don't stipulate any minimum capital, 25-30,000 USD is commonly considered as the minimum capital investors should register to ensure smooth incorporation and business activities."
+        },
+        {
+          "q": "Will I be able to hold 100-percent ownership of a foreign-owned company?",
+          "a": "Yes. The Vietnamese law enables foreigners to open 100% foreign-owned companies in most business sectors. There are only a few restricted business sectors where full foreign ownership is not permitted."
+        },
+        {
+          "q": "Is there any option to expand my business without incorporating a company in Vietnam?",
+          "a": "Yes, there are several options suitable for investors who wish to expand without forming a legal entity, such as setting up a representative office or using an employer of record service."
+        },
+        {
+          "q": "I want to set up a company as soon as possible, is there a way to speed up the company registration process?",
+          "a": "The process of starting an LLC or JSC in Vietnam takes approximately 40-60 days. If you want to start operating a business as soon as possible, we recommend purchasing a shelf company. With this method, WTP Advisory can transfer the management control to you within a few working days."
+        },
+        {
+          "q": "What are the benefits of a local nominee company and a shelf company?",
+          "a": "Both local nominee companies and shelf companies are fast ways to incorporate business entities and penetrate the Vietnamese market successfully. A local nominee company is established through a nominee agreement with a trustworthy local partner such as WTP Advisory."
+        },
+        {
+          "q": "I would like to set up a joint venture local company, but I do not have a reliable local partner to act as a shareholder. What should I do?",
+          "a": "Underestimating the role of a business partner or local nominee is one of the common business mistakes in Vietnam. Choosing a reliable local partner is key to success while reducing potential risks. WTP Advisory offers local nominee services without any interventions in your business operations."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "variant": "red",
+      "heading": "Your Experts in Company Incorporation",
+      "items": [
+        {
+          "value": "30+",
+          "label": "Years Track Record"
+        },
+        {
+          "value": "15,000+",
+          "label": "Clients Worldwide"
+        },
+        {
+          "value": "100+",
+          "label": "Companies Incorporated Yearly"
+        },
+        {
+          "value": "1,500+",
+          "label": "Professionals"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Ready to get started in Vietnam?",
+      "subtitle": "Talk to our experts about how we can support your business.",
+      "button": {
+        "label": "Make an Inquiry",
+        "href": "/make-an-inquiry"
+      },
+      "variant": "red"
+    }
+  ],
+  "showContactForm": true
+}

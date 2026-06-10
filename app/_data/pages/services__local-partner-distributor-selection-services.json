@@ -1,0 +1,100 @@
+﻿{
+  "title": "Local Partner & Distributor Selection Services with WTP Advisory",
+  "metaDescription": "WTP Advisory helps businesses enter Vietnam by identifying reliable partners, conducting due diligence, and negotiating favorable terms for growth.",
+  "hero": {
+    "eyebrow": "Services",
+    "title": "Local Partner & Distributor Selection Services with WTP Advisory",
+    "subtitle": "WTP Advisory provides expert Local Partner & Distributor Selection services to help businesses navigate the complexities of entering the Vietnamese market. Our team identifies reliable and strategically aligned partners, conducts due diligence, and negotiates favorable terms for long-term success. With WTP Advisory, businesses can confidently build strong local connections and drive sustainable growth in Vietnam's dynamic economy.",
+    "cta": {
+      "label": "Make an Inquiry",
+      "href": "/make-an-inquiry"
+    },
+    "image": "/incorp/solutions/incorporation.webp"
+  },
+  "sections": [
+    {
+      "type": "richText",
+      "heading": "Why do investors need to find a trustworthy local partner and distributor in Vietnam?",
+      "body": [
+        "Finding a local partner and distributor is crucial for businesses looking to enter the Vietnamese market. Local partners offer valuable insights into consumer behavior, market trends, and regulatory requirements, which can significantly reduce the risks of entry. They help navigate the complexities of the market, ensuring smoother operations and cultural nuances, ensuring smoother operations.",
+        "A trusted distributor can also provide access to established sales channels, local contacts, and an understanding of regional demand, enabling businesses to scale more effectively and reach their target audience faster. Partnering with a local expert is key to driving long-term success in Vietnam's competitive market."
+      ],
+      "align": "left"
+    },
+    {
+      "type": "stats",
+      "variant": "red",
+      "items": [
+        {
+          "value": "30+",
+          "label": "Companies Incorporated Yearly"
+        },
+        {
+          "value": "15,000+",
+          "label": "Professionals"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Benefits of using Local Partner & Distributor Selection with WTP Advisory",
+      "columns": 4,
+      "items": [
+        {
+          "title": "Local Market Expertise",
+          "desc": "WTP Advisory's team provides in-depth knowledge of the local market, helping businesses identify the most suitable partners and distributors who understand regional trends, consumer behavior, and regulatory requirements.",
+          "icon": "users"
+        },
+        {
+          "title": "Risk Mitigation",
+          "desc": "By leveraging WTP Advisory's due diligence process, businesses can minimize the risks of selecting unreliable or non-compliant partners, ensuring long-term success in the Vietnamese market.",
+          "icon": "rocket"
+        },
+        {
+          "title": "Faster Market Penetration",
+          "desc": "WTP Advisory's established network and local connections enable businesses to quickly access established distribution channels, facilitating faster market entry and growth.",
+          "icon": "clipboard"
+        },
+        {
+          "title": "Seamless Operations",
+          "desc": "With expert support in partner and distributor negotiations, businesses can streamline their entry process, ensuring smooth collaboration and operational efficiency in a complex market environment.",
+          "icon": "globe"
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "variant": "red",
+      "heading": "Backed by WTP Advisory",
+      "items": [
+        {
+          "value": "30+",
+          "label": "Years of experience"
+        },
+        {
+          "value": "1,500+",
+          "label": "Professionals across APAC"
+        },
+        {
+          "value": "20,000+",
+          "label": "Clients served globally"
+        },
+        {
+          "value": "8",
+          "label": "Markets in Asia-Pacific"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Ready to get started in Vietnam?",
+      "subtitle": "Talk to our experts about how we can support your business.",
+      "button": {
+        "label": "Make an Inquiry",
+        "href": "/make-an-inquiry"
+      },
+      "variant": "red"
+    }
+  ],
+  "showContactForm": true
+}

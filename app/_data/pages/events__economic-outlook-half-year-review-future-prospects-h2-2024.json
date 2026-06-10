@@ -1,0 +1,43 @@
+﻿{
+  "layout": "event",
+  "title": "Vietnam Economic Outlook: Half-Year Review and Future Prospects for H2 2024 and Beyond",
+  "metaDescription": "A mid-year review of Vietnam's economy and what lies ahead for H2 2024, presented by WTP Advisory in partnership with CanCham at Sofitel Saigon Plaza.",
+  "banner": "/incorp/events/economic-outlook.png",
+  "format": "Offline",
+  "date": "September 4, 2024",
+  "about": [
+    "Vietnam's economy experienced moderate growth in H1 2024, with GDP expanding by approximately 4.5%, driven by strong performance in the services and industrial sectors. Although hindered by global economic uncertainties, tighter monetary conditions, and supply chain disruptions, the trade sector showed resilience — specifically in electronics, textiles, and agricultural products. FDI inflow remained robust at USD 15 billion over six months, with investors diversifying their supply chains away from China in sectors such as manufacturing, real estate, and technology.",
+    "Looking to H2 2024, the government is expected to continue its reform agenda — improving the business environment, enhancing infrastructure, and fostering innovation. New policies are projected to boost growth in manufacturing, green energy, and digital transformation, a prime example being the continued VAT incentive (VAT reduced to 8% for goods and services subject to 10% VAT).",
+    "Join us at Sofitel Saigon Plaza for an insightful event exploring Vietnam's economic outlook. Presented by our professional speakers, the event will cover FDI developments, real estate opportunities, macroeconomic policies, and M&A updates."
+  ],
+  "details": [
+    { "label": "Date", "value": "September 4, 2024" },
+    { "label": "Venue", "value": "Sofitel Saigon Plaza, Ho Chi Minh City" },
+    { "label": "Ticket — CanCham & Co-host Chamber Member", "value": "VND 250,000" },
+    { "label": "Ticket — Non-Member", "value": "VND 350,000" },
+    { "label": "Payment", "value": "Bank transfer and online payment via OnePay only at the door" }
+  ],
+  "agenda": [
+    { "time": "08:30 – 09:00", "title": "Check-in" },
+    { "time": "09:00 – 09:05", "title": "Opening Speech" },
+    { "time": "09:05 – 09:20", "title": "Key FDI Developments and Labor Market Updates" },
+    { "time": "09:20 – 09:30", "title": "Navigating Opportunities and Challenges in Vietnam's Real Estate Landscape" },
+    { "time": "09:30 – 09:40", "title": "Policies, Performance, and Projections in Macroeconomics for 2024" },
+    { "time": "09:40 – 09:50", "title": "M&A Updates" },
+    { "time": "09:50 – 10:10", "title": "Q&A Session" },
+    { "time": "10:10 – 10:30", "title": "Networking Session" }
+  ],
+  "registration": {
+    "heading": "RSVP Now",
+    "subtitle": "Register for this exclusive opportunity with industry leaders and secure your seat at the event.",
+    "schedule": "September 4, 2024 | From 08:30 (GMT+7)"
+  },
+  "prev": {
+    "title": "WTP Advisory x FLI: How can strategic sales management boost your sales? – Hanoi",
+    "href": "/events/fdi-enterprise-solutions-fli-vietnam"
+  },
+  "next": {
+    "title": "Tax Compliance Risks for Foreigners in Vietnam",
+    "href": "/events/webinar-tax-compliance-risks"
+  }
+}

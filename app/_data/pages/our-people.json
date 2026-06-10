@@ -1,0 +1,86 @@
+﻿{
+  "title": "Our Experts",
+  "metaDescription": "Meet the experts at WTP Advisory — an experienced leadership team and dedicated professionals delivering trusted market entry, accounting, tax, legal, and corporate secretarial services.",
+  "hero": {
+    "eyebrow": "Our Experts",
+    "title": "Meet the people behind your success in Vietnam",
+    "subtitle": "Our dedicated team combines deep local knowledge with international standards. Every team is encouraged by our executive leadership to develop and thrive, helping clients navigate Vietnam with confidence."
+  },
+  "sections": [
+    {
+      "type": "richText",
+      "eyebrow": "Our Team",
+      "heading": "Expertise you can rely on",
+      "align": "center",
+      "body": [
+        "WTP Advisory is a leading market entry & corporate services firm, supported by a team of more than 50 specialists across Ho Chi Minh City, Hanoi, and Danang. As part of WTP Advisory, we draw on 30+ years of experience and 1,500 professionals to deliver dependable solutions to clients expanding into Vietnam and the wider Asia-Pacific region.",
+        "From incorporation and accounting to tax advisory, legal compliance, and corporate secretarial services, our experts bring the technical excellence and on-the-ground insight your business needs at every stage of growth."
+      ]
+    },
+    {
+      "type": "team",
+      "eyebrow": "Leadership",
+      "heading": "Meet our leadership",
+      "subtitle": "Experienced leaders guiding our people and our clients.",
+      "variant": "portrait",
+      "columns": 3,
+      "items": [
+        { "name": "Michael Tran, CPA, CA", "role": "Chief Executive Officer", "image": "/incorp/people/placeholder.svg", "profileHref": "/our-people", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" },
+        { "name": "David Pham", "role": "Head of Business Advisory", "image": "/incorp/people/placeholder.svg", "profileHref": "/our-people", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" },
+        { "name": "Linh Hoang", "role": "Head of Corporate Secretarial and Advisory Services", "image": "/incorp/people/placeholder.svg", "profileHref": "/our-people", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" }
+      ]
+    },
+    {
+      "type": "team",
+      "eyebrow": "Our Experts",
+      "heading": "Meet our experts",
+      "subtitle": "The specialists delivering trusted services to your business every day.",
+      "variant": "avatar",
+      "columns": 4,
+      "items": [
+        { "name": "Jennifer Le", "role": "Legal Manager, External Legal Compliance", "image": "/incorp/people/placeholder.svg", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" },
+        { "name": "Sophie Nguyen", "role": "Head of External Accounting", "image": "/incorp/people/placeholder.svg", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" },
+        { "name": "Minh Tran", "role": "Assistant Manager, External Accounting", "image": "/incorp/people/placeholder.svg", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" },
+        { "name": "Thu Pham", "role": "Human Resources Manager", "image": "/incorp/people/placeholder.svg", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" },
+        { "name": "Nam Le", "role": "Head of Recruitment and Staffing", "image": "/incorp/people/placeholder.svg", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" },
+        { "name": "Lan Hoang", "role": "Head of Business Intelligence", "image": "/incorp/people/placeholder.svg", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" },
+        { "name": "Mai Tran", "role": "Head of Hanoi Branches", "image": "/incorp/people/placeholder.svg", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" }
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "Specialisms",
+      "heading": "Areas of expertise",
+      "columns": 3,
+      "items": [
+        "Market entry & incorporation",
+        "Accounting & bookkeeping",
+        "Tax advisory & compliance",
+        "Corporate secretarial services",
+        "Legal & regulatory compliance",
+        "Payroll & HR support",
+        "Business advisory & intelligence",
+        "Risk assurance",
+        "Recruitment & staffing"
+      ]
+    },
+    {
+      "type": "stats",
+      "heading": "Our people in numbers",
+      "items": [
+        { "value": "50+", "label": "Team of experts in Vietnam" },
+        { "value": "1,500", "label": "Professionals across WTP Advisory" },
+        { "value": "30+", "label": "Years of group experience" },
+        { "value": "20,000", "label": "Clients assisted globally" }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Work with experts who know Vietnam",
+      "subtitle": "Talk to our team about your business goals.",
+      "button": { "label": "Get in Touch", "href": "/make-an-inquiry" },
+      "variant": "blue"
+    }
+  ],
+  "showContactForm": false
+}

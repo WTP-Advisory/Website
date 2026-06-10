@@ -1,0 +1,104 @@
+﻿{
+  "title": "Valuation Services in Vietnam",
+  "metaDescription": "Our Valuation services in Vietnam offer accurate, data-driven assessments for strategic decisions and financial planning.",
+  "hero": {
+    "eyebrow": "Services",
+    "title": "Valuation Services in Vietnam",
+    "subtitle": "Our Valuation services in Vietnam provide accurate, data-driven assessments of businesses, assets, and investments to support strategic decision-making and financial planning.",
+    "cta": {
+      "label": "Make an Inquiry",
+      "href": "/make-an-inquiry"
+    },
+    "image": "/incorp/solutions/accounting-finance.jpg"
+  },
+  "sections": [
+    {
+      "type": "richText",
+      "heading": "The importance of Valuation services?",
+      "body": [
+        "Value can take many forms, including tangible and intangible assets, investments, or intellectual property. In today's global economy, businesses must assess whether opportunities or transactions enhance or detract from value. Valuations are crucial for mergers and acquisitions, tax structuring, dispute resolution, corporate restructuring, and financial reporting. Given their subjective nature, an independent and robust valuation is essential, especially in light of recent global business changes requiring professional expertise."
+      ],
+      "align": "left"
+    },
+    {
+      "type": "stats",
+      "variant": "red",
+      "heading": "Your trusted accounting services provider",
+      "items": [
+        {
+          "value": "30+",
+          "label": "Years Track Record"
+        },
+        {
+          "value": "15,000+",
+          "label": "Clients Worldwide"
+        },
+        {
+          "value": "120+",
+          "label": "Accounting & Tax Clients"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Comprehensive Valuation Services at WTP Advisory",
+      "columns": 4,
+      "items": [
+        {
+          "title": "Merger & Acquisitions",
+          "icon": "coins"
+        },
+        {
+          "title": "Financial Reporting",
+          "icon": "fileCheck"
+        },
+        {
+          "title": "Dispute, arbitration and litigation",
+          "icon": "scale"
+        },
+        {
+          "title": "Taxation",
+          "icon": "receipt"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Seamless Accounting Management with Vietnam WTP Advisory",
+      "columns": 4,
+      "items": [
+        {
+          "title": "Expert Consultation",
+          "desc": "Our accounting experts offer insights into financial best practices and regulations to help you optimize your business operations.",
+          "icon": "globe"
+        },
+        {
+          "title": "Comprehensive Support",
+          "desc": "We offer a full suite of accounting services, from bookkeeping to tax compliance, ensuring seamless financial management.",
+          "icon": "handshake"
+        },
+        {
+          "title": "Simplified Process",
+          "desc": "We handle the time-consuming tasks of financial record-keeping and reporting, allowing you to focus on your core business activities.",
+          "icon": "rocket"
+        },
+        {
+          "title": "Focus on Core Business",
+          "desc": "With our accounting expertise, you can focus on achieving your business goals while ensuring financial accuracy and compliance.",
+          "icon": "network"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Ready to get started in Vietnam?",
+      "subtitle": "Talk to our experts about how we can support your business.",
+      "button": {
+        "label": "Make an Inquiry",
+        "href": "/make-an-inquiry"
+      },
+      "variant": "red"
+    }
+  ],
+  "showContactForm": true
+}

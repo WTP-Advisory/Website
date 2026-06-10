@@ -1,0 +1,31 @@
+﻿{
+  "name": "WTP Advisory",
+  "logo": "/incorp/brand/logo-incorp.png",
+  "homeUrl": "/",
+  "topbar": {
+    "callLabel": "Call Us",
+    "phone": "+8428 3535 0019",
+    "phoneHref": "https://wa.me/842835350019",
+    "currentLocation": "VN",
+    "locations": [
+      "Singapore",
+      "Australia",
+      "Hong Kong",
+      "India",
+      "Indonesia",
+      "Malaysia",
+      "Philippines",
+      "Vietnam",
+      "Mainland China"
+    ]
+  },
+  "brochure": {
+    "text": "Find out how WTP Advisory’s expertise can help you and your company.",
+    "ctaLabel": "Download free brochure",
+    "ctaHref": "https://vietnam.incorp.asia/wp-content/uploads/2025/03/Update-Feb-2025-a5-Brochure-Services-WTP Advisory.pdf"
+  },
+  "whatsapp": {
+    "href": "https://wa.me/842835350019",
+    "label": "WhatsApp"
+  }
+}

@@ -1,0 +1,42 @@
+﻿{
+  "layout": "event",
+  "title": "Representative Offices in Vietnam: 5 Key Legal Exemptions for Businesses to Keep in Mind",
+  "metaDescription": "A webinar on the key legal exemptions and obligations when setting up and running a representative office in Vietnam.",
+  "banner": "/incorp/events/representative-offices.png",
+  "format": "Webinar",
+  "date": "August 1, 2024",
+  "about": [
+    "A representative office is the most popular model for market entry in Vietnam. As an affordable solution for newcomers to familiarize themselves with the Vietnamese market, setting up a representative office can be a preliminary step before fully committing to commercial activities and expansion."
+  ],
+  "details": [
+    { "label": "Date", "value": "August 1, 2024" },
+    { "label": "Format", "value": "Online webinar — joining link provided upon registration" }
+  ],
+  "bulletSections": [
+    {
+      "heading": "What We'll Cover",
+      "items": [
+        "Definitions and benefits of a representative office",
+        "Legal requirements for registering a representative office",
+        "Permitted and prohibited activities",
+        "Steps required to register a representative office",
+        "Conditions to be appointed as head of a representative office",
+        "PIT compliance and reporting obligations",
+        "Advantages and disadvantages compared to other business entities"
+      ]
+    }
+  ],
+  "registration": {
+    "heading": "Save Your Seat",
+    "subtitle": "Tune in to our exclusive webinar for the latest updates.",
+    "schedule": "August 1, 2024"
+  },
+  "prev": {
+    "title": "Mastering Chief Accountant Compliance in Vietnam: Essential Guidelines for 2024",
+    "href": "/events/webinar-chief-accountant-requirements"
+  },
+  "next": {
+    "title": "[Savills x WTP Advisory] Gateway to Growth 2024: Ha Noi and Northern Vietnam's Investment Landscape",
+    "href": "/events/gateway-to-growth-hanoi-and-northern-investment"
+  }
+}

@@ -1,0 +1,75 @@
+﻿{
+  "about": {
+    "heading": "About WTP Advisory",
+    "body": "WTP Advisory is a leading market entry & corporate services firm in Vietnam. As part of WTP Advisory, we focus on providing transparent and reliable services to overseas clients in Vietnam and Asia-Pacific. With 30+ years of experience and 1,500 professionals, WTP Advisory has assisted 20,000 clients in elevating their businesses."
+  },
+  "contact": {
+    "heading": "Contact Us",
+    "offices": [
+      {
+        "name": "HCMC Office",
+        "lines": [
+          "The Galleria Office Building",
+          "258 Nam Ky Khoi Nghia St., Xuan Hoa Ward,",
+          "Ho Chi Minh City, Vietnam"
+        ]
+      },
+      {
+        "name": "Hanoi Office",
+        "lines": [
+          "Prime Centre Building",
+          "17th floor, 53 Quang Trung St.,",
+          "Hai Ba Trung Ward, Hanoi, Vietnam"
+        ]
+      }
+    ],
+    "phone": "+84 28 3535 0019",
+    "phoneHref": "tel:+842835350019",
+    "email": "vietnam@incorp.asia",
+    "emailHref": "mailto:vietnam@incorp.asia"
+  },
+  "newsletter": {
+    "heading": "Stay in the Know",
+    "body": "Subscribe and get our exclusive Vietnam Business Setup Checklist",
+    "namePlaceholder": "Name",
+    "emailPlaceholder": "Email",
+    "submitLabel": "Subscribe"
+  },
+  "columns": [
+    {
+      "heading": "Services",
+      "links": [
+        { "label": "Company Formation", "href": "/incorporation/company-formation" },
+        { "label": "Legal Advisory", "href": "/legal-advisory" },
+        { "label": "Accounting & Taxation", "href": "/accounting-taxation" },
+        { "label": "HR & Payroll", "href": "/hr-payroll-services" }
+      ]
+    },
+    {
+      "heading": "Quick Links",
+      "links": [
+        { "label": "About Us", "href": "/about-us" },
+        { "label": "Our Partners", "href": "/our-partners" },
+        { "label": "Our Experts", "href": "/our-people" }
+      ]
+    },
+    {
+      "heading": "Resources",
+      "links": [
+        { "label": "News", "href": "/news" },
+        { "label": "Events", "href": "/events" }
+      ]
+    }
+  ],
+  "bottom": {
+    "copyright": "© 2026 WTP Advisory (formerly Cekindo), all rights reserved.",
+    "legalLinks": [
+      { "label": "Privacy Policy", "href": "/privacy" },
+      { "label": "Terms & Conditions", "href": "/terms" }
+    ],
+    "social": [
+      { "label": "Facebook", "icon": "facebook", "href": "https://www.facebook.com/InCorpVietnam" },
+      { "label": "LinkedIn", "icon": "linkedin", "href": "https://www.linkedin.com/company/incorp-vietnam/" }
+    ]
+  }
+}

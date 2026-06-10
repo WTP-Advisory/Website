@@ -1,0 +1,112 @@
+﻿{
+  "title": "Conditional Business License Services in Vietnam",
+  "metaDescription": "Starting a business in Vietnam with a conditional license? WTP Advisory offers end-to-end support for efficient, compliant licensing.",
+  "hero": {
+    "eyebrow": "Services",
+    "title": "Conditional Business License Services in Vietnam",
+    "subtitle": "Planning to establish a business in Vietnam that requires a conditional business license? The regulatory process can be challenging, but WTP Advisory is here to make it effortless. Our experienced team offers end-to-end assistance, ensuring you secure the required licenses efficiently and in full compliance with local laws.",
+    "cta": {
+      "label": "Make an Inquiry",
+      "href": "/make-an-inquiry"
+    },
+    "image": "/incorp/solutions/legal-advisory.jpg"
+  },
+  "sections": [
+    {
+      "type": "richText",
+      "heading": "Are you looking to set up a business in Vietnam that requires a conditional business license?",
+      "body": [
+        "Navigating the country's regulatory landscape can be complex, but WTP Advisory is here to simplify the process for you. Our team of experts provides comprehensive support to ensure you obtain the necessary licenses quickly and compliantly."
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Why Choose WTP Advisory?",
+      "columns": 3,
+      "items": [
+        {
+          "title": "Expert Regulatory Guidance",
+          "desc": "Our specialists have extensive knowledge of Vietnam's licensing regulations and keep up with the latest legal updates.",
+          "icon": "scale"
+        },
+        {
+          "title": "End-to-End Support",
+          "desc": "From document preparation to submission and follow-up, we handle the entire licensing process for you.",
+          "icon": "headset"
+        },
+        {
+          "title": "Tailored Solutions",
+          "desc": "We provide customized licensing strategies based on your business model and industry requirements.",
+          "icon": "badge"
+        },
+        {
+          "title": "Fast-Track Processing",
+          "desc": "With our established networks and local expertise, we help you secure your license in the shortest possible time.",
+          "icon": "clock"
+        },
+        {
+          "title": "Compliance Assurance",
+          "desc": "We ensure that your business remains compliant with all Vietnamese laws and regulations, avoiding potential risks and penalties.",
+          "icon": "shield"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Benefits of conditional business license services with WTP Advisory",
+      "columns": 4,
+      "items": [
+        {
+          "title": "Meet the International Team of Experts",
+          "icon": "globe"
+        },
+        {
+          "title": "Full Transparency for the Entire Process",
+          "icon": "headset"
+        },
+        {
+          "title": "Both Remote and Direct Communication",
+          "icon": "chart"
+        },
+        {
+          "title": "Enhances Scalability and Adaptability",
+          "icon": "fileCheck"
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "variant": "red",
+      "heading": "Your Experts in Company Incorporation",
+      "items": [
+        {
+          "value": "30+",
+          "label": "Years Track Record"
+        },
+        {
+          "value": "15,000+",
+          "label": "Clients Worldwide"
+        },
+        {
+          "value": "100+",
+          "label": "Companies Incorporated Yearly"
+        },
+        {
+          "value": "1,500+",
+          "label": "Professionals"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Ready to get started in Vietnam?",
+      "subtitle": "Talk to our experts about how we can support your business.",
+      "button": {
+        "label": "Make an Inquiry",
+        "href": "/make-an-inquiry"
+      },
+      "variant": "red"
+    }
+  ],
+  "showContactForm": true
+}

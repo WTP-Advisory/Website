@@ -1,0 +1,53 @@
+﻿{
+  "layout": "event",
+  "title": "WTP Advisory x FLI: How can strategic sales management boost your sales? – Hanoi",
+  "metaDescription": "An exclusive FDI enterprise solutions workshop on strategic sales management for businesses in northern Vietnam, presented by WTP Advisory with the Frontier Leader Institute (FLI).",
+  "banner": "/incorp/events/fdi-fli.jpg",
+  "format": "Offline",
+  "date": "September 19, 2024",
+  "about": [
+    "Join us on September 19th, 2024, in Hanoi for an exclusive workshop designed to elevate your sales team's performance. In collaboration with the Frontier Leader Institute (FLI), WTP Advisory proudly presents “How Can Strategic Sales Management Boost Your Revenue?”, led by Mrs. Thanh Lam, Former CEO of VinFast Europe.",
+    "This workshop offers actionable strategies and insights tailored for FDI companies in Vietnam, aimed at driving sustainable growth and securing your competitive edge in the dynamic market. Don't miss this opportunity to transform your sales approach and achieve long-term success."
+  ],
+  "details": [
+    { "label": "Date", "value": "Thursday, September 19, 2024" },
+    { "label": "Time", "value": "17:30 – 20:30 (GMT+7)" },
+    { "label": "Location", "value": "Floor 3, Aura Building, The Manor Central Park, Nguyen Xien Street, Dai Kim, Hoang Mai Ward, Hanoi City" }
+  ],
+  "bulletSections": [
+    {
+      "heading": "What You'll Learn",
+      "intro": "Our comprehensive workshop series covers a range of customer-centric topics critical to your business.",
+      "items": [
+        "Essential Leadership Skills — cultivate the qualities needed to inspire and guide your team towards organizational goals",
+        "Effective People Management — manage and motivate your workforce, fostering a productive and positive work environment",
+        "Dynamic Sales Strategies — develop cutting-edge techniques to boost your revenue and market presence",
+        "Exceptional Customer Relationship Management — enhance engagement and satisfaction through proven CRM practices",
+        "Efficient Project Management — deliver results on time and within budget",
+        "Resilient Crisis Management — navigate and mitigate crises to keep your business resilient"
+      ]
+    },
+    {
+      "heading": "What You'll Gain",
+      "items": [
+        "Strategic Sales Leadership — develop winning sales strategies that drive measurable growth",
+        "High-Impact Team Management — advanced techniques to inspire and lead a top-performing sales team",
+        "Data-Driven Decision Making — use analytics to refine your approach and enhance sales outcomes",
+        "Deep Customer Insight — tailor your strategies to the nuances of the Vietnamese market"
+      ]
+    }
+  ],
+  "registration": {
+    "heading": "Reserve Your Spot",
+    "subtitle": "Join the Frontier Leadership Institute's exclusive workshop series and take the first step towards transforming your business.",
+    "schedule": "September 19, 2024 | 17:30 – 20:30 (GMT+7)"
+  },
+  "prev": {
+    "title": "[Savills x WTP Advisory] Gateway to Growth 2024: Ha Noi and Northern Vietnam's Investment Landscape",
+    "href": "/events/gateway-to-growth-hanoi-and-northern-investment"
+  },
+  "next": {
+    "title": "Vietnam Economic Outlook: Half-Year Review and Future Prospects for H2 2024 and Beyond",
+    "href": "/events/economic-outlook-half-year-review-future-prospects-h2-2024"
+  }
+}

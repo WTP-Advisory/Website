@@ -1,0 +1,105 @@
+{
+  "title": "Electronic Labor Contracts in Vietnam 2026: Latest Regulations and Practical Insights",
+  "metaDescription": "A practical 2026 guide to electronic labor contracts in Vietnam: the legal basis, Decree 337/2025 requirements, the National E-Labor Contract Platform, and how foreign-invested enterprises can stay compliant.",
+  "hero": {
+    "eyebrow": "News & Insights",
+    "title": "Electronic Labor Contracts in Vietnam 2026: Latest Regulations and Practical Insights",
+    "subtitle": "Everything employers need to know about issuing legally valid electronic labor contracts in Vietnam under the 2026 regulatory framework.",
+    "image": "/incorp/news/electronic-labor-contracts.png"
+  },
+  "sections": [
+    {
+      "type": "richText",
+      "heading": "The Legal Basis for Electronic Labor Contracts in Vietnam",
+      "body": [
+        "Electronic labor contracts have carried the same legal standing as their paper equivalents under Vietnam's Labor Code for several years, provided they are executed through a secure electronic system. The 2026 framework removes any remaining ambiguity and gives employers a clear, standardized path to digital hiring.",
+        "The decisive change comes from Decree 337/2025/ND-CP, which mandates compliance with a structured set of technical and procedural standards starting 1 July 2026. From that date, e-labor contracts are not simply permitted, they are governed by a single national framework that every employer must follow."
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Key Requirements Under Decree 337/2025",
+      "columns": 1,
+      "items": [
+        "Digital signatures with timestamps: Systems must use legally compliant digital signatures. Scanned signature images or simple click-to-accept buttons are not sufficient.",
+        "Mutual consent: Both the employer and the worker must agree to use the electronic method, and each party must receive an accessible copy of the completed agreement.",
+        "Platform registration within 24 hours: Every contract must be submitted to the national registry within 24 hours of signing and will receive a unique identification code.",
+        "Identity authentication: The system must verify each signatory using citizen credentials, passports, or VNeID accounts.",
+        "Approved service providers: E-contract platforms must satisfy strict technical, security, and compliance specifications before they can be used."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "The National Electronic Labor Contract Platform",
+      "body": [
+        "At the center of the new regime is the National Electronic Labor Contract Platform, a centralized registry that manages all e-contracts. Once a contract is signed, it must be uploaded to the platform within 24 hours, where it is assigned a unique identification code that links the agreement to verified identities and a tamper-evident audit trail.",
+        "This centralization gives authorities real-time visibility into employment relationships and gives employers a single, authoritative record of every contract. It also raises the stakes for process discipline: a missed upload window or a registration failure is now a traceable compliance gap rather than an internal oversight."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Treatment of Foreign Employees and Expatriates",
+      "body": [
+        "Foreign employees and expatriates may use electronic labor contracts, provided they can be properly identified within the system. Passports and VNeID accounts are the primary means of authentication, and employers should confirm that their chosen platform can validate non-Vietnamese identity documents before onboarding international hires.",
+        "Inadequate verification of foreign workers is one of the more common compliance pitfalls, so foreign-invested enterprises should treat expatriate identity authentication as a distinct step in their rollout rather than an afterthought."
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Advantages of Adopting the Electronic Format",
+      "columns": 2,
+      "items": [
+        "Faster onboarding with contracts signed remotely and instantly",
+        "A single, searchable repository of all employment agreements",
+        "Stronger authenticity through verified identities and timestamps",
+        "Built-in audit trails that simplify inspections and disputes",
+        "Reduced printing, storage, and document-handling costs",
+        "Easier management of a distributed or multi-site workforce"
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Implementation Roadmap for Foreign-Invested Enterprises",
+      "columns": 1,
+      "items": [
+        "Audit current hiring and contracting processes against the new requirements.",
+        "Obtain compliant digital signatures for the company and authorized signatories.",
+        "Select an approved e-contract service provider that meets the technical standards.",
+        "Integrate the platform with existing HR and payroll systems to avoid duplicate data entry.",
+        "Establish VNeID accounts and verify identity-validation flows for both local and foreign staff.",
+        "Create internal protocols covering consent, the 24-hour upload window, and data protection.",
+        "Train HR personnel and run a pilot program before full rollout."
+      ]
+    },
+    {
+      "type": "faq",
+      "heading": "Common Implementation Mistakes",
+      "items": [
+        {
+          "q": "Is a scanned signature image enough to sign an e-labor contract?",
+          "a": "No. Relying on scanned signature images or click-to-accept methods does not meet the standard. Contracts must use legally compliant digital signatures paired with timestamps."
+        },
+        {
+          "q": "What happens if we miss the 24-hour upload window?",
+          "a": "Failing to register a contract on the National Platform within 24 hours is a traceable compliance gap. Build the upload into your signing workflow so it happens automatically rather than as a manual follow-up."
+        },
+        {
+          "q": "How should we handle identity verification for foreign workers?",
+          "a": "Foreign employees must be authenticated through passports or VNeID accounts. Confirm in advance that your platform can validate non-Vietnamese documents, as inadequate verification is a frequent source of non-compliance."
+        },
+        {
+          "q": "Do we still need to protect the contract data?",
+          "a": "Yes. Insufficient data security and missing audit-trail documentation are common errors. Maintain strong data protection measures and complete audit records for every contract."
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Need help with this in Vietnam?",
+      "subtitle": "Our team can help you implement compliant electronic labor contracts and stay ahead of the 2026 requirements.",
+      "button": { "label": "Make an inquiry", "href": "/make-an-inquiry" },
+      "variant": "red"
+    }
+  ],
+  "showContactForm": false
+}
