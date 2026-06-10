@@ -1,0 +1,65 @@
+{
+  "title": "Financial Statement Preparation",
+  "metaDescription": "Precise and compliant financial statement preparation in Vietnam — balance sheets, profit & loss and cash flow reports aligned with Vietnamese financial reporting standards.",
+  "hero": {
+    "eyebrow": "Accounting & Taxation",
+    "title": "Financial Statement Preparation in Vietnam",
+    "subtitle": "Managing financial statements in Vietnam can be complex — but with InCorp Vietnam, you don't have to navigate it alone.",
+    "cta": { "label": "Make an Inquiry", "href": "/make-an-inquiry" }
+  },
+  "sections": [
+    {
+      "type": "richText",
+      "eyebrow": "Overview",
+      "heading": "Precise, compliant financial statements",
+      "align": "left",
+      "body": [
+        "Clear and accurate financial statements are essential for informed decision-making and for meeting Vietnam's regulatory requirements.",
+        "Our team ensures accuracy, compliance and alignment with Vietnam's financial reporting standards, with solutions tailored to start-ups, SMEs and large enterprises alike."
+      ]
+    },
+    {
+      "type": "cards",
+      "eyebrow": "What's included",
+      "heading": "Statements we prepare",
+      "columns": 2,
+      "items": [
+        { "title": "Balance sheets", "desc": "A clear snapshot of your assets, liabilities and equity at period end." },
+        { "title": "Profit & loss statements", "desc": "Track revenue, costs and profitability over each reporting period." },
+        { "title": "Cash flow reports", "desc": "Understand how cash moves through operating, investing and financing activities." },
+        { "title": "Comprehensive reporting", "desc": "Additional notes and disclosures to give a complete financial picture." }
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "Why InCorp",
+      "heading": "Benefits of working with us",
+      "columns": 1,
+      "items": [
+        "Accuracy and compliance aligned with Vietnam's financial reporting standards",
+        "Up-to-date knowledge of Vietnamese laws and tax obligations",
+        "Resource efficiency — free your internal teams from financial management tasks",
+        "Customized solutions for start-ups, SMEs and large enterprises",
+        "Expert guidance and insights into financial best practices"
+      ]
+    },
+    {
+      "type": "stats",
+      "eyebrow": "By the numbers",
+      "heading": "A proven track record",
+      "items": [
+        { "value": "30+", "label": "Years of experience" },
+        { "value": "120+", "label": "Accounting & tax clients" },
+        { "value": "15,000+", "label": "Clients worldwide" }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Get accurate, compliant financial statements",
+      "subtitle": "Let our experts prepare statements you can rely on for every decision.",
+      "button": { "label": "Make an Inquiry", "href": "/make-an-inquiry" },
+      "variant": "red"
+    }
+  ],
+  "showContactForm": false
+}

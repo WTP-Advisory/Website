@@ -1,0 +1,54 @@
+{
+  "title": "Transfer Ownership in Vietnam",
+  "metaDescription": "Expert transfer of business ownership in Vietnam — a smooth, legally compliant transition with minimal bureaucracy.",
+  "hero": {
+    "eyebrow": "Incorporation",
+    "title": "Transfer Ownership in Vietnam",
+    "subtitle": "InCorp Vietnam provides expert transfer-of-ownership services, ensuring a smooth and legally compliant business ownership transition.",
+    "cta": { "label": "Make an Inquiry", "href": "/make-an-inquiry" }
+  },
+  "sections": [
+    {
+      "type": "richText",
+      "eyebrow": "Overview",
+      "heading": "A simpler path than starting fresh",
+      "body": [
+        "Transferring business ownership in Vietnam means facilitating an official ownership transition through registration with the relevant government authorities. Compared with establishing a new entity, it requires far less bureaucratic process and paperwork.",
+        "Our team manages the legal and administrative steps end to end, helping investors take over an existing, operating business with confidence and full compliance."
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "Benefits",
+      "heading": "Why transfer ownership",
+      "columns": 2,
+      "items": [
+        "Streamlined process with fewer bureaucratic hurdles and less paperwork",
+        "Financial flexibility — no requirement to demonstrate financial capability",
+        "Residency advantages through investor visas or temporary residence cards",
+        "Business stability enabling continued operations and personal settlement in Vietnam"
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "Why InCorp",
+      "heading": "What you get with our team",
+      "columns": 2,
+      "items": [
+        "Professional bilingual experts ensuring clear communication",
+        "Guidance aligned with your specific business objectives",
+        "Transparent cost and timeline estimates with no hidden fees",
+        "Flexible direct and virtual consultation options",
+        "30+ years of track record with 100+ annual incorporations"
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Take over a business in Vietnam, seamlessly",
+      "subtitle": "Let our experts manage a compliant, low-friction ownership transition.",
+      "button": { "label": "Make an Inquiry", "href": "/make-an-inquiry" },
+      "variant": "red"
+    }
+  ],
+  "showContactForm": false
+}

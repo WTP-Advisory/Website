@@ -1,0 +1,63 @@
+{
+  "title": "Buy a Company in Vietnam",
+  "metaDescription": "Buy a ready-made shelf company in Vietnam and start doing business in as little as one week.",
+  "hero": {
+    "eyebrow": "Incorporation",
+    "title": "Buy a Company in Vietnam",
+    "subtitle": "Buying a company is the fastest way to own a business in Vietnam. Start operating in as little as one week and tap into Vietnam's exciting investment opportunities.",
+    "cta": { "label": "Make an Inquiry", "href": "/make-an-inquiry" }
+  },
+  "sections": [
+    {
+      "type": "richText",
+      "eyebrow": "Overview",
+      "heading": "The fast track to owning a business",
+      "body": [
+        "A shelf company — also called an aged or ready-made company — is a pre-established entity with zero business activity and no prior transactions. Buying one lets you bypass the lengthy traditional formation process and commence operations rapidly.",
+        "InCorp Vietnam guides you through selection, valuation and due diligence so you acquire a clean, compliant company with full confidence."
+      ]
+    },
+    {
+      "type": "steps",
+      "eyebrow": "Process",
+      "heading": "How buying a company works",
+      "items": [
+        { "title": "Research & selection", "desc": "Identify suitable industries and evaluate market demand against your key business criteria." },
+        { "title": "Company valuation", "desc": "Assess projected earnings, asset value and comparable market pricing for negotiation." },
+        { "title": "Due diligence & documentation", "desc": "Conduct financial reviews, legal compliance checks and risk audits." },
+        { "title": "Transaction completion", "desc": "Finalize all legal and financial details with third-party transfer management." }
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "Why InCorp",
+      "heading": "Benefits of buying with us",
+      "columns": 2,
+      "items": [
+        "Work with professional bilingual experts for clear communication",
+        "Complete cost and time transparency with no surprise fees",
+        "Direct and virtual consultations to suit your schedule",
+        "Tailored guidance aligned with your business objectives"
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "FAQ",
+      "heading": "Frequently asked questions",
+      "items": [
+        { "q": "Can foreigners establish companies in Vietnam?", "a": "Yes. Foreign investors may establish foreign-owned entities, with LLCs remaining most common due to streamlined procedures." },
+        { "q": "What minimum capital is needed?", "a": "While no legal minimum exists, USD 25,000-30,000 represents standard practice for operational stability." },
+        { "q": "Is 100% foreign ownership permitted?", "a": "Yes, across most sectors except restricted activities such as narcotics, hazardous materials, endangered species trade and human trafficking." },
+        { "q": "How quickly can shelf company operations begin?", "a": "Management control can transfer within a few working days, enabling near-immediate business commencement." }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Own a Vietnamese company in days",
+      "subtitle": "Skip the wait — acquire a ready-made company and start trading fast.",
+      "button": { "label": "Make an Inquiry", "href": "/make-an-inquiry" },
+      "variant": "red"
+    }
+  ],
+  "showContactForm": false
+}

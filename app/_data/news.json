@@ -1,0 +1,42 @@
+{
+  "heading": "News & insights",
+  "readMoreLabel": "Read more",
+  "articles": [
+    {
+      "title": "Electronic Labor Contracts in Vietnam 2026: Latest Regulations and Practical Insights",
+      "href": "/electronic-labor-contracts-in-vietnam",
+      "image": "/incorp/news/electronic-labor-contracts.png",
+      "alt": "electronic labor contracts"
+    },
+    {
+      "title": "Master ERP Application in Vietnam: A Complete Guide for 2026",
+      "href": "/erp-application-in-vietnam-2026",
+      "image": "/incorp/news/erp-application.png",
+      "alt": "erp application in vietnam"
+    },
+    {
+      "title": "Automation in Vietnam 2026: Advancing Industrial Innovation and Industrialization with Artificial Intelligence Automation",
+      "href": "/automation-in-vietnam",
+      "image": "/incorp/news/automation.jpg",
+      "alt": "Automation in Vietnam"
+    },
+    {
+      "title": "Top Firms for Tax and Compliance Services in Vietnam: The 2026 Corporate Guide",
+      "href": "/tax-and-compliance-services-in-vietnam",
+      "image": "/incorp/news/tax-compliance.png",
+      "alt": "tax and compliance services"
+    },
+    {
+      "title": "A Guide to Payroll in Vietnam: What Employers Need to Know for 2026",
+      "href": "/manage-payroll-vietnam",
+      "image": "/incorp/news/payroll.png",
+      "alt": "payroll in vietnam"
+    },
+    {
+      "title": "Beyond the Ledger: The 2026 Guide to Finance and Accounting Outsourcing Services in Vietnam",
+      "href": "/finance-and-accounting-outsourcing-services",
+      "image": "/incorp/news/finance-accounting.png",
+      "alt": "finance and accounting outsourcing services"
+    }
+  ]
+}

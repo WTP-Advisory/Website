@@ -1,0 +1,41 @@
+{
+  "layout": "event",
+  "title": "Mastering Chief Accountant Compliance in Vietnam: Essential Guidelines for 2024",
+  "metaDescription": "A webinar on the chief accountant requirement and accounting compliance in Vietnam — legal obligations, responsibilities and how to stay compliant.",
+  "banner": "/incorp/events/chief-accountant.jpg",
+  "format": "Webinar",
+  "date": "June 13, 2024",
+  "about": [
+    "In the dynamic business landscape of Vietnam, the role of a Chief Accountant is both pivotal and challenging, serving as the backbone of financial management and compliance within an organization. Understanding and executing these responsibilities is crucial given Vietnam's stringent regulatory environment.",
+    "This webinar is tailored to demystify the complexities surrounding the legal requirements and operational duties of a Chief Accountant in Vietnam."
+  ],
+  "details": [
+    { "label": "Date", "value": "June 13, 2024" },
+    { "label": "Format", "value": "Online webinar — joining link provided upon registration" }
+  ],
+  "bulletSections": [
+    {
+      "heading": "What We'll Cover",
+      "items": [
+        "Chief Accountant Requirements — overview of Vietnam's legal requirements for appointing a chief accountant",
+        "Roles and Responsibilities — key duties of a chief accountant",
+        "Consequences of Non-Compliance — penalties and legal risks for failing to appoint a chief accountant",
+        "Ensuring Compliance — strategies including InCorp's Chief Accountant Service and a comparison of in-house vs. outsourced solutions",
+        "Regulatory Updates — the latest on accounting compliance regulations"
+      ]
+    }
+  ],
+  "registration": {
+    "heading": "Save Your Seat",
+    "subtitle": "Tune in to our exclusive webinar for the latest updates.",
+    "schedule": "June 13, 2024"
+  },
+  "prev": {
+    "title": "One InCorp, Eight Markets: Expand Your Horizons Series – Vietnam Market Insights in Hong Kong",
+    "href": "/events/one-incorp-eight-markets-vietnam-market-insights-in-hongkong"
+  },
+  "next": {
+    "title": "Representative Offices in Vietnam: 5 Key Legal Exemptions for Businesses to Keep in Mind",
+    "href": "/events/webinar-representative-office-setup"
+  }
+}

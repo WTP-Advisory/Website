@@ -1,0 +1,64 @@
+{
+  "title": "Local Partner & Distributor Selection Services",
+  "metaDescription": "InCorp Vietnam helps you identify, vet and engage dependable local partners and distributors in Vietnam — with thorough due diligence, negotiation support and sustainable market expansion.",
+  "hero": {
+    "eyebrow": "Business Advisory",
+    "title": "Local Partner & Distributor Selection Services in Vietnam",
+    "subtitle": "We help businesses identify dependable partners and distributors aligned with their strategic goals — conducting thorough due diligence, negotiating favorable agreements, and enabling sustainable expansion in Vietnam's marketplace.",
+    "cta": { "label": "Make an Inquiry", "href": "/make-an-inquiry" }
+  },
+  "sections": [
+    {
+      "type": "richText",
+      "eyebrow": "Why It Matters",
+      "heading": "Why investors need a trustworthy local partner and distributor in Vietnam",
+      "align": "center",
+      "body": [
+        "Local partners provide crucial market intelligence, regulatory guidance, and cultural understanding that reduce entry barriers and accelerate your path to market.",
+        "Trusted distributors grant access to established sales networks and regional demand insights, enabling faster scaling and broader audience reach. Choosing the right partner from the start protects your investment and lays the foundation for long-term success."
+      ]
+    },
+    {
+      "type": "cards",
+      "eyebrow": "Key Benefits",
+      "heading": "Benefits of Local Partner & Distributor Selection with InCorp Vietnam",
+      "columns": 2,
+      "items": [
+        { "title": "Local Market Expertise", "desc": "In-depth knowledge of regional trends, consumer patterns, and compliance requirements to inform your decisions." },
+        { "title": "Risk Mitigation", "desc": "Rigorous due diligence minimizes selection risks and ensures long-term market viability." },
+        { "title": "Faster Market Penetration", "desc": "Established networks enable rapid access to proven distribution channels." },
+        { "title": "Seamless Operations", "desc": "Expert negotiation support streamlines partnership formation and ongoing collaboration." }
+      ]
+    },
+    {
+      "type": "steps",
+      "eyebrow": "How We Work",
+      "heading": "Our partner selection process",
+      "items": [
+        { "title": "Define Your Criteria", "desc": "We align on your strategic goals, target segments, and the profile of an ideal partner or distributor." },
+        { "title": "Identify & Shortlist", "desc": "Leveraging local networks and market intelligence, we source and shortlist suitable candidates." },
+        { "title": "Due Diligence", "desc": "We verify financial standing, reputation, capabilities, and regulatory compliance of each candidate." },
+        { "title": "Negotiate & Onboard", "desc": "We support agreement negotiation and facilitate a smooth onboarding of your chosen partner." }
+      ]
+    },
+    {
+      "type": "stats",
+      "eyebrow": "Why InCorp",
+      "heading": "Trusted across Asia-Pacific",
+      "items": [
+        { "value": "30+", "label": "Years track record" },
+        { "value": "100+", "label": "Companies incorporated yearly" },
+        { "value": "15,000+", "label": "Clients worldwide" },
+        { "value": "1,500+", "label": "Professionals" }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Ready to find the right partner in Vietnam?",
+      "subtitle": "Talk to our advisory team about your local partner and distributor needs.",
+      "button": { "label": "Make an Inquiry", "href": "/make-an-inquiry" },
+      "variant": "red"
+    }
+  ],
+  "showContactForm": false
+}

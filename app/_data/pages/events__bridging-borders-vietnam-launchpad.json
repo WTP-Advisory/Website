@@ -1,0 +1,50 @@
+{
+  "layout": "event",
+  "title": "Bridging Borders: Vietnam Launchpad – Move, Build, Succeed for Overseas Vietnamese",
+  "metaDescription": "Season 2 of Bridging Borders returns with practical insights for Overseas Vietnamese building businesses, careers and new lives in Vietnam.",
+  "banner": "/incorp/events/bridging-borders-launchpad.png",
+  "format": "Offline",
+  "date": "May 5, 2025",
+  "about": [
+    "Season 2 of Bridging Borders has returned with fresh perspectives and practical insights for Overseas Vietnamese looking to reimagine their personal and professional journey in Vietnam. Whether it's building a business, moving a family, or expanding creative influence through content and media, it is all about hearing real stories and connecting with like-minded people."
+  ],
+  "matters": {
+    "heading": "Season 2 – Coming Home with Purpose: Come Back and Build Forward",
+    "body": [
+      "Are you an Overseas Vietnamese thinking about coming back — not just to live, but to lead, build, and make an impact? Bridging Borders: Vietnam Launchpad returns after a successful first season, and this time we're diving even deeper.",
+      "This year's focus is all about startups, innovation, and marketing in Vietnam's evolving business landscape — from agile SMEs to large-scale corporates. Whether you're an entrepreneur, creative strategist, or business leader, this event is designed for those ready to drive change and shape what's next.",
+      "Of course, we're still covering the essentials — career transitions, cultural reintegration, and family relocation — but now with a sharper lens on the realities and opportunities of returning home. You'll also hear from an inspiring lineup of Overseas Vietnamese who've built standout careers and companies both here and abroad."
+    ]
+  },
+  "details": [
+    { "label": "Date", "value": "Monday, 5 May 2025" },
+    { "label": "Time", "value": "6:00 PM – 8:00 PM" },
+    { "label": "Venue", "value": "Diamond Hall B, Sofitel Saigon Plaza, 17 Le Duan, Ben Nghe, Ho Chi Minh City" },
+    { "label": "Participation Fee", "value": "Prepayment 300,000 VND | At door 350,000 VND (strictly no-cash payment)" }
+  ],
+  "agenda": [
+    { "time": "17:30 – 18:00", "title": "Registration and Networking" },
+    { "time": "18:00 – 18:10", "title": "Welcome and Introduction" },
+    { "time": "18:10 – 18:20", "title": "Building business growth through inspiring content creation and media", "speaker": "Hao Tran – CEO, Vietcetera Media" },
+    { "time": "18:20 – 18:30", "title": "Unpacking the journey of launching a successful startup", "speaker": "Robert Huynh – Co-Founder, Reforged Labs" },
+    { "time": "18:30 – 18:40", "title": "Strategic differences between marketing for SMEs and corporate companies", "speaker": "Tammy Thi Phan – CDMO, Masan" },
+    { "time": "18:40 – 18:50", "title": "Overcoming language barriers, bridging cultures and managing a business", "speaker": "Annie Vo – COO, Premier Dental" },
+    { "time": "18:50 – 19:00", "title": "The relocation process for building a new life in Vietnam", "speaker": "Ken Duong – CEO, Duong Business Consulting" },
+    { "time": "19:00 – 19:30", "title": "Panel Discussion and Q&A" },
+    { "time": "19:30 – 19:40", "title": "Lucky Draw" },
+    { "time": "19:40 – 20:00", "title": "Group Photo & Networking" }
+  ],
+  "registration": {
+    "heading": "RSVP Now",
+    "subtitle": "Secure your seat at this exclusive event and take the first step towards realizing your aspirations in Vietnam.",
+    "schedule": "5 May 2025 | 6:00 PM – 8:00 PM"
+  },
+  "prev": {
+    "title": "Is “Made in Vietnam” The New “Made in China”?",
+    "href": "/events/made-in-vietnam-the-new-made-in-china"
+  },
+  "next": {
+    "title": "From Singapore to Vietnam: Turning Strategic Ties into Smart Investments",
+    "href": "/events/from-singapore-to-vietnam-smart-strategies-for-sme-expansion-compliance"
+  }
+}

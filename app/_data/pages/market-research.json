@@ -1,0 +1,73 @@
+{
+  "title": "Market Research in Vietnam",
+  "metaDescription": "InCorp Vietnam delivers tailored market research — brand, competitor, consumer and product research — to help you analyze your audience and make informed, data-driven decisions in Vietnam.",
+  "hero": {
+    "eyebrow": "Market Research",
+    "title": "Market Research in Vietnam: Analyze & Know Your Audience",
+    "subtitle": "We provide tailored market research solutions to help businesses make informed decisions — from fully customized studies to cost-effective standard solutions for tactical decision-making.",
+    "cta": { "label": "Make an Inquiry", "href": "/make-an-inquiry" }
+  },
+  "sections": [
+    {
+      "type": "cards",
+      "eyebrow": "Why It Matters",
+      "heading": "Benefits of market research",
+      "columns": 2,
+      "items": [
+        { "title": "Tailor Products to Customers", "desc": "Customer feedback guides product development for enhanced satisfaction and loyalty." },
+        { "title": "Identify Risks and Opportunities", "desc": "Address challenges, adapt to threats, and seize opportunities before competitors do." },
+        { "title": "Inform Your Decisions", "desc": "Gain reliable insights that drive effective business decisions and sustainable growth." },
+        { "title": "Drive a Competitive Edge", "desc": "Align your marketing with customer preferences to build a lasting advantage." }
+      ]
+    },
+    {
+      "type": "cards",
+      "eyebrow": "What We Cover",
+      "heading": "Our range of market research types",
+      "columns": 3,
+      "items": [
+        { "title": "Brand Research", "desc": "Assesses brand awareness, loyalty, associations, and customer-brand relationships." },
+        { "title": "Marketing Campaign Evaluation", "desc": "Tracks metrics such as ad visibility and click-through rates to measure impact." },
+        { "title": "Competitor Research", "desc": "Analyzes competitors' strategies to reveal their strengths and weaknesses." },
+        { "title": "Customer Segmentation", "desc": "Creates distinct customer segments for customized, effective advertising." },
+        { "title": "Consumer Research", "desc": "Covers a range of study types tailored to your specific business goals." },
+        { "title": "Product Development", "desc": "Validates concepts and refines products based on real market feedback." },
+        { "title": "Usability Testing", "desc": "Focuses on product functionality and the overall user experience." }
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "Methodologies",
+      "heading": "Primary research methods we use",
+      "subtitle": "Primary research collects fresh data directly, while secondary research draws on existing sources such as government census data, industry reports and trend statistics.",
+      "columns": 2,
+      "items": [
+        "Surveys — quick questionnaires across in-person, phone, mail and online formats",
+        "Focus Groups — smaller researcher-led sessions for in-depth consumer insights",
+        "Interviews — individual in-depth discussions offering specific insights",
+        "Observation — watching consumer behavior in natural settings such as retail",
+        "Field Trials — testing changes on a limited scale before broader rollout",
+        "Secondary Research — synthesizing census data, industry reports and trends"
+      ]
+    },
+    {
+      "type": "steps",
+      "eyebrow": "How We Work",
+      "heading": "Your path to success in Vietnam",
+      "items": [
+        { "title": "Submit Your Information", "desc": "Share your company details and your market research needs." },
+        { "title": "Book a Consultation", "desc": "Meet with our bilingual consultants to scope your study." },
+        { "title": "Verify KYC Documents", "desc": "We complete the required due diligence and onboarding." },
+        { "title": "Choose a Plan & Succeed", "desc": "Select the right research plan and act on the insights you gain." }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Ready to truly know your audience?",
+      "subtitle": "Talk to our experts about tailored market research for Vietnam.",
+      "button": { "label": "Make an Inquiry", "href": "/make-an-inquiry" },
+      "variant": "red"
+    }
+  ],
+  "showContactForm": false
+}

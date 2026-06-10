@@ -1,0 +1,64 @@
+{
+  "title": "Other Tax Services in Vietnam",
+  "metaDescription": "Specialised tax services in Vietnam — transfer pricing compliance, PIT finalization, tax due diligence, tax health checks and tax audit support to manage risk and optimize your position.",
+  "hero": {
+    "eyebrow": "Tax Advisory",
+    "title": "Other Tax Services",
+    "subtitle": "InCorp Vietnam manages the complexities of Vietnam's tax system with tailored solutions for compliance, audits and tax optimization.",
+    "cta": { "label": "Make an Inquiry", "href": "/make-an-inquiry" }
+  },
+  "sections": [
+    {
+      "type": "richText",
+      "eyebrow": "Overview",
+      "heading": "Manage specialised tax risks proactively",
+      "align": "center",
+      "body": [
+        "Improper transfer pricing compliance, failure to finalize PIT correctly, or a lack of due diligence can result in significant risks for your business.",
+        "Our specialists provide focused support to identify exposures early and keep your tax position sound."
+      ]
+    },
+    {
+      "type": "cards",
+      "eyebrow": "Our Services",
+      "heading": "Specialised tax services",
+      "columns": 3,
+      "items": [
+        { "title": "Transfer Pricing Compliance", "desc": "Manage inter-company pricing regulations and documentation requirements." },
+        { "title": "PIT Finalization", "desc": "Complete and reconcile personal income tax for your employees." },
+        { "title": "Tax Due Diligence", "desc": "Financial vetting and tax assessments for transactions and investments." },
+        { "title": "Tax Health Check", "desc": "Regular evaluations of your tax position to surface risks early." },
+        { "title": "Tax Audit Support", "desc": "Assistance throughout government tax examinations and audits." }
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "Why InCorp Vietnam",
+      "heading": "Why choose us",
+      "columns": 2,
+      "items": [
+        "Expert consultation with insight into regulations and best practices.",
+        "Comprehensive support from reporting through to compliance management.",
+        "Simplified process that handles time-consuming tasks for you.",
+        "Business focus with ongoing financial accuracy."
+      ]
+    },
+    {
+      "type": "stats",
+      "heading": "Experience you can rely on",
+      "items": [
+        { "value": "30+", "label": "Years track record" },
+        { "value": "120+", "label": "Accounting & tax clients" },
+        { "value": "15,000+", "label": "Clients worldwide" }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Get specialised tax support in Vietnam",
+      "subtitle": "Speak with our team about transfer pricing, audits and tax health checks.",
+      "button": { "label": "Make an Inquiry", "href": "/make-an-inquiry" },
+      "variant": "red"
+    }
+  ],
+  "showContactForm": false
+}

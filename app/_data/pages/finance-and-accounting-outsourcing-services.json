@@ -1,0 +1,94 @@
+{
+  "title": "Beyond the Ledger: The 2026 Guide to Finance and Accounting Outsourcing Services in Vietnam",
+  "metaDescription": "A 2026 guide to finance and accounting outsourcing in Vietnam: why in-house models struggle, the regulatory changes driving the shift, the integrated outsourcing approach, and a four-phase transition playbook.",
+  "hero": {
+    "eyebrow": "News & Insights",
+    "title": "Beyond the Ledger: The 2026 Guide to Finance and Accounting Outsourcing Services in Vietnam",
+    "subtitle": "Why and how foreign-invested companies are outsourcing finance and accounting in Vietnam to cut compliance risk and free up capacity for growth.",
+    "image": "/incorp/news/finance-accounting.png"
+  },
+  "sections": [
+    {
+      "type": "list",
+      "heading": "Why In-House Models Struggle in 2026",
+      "columns": 1,
+      "items": [
+        "Chief Accountant challenge: Vietnam mandates a Chief Accountant role carrying significant legal responsibility. Qualified professionals who understand FDI structures, local tax law, and English communication command premium salaries, and a sudden departure during a tax period can trigger an operational crisis.",
+        "Software integration issues: local software optimized for VAS rarely integrates with global systems like SAP, Oracle, or Xero, forcing teams to enter data twice, once for government compliance and again for headquarters, which introduces errors and wastes time.",
+        "Strategic capacity loss: in-house teams often spend around 90% of their effort maintaining compliance rather than analyzing cash flow, reducing costs, or shaping financial strategy."
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "2026 Rule Changes Driving the Shift",
+      "columns": 1,
+      "items": [
+        "AI-powered tax audits: the General Department of Taxation now uses AI to analyze real-time e-invoice data (mandatory under Circular 78), flagging suspicious transactions immediately.",
+        "IFRS transition requirements: as Vietnam moves from VAS toward IFRS, multinational subsidiaries increasingly need dual-reporting capabilities, a complex task for small teams.",
+        "Global Minimum Tax (GMT) rules: organizations with revenues above EUR 750 million must ensure a 15% minimum effective tax rate, where miscalculation carries substantial penalties."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "An Integrated Approach to Outsourcing",
+      "body": [
+        "Modern finance and accounting outsourcing emphasizes operational integration rather than a simple vendor relationship. A strong provider bridges Vietnam and headquarters by recording transactions in Vietnamese Dong under VAS for government purposes, while automatically translating the same data into USD and IFRS for management reporting.",
+        "Technology is central to this. By localizing ERP platforms such as SAP and Oracle or deploying cloud tools like Xero, providers eliminate duplicate data entry, automate e-invoice verification, digitize payroll and expense management, and deliver real-time financial dashboards."
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "What Outsourcing Delivers",
+      "columns": 2,
+      "items": [
+        "Reduced compliance risk through professional, up-to-date expertise",
+        "Cost predictability versus variable in-house payroll and overhead",
+        "No recruitment or training burden when scaling up",
+        "Retained executive control over financial authorization",
+        "Audit protection, with senior tax experts representing you before authorities",
+        "Strategic insight that goes beyond routine compliance"
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Your Four-Phase Transition Playbook",
+      "columns": 1,
+      "items": [
+        "Phase 1 (Weeks 1-2) - Health check: audit the current system and define roles, with no operational disruption.",
+        "Phase 2 (Weeks 3-4) - Workflow building: document approval processes, banking authorization, and reporting schedules.",
+        "Phase 3 (Month 2) - Parallel run: operate old and new systems simultaneously to validate accuracy before full transition.",
+        "Phase 4 (Month 3 onward) - Full takeover: complete the transfer of daily operations and begin quarterly strategic advisory sessions."
+      ]
+    },
+    {
+      "type": "faq",
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "Does outsourcing satisfy Vietnam's Chief Accountant requirement?",
+          "a": "Yes. The Chief Accountant role remains a mandatory legal obligation, and a qualified outsourcing provider can fulfill it on your behalf."
+        },
+        {
+          "q": "Do we lose control of our cash flow?",
+          "a": "No. Cash flow control stays with your company directors. The outsourcing team prepares and records transactions, but authorization remains with you."
+        },
+        {
+          "q": "Is outsourcing really more cost-effective than an in-house team?",
+          "a": "For most foreign-invested companies, yes. Outsourcing replaces the hidden overhead of recruiting, training, and retaining an internal department with predictable, scalable costs."
+        },
+        {
+          "q": "Who handles a tax audit?",
+          "a": "Experienced practitioners on the outsourcing team assume compliance responsibility and represent the company before the tax authorities during inspections."
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Need help with this in Vietnam?",
+      "subtitle": "Our team can take over your finance and accounting function with dual VAS and IFRS reporting and full audit support.",
+      "button": { "label": "Make an inquiry", "href": "/make-an-inquiry" },
+      "variant": "red"
+    }
+  ],
+  "showContactForm": false
+}

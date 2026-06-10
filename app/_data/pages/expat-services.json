@@ -1,0 +1,65 @@
+{
+  "title": "Expat Services in Vietnam",
+  "metaDescription": "Expat services in Vietnam — visa and work permit processing, tax advisory, immigration assistance and local orientation. Personalized support to help you settle in.",
+  "hero": {
+    "eyebrow": "Expat Services",
+    "title": "Expat Services with InCorp Vietnam",
+    "subtitle": "Relocating can be both exciting and challenging. We cover everything from visa and work permit processing to tax advisory and local orientation.",
+    "cta": { "label": "Make an Inquiry", "href": "/make-an-inquiry" }
+  },
+  "sections": [
+    {
+      "type": "richText",
+      "eyebrow": "Overview",
+      "heading": "Let us help you make Vietnam feel like home",
+      "align": "center",
+      "body": [
+        "Moving to a new country involves far more than a plane ticket. From paperwork to settling in, the details add up quickly.",
+        "Our team provides personalized support for individuals and companies, smoothing every step of your relocation to Vietnam."
+      ]
+    },
+    {
+      "type": "cards",
+      "eyebrow": "Our Services",
+      "heading": "Everything you need to settle in",
+      "columns": 3,
+      "items": [
+        { "title": "Visa & Work Permit Processing", "desc": "End-to-end support to secure the right visa and work authorization." },
+        { "title": "Tax Advisory", "desc": "Guidance on personal income tax obligations for expatriates." },
+        { "title": "Immigration Assistance", "desc": "Support with residency, renewals and ongoing immigration needs." },
+        { "title": "Local Orientation", "desc": "Cultural guidance and practical help to settle in comfortably." },
+        { "title": "Personalized Support", "desc": "Tailored assistance for individuals and relocating companies." }
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "Why InCorp Vietnam",
+      "heading": "Why choose us",
+      "columns": 2,
+      "items": [
+        "International team — multilingual experts ensure seamless communication.",
+        "Transparency — reliable, client-focused service with no hidden fees.",
+        "Flexible access — online and in-person consulting with tailored digital processes.",
+        "Scalability — adaptable support, including seasonal assistance and ongoing help."
+      ]
+    },
+    {
+      "type": "stats",
+      "heading": "Experience you can rely on",
+      "items": [
+        { "value": "30+", "label": "Years of experience" },
+        { "value": "100+", "label": "Companies incorporated yearly" },
+        { "value": "15,000+", "label": "Clients worldwide" },
+        { "value": "1,500+", "label": "Professionals" }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Make your move to Vietnam seamless",
+      "subtitle": "Talk to our experts about visas, work permits, tax and settling in.",
+      "button": { "label": "Make an Inquiry", "href": "/make-an-inquiry" },
+      "variant": "red"
+    }
+  ],
+  "showContactForm": false
+}

@@ -1,0 +1,68 @@
+{
+  "title": "Personal Data Protection",
+  "metaDescription": "Personal data protection compliance services in Vietnam — inventory, gap analysis, policy development, breach planning, training and audits.",
+  "hero": {
+    "eyebrow": "Legal Advisory",
+    "title": "Personal data protection services in Vietnam",
+    "subtitle": "Meet Vietnam's stringent data protection requirements with specialist advisory and implementation support that safeguards personal data and your reputation.",
+    "cta": { "label": "Make an Inquiry", "href": "/make-an-inquiry" }
+  },
+  "sections": [
+    {
+      "type": "richText",
+      "eyebrow": "Overview",
+      "heading": "Comply with Vietnam's data protection rules",
+      "align": "center",
+      "body": [
+        "Vietnam's personal data protection regulations impose stringent legal requirements on how organisations collect, store, process and transfer personal data. Non-compliance can expose businesses to significant legal and reputational risk.",
+        "InCorp Vietnam offers comprehensive Personal Data Protection (PDP) services — combining specialist advisory with practical implementation support to help you navigate these requirements and safeguard the personal data you hold."
+      ]
+    },
+    {
+      "type": "cards",
+      "eyebrow": "What's Included",
+      "heading": "Our PDP services",
+      "columns": 3,
+      "items": [
+        { "title": "Data Inventory & Mapping", "desc": "Identify and track how personal data flows within your organisation." },
+        { "title": "Gap Analysis & Roadmap", "desc": "Assess current practices and outline a clear compliance improvement pathway." },
+        { "title": "Policy Development", "desc": "Draft and implement data protection policies aligned with local and international standards." },
+        { "title": "Data Breach Response", "desc": "Create action plans for potential incidents and legal compliance." },
+        { "title": "Employee Training", "desc": "Educational programmes to build awareness of PDP responsibilities." },
+        { "title": "Audits & Monitoring", "desc": "Regular assessments to maintain ongoing regulatory alignment." }
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "Benefits",
+      "heading": "Why work with us",
+      "columns": 2,
+      "items": [
+        "Comprehensive regulatory expertise in Vietnamese PDP requirements",
+        "Tailored compliance solutions customised to your business",
+        "Proactive risk management that identifies vulnerabilities early",
+        "Seamless integration that minimises operational disruption",
+        "Support designed to ensure long-term, sustained compliance"
+      ]
+    },
+    {
+      "type": "steps",
+      "eyebrow": "How It Works",
+      "heading": "Our engagement model",
+      "items": [
+        { "title": "Submit information", "desc": "Share your company details and data protection needs." },
+        { "title": "Consult our advisors", "desc": "Meet with our bilingual business consultants to scope the work." },
+        { "title": "Verify documents", "desc": "We complete KYC verification and create your dossier." },
+        { "title": "Begin implementation", "desc": "Choose your plan and start your PDP compliance programme." }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Ready to get data protection compliant?",
+      "subtitle": "Let our advisors build and maintain your personal data protection programme in Vietnam.",
+      "button": { "label": "Make an Inquiry", "href": "/make-an-inquiry" },
+      "variant": "red"
+    }
+  ],
+  "showContactForm": false
+}

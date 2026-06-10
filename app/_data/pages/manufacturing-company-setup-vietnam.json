@@ -1,0 +1,64 @@
+{
+  "title": "Manufacturing Company Setup",
+  "metaDescription": "Manufacturing setup and operations outsourcing in Vietnam — site selection, company formation, FDI compliance and ongoing HR, tax and accounting support.",
+  "hero": {
+    "eyebrow": "Manufacturing",
+    "title": "Manufacturing Setup & Business Operations Outsourcing in Vietnam",
+    "subtitle": "Our manufacturing setup and outsourcing services are designed to optimize production processes and reduce operational costs.",
+    "cta": { "label": "Make an Inquiry", "href": "/make-an-inquiry" }
+  },
+  "sections": [
+    {
+      "type": "richText",
+      "eyebrow": "Overview",
+      "heading": "From factory site to full operations",
+      "body": [
+        "Setting up a manufacturing operation in Vietnam involves far more than registering a company. InCorp Vietnam covers the full lifecycle — pre-establishment consultation on regulatory frameworks, factory site inspection and selection, company formation with FDI compliance reporting, and the setup of HR, payroll and accounting operations.",
+        "Once you are up and running, our ongoing legal, tax and HR advisory keeps your plant compliant and efficient as it scales."
+      ]
+    },
+    {
+      "type": "steps",
+      "eyebrow": "Process",
+      "heading": "Your manufacturing setup roadmap",
+      "items": [
+        { "title": "Initial consultation", "desc": "Advisory on establishment and the regulatory frameworks that apply to your project." },
+        { "title": "Factory tour & site selection", "desc": "Inspect and select the right industrial site for your operations." },
+        { "title": "Company setup", "desc": "Manufacturing company formation with HR, payroll and accounting support." },
+        { "title": "Ongoing compliance", "desc": "Monthly compliance, HR, accounting and tax advisory to keep operations smooth." }
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "Benefits",
+      "heading": "Why set up manufacturing with InCorp",
+      "columns": 2,
+      "items": [
+        "Comprehensive legal and tax guidance on corporate income tax, incentives and transfer pricing",
+        "Streamlined licensing and regulatory compliance",
+        "Investment and financial insights on investment rules and asset capitalization",
+        "Labor law and workplace safety compliance support"
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "Why Vietnam",
+      "heading": "Vietnam's manufacturing advantages",
+      "columns": 2,
+      "items": [
+        "A 10% tax rate for 15 years for qualifying high-tech and infrastructure projects",
+        "A 2-year tax exemption plus a 4-year 50% reduction available",
+        "Access to industrial zones and free trade zones",
+        "Strategic location in APAC's fastest-growing economy"
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Build your manufacturing base in Vietnam",
+      "subtitle": "From site selection to ongoing compliance, our experts handle it end to end.",
+      "button": { "label": "Make an Inquiry", "href": "/make-an-inquiry" },
+      "variant": "red"
+    }
+  ],
+  "showContactForm": false
+}

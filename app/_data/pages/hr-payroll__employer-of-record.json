@@ -1,0 +1,77 @@
+{
+  "title": "Employer of Record Services in Vietnam",
+  "metaDescription": "Employer of Record (EOR) services in Vietnam — hire employees without establishing a legal entity. We handle contracts, labor registration, social insurance, payroll and PIT compliance.",
+  "hero": {
+    "eyebrow": "HR & Payroll",
+    "title": "Employer of Record Services in Vietnam",
+    "subtitle": "Hire employees in Vietnam without establishing a legal entity, while we manage recruitment, payroll and compliance on your behalf.",
+    "cta": { "label": "Make an Inquiry", "href": "/make-an-inquiry" }
+  },
+  "sections": [
+    {
+      "type": "richText",
+      "eyebrow": "Overview",
+      "heading": "Expand into Vietnam without setting up an entity",
+      "align": "center",
+      "body": [
+        "An Employer of Record lets you build a team in Vietnam quickly, without the time and cost of incorporating a local company.",
+        "We act as the legal employer for your staff, taking on contracts, labor registration, insurance, payroll and tax compliance so you can focus on managing your people."
+      ]
+    },
+    {
+      "type": "cards",
+      "eyebrow": "Our Services",
+      "heading": "What our EOR service covers",
+      "columns": 3,
+      "items": [
+        { "title": "Initial Tasks & Implementation", "desc": "KYC checks, employee data collection and contract preparation aligned with labor law." },
+        { "title": "Initial Labor Registration", "desc": "Employee registration, company regulation setup and salary scale configuration." },
+        { "title": "Initial Social Insurance Registration", "desc": "Documentation for HR and insurance management." },
+        { "title": "Monthly & Quarterly Tasks", "desc": "Payroll processing, PIT calculations and payslip generation." },
+        { "title": "Outsourcing Service", "desc": "Salary transfers and labor dispute mediation." },
+        { "title": "Comprehensive HR Outsourcing", "desc": "Optional bundled payroll, insurance and recruitment support." }
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "Why InCorp Vietnam",
+      "heading": "Why choose our EOR service",
+      "columns": 2,
+      "items": [
+        "Global workforce expansion — simplified hiring and broader access to talent.",
+        "Cost reduction — replace in-house functions and cut overheads.",
+        "Compliance management — expertise navigating local labor laws and mitigating risk.",
+        "Efficiency gains — save time and resources to focus on core activities."
+      ]
+    },
+    {
+      "type": "steps",
+      "eyebrow": "How It Works",
+      "heading": "Our 4-step success plan",
+      "items": [
+        { "title": "Submit your details", "desc": "Share your company information and hiring needs." },
+        { "title": "Book a consultation", "desc": "Meet with a bilingual business consultant." },
+        { "title": "Verify KYC documents", "desc": "We verify documents and create your company dossier." },
+        { "title": "Begin operations", "desc": "Choose a plan and start hiring in Vietnam." }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "FAQs",
+      "heading": "Frequently asked questions",
+      "items": [
+        { "q": "Can I operate in Vietnam without establishing a legal entity?", "a": "Yes. With our EOR service you can hire and operate in Vietnam without incorporating, as we act as the legal employer for your staff." },
+        { "q": "Can foreign employers manage payroll remotely?", "a": "Yes. We handle payroll, PIT and insurance locally while you manage your team remotely from abroad." },
+        { "q": "What does the HR outsourcing package include?", "a": "It covers payroll management, social insurance handling, labor registration, tax filing and recruitment support, tailored to your needs." }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Hire in Vietnam without an entity",
+      "subtitle": "Talk to our experts about a compliant Employer of Record solution.",
+      "button": { "label": "Make an Inquiry", "href": "/make-an-inquiry" },
+      "variant": "red"
+    }
+  ],
+  "showContactForm": false
+}

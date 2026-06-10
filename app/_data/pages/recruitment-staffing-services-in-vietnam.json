@@ -1,0 +1,66 @@
+{
+  "title": "Recruitment & Staffing Services in Vietnam",
+  "metaDescription": "Recruitment and staffing services in Vietnam — executive search, flexible staffing and full HR support to help you scale with the right people at the right time.",
+  "hero": {
+    "eyebrow": "Recruitment & Staffing",
+    "title": "Recruitment & Staffing Services in Vietnam",
+    "subtitle": "Scale your business with the right people at the right time, through solutions tailored to Vietnam's talent market.",
+    "cta": { "label": "Make an Inquiry", "href": "/make-an-inquiry" }
+  },
+  "sections": [
+    {
+      "type": "cards",
+      "eyebrow": "Our Services",
+      "heading": "Find and onboard the right talent",
+      "columns": 3,
+      "items": [
+        { "title": "Executive Search", "desc": "Discreet, focused hiring for senior leadership and specialised professionals." },
+        { "title": "Staffing Services", "desc": "Flexible temporary, project-based and full-time placements." },
+        { "title": "Comprehensive Support", "desc": "Labor contracts, payroll, social insurance reporting and payslip administration." }
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "Why InCorp Vietnam",
+      "heading": "Why partner with us",
+      "columns": 2,
+      "items": [
+        "Business-focused recruitment aligned with your growth objectives.",
+        "Deep knowledge of Vietnam's labor market dynamics.",
+        "Adaptable models for executive and large-scale hiring.",
+        "Integration with our broader HR, payroll and compliance services."
+      ]
+    },
+    {
+      "type": "steps",
+      "eyebrow": "Our Process",
+      "heading": "How our recruitment process works",
+      "items": [
+        { "title": "Understand your needs", "desc": "We align with your hiring goals and business objectives." },
+        { "title": "Develop a search strategy", "desc": "We design a targeted approach for the role." },
+        { "title": "Source & screen", "desc": "We source and screen candidates through specialised channels." },
+        { "title": "Coordinate interviews", "desc": "We arrange interviews and gather candidate feedback." },
+        { "title": "Close the hire", "desc": "We support the offer stage through to a successful hire." }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "FAQs",
+      "heading": "Frequently asked questions",
+      "items": [
+        { "q": "What is the difference between executive search and mass recruitment?", "a": "Executive search is a discreet, focused process for senior and specialised roles, while staffing and mass recruitment provide flexible volume hiring for temporary, project-based or full-time needs." },
+        { "q": "Do you support foreign companies entering Vietnam?", "a": "Yes. We help new market entrants build their teams and integrate recruitment with HR, payroll and compliance support." },
+        { "q": "Which industries do you cover?", "a": "We recruit across a broad range of sectors, matching specialised talent to each industry's requirements." },
+        { "q": "How long does recruitment take?", "a": "Timelines depend on the complexity and seniority of the role; we set clear expectations at the start of each search." }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Build your team in Vietnam",
+      "subtitle": "Talk to our recruitment experts about your next hire.",
+      "button": { "label": "Make an Inquiry", "href": "/make-an-inquiry" },
+      "variant": "red"
+    }
+  ],
+  "showContactForm": false
+}

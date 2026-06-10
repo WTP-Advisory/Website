@@ -1,0 +1,56 @@
+{
+  "title": "Immigration Services in Vietnam",
+  "metaDescription": "Immigration services in Vietnam — business and investment visas, work permits and temporary residence cards. Multilingual, transparent support for businesses and individuals.",
+  "hero": {
+    "eyebrow": "Immigration",
+    "title": "Immigration Services in Vietnam",
+    "subtitle": "Vietnam's strict regulations for foreigners can be navigated with InCorp's immigration services, supporting both businesses and individuals.",
+    "cta": { "label": "Make an Inquiry", "href": "/make-an-inquiry" }
+  },
+  "sections": [
+    {
+      "type": "cards",
+      "eyebrow": "Our Services",
+      "heading": "Visas, work permits and residence",
+      "subtitle": "End-to-end immigration support for every purpose.",
+      "columns": 2,
+      "items": [
+        { "title": "Immigration Advisory Services", "desc": "Expert guidance on visas, work permits, residency and foreign talent relocation.", "href": "/immigration/immigration-advisory-services" },
+        { "title": "Business Purposes", "desc": "Visa support for meetings, contracts and administrative work." },
+        { "title": "Investment Purposes", "desc": "Residence cards up to 10 years for investors, with DT1, DT2 and DT3 options." },
+        { "title": "Work Permit", "desc": "Employment authorization enabling foreign workers to conduct business activities." },
+        { "title": "Temporary Residence Card (TRC)", "desc": "2-5 year residence with streamlined entry processes." }
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "Why InCorp Vietnam",
+      "heading": "Why choose us for immigration",
+      "columns": 2,
+      "items": [
+        "International team — multilingual experts ensure seamless communication.",
+        "Transparency — reliable, client-focused service with no hidden fees.",
+        "Flexible access — online and in-person consulting with tailored digital processes.",
+        "Scalable support — adaptable assistance, including seasonal and ongoing help."
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "FAQs",
+      "heading": "Frequently asked questions",
+      "items": [
+        { "q": "Can I hire foreign employees without establishing a legal entity?", "a": "Yes. Through our Employer of Record service you can hire in Vietnam without your own entity, and we coordinate the immigration steps your foreign staff require." },
+        { "q": "Can payroll be set up remotely from abroad?", "a": "Yes. We handle local payroll, insurance and tax filing so you can manage your workforce remotely." },
+        { "q": "What does an HR outsourcing package include?", "a": "Packages cover payroll, insurance, labor registration, tax filing and recruitment, alongside immigration support for foreign hires." }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Navigate Vietnam's immigration with ease",
+      "subtitle": "Talk to our multilingual experts about visas, work permits and residence cards.",
+      "button": { "label": "Make an Inquiry", "href": "/make-an-inquiry" },
+      "variant": "red"
+    }
+  ],
+  "showContactForm": true
+}

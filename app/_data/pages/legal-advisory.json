@@ -1,0 +1,69 @@
+{
+  "title": "Legal Advisory",
+  "metaDescription": "Corporate legal solutions in Vietnam — product registration, trademark filing, conditional business licensing, compliance retainers and personal data protection.",
+  "hero": {
+    "eyebrow": "Legal Advisory",
+    "title": "Navigate Vietnam's legal landscape with confidence",
+    "subtitle": "From licensing and registration to ongoing compliance, our bilingual legal advisors handle the complexity so your business stays compliant and ready to grow.",
+    "cta": { "label": "Make an Inquiry", "href": "/make-an-inquiry" }
+  },
+  "sections": [
+    {
+      "type": "richText",
+      "eyebrow": "Overview",
+      "heading": "Comprehensive corporate legal support",
+      "align": "center",
+      "body": [
+        "Operating in Vietnam means navigating a regulatory environment that is detailed, evolving, and frequently conducted in Vietnamese. InCorp Vietnam provides end-to-end legal advisory services that help foreign-owned companies obtain the right licenses, protect their brands, and remain compliant with local laws.",
+        "Our advisors combine deep local knowledge with international standards, offering transparent processes and flexible engagement — both remote and in person — so you always understand exactly what is required and why."
+      ]
+    },
+    {
+      "type": "cards",
+      "eyebrow": "Our Services",
+      "heading": "Explore our legal advisory services",
+      "subtitle": "Specialised support across every legal touchpoint of your Vietnam operations.",
+      "columns": 3,
+      "items": [
+        { "title": "Product Registration", "desc": "Licensing and registration for F&B, medical devices, cosmetics and health supplements.", "href": "/legal-advisory/product-registration" },
+        { "title": "Trademark Licensing", "desc": "Register and protect your brand through the National Office of Intellectual Property.", "href": "/legal-advisory/trademark-licensing" },
+        { "title": "Conditional Business License", "desc": "Secure the sub-licenses required to operate in regulated industries.", "href": "/legal-advisory/conditional-business-license" },
+        { "title": "Compliance Retainer", "desc": "Fixed-fee monthly legal advisory acting as your in-house legal team.", "href": "/legal-advisory/compliance-retainer" },
+        { "title": "Personal Data Protection", "desc": "Achieve and maintain compliance with Vietnam's personal data protection rules.", "href": "/legal-advisory/personal-data-protection" }
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "Why InCorp",
+      "heading": "The advantages of working with us",
+      "columns": 2,
+      "items": [
+        "Bilingual corporate legal advisors who bridge local and international requirements",
+        "Transparent processes with clear communication at every step",
+        "Flexible remote and in-person consultation options",
+        "Dedicated, ongoing advisory tailored to your business needs",
+        "Backed by InCorp Group — 30+ years of experience and 20,000+ clients served",
+        "Members of professional bodies including IFAC, ICSA and ACCA"
+      ]
+    },
+    {
+      "type": "steps",
+      "eyebrow": "How It Works",
+      "heading": "A clear path to compliance",
+      "items": [
+        { "title": "Share your needs", "desc": "Submit your company information and the legal support you require." },
+        { "title": "Consult our advisors", "desc": "Meet with our bilingual corporate legal advisors to map out the right approach." },
+        { "title": "Verify documentation", "desc": "We complete KYC verification and prepare your company dossier." },
+        { "title": "Start operating", "desc": "Select your service plan and commence compliant operations in Vietnam." }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Ready to get your legal foundations right?",
+      "subtitle": "Talk to our legal advisors about licensing, compliance and brand protection in Vietnam.",
+      "button": { "label": "Make an Inquiry", "href": "/make-an-inquiry" },
+      "variant": "red"
+    }
+  ],
+  "showContactForm": true
+}

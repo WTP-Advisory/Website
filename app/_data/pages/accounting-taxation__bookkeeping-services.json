@@ -1,0 +1,72 @@
+{
+  "title": "Bookkeeping Services",
+  "metaDescription": "Expert bookkeeping services in Vietnam for accurate, timely financial record-keeping — transaction recording, reconciliation, payroll, VAT reporting and full regulatory compliance.",
+  "hero": {
+    "eyebrow": "Accounting & Taxation",
+    "title": "Bookkeeping Services in Vietnam",
+    "subtitle": "Expert bookkeeping to ensure accurate and timely financial record-keeping, helping your business maintain compliance and streamline its financial operations.",
+    "cta": { "label": "Make an Inquiry", "href": "/make-an-inquiry" }
+  },
+  "sections": [
+    {
+      "type": "richText",
+      "eyebrow": "Overview",
+      "heading": "Reliable record-keeping, end to end",
+      "align": "left",
+      "body": [
+        "Accurate bookkeeping is the foundation of compliant financial reporting in Vietnam. InCorp Vietnam maintains your books so your records are always audit-ready and aligned with local regulations.",
+        "By delegating day-to-day record-keeping to our experienced team, you free up time and resources to focus on growing your core business."
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "What's included",
+      "heading": "Our bookkeeping covers",
+      "columns": 2,
+      "items": [
+        "Daily transaction recording and general ledger maintenance",
+        "Accounts payable and accounts receivable management",
+        "Bank reconciliation",
+        "Payroll processing",
+        "Financial statement preparation",
+        "Tax filing support",
+        "Inventory management",
+        "Expense tracking and cost allocation",
+        "Financial reporting and analysis",
+        "VAT reporting and refund assistance",
+        "Local regulatory compliance"
+      ]
+    },
+    {
+      "type": "cards",
+      "eyebrow": "Why InCorp",
+      "heading": "The benefits of outsourcing your bookkeeping",
+      "columns": 2,
+      "items": [
+        { "title": "Expert guidance", "desc": "Practical advice on financial best practices and Vietnamese regulations." },
+        { "title": "Full-service support", "desc": "Seamless coverage from bookkeeping through to tax compliance." },
+        { "title": "Time savings", "desc": "Delegate record-keeping and reclaim time for your core operations." },
+        { "title": "Proven track record", "desc": "Competitive rates backed by experience across 120+ accounting clients." }
+      ]
+    },
+    {
+      "type": "stats",
+      "eyebrow": "By the numbers",
+      "heading": "Backed by InCorp Group",
+      "items": [
+        { "value": "30+", "label": "Years of experience" },
+        { "value": "15,000", "label": "Clients worldwide" },
+        { "value": "1,500+", "label": "Professionals across APAC" },
+        { "value": "120+", "label": "Accounting & tax clients" }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Keep your books accurate and compliant",
+      "subtitle": "Let our team handle your record-keeping so you can focus on growth.",
+      "button": { "label": "Make an Inquiry", "href": "/make-an-inquiry" },
+      "variant": "red"
+    }
+  ],
+  "showContactForm": false
+}

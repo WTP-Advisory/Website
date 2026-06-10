@@ -1,0 +1,61 @@
+{
+  "layout": "event",
+  "title": "From Singapore to Vietnam: Turning Strategic Ties into Smart Investments",
+  "metaDescription": "An insightful online session for Singapore-based business owners, SME leaders and startup founders expanding into Vietnam, led by InCorp Vietnam with Vanguard Financial Group, Baker & McKenzie Vietnam and Vietcombank.",
+  "banner": "/incorp/events/sg-to-vn-smart-investments.png",
+  "format": "Webinar",
+  "date": "May 29, 2025",
+  "about": [
+    "Join us for an insightful event designed for Singapore-based business owners, SME leaders, and startup founders seeking to expand into Vietnam. This event is led by InCorp Vietnam in collaboration with Vanguard Financial Group, Baker & McKenzie Vietnam, and Vietcombank."
+  ],
+  "matters": {
+    "heading": "Ready to Grow Your Business in One of ASEAN's Most Vibrant Markets?",
+    "body": [
+      "As Vietnam rises as a strategic growth hub, Singapore remains its second-largest foreign investor with nearly 4,000 active projects worth over US$84 billion. With deepening bilateral ties and expanding opportunities across tech, clean energy, and sustainable infrastructure, the time to act is now.",
+      "Join us for an exclusive 1-hour online session designed for Singaporean business owners, startup founders and SME decision makers looking to expand and scale confidently into Vietnam."
+    ]
+  },
+  "details": [
+    { "label": "Date", "value": "May 29, 2025" },
+    { "label": "Time", "value": "3:00 PM – 4:00 PM (SGT)" },
+    { "label": "Location", "value": "Zoom link will be provided upon registration" }
+  ],
+  "speakers": [
+    { "name": "Raymond Lim", "role": "Vanguard Financial Group — Moderator & Host" },
+    { "name": "Jack Nguyen", "role": "InCorp Vietnam — Market Entry, Legal & FDI Compliance Expert" },
+    { "name": "Yee Chung Seck", "role": "Baker McKenzie Vietnam — Legal & Regulatory Advisor for Foreign Investors" },
+    { "name": "Quynh Pham", "role": "Vietcombank — Head of Customer Services Organization" }
+  ],
+  "agenda": [
+    { "time": "15:00 – 15:05", "title": "Welcome & Opening Remarks" },
+    { "time": "15:05 – 15:15", "title": "Understand the Vietnamese Market & Market Entry Strategies" },
+    { "time": "15:15 – 15:20", "title": "Setting Up Your Business in Vietnam" },
+    { "time": "15:20 – 15:25", "title": "Banking for Foreign Enterprises" },
+    { "time": "15:25 – 15:30", "title": "Legal & Regulatory Insights for Investors" },
+    { "time": "15:30 – 16:00", "title": "Live Q&A — Audience interaction, expert responses" }
+  ],
+  "bulletSections": [
+    {
+      "heading": "Why Attend",
+      "items": [
+        "Equip your business with crucial local insights",
+        "Minimize expansion risks and maximize opportunities",
+        "Connect with leading professionals who can streamline your market entry",
+        "Seats are limited — gain actionable insights and connect with trusted advisors on Vietnam market expansion"
+      ]
+    }
+  ],
+  "registration": {
+    "heading": "Save Your Seat",
+    "subtitle": "Register for our exclusive event and save your seat.",
+    "schedule": "May 29, 2025 | 3:00 PM – 4:00 PM (SGT)"
+  },
+  "prev": {
+    "title": "Bridging Borders: Vietnam Launchpad – Move, Build, Succeed for Overseas Vietnamese",
+    "href": "/events/bridging-borders-vietnam-launchpad"
+  },
+  "next": {
+    "title": "From Singapore to Vietnam: The 2026 Cross-Border Business & Investment Dialogue",
+    "href": "/events/from-singapore-to-vietnam-the-2026-cross-border-business-investment-dialogue"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "title": "Incorporation",
+  "metaDescription": "End-to-end company incorporation in Vietnam — from foreign-owned entity setup and virtual offices to M&A, shelf companies and offshore structuring.",
+  "hero": {
+    "eyebrow": "Incorporation",
+    "title": "Set up your business in Vietnam, the seamless way",
+    "subtitle": "From representative office to a fully foreign-owned company, our bilingual experts handle the entire registration process so you can focus on doing business.",
+    "cta": { "label": "Make an Inquiry", "href": "/make-an-inquiry" }
+  },
+  "sections": [
+    {
+      "type": "richText",
+      "eyebrow": "Overview",
+      "heading": "One-stop incorporation in Vietnam",
+      "body": [
+        "Setting up a business in Vietnam can be challenging, but it doesn't have to be. InCorp Vietnam simplifies establishment by handling the entire process — from representative office setup to complete company registration — for global companies entering from Asia Pacific, Europe and North America.",
+        "Our incorporation practice brings together legal consultation, HR, taxation and accounting under one roof, helping you navigate local regulations and administrative requirements for a legal, long-term presence in Vietnam."
+      ]
+    },
+    {
+      "type": "cards",
+      "eyebrow": "What we offer",
+      "heading": "Incorporation services",
+      "subtitle": "Choose the entry path that fits your strategy — every service backed by InCorp's local expertise.",
+      "columns": 3,
+      "items": [
+        { "title": "Company Formation", "desc": "Register an LLC, JSC, branch or representative office with up to 100% foreign ownership.", "href": "/incorporation/company-formation" },
+        { "title": "Business Intelligence", "desc": "Decision-grade market, location, supply-chain and due-diligence intelligence.", "href": "/business-intelligence-services" },
+        { "title": "Manufacturing Setup", "desc": "End-to-end factory and manufacturing company setup, from site selection to compliance.", "href": "/manufacturing-company-setup-vietnam" },
+        { "title": "Offshore Incorporation", "desc": "Expand globally, optimize taxes and protect assets across InCorp's APAC network.", "href": "/incorporation/offshore-incorporation" },
+        { "title": "Virtual Office", "desc": "A prestigious Ho Chi Minh City address for licensing and compliance at low overhead.", "href": "/incorporation/virtual-office-ho-chi-minh-city" },
+        { "title": "Buy a Company", "desc": "Acquire a ready-made shelf company and start operating in as little as one week.", "href": "/incorporation/buy-company" },
+        { "title": "Transfer Ownership", "desc": "Smooth, legally compliant transfer of business ownership in Vietnam.", "href": "/incorporation/transfer-ownership-in-vietnam" }
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "Why InCorp",
+      "heading": "Benefits of incorporating with us",
+      "columns": 2,
+      "items": [
+        "One-stop solution covering legal, HR, taxation and accounting",
+        "Up to 100% foreign ownership available for most business sectors",
+        "Deep local market knowledge and regulatory understanding",
+        "Swift processes that cut through administrative red tape",
+        "Long-term, personal stakeholder commitment to your success",
+        "Access to the InCorp Group network across Asia Pacific"
+      ]
+    },
+    {
+      "type": "stats",
+      "eyebrow": "Track record",
+      "heading": "Trusted by businesses worldwide",
+      "items": [
+        { "value": "30+", "label": "Years of track record" },
+        { "value": "100+", "label": "Companies incorporated yearly" },
+        { "value": "15,000+", "label": "Clients worldwide" },
+        { "value": "1,500+", "label": "Professionals across the network" }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Ready to establish your company in Vietnam?",
+      "subtitle": "Let our experts map out the most seamless path for your market entry.",
+      "button": { "label": "Make an Inquiry", "href": "/make-an-inquiry" },
+      "variant": "red"
+    }
+  ],
+  "showContactForm": true
+}

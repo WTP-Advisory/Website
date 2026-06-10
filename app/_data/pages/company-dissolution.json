@@ -1,0 +1,72 @@
+{
+  "title": "Company Dissolution Services in Vietnam",
+  "metaDescription": "InCorp Vietnam manages company dissolution end to end — legal, accounting and HR procedures — to deregister your company quickly, simply and in full compliance with Vietnamese authorities.",
+  "hero": {
+    "eyebrow": "Corporate Services",
+    "title": "Company Dissolution Services: Quick, Simple, Compliant",
+    "subtitle": "If you choose to cease operations and close your company in Vietnam, you must follow the necessary procedures to deregister with the appropriate authorities. We handle the entire process on your behalf.",
+    "cta": { "label": "Make an Inquiry", "href": "/make-an-inquiry" }
+  },
+  "sections": [
+    {
+      "type": "cards",
+      "eyebrow": "Key Benefits",
+      "heading": "Benefits of company dissolution services",
+      "columns": 2,
+      "items": [
+        { "title": "Expert Guidance, Smooth Process", "desc": "Experienced professionals prevent errors and ensure every dissolution step is done correctly." },
+        { "title": "Effortless Paperwork", "desc": "We manage the documentation and administrative burden, saving you valuable time." },
+        { "title": "Guaranteed Legal Compliance", "desc": "We ensure a lawful, worry-free closure that satisfies all regulatory requirements." },
+        { "title": "Minimized Risks", "desc": "We reduce post-dissolution complications so you can move on with peace of mind." }
+      ]
+    },
+    {
+      "type": "richText",
+      "eyebrow": "Know the Basics",
+      "heading": "Forms of company dissolution",
+      "align": "left",
+      "body": [
+        "Voluntary dissolution occurs when owners decide to close. Common situations include the specified operating period expiring without extension, or owners discontinuing due to business inefficiency.",
+        "Compulsory dissolution is mandated by the government for reasons such as legal violations or failure to maintain the minimum shareholder or member requirements.",
+        "Before dissolution can complete, all debts and property obligations must be fully settled."
+      ]
+    },
+    {
+      "type": "steps",
+      "eyebrow": "The Process",
+      "heading": "Dissolution procedures in Vietnam",
+      "items": [
+        { "title": "Submit Dissolution Notice", "desc": "File the dissolution notice within 7 days of the resolution to dissolve." },
+        { "title": "Status Updated to 'In Progress'", "desc": "The Business Registration Office updates your company's status accordingly." },
+        { "title": "Liquidate Debts", "desc": "Settle outstanding debts in the legally required priority order." },
+        { "title": "Submit Full Application", "desc": "File the complete application together with asset and liquidation reports." },
+        { "title": "Final Confirmation", "desc": "The tax authority confirms clearance and the dissolution is finalized." }
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "Comprehensive Support",
+      "heading": "What InCorp Vietnam handles for you",
+      "columns": 3,
+      "items": [
+        "Consultation on dissolution requirements",
+        "Drafting and preparing application forms",
+        "Submission to the Department of Planning and Investment",
+        "Corporate seal return coordination",
+        "Accounting closure and document review",
+        "Final financial statement preparation",
+        "Tax reconciliation and audit support",
+        "Labor and employee compensation agreements",
+        "Payroll, PIT and social insurance reporting"
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Closing your company in Vietnam?",
+      "subtitle": "Let our experts handle the dissolution quickly and compliantly.",
+      "button": { "label": "Make an Inquiry", "href": "/make-an-inquiry" },
+      "variant": "red"
+    }
+  ],
+  "showContactForm": false
+}

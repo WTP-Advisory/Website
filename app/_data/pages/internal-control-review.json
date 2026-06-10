@@ -1,0 +1,69 @@
+{
+  "title": "Internal Control Review Services in Vietnam",
+  "metaDescription": "InCorp Vietnam helps businesses identify weaknesses in their internal control systems and deliver actionable solutions to prevent fraud, ensure compliance, and safeguard assets in Vietnam.",
+  "hero": {
+    "eyebrow": "Risk & Compliance",
+    "title": "Internal Control Review Services in Vietnam",
+    "subtitle": "Strong internal controls are critical for safeguarding assets, preventing fraud, and maintaining regulatory compliance. We help you identify weaknesses in your internal control systems and provide actionable solutions to enhance efficiency and mitigate risks.",
+    "cta": { "label": "Make an Inquiry", "href": "/make-an-inquiry" }
+  },
+  "sections": [
+    {
+      "type": "list",
+      "eyebrow": "Why It Matters",
+      "heading": "What a thorough internal control review achieves",
+      "subtitle": "A robust review helps your business meet multiple objectives at once.",
+      "columns": 1,
+      "items": [
+        "Detect and prevent fraud or financial misstatements",
+        "Improve operational efficiency and accountability",
+        "Ensure compliance with regulatory requirements",
+        "Strengthen financial reporting and risk management",
+        "Safeguard company assets and data"
+      ]
+    },
+    {
+      "type": "cards",
+      "eyebrow": "Why InCorp",
+      "heading": "Why choose InCorp Vietnam?",
+      "columns": 3,
+      "items": [
+        { "title": "Experienced Risk & Compliance Experts", "desc": "Deep expertise in assessing and optimizing internal control systems." },
+        { "title": "Comprehensive Evaluation", "desc": "We review financial controls, operational processes, and IT security." },
+        { "title": "Regulatory Compliance", "desc": "Guidance on both local and international requirements." },
+        { "title": "Actionable Insights", "desc": "Clear, practical recommendations for control enhancement." },
+        { "title": "Customized Solutions", "desc": "Strategies tailored to your industry and business size." }
+      ]
+    },
+    {
+      "type": "cards",
+      "eyebrow": "What You Gain",
+      "heading": "Benefits to expect",
+      "columns": 2,
+      "items": [
+        { "title": "Cost-Effective", "desc": "A fixed monthly fee replaces the expense of a full-time in-house team." },
+        { "title": "Ongoing Support", "desc": "Regular guidance keeps you compliant with evolving Vietnam regulations." },
+        { "title": "In-House Expertise", "desc": "We act as your internal control function without the overhead." },
+        { "title": "Proactive Risk Management", "desc": "We identify potential challenges before they escalate." }
+      ]
+    },
+    {
+      "type": "stats",
+      "eyebrow": "Why InCorp",
+      "heading": "Trusted by businesses worldwide",
+      "items": [
+        { "value": "30+", "label": "Years track record" },
+        { "value": "120+", "label": "Accounting & tax clients" },
+        { "value": "15,000+", "label": "Clients worldwide" }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Strengthen your internal controls today",
+      "subtitle": "Talk to our risk and compliance experts about a tailored review.",
+      "button": { "label": "Make an Inquiry", "href": "/make-an-inquiry" },
+      "variant": "red"
+    }
+  ],
+  "showContactForm": false
+}

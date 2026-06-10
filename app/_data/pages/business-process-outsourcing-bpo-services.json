@@ -1,0 +1,70 @@
+{
+  "title": "Business Process Outsourcing (BPO) Services in Vietnam",
+  "metaDescription": "InCorp Vietnam's BPO services are your one-stop shop — incorporation, accounting, tax advisory and payroll outsourcing — customized to your business needs for greater efficiency and long-term success.",
+  "hero": {
+    "eyebrow": "BPO Services",
+    "title": "Business Process Outsourcing (BPO) Services in Vietnam",
+    "subtitle": "Our BPO solutions are your one-stop shop, covering everything from incorporation and tax advisory to payroll outsourcing. We customize everything to fit your unique business needs — a flexible, tailor-made approach that enhances efficiency and drives long-term success.",
+    "cta": { "label": "Make an Inquiry", "href": "/make-an-inquiry" }
+  },
+  "sections": [
+    {
+      "type": "cards",
+      "eyebrow": "Why BPO",
+      "heading": "Benefits of outsourcing with InCorp Vietnam",
+      "columns": 2,
+      "items": [
+        { "title": "Enhanced Efficiency", "desc": "Outsource administrative tasks so you can focus on core activities and boost productivity." },
+        { "title": "Customized Solutions", "desc": "Flexible, scalable solutions for accounting, tax and payroll tailored to your specific needs." },
+        { "title": "Cost Savings", "desc": "Reduce overhead by eliminating full-time internal resources while accessing expert support." },
+        { "title": "Compliance & Risk Management", "desc": "Our deep local knowledge ensures full compliance with Vietnamese tax, labor and governance rules." }
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "What We Offer",
+      "heading": "BPO services offered",
+      "columns": 2,
+      "items": [
+        "Incorporation",
+        "Accounting & tax compliance",
+        "Payroll outsourcing",
+        "Tax advisory",
+        "Temporary workforce replacement",
+        "Visa & work permit processing"
+      ]
+    },
+    {
+      "type": "steps",
+      "eyebrow": "How We Work",
+      "heading": "Your success plan",
+      "items": [
+        { "title": "Share Your Requirements", "desc": "Tell us your vision, plan and specific business needs." },
+        { "title": "Get Advised on an Optimal Plan", "desc": "Our experts design the best BPO solution for your situation." },
+        { "title": "Acquire the Perfect Talent Match", "desc": "We source and onboard top professionals for your operation." },
+        { "title": "Daily Reports & Communication", "desc": "Stay connected and informed through your dedicated team." }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "FAQs",
+      "heading": "Frequently asked questions",
+      "items": [
+        { "q": "What are the main benefits of BPO?", "a": "Customized solutions, cost efficiency, specialized expertise and effective risk mitigation — all tailored to your business." },
+        { "q": "How do you assure quality?", "a": "We apply a rigorous selection process, deploy qualified team members, and provide regular updates throughout the engagement." },
+        { "q": "Can the services be customized?", "a": "Yes. Packages are completely customizable based on your unique requirements." },
+        { "q": "How will we communicate?", "a": "We provide daily reports and regular updates so you always have visibility." },
+        { "q": "Which industries do you serve?", "a": "Manufacturing, retail, technology, financial services, real estate and more." },
+        { "q": "How is my data protected?", "a": "We apply strict security measures to protect sensitive information and ensure full legal compliance." }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Ready to streamline your operations in Vietnam?",
+      "subtitle": "Share your requirements and we'll prepare a customized BPO proposal.",
+      "button": { "label": "Make an Inquiry", "href": "/make-an-inquiry" },
+      "variant": "red"
+    }
+  ],
+  "showContactForm": false
+}

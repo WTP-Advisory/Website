@@ -1,0 +1,53 @@
+{
+  "title": "Valuation Services",
+  "metaDescription": "Valuation services in Vietnam — accurate, independent assessments of businesses, assets and investments for M&A, financial reporting, disputes and taxation.",
+  "hero": {
+    "eyebrow": "Accounting & Taxation",
+    "title": "Valuation Services in Vietnam",
+    "subtitle": "Accurate, data-driven assessments of businesses, assets and investments to support strategic decision-making and financial planning.",
+    "cta": { "label": "Make an Inquiry", "href": "/make-an-inquiry" }
+  },
+  "sections": [
+    {
+      "type": "richText",
+      "eyebrow": "Overview",
+      "heading": "Independent, robust valuations",
+      "align": "left",
+      "body": [
+        "Valuations are crucial for mergers and acquisitions, tax structuring, dispute resolution, corporate restructuring and financial reporting.",
+        "Because valuation is inherently subjective, an independent and robust assessment is essential. Our CPA and CA professionals deliver defensible valuations you can rely on."
+      ]
+    },
+    {
+      "type": "cards",
+      "eyebrow": "What we cover",
+      "heading": "Our valuation services",
+      "columns": 2,
+      "items": [
+        { "title": "Mergers & acquisitions", "desc": "Business valuations to support M&A transactions and negotiations." },
+        { "title": "Financial reporting", "desc": "Valuations for compliance and disclosure under applicable standards." },
+        { "title": "Dispute, arbitration & litigation", "desc": "Expert valuations to support legal proceedings." },
+        { "title": "Taxation", "desc": "Valuations for tax structuring and planning purposes." }
+      ]
+    },
+    {
+      "type": "stats",
+      "eyebrow": "By the numbers",
+      "heading": "Backed by certified professionals",
+      "items": [
+        { "value": "30+", "label": "Years of experience" },
+        { "value": "120+", "label": "Accounting & tax clients" },
+        { "value": "15,000+", "label": "Clients worldwide" },
+        { "value": "CPA/CA", "label": "Certified team members" }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Get a valuation you can stand behind",
+      "subtitle": "Let our experts deliver an independent, defensible assessment for your needs.",
+      "button": { "label": "Make an Inquiry", "href": "/make-an-inquiry" },
+      "variant": "red"
+    }
+  ],
+  "showContactForm": false
+}

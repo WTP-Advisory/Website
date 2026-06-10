@@ -1,0 +1,69 @@
+{
+  "title": "Business Intelligence Services",
+  "metaDescription": "Decision-grade business intelligence in Vietnam — market entry, location, supply chain, compliance and due diligence to de-risk your expansion.",
+  "hero": {
+    "eyebrow": "Business Intelligence",
+    "title": "Business Intelligence Services in Vietnam",
+    "subtitle": "Making expansion or investment decisions in Vietnam is complex, but it doesn't have to be uncertain.",
+    "cta": { "label": "Make an Inquiry", "href": "/make-an-inquiry" }
+  },
+  "sections": [
+    {
+      "type": "richText",
+      "eyebrow": "Overview",
+      "heading": "Decision-focused intelligence for your expansion",
+      "body": [
+        "InCorp Vietnam provides decision-grade intelligence to support corporate expansion and investment decisions. We combine on-the-ground expertise with structured analysis, helping leadership teams navigate market entry, site selection, supply-chain diversification and regional expansion across Vietnam and Asia-Pacific.",
+        "Every engagement connects analysis to execution — so the insights you receive flow directly into market entry, compliance and operations."
+      ]
+    },
+    {
+      "type": "cards",
+      "eyebrow": "What we cover",
+      "heading": "Intelligence service categories",
+      "subtitle": "Six interconnected intelligence streams tailored to your decision.",
+      "columns": 3,
+      "items": [
+        { "title": "Commercial Intelligence", "desc": "Market entry assessments, sector trends, competitor overviews and demand analysis." },
+        { "title": "Location Intelligence", "desc": "Multi-country benchmarking, industrial park matching and site feasibility assessment." },
+        { "title": "Supply Chain Intelligence", "desc": "Supplier ecosystem evaluation, screening and tariff and trade exposure analysis." },
+        { "title": "Compliance Intelligence", "desc": "Market access and regulatory gating, policy updates and risk assessment." },
+        { "title": "Stakeholder Intelligence", "desc": "Partner identification, commercial and operational due diligence and reputational checks." },
+        { "title": "Government & EDO Support", "desc": "In-market representation, trade mission support and regulatory monitoring." }
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "Why InCorp",
+      "heading": "Benefits of our intelligence services",
+      "columns": 2,
+      "items": [
+        "Regional reach across 27 Asia-Pacific markets and 55 cities",
+        "2,800+ professionals supporting 63,000+ client entities",
+        "Early identification of regulatory, commercial and supply-chain risks",
+        "Intelligence integrated with market entry, compliance and operations",
+        "Proprietary data combined with deep local networks",
+        "Decision-grade insights delivered to your timeline"
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "FAQ",
+      "heading": "Frequently asked questions",
+      "items": [
+        { "q": "What is business intelligence?", "a": "It provides decision-grade insights for evaluating markets, locations, suppliers and partners to support informed expansion decisions." },
+        { "q": "When should companies engage?", "a": "Before major decisions such as market entry, site selection, supply-chain changes or regional expansion." },
+        { "q": "What is the typical timeline?", "a": "Most engagements range from a few weeks to a few months, depending on scope and decision urgency." },
+        { "q": "Do you support execution?", "a": "Yes. Our services integrate with InCorp's broader platform, enabling a smooth transition from analysis to market entry and operations." }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "De-risk your next move in Vietnam",
+      "subtitle": "Talk to our intelligence team before your next major decision.",
+      "button": { "label": "Make an Inquiry", "href": "/make-an-inquiry" },
+      "variant": "red"
+    }
+  ],
+  "showContactForm": false
+}

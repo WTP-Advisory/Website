@@ -1,0 +1,66 @@
+{
+  "title": "Tax Advisory Services in Vietnam",
+  "metaDescription": "Expert tax advisory in Vietnam — personal and corporate income tax, foreign contractor tax and VAT refunds. Stay compliant, optimize your tax position and minimize risk.",
+  "hero": {
+    "eyebrow": "Tax Advisory",
+    "title": "Tax Advisory Services in Vietnam",
+    "subtitle": "InCorp Vietnam helps businesses navigate Vietnam's tax system — ensuring compliance, optimizing tax positions and minimizing risks through tailored solutions.",
+    "cta": { "label": "Make an Inquiry", "href": "/make-an-inquiry" }
+  },
+  "sections": [
+    {
+      "type": "richText",
+      "eyebrow": "Overview",
+      "heading": "Navigate Vietnam's tax landscape with confidence",
+      "align": "center",
+      "body": [
+        "Vietnam's tax system is complex and constantly evolving, with multiple tax types creating real challenges for foreign companies unfamiliar with local requirements.",
+        "Our tax specialists provide the insight you need to remain compliant, structure your operations efficiently and focus on growing your business."
+      ]
+    },
+    {
+      "type": "cards",
+      "eyebrow": "Our Tax Services",
+      "heading": "Comprehensive tax advisory & compliance",
+      "subtitle": "Specialised support across every stage of your tax obligations in Vietnam.",
+      "columns": 3,
+      "items": [
+        { "title": "Tax Compliance & Reporting", "desc": "Timely, accurate filings across corporate, personal, payroll and indirect taxes.", "href": "/tax-advisory-services/tax-compliance-and-tax-reporting" },
+        { "title": "VAT Refund Services", "desc": "Simplify the refund process, ensure compliance and maximize your eligible refunds.", "href": "/tax-advisory-services/vat-refund-services" },
+        { "title": "Other Tax Services", "desc": "Transfer pricing, PIT finalization, due diligence, health checks and audit support.", "href": "/tax-advisory-services/other-tax-services" },
+        { "title": "Personal Income Tax Advisory", "desc": "Guidance on individual tax obligations for residents and expatriates." },
+        { "title": "Corporate Income Tax Advisory", "desc": "Business-level tax strategy, planning and compliance." },
+        { "title": "Foreign Contractor Tax", "desc": "Solutions for the taxation of non-resident contractors and suppliers." }
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "Why InCorp Vietnam",
+      "heading": "A trusted partner for your tax matters",
+      "columns": 2,
+      "items": [
+        "Expert consultation — tax specialists who understand local regulations and best practices.",
+        "Comprehensive support — a full suite of services from reporting through to compliance.",
+        "Simplified process — we handle the time-consuming tasks so you can focus on operations.",
+        "Business focus — our expertise lets you concentrate on your company's goals."
+      ]
+    },
+    {
+      "type": "stats",
+      "heading": "Experience you can rely on",
+      "items": [
+        { "value": "30+", "label": "Years track record" },
+        { "value": "120+", "label": "Accounting & tax clients" },
+        { "value": "15,000+", "label": "Clients worldwide" }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Ready to optimize your tax position in Vietnam?",
+      "subtitle": "Talk to our tax experts about a tailored solution for your business.",
+      "button": { "label": "Make an Inquiry", "href": "/make-an-inquiry" },
+      "variant": "red"
+    }
+  ],
+  "showContactForm": true
+}

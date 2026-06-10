@@ -1,0 +1,79 @@
+{
+  "title": "Accounting & Taxation",
+  "metaDescription": "Outsourced accounting and tax compliance for foreign-invested and domestic companies in Vietnam — bookkeeping, financial statements, IFRS conversion, nominee chief accountant, due diligence, modelling and valuation.",
+  "hero": {
+    "eyebrow": "Accounting & Finance",
+    "title": "Accounting and Tax Services in Vietnam",
+    "subtitle": "Save money and time with our accounting services in Vietnam. Focus on your bottom line and let our bilingual experts streamline your tax returns and statutory submissions.",
+    "cta": { "label": "Make an Inquiry", "href": "/make-an-inquiry" }
+  },
+  "sections": [
+    {
+      "type": "richText",
+      "eyebrow": "Overview",
+      "heading": "End-to-end accounting and tax compliance",
+      "align": "left",
+      "body": [
+        "InCorp Vietnam provides outsourced accounting and tax compliance solutions for foreign-invested and domestic companies operating in Vietnam, eliminating the need for a costly in-house accounting team.",
+        "Our bilingual professionals combine deep Vietnam-specific expertise with the backing of InCorp Group's network across eight APAC markets, ensuring your financial statements and tax submissions are accurate, compliant and on time."
+      ]
+    },
+    {
+      "type": "cards",
+      "eyebrow": "What we do",
+      "heading": "Our accounting & taxation services",
+      "subtitle": "Comprehensive support across every stage of your financial operations in Vietnam.",
+      "columns": 3,
+      "items": [
+        { "title": "Bookkeeping Services", "desc": "Accurate, timely financial record-keeping to maintain compliance and streamline operations.", "href": "/accounting-taxation/bookkeeping-services" },
+        { "title": "Financial Statement Preparation", "desc": "Precise, compliant balance sheets, P&L and cash flow statements aligned with Vietnamese standards.", "href": "/accounting-taxation/financial-statement-preparation" },
+        { "title": "IFRS Conversion Services", "desc": "Align your financial reporting with international standards while minimizing business disruption.", "href": "/accounting-taxation/ifrs-conversion-services" },
+        { "title": "Nominee Chief Accountant", "desc": "A qualified chief accountant to meet Vietnam's mandatory requirement for non-micro-enterprises.", "href": "/accounting-taxation/nominee-chief-accountant" },
+        { "title": "Financial Due Diligence", "desc": "In-depth analysis of a target company's financial standing for confident decisions.", "href": "/accounting-taxation/financial-due-diligence-services" },
+        { "title": "Financial Modelling", "desc": "Customized, data-driven models for forecasting, valuation and investment evaluation.", "href": "/accounting-taxation/financial-modelling-services" },
+        { "title": "Valuation Services", "desc": "Independent, robust valuations of businesses, assets and investments.", "href": "/accounting-taxation/valuation-services" }
+      ]
+    },
+    {
+      "type": "steps",
+      "eyebrow": "How it works",
+      "heading": "Getting started is simple",
+      "items": [
+        { "title": "Submit your information", "desc": "Tell us about your company and your accounting and tax needs." },
+        { "title": "Consult our team", "desc": "Speak with our bilingual business consultants to scope the right solution." },
+        { "title": "Complete KYC", "desc": "We complete KYC verification and documentation to onboard your business." },
+        { "title": "Begin operations", "desc": "Select your service plan and let us handle your accounting and tax compliance." }
+      ]
+    },
+    {
+      "type": "stats",
+      "eyebrow": "Vietnam tax at a glance",
+      "heading": "Key rates and figures",
+      "items": [
+        { "value": "20%", "label": "Standard Corporate Income Tax rate" },
+        { "value": "10%", "label": "Standard VAT rate" },
+        { "value": "Mar 31", "label": "Annual tax finalization deadline" },
+        { "value": "15,000+", "label": "Clients served worldwide" }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "FAQs",
+      "heading": "Frequently asked questions",
+      "items": [
+        { "q": "Can any business outsource accounting to InCorp?", "a": "Yes. Our services are suitable for businesses of all sizes, from start-ups to large foreign-invested enterprises." },
+        { "q": "How much do accounting services cost?", "a": "Cost varies based on your requirements, including transaction volume, report types and reporting frequency. We tailor a plan to your needs." },
+        { "q": "Do I still need to report if my company is inactive?", "a": "Yes. Mandatory reporting requirements apply even for inactive companies in Vietnam, including the annual tax finalization due by March 31st." },
+        { "q": "Is your team qualified in local regulations?", "a": "Our bilingual professionals are experienced in Vietnamese Accounting Standards (VAS), local tax regulations and accounting software." }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Ready to streamline your accounting and tax in Vietnam?",
+      "subtitle": "Let our experts handle compliance so you can focus on your bottom line.",
+      "button": { "label": "Make an Inquiry", "href": "/make-an-inquiry" },
+      "variant": "red"
+    }
+  ],
+  "showContactForm": true
+}

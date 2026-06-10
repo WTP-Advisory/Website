@@ -1,0 +1,66 @@
+{
+  "title": "Conditional Business License",
+  "metaDescription": "Conditional business licensing services in Vietnam — secure the sub-licenses required to operate in regulated industries.",
+  "hero": {
+    "eyebrow": "Legal Advisory",
+    "title": "Conditional business license services in Vietnam",
+    "subtitle": "Operate in regulated industries with confidence — we secure the required licenses efficiently and in full compliance with local laws.",
+    "cta": { "label": "Make an Inquiry", "href": "/make-an-inquiry" }
+  },
+  "sections": [
+    {
+      "type": "richText",
+      "eyebrow": "Overview",
+      "heading": "Licensing for regulated industries",
+      "align": "center",
+      "body": [
+        "Certain industries in Vietnam are classified as 'conditional', meaning a business must meet specific requirements and obtain additional licenses before it can legally operate. A conditional business license allows you to establish and run a company within these regulated sectors.",
+        "InCorp Vietnam helps you secure the required licenses efficiently and in full compliance with local laws — managing document preparation, submission and follow-up from start to finish."
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "Who Needs It",
+      "heading": "Industries that require conditional licensing",
+      "columns": 1,
+      "items": [
+        "Food & Beverage (F&B)",
+        "Medical devices",
+        "Health supplements",
+        "Other regulated sectors with sector-specific licensing requirements"
+      ]
+    },
+    {
+      "type": "cards",
+      "eyebrow": "Why InCorp",
+      "heading": "Benefits of our service",
+      "columns": 2,
+      "items": [
+        { "title": "Expert Guidance", "desc": "Specialists with current knowledge of Vietnam's regulations and licensing requirements." },
+        { "title": "Full Support", "desc": "From document preparation to submission and follow-up, we handle the entire licensing process." },
+        { "title": "Custom Strategies", "desc": "Tailored approaches based on your business type and sector." },
+        { "title": "Speed", "desc": "We leverage local networks to help achieve faster approval." },
+        { "title": "Compliance Assurance", "desc": "Ongoing support to ensure continued adherence to Vietnamese laws." }
+      ]
+    },
+    {
+      "type": "steps",
+      "eyebrow": "How It Works",
+      "heading": "Our end-to-end process",
+      "items": [
+        { "title": "Submit information", "desc": "Share your company details and licensing needs." },
+        { "title": "Consult our advisors", "desc": "Meet with our bilingual advisors to determine the licenses you require." },
+        { "title": "Prepare and submit", "desc": "We prepare your dossier, submit the application and follow up with authorities." },
+        { "title": "Receive your license", "desc": "Obtain your conditional business license and begin compliant operations." }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Ready to operate in a regulated industry?",
+      "subtitle": "Let our advisors secure your conditional business license without the guesswork.",
+      "button": { "label": "Make an Inquiry", "href": "/make-an-inquiry" },
+      "variant": "red"
+    }
+  ],
+  "showContactForm": false
+}

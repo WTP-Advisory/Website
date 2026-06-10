@@ -1,0 +1,76 @@
+{
+  "title": "Trademark Licensing",
+  "metaDescription": "Trademark registration and brand protection services in Vietnam through the National Office of Intellectual Property (NOIP).",
+  "hero": {
+    "eyebrow": "Legal Advisory",
+    "title": "Trademark registration services in Vietnam",
+    "subtitle": "Secure exclusive rights to your brand and protect it from misuse — we manage the entire registration process through the National Office of Intellectual Property.",
+    "cta": { "label": "Make an Inquiry", "href": "/make-an-inquiry" }
+  },
+  "sections": [
+    {
+      "type": "richText",
+      "eyebrow": "Overview",
+      "heading": "Protect your brand in Vietnam",
+      "align": "center",
+      "body": [
+        "A registered trademark gives your business exclusive rights to its name, logo and identity in Vietnam — and the legal standing to stop others from using it. InCorp Vietnam helps foreign-owned companies secure those rights by handling the full registration process through the National Office of Intellectual Property of Vietnam (NOIP).",
+        "From application examination and legal consultation through to certificate issuance, our advisors manage drafting, dossier assembly, agency representation and follow-up so you can protect your brand with confidence."
+      ]
+    },
+    {
+      "type": "cards",
+      "eyebrow": "Benefits",
+      "heading": "Why register your trademark",
+      "columns": 2,
+      "items": [
+        { "title": "Exclusive Rights", "desc": "Gain exclusive rights to your trademark and stop others from using it without permission." },
+        { "title": "Brand Protection", "desc": "Keep your brand safe from misuse and avoid confusion with similar marks." },
+        { "title": "Priority Recognition", "desc": "Secure priority and national recognition, and defend your ownership claims." },
+        { "title": "Asset Value", "desc": "Boost your trademark's value, making it easier to secure loans and strengthening your reputation." }
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "What's Included",
+      "heading": "Our comprehensive service",
+      "columns": 1,
+      "items": [
+        "Application examination and legal consultation",
+        "Document drafting and preparation",
+        "Complete dossier assembly",
+        "Agency representation and follow-up with NOIP",
+        "Official document delivery and government portal updates"
+      ]
+    },
+    {
+      "type": "steps",
+      "eyebrow": "The Process",
+      "heading": "Registration timeline (typically 18–24 months)",
+      "items": [
+        { "title": "Form examination", "desc": "Formal review of your application, approximately 1 month." },
+        { "title": "Application publication", "desc": "Published 2 months after acceptance." },
+        { "title": "Content examination", "desc": "Substantive examination, up to 9 months from publication." },
+        { "title": "Certificate issuance", "desc": "Certificate valid for 10 years and renewable indefinitely." }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "FAQs",
+      "heading": "Common questions",
+      "items": [
+        { "q": "How long is a trademark protected?", "a": "A registered trademark is protected for 10 years and can be renewed indefinitely." },
+        { "q": "What types of trademarks can be registered?", "a": "Five categories are recognised, including ordinary marks, service marks, collective marks and certification marks." },
+        { "q": "What are the filing fees?", "a": "Filing fees start at approximately US$190 per class, plus additional examination and publication fees." }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Ready to protect your brand in Vietnam?",
+      "subtitle": "Let our advisors secure your trademark and defend your intellectual property.",
+      "button": { "label": "Make an Inquiry", "href": "/make-an-inquiry" },
+      "variant": "red"
+    }
+  ],
+  "showContactForm": false
+}

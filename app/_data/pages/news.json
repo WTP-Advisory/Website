@@ -1,0 +1,24 @@
+{
+  "title": "News & Insights",
+  "metaDescription": "The latest news, insights and practical guides on doing business in Vietnam from InCorp Vietnam.",
+  "hero": {
+    "eyebrow": "Resources",
+    "title": "News & Insights",
+    "subtitle": "Practical guidance and the latest regulatory updates for businesses in Vietnam."
+  },
+  "sections": [
+    {
+      "type": "cards",
+      "heading": "Latest articles",
+      "columns": 3,
+      "items": [
+        { "title": "Electronic Labor Contracts in Vietnam 2026: Latest Regulations and Practical Insights", "desc": "What employers need to know about e-labor contracts in 2026.", "href": "/electronic-labor-contracts-in-vietnam", "image": "/incorp/news/electronic-labor-contracts.png" },
+        { "title": "Master ERP Application in Vietnam: A Complete Guide for 2026", "desc": "A complete guide to implementing ERP in Vietnam.", "href": "/erp-application-in-vietnam-2026", "image": "/incorp/news/erp-application.png" },
+        { "title": "Automation in Vietnam 2026: Advancing Industrial Innovation with AI", "desc": "How AI automation is reshaping Vietnam's industry.", "href": "/automation-in-vietnam", "image": "/incorp/news/automation.jpg" },
+        { "title": "Top Firms for Tax and Compliance Services in Vietnam: The 2026 Corporate Guide", "desc": "Choosing the right tax and compliance partner in Vietnam.", "href": "/tax-and-compliance-services-in-vietnam", "image": "/incorp/news/tax-compliance.png" },
+        { "title": "A Guide to Payroll in Vietnam: What Employers Need to Know for 2026", "desc": "Payroll essentials for employers in Vietnam.", "href": "/manage-payroll-vietnam", "image": "/incorp/news/payroll.png" },
+        { "title": "Beyond the Ledger: The 2026 Guide to Finance and Accounting Outsourcing Services in Vietnam", "desc": "Why and how to outsource finance and accounting in Vietnam.", "href": "/finance-and-accounting-outsourcing-services", "image": "/incorp/news/finance-accounting.png" }
+      ]
+    }
+  ]
+}

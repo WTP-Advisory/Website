@@ -1,0 +1,79 @@
+{
+  "title": "HR and Payroll Outsourcing Services in Vietnam",
+  "metaDescription": "Comprehensive HR & payroll outsourcing in Vietnam — labor declarations, payroll processing, social insurance (SHUI), personal income tax, labor reporting and Employer of Record, fully compliant.",
+  "hero": {
+    "eyebrow": "HR & Payroll",
+    "title": "HR and Payroll Outsourcing Services in Vietnam",
+    "subtitle": "We simplify and ensure compliance across every HR aspect in Vietnam — including recruitment, payroll, insurance and personal income taxes.",
+    "cta": { "label": "Make an Inquiry", "href": "/make-an-inquiry" }
+  },
+  "sections": [
+    {
+      "type": "cards",
+      "eyebrow": "Our Solutions",
+      "heading": "Explore our HR & payroll services",
+      "subtitle": "Outsource payroll, or hire in Vietnam without setting up an entity.",
+      "columns": 2,
+      "items": [
+        { "title": "Payroll Services", "desc": "Gross-to-net calculations, PIT, insurance and salary payment lists handled end to end.", "href": "/hr-payroll/payroll-services" },
+        { "title": "Employer of Record", "desc": "Hire employees in Vietnam without establishing a legal entity.", "href": "/hr-payroll/employer-of-record" }
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "What's Included",
+      "heading": "Comprehensive HR & payroll support",
+      "columns": 2,
+      "items": [
+        "Initial labor declaration — onboarding and salary structure development.",
+        "Initial social insurance declaration and document management.",
+        "Payroll processing — gross-to-net, PIT and insurance computations.",
+        "Social, Health & Unemployment Insurance (SHUI) reporting and claims.",
+        "Personal income tax (PIT) — monthly and quarterly declarations.",
+        "Biannual labor reports to the Labor Department.",
+        "Ongoing HR operations and compliance support."
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "Why InCorp Vietnam",
+      "heading": "Why outsource your HR & payroll to us",
+      "columns": 2,
+      "items": [
+        "Maintain constant compliance while cutting costs and easing HR concerns.",
+        "Partner with HR experts backed by a global team.",
+        "Accurate and timely reporting across payroll, insurance and taxes.",
+        "Enhanced accuracy and scalability with error-free seasonal flexibility."
+      ]
+    },
+    {
+      "type": "steps",
+      "eyebrow": "How It Works",
+      "heading": "Our 4-step success plan",
+      "items": [
+        { "title": "Submit your details", "desc": "Share your company information and HR needs." },
+        { "title": "Consult our advisors", "desc": "Speak with bilingual business consultants about your requirements." },
+        { "title": "Verify KYC documents", "desc": "We complete KYC verification and prepare your company dossier." },
+        { "title": "Choose a plan", "desc": "Select the right plan and succeed in Vietnam." }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "FAQs",
+      "heading": "Frequently asked questions",
+      "items": [
+        { "q": "Do foreign employers need a Vietnamese legal entity to hire staff?", "a": "No. Through our Employer of Record service you can hire employees in Vietnam without establishing your own legal entity — we act as the legal employer on your behalf." },
+        { "q": "Can employers manage payroll remotely from abroad?", "a": "Yes. We set up and run payroll on your behalf, handling gross-to-net calculations, PIT and insurance so you can manage your workforce remotely while staying compliant." },
+        { "q": "What is included in an HR outsourcing package?", "a": "Packages typically cover payroll processing, social insurance management, labor registration, personal income tax filing and ongoing HR compliance support, tailored to your needs." }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Simplify HR & payroll in Vietnam",
+      "subtitle": "Let our experts handle compliance so you can focus on your people and growth.",
+      "button": { "label": "Make an Inquiry", "href": "/make-an-inquiry" },
+      "variant": "red"
+    }
+  ],
+  "showContactForm": true
+}

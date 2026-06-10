@@ -1,0 +1,64 @@
+{
+  "title": "Tax Compliance and Tax Reporting in Vietnam",
+  "metaDescription": "Expert tax compliance and reporting services in Vietnam — timely, accurate filings across corporate, personal, payroll, indirect and customs taxes, fully aligned with local regulations.",
+  "hero": {
+    "eyebrow": "Tax Advisory",
+    "title": "Tax Compliance and Tax Reporting in Vietnam",
+    "subtitle": "InCorp Vietnam helps businesses meet Vietnam's tax requirements with timely, accurate filings and full regulatory compliance.",
+    "cta": { "label": "Make an Inquiry", "href": "/make-an-inquiry" }
+  },
+  "sections": [
+    {
+      "type": "richText",
+      "eyebrow": "Overview",
+      "heading": "Stay compliant in a constantly evolving system",
+      "align": "center",
+      "body": [
+        "Vietnam's tax system is complex and constantly evolving. Multiple tax types and frequent regulatory updates create significant challenges for foreign companies unfamiliar with local requirements.",
+        "Our specialists keep your filings accurate and on time, so you avoid penalties and maintain a clean compliance record."
+      ]
+    },
+    {
+      "type": "cards",
+      "eyebrow": "What We Cover",
+      "heading": "Key tax compliance areas",
+      "columns": 3,
+      "items": [
+        { "title": "CIT Compliance", "desc": "Corporate income tax management, calculation and filing." },
+        { "title": "PIT Compliance", "desc": "Personal income tax declarations and finalization for your workforce." },
+        { "title": "Payroll Tax Compliance", "desc": "Accurate handling of employee-related tax obligations." },
+        { "title": "Indirect Tax Compliance", "desc": "Value-added tax and other indirect tax obligations." },
+        { "title": "Trade & Customs Duty Compliance", "desc": "Import and export tax management and reporting." }
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "Why InCorp Vietnam",
+      "heading": "Why choose us for compliance",
+      "columns": 2,
+      "items": [
+        "Expert consultation with regulatory insight and optimization strategies.",
+        "Comprehensive support from reporting through to full compliance.",
+        "Simplified process that removes time-consuming administrative work.",
+        "Core business focus — accurate filings while you concentrate on growth."
+      ]
+    },
+    {
+      "type": "stats",
+      "heading": "Experience you can rely on",
+      "items": [
+        { "value": "30+", "label": "Years track record" },
+        { "value": "120+", "label": "Accounting & tax clients" },
+        { "value": "15,000+", "label": "Clients worldwide" }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Keep your tax filings accurate and on time",
+      "subtitle": "Let our specialists manage your compliance and reporting in Vietnam.",
+      "button": { "label": "Make an Inquiry", "href": "/make-an-inquiry" },
+      "variant": "red"
+    }
+  ],
+  "showContactForm": false
+}

@@ -1,0 +1,64 @@
+{
+  "title": "Financial Due Diligence Services",
+  "metaDescription": "Financial due diligence services in Vietnam — in-depth analysis of a target company's financial standing, covering asset quality, hidden liabilities, tax risks and profit sustainability.",
+  "hero": {
+    "eyebrow": "Accounting & Taxation",
+    "title": "Financial Due Diligence Services in Vietnam",
+    "subtitle": "In-depth analysis and expert insights into a company's financial standing, so you can make business decisions with confidence.",
+    "cta": { "label": "Make an Inquiry", "href": "/make-an-inquiry" }
+  },
+  "sections": [
+    {
+      "type": "richText",
+      "eyebrow": "Overview",
+      "heading": "Know before you commit",
+      "align": "left",
+      "body": [
+        "Whether you are acquiring a business, investing or entering a partnership, a clear view of the target's financial health is essential.",
+        "Our financial due diligence examines the numbers behind the deal — uncovering risks and validating performance so you can negotiate and decide with confidence."
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "What we examine",
+      "heading": "Scope of our review",
+      "columns": 2,
+      "items": [
+        "Asset quality and hidden liabilities",
+        "Tax risks and exposures",
+        "Profit sustainability and quality of earnings",
+        "Overall financial condition of the target company",
+        "Specific financial concerns you identify"
+      ]
+    },
+    {
+      "type": "steps",
+      "eyebrow": "Our process",
+      "heading": "How we conduct due diligence",
+      "items": [
+        { "title": "Kick-off meeting", "desc": "Align on scope, timelines and the documents required." },
+        { "title": "Planning", "desc": "Assess the business environment and the target's internal controls." },
+        { "title": "Fieldwork", "desc": "Review financial data, reconcile documents, analyze transactions and interview key personnel." },
+        { "title": "Reporting", "desc": "Deliver a comprehensive report, with presentations to stakeholders as needed." }
+      ]
+    },
+    {
+      "type": "stats",
+      "eyebrow": "By the numbers",
+      "heading": "Led by certified professionals",
+      "items": [
+        { "value": "30+", "label": "Years of experience" },
+        { "value": "120+", "label": "Accounting & tax clients" },
+        { "value": "15,000+", "label": "Clients worldwide" }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Make your next deal with confidence",
+      "subtitle": "Let our experts uncover the financial reality behind your target.",
+      "button": { "label": "Make an Inquiry", "href": "/make-an-inquiry" },
+      "variant": "red"
+    }
+  ],
+  "showContactForm": false
+}

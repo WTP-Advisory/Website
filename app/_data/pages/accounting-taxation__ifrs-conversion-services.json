@@ -1,0 +1,64 @@
+{
+  "title": "IFRS Conversion Services",
+  "metaDescription": "Expert IFRS conversion services in Vietnam — assess your financial systems, implement an IFRS-compliant reporting framework and align with international standards while minimizing disruption.",
+  "hero": {
+    "eyebrow": "Accounting & Taxation",
+    "title": "IFRS Conversion Services in Vietnam",
+    "subtitle": "Ensure global financial transparency with our expert IFRS conversion services. We streamline the process, aligning your reporting with international standards while minimizing business disruption.",
+    "cta": { "label": "Make an Inquiry", "href": "/make-an-inquiry" }
+  },
+  "sections": [
+    {
+      "type": "richText",
+      "eyebrow": "Overview",
+      "heading": "Move to international standards with confidence",
+      "align": "left",
+      "body": [
+        "As businesses expand and seek international investment, converting from Vietnamese Accounting Standards (VAS) to IFRS becomes essential for transparency and comparability.",
+        "InCorp Vietnam offers end-to-end IFRS conversion — assessing your financial systems, implementing a compliant reporting framework and guiding you through the entire transition with minimal disruption."
+      ]
+    },
+    {
+      "type": "steps",
+      "eyebrow": "Our approach",
+      "heading": "The conversion process",
+      "items": [
+        { "title": "Financial system assessment", "desc": "Review your current systems, policies and reporting against IFRS requirements." },
+        { "title": "Framework design", "desc": "Implement an IFRS-compliant reporting framework tailored to your business." },
+        { "title": "Conversion & restatement", "desc": "Convert balances and restate financials in line with international standards." },
+        { "title": "Ongoing guidance", "desc": "Support your team through the transition and beyond to maintain compliance." }
+      ]
+    },
+    {
+      "type": "cards",
+      "eyebrow": "Why InCorp",
+      "heading": "The benefits of our service",
+      "columns": 2,
+      "items": [
+        { "title": "Expert consultation", "desc": "Insights into financial best practices and regulatory optimization." },
+        { "title": "Comprehensive support", "desc": "A full accounting suite from bookkeeping to tax compliance." },
+        { "title": "Simplified process", "desc": "We handle the time-consuming record-keeping and reporting tasks." },
+        { "title": "Core business focus", "desc": "Concentrate on growth while we maintain accuracy and compliance." }
+      ]
+    },
+    {
+      "type": "stats",
+      "eyebrow": "By the numbers",
+      "heading": "Backed by certified professionals",
+      "items": [
+        { "value": "30+", "label": "Years of experience" },
+        { "value": "120+", "label": "Accounting & tax clients" },
+        { "value": "15,000+", "label": "Clients worldwide" },
+        { "value": "CPA/CA", "label": "Certified team members" }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Align your reporting with international standards",
+      "subtitle": "Let our IFRS specialists streamline your conversion from start to finish.",
+      "button": { "label": "Make an Inquiry", "href": "/make-an-inquiry" },
+      "variant": "red"
+    }
+  ],
+  "showContactForm": false
+}

@@ -1,0 +1,78 @@
+{
+  "title": "Top Firms for Tax and Compliance Services in Vietnam: The 2026 Corporate Guide",
+  "metaDescription": "A 2026 corporate guide to tax and compliance services in Vietnam: the new regulatory environment, mandatory e-ID and e-invoicing, leading service providers, and how to choose the right partner.",
+  "hero": {
+    "eyebrow": "News & Insights",
+    "title": "Top Firms for Tax and Compliance Services in Vietnam: The 2026 Corporate Guide",
+    "subtitle": "What Vietnam's 2026 tax and compliance landscape means for foreign-invested companies, and how to choose a provider that fits your stage of growth.",
+    "image": "/incorp/news/tax-compliance.png"
+  },
+  "sections": [
+    {
+      "type": "richText",
+      "heading": "Vietnam's FDI Growth and Regulatory Environment",
+      "body": [
+        "Vietnam attracted nearly USD 25 billion in foreign direct investment in early 2026, intensifying the modernization of corporate governance and tax administration. As capital flows in, the compliance bar rises with it.",
+        "Companies now face three critical digital milestones: mandatory corporate e-ID registration for all government interactions, strict e-invoicing rules tied to real-time government monitoring, and a set of restructured tax obligations that includes new treatment of capital gains."
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Major Compliance Obligations in 2026",
+      "columns": 1,
+      "items": [
+        "Corporate e-ID (VNeID): all businesses must use electronic identification for government interactions, customs, and tax filings, carrying the same legal weight as physical stamped documents.",
+        "Electronic invoicing: if your business generates annual revenue of VND 1 billion or more, e-invoices are mandatory and are linked directly to government monitoring systems in real time.",
+        "Tax rule changes: capital transfers now trigger a 2% Corporate Income Tax on gross proceeds, and Foreign Contractor Tax calculations have shifted for payments to overseas vendors."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "The 2026 Business Reality: Why You Need Expert Support",
+      "body": [
+        "Tax and compliance work in Vietnam now spans the entire back office: digital identity setup, e-invoicing integration, monthly VAT and quarterly Corporate Income Tax processing, payroll administration with Personal Income Tax calculations, and financial statement preparation that meets both local and international standards.",
+        "For mid-sized businesses in particular, building an internal department that understands both international reporting and rapidly changing Vietnamese regulations is often cost-prohibitive. Outsourced finance teams offer scalable capacity that grows with the business, while maintaining dual reporting, VAS for local authorities and IFRS or US GAAP for international headquarters."
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Leading Tax and Compliance Service Providers in Vietnam",
+      "columns": 1,
+      "items": [
+        "Ascentium Vietnam (formed from the InCorp / Dezan Shira merger): around 150 professionals across three cities offering setup, VNeID registration, ERP integration, and cross-border tax planning. Best for SMEs through to large enterprises.",
+        "PwC Vietnam: a Big Four firm with enterprise-level expertise, ideal for large multinationals and complex M&A, at premium pricing.",
+        "Forvis Mazars Vietnam: strong with European FDIs and mid-market companies, specializing in VAS and IFRS dual reporting for manufacturing and trading sectors.",
+        "BoardRoom Vietnam: client-focused, personalized advisory handling CIT, VAT, and PIT filings, best suited to agile SMEs and startups.",
+        "TMF Group Vietnam: a global multi-country provider focused on administrative efficiency and payroll, ideal for standardized compliance across regions.",
+        "RSM Vietnam: specialized in Employer of Record (EOR) solutions, managing HR, payroll, PIT, and expatriate work permits, best for market entry without a full entity."
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "How to Choose the Right Provider for Your Business",
+      "columns": 2,
+      "items": [
+        "Scale alignment: match the firm's size to your company's growth stage",
+        "One-stop capabilities: choose integrated services to eliminate communication gaps",
+        "Technology stack: verify cloud platforms, ERP integration, and e-invoice management",
+        "Strategic advisory: seek active analysis beyond routine filings, including contract optimization and early regulatory warnings"
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Succeeding in Vietnam with the Right Support",
+      "body": [
+        "The strongest providers consolidate functions that regulation has made interconnected, payroll, tax, and corporate secretarial work, preventing data silos and ensuring compliance stays coherent across the organization.",
+        "They also help companies unlock government incentives in priority sectors such as technology and renewable energy, which require specific business-structure alignment. The result is not just compliance, but a platform for confident, sustainable growth in Vietnam."
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Need help with this in Vietnam?",
+      "subtitle": "Our team can manage your tax and compliance obligations end to end, from e-ID and e-invoicing to dual-standard reporting.",
+      "button": { "label": "Make an inquiry", "href": "/make-an-inquiry" },
+      "variant": "red"
+    }
+  ],
+  "showContactForm": false
+}

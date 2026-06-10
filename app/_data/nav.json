@@ -1,0 +1,171 @@
+{
+  "links": [
+    {
+      "label": "Services",
+      "href": "/services",
+      "megamenu": [
+        {
+          "title": "Incorporation",
+          "href": "/incorporation",
+          "items": [
+            { "title": "Business Intelligence", "desc": "Simplify Critical Business Decisions", "href": "/business-intelligence-services" },
+            { "title": "Company Formation", "desc": "Establish a foreign-owned entity in Vietnam", "href": "/incorporation/company-formation" },
+            { "title": "Virtual Office", "desc": "A legal virtual address for your company", "href": "/incorporation/virtual-office-ho-chi-minh-city" },
+            { "title": "Buy a Company", "desc": "Buy a business and start doing business in days", "href": "/incorporation/buy-company" },
+            { "title": "Transfering Ownership", "desc": "InCorp Vietnam ensures smooth ownership transfer", "href": "/incorporation/transfer-ownership-in-vietnam" },
+            { "title": "Manufacturing Setup", "desc": "Full package including factory and office location", "href": "/manufacturing-company-setup-vietnam" },
+            { "title": "Offshore Structuring", "desc": "Offshore incorporation for global growth", "href": "/incorporation/offshore-incorporation" }
+          ]
+        },
+        {
+          "title": "Legal Advisory",
+          "href": "/legal-advisory",
+          "items": [
+            { "title": "All Legal Advisory Services", "desc": "Always ensure legal compliance for your business", "href": "/legal-advisory" },
+            { "title": "Product Licensing", "desc": "F&B | Medical Devices | Health Supplements", "href": "/legal-advisory/product-registration" },
+            { "title": "Trademark Filing", "desc": "Protect your brand with a registered trademark", "href": "/legal-advisory/trademark-licensing" },
+            { "title": "Conditional Business License", "desc": "Hassle-free conditional licensing in Vietnam", "href": "/legal-advisory/conditional-business-license" }
+          ]
+        },
+        {
+          "title": "Accounting & Finance",
+          "href": "/accounting-taxation",
+          "items": [
+            { "title": "Bookkeeping Services", "desc": "Expert bookkeeping for accurate financial records", "href": "/accounting-taxation/bookkeeping-services" },
+            { "title": "Financial Statement Preparation", "desc": "Precise financial statements for compliance", "href": "/accounting-taxation/financial-statement-preparation" },
+            { "title": "IFRS Conversion", "desc": "Expert IFRS conversion for global compliance", "href": "/accounting-taxation/ifrs-conversion-services" },
+            { "title": "Nominee Chief Accountant", "desc": "A required position to represent you at the bank", "href": "/accounting-taxation/nominee-chief-accountant" },
+            { "title": "Financial Due Diligence", "desc": "Financial due diligence for confident decisions", "href": "/accounting-taxation/financial-due-diligence-services" },
+            { "title": "Financial Modelling", "desc": "Customized financial models for strategic decisions", "href": "/accounting-taxation/financial-modelling-services" },
+            { "title": "Valuation", "desc": "Accurate valuations for strategic planning", "href": "/accounting-taxation/valuation-services" }
+          ]
+        },
+        {
+          "title": "Tax Services",
+          "href": "/tax-advisory-services",
+          "items": [
+            { "title": "Tax Advisory", "desc": "Expert tax advisory for business growth", "href": "/tax-advisory-services" },
+            { "title": "Tax Compliance & Reporting", "desc": "Expert tax compliance for smooth operations", "href": "/tax-advisory-services/tax-compliance-and-tax-reporting" },
+            { "title": "VAT Refund Services", "desc": "Expert VAT refund services in Vietnam", "href": "/tax-advisory-services/vat-refund-services" },
+            { "title": "Other Tax Services", "desc": "Tailored tax solutions for compliance & optimization", "href": "/tax-advisory-services/other-tax-services" }
+          ]
+        },
+        {
+          "title": "HR & Payroll",
+          "href": "/hr-payroll-services",
+          "items": [
+            { "title": "General HR & Payroll", "desc": "Outsource your entire HR team for maximum efficiency.", "href": "/hr-payroll-services" },
+            { "title": "Payroll Outsourcing", "desc": "Easily pay & offer insurance to your employees", "href": "/hr-payroll/payroll-services" },
+            { "title": "Employer of Record", "desc": "Hire employees in Vietnam without a local business", "href": "/hr-payroll/employer-of-record" }
+          ]
+        },
+        {
+          "title": "Recruitment & Staffing",
+          "href": "/recruitment-staffing-services-in-vietnam",
+          "items": [
+            { "title": "Recruitment Services", "desc": "Scale your business with the right people", "href": "/recruitment-staffing-services-in-vietnam" }
+          ]
+        },
+        {
+          "title": "Immigration",
+          "href": "/immigration",
+          "items": [
+            { "title": "Immigration Advisory", "desc": "Expert immigration services for Vietnam", "href": "/immigration/immigration-advisory-services" }
+          ]
+        },
+        {
+          "title": "Expat Services",
+          "href": "/expat-services",
+          "items": [
+            { "title": "Expat Services", "desc": "Seamless expat relocation services in Vietnam", "href": "/expat-services" }
+          ]
+        },
+        {
+          "title": "Other Services",
+          "href": "/services",
+          "items": [
+            { "title": "Local Partner & Distributor", "desc": "Expert local partner selection in Vietnam", "href": "/services/local-partner-distributor-selection-services" },
+            { "title": "Market Research & Analysis", "desc": "Gain market insights tailored to your goals", "href": "/market-research" },
+            { "title": "Company Dissolution", "desc": "Exit the Vietnam market with no legal issues", "href": "/company-dissolution" },
+            { "title": "Personal Data Protection", "desc": "Personal data protection compliance in Vietnam", "href": "/legal-advisory/personal-data-protection" },
+            { "title": "Business Process Outsourcing", "desc": "Customized BPO solutions for business success", "href": "/business-process-outsourcing-bpo-services" },
+            { "title": "Compliance Retainer", "desc": "Fixed-fee legal advisory for compliance", "href": "/legal-advisory/compliance-retainer" },
+            { "title": "Internal Control Review", "desc": "Strengthening internal controls for risk mitigation", "href": "/internal-control-review" }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Resources",
+      "href": "/news",
+      "megamenu": [
+        {
+          "title": "News",
+          "href": "/news",
+          "items": [
+            { "title": "Ultimate Beneficial Owner Disclosure", "desc": "", "href": "/ultimate-beneficial-owner" },
+            { "title": "Essential Guide: Key E-Invoice Updates", "desc": "", "href": "/vietnams-e-invoice-regulations-update" },
+            { "title": "Company e-ID Registration", "desc": "", "href": "/company-e-id-now-mandatory" }
+          ]
+        },
+        {
+          "title": "Insights",
+          "href": "/news",
+          "items": [
+            { "title": "New 2024 Law on Credit Institutions", "desc": "", "href": "/new-2024-law-on-credit-institutions" },
+            { "title": "Setting Up a Subsidiary Company in Vietnam", "desc": "", "href": "/subsidiary-company-in-vietnam" },
+            { "title": "Vietnam’s Personal Data Protection Decree", "desc": "", "href": "/personal-data-protection-vietnam" }
+          ]
+        },
+        {
+          "title": "E-Books",
+          "href": "/guides",
+          "items": [
+            { "title": "VAS to IFRS Conversion Guide", "desc": "", "href": "/business-guides/vas-to-ifrs-conversion-guide" },
+            { "title": "Vietnam HR & Payroll Guide", "desc": "", "href": "/business-guides/hr-and-payroll-guide" },
+            { "title": "Personal Data Protection Requirements", "desc": "", "href": "/business-guides/personal-data-protection-in-vietnam-demo" }
+          ]
+        },
+        {
+          "title": "Infographics",
+          "href": "/infographics",
+          "items": []
+        },
+        {
+          "title": "VINA OutsourceIn",
+          "href": "/category/vina-outsourcein",
+          "items": [
+            { "title": "Vietnam Visa Guide", "desc": "A Practical Overview for Business and Leisure Travel", "href": "/visas-in-vietnam" },
+            { "title": "Payroll in Vietnam", "desc": "What Employers Need to Know for 2026", "href": "/manage-payroll-vietnam" }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Events",
+      "href": "/events"
+    },
+    {
+      "label": "About Us",
+      "href": "/about-us",
+      "megamenu": [
+        {
+          "title": "About InCorp Vietnam",
+          "href": "/about-us",
+          "items": [
+            { "title": "About InCorp Vietnam", "desc": "Who we are, why we’re here", "href": "/about-us" },
+            { "title": "Our People", "desc": "The faces that make InCorp Vietnam", "href": "/our-people" },
+            { "title": "Our Clients", "desc": "Why we do what we do", "href": "/our-clients" },
+            { "title": "Our Partners", "desc": "We help clients beyond our scope.", "href": "/our-partners" },
+            { "title": "Careers", "desc": "Opportunities that shape the future.", "href": "/careers" }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact-us"
+    }
+  ],
+  "cta": { "label": "Make an Inquiry", "href": "/make-an-inquiry" }
+}

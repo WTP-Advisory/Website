@@ -1,0 +1,65 @@
+{
+  "title": "Payroll Services in Vietnam",
+  "metaDescription": "Outsourced payroll services in Vietnam — gross-to-net calculations, SHUI insurance, personal income tax filing and labor compliance, delivered accurately and on time.",
+  "hero": {
+    "eyebrow": "HR & Payroll",
+    "title": "Payroll Services in Vietnam",
+    "subtitle": "InCorp Vietnam simplifies payroll and ensures compliance across every HR aspect — including payroll, insurance and personal income taxes.",
+    "cta": { "label": "Make an Inquiry", "href": "/make-an-inquiry" }
+  },
+  "sections": [
+    {
+      "type": "cards",
+      "eyebrow": "Our Services",
+      "heading": "Full-service payroll management",
+      "columns": 2,
+      "items": [
+        { "title": "Payroll Processing", "desc": "Gross-to-net calculations, tax handling and salary payment lists." },
+        { "title": "Social, Health & Unemployment Insurance", "desc": "Monthly SHUI reporting, claims management and card issuance." },
+        { "title": "Personal Income Tax (PIT)", "desc": "Prepare and submit monthly and quarterly PIT declarations, online and in hard copy." },
+        { "title": "Labor Compliance", "desc": "Employee documentation, contract management and regulatory filings." }
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "Why InCorp Vietnam",
+      "heading": "Why choose our payroll service",
+      "columns": 2,
+      "items": [
+        "Maintain constant compliance while reducing costs.",
+        "Partner with HR experts backed by a global team.",
+        "Accurate and timely reporting across payroll, insurance and taxes.",
+        "Enhanced accuracy and scalability for seasonal workforce changes."
+      ]
+    },
+    {
+      "type": "steps",
+      "eyebrow": "How It Works",
+      "heading": "Our 4-step success plan",
+      "items": [
+        { "title": "Submit your details", "desc": "Share your company information and payroll needs." },
+        { "title": "Consult our advisors", "desc": "Speak with bilingual business consultants." },
+        { "title": "Complete KYC verification", "desc": "We verify documents and prepare your account." },
+        { "title": "Begin operations", "desc": "Select a plan and we start running your payroll." }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "FAQs",
+      "heading": "Frequently asked questions",
+      "items": [
+        { "q": "Can I hire remotely without establishing a Vietnamese legal entity?", "a": "Yes. Our Employer of Record service lets you hire in Vietnam without setting up your own entity, while we manage payroll and compliance." },
+        { "q": "Can you set up international payroll for our team in Vietnam?", "a": "Yes. We handle the full payroll setup and run it on your behalf, including gross-to-net calculations, PIT and insurance." },
+        { "q": "Can the service package be customised?", "a": "Yes. We tailor the scope of payroll, insurance, tax and HR support to match your company's specific needs." }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Run payroll in Vietnam with confidence",
+      "subtitle": "Let our experts deliver accurate, compliant payroll every cycle.",
+      "button": { "label": "Make an Inquiry", "href": "/make-an-inquiry" },
+      "variant": "red"
+    }
+  ],
+  "showContactForm": false
+}

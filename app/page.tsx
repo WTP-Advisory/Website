@@ -1,27 +1,27 @@
+import { TopBar } from "./_components/TopBar";
 import { Header } from "./_components/Header";
-import { Hero } from "./_components/Hero";
-import { Services } from "./_components/Services";
-import { WhyChoose } from "./_components/WhyChoose";
-import { Process } from "./_components/Process";
-import { Ecosystem } from "./_components/Ecosystem";
-import { CtaBand } from "./_components/CtaBand";
-import { Contact } from "./_components/Contact";
+import { HeroSlider } from "./_components/HeroSlider";
+import { Solutions } from "./_components/Solutions";
+import { StatsBand } from "./_components/StatsBand";
+import { News } from "./_components/News";
+import { BrochureCta } from "./_components/BrochureCta";
 import { Footer } from "./_components/Footer";
+import { WhatsAppButton } from "./_components/WhatsAppButton";
 
 export default function Home() {
   return (
     <>
+      <TopBar />
       <Header />
       <main className="flex-1">
-        <Hero />
-        <Services />
-        <WhyChoose />
-        <Process />
-        <Ecosystem />
-        <CtaBand />
-        <Contact />
+        <HeroSlider />
+        <Solutions />
+        <StatsBand />
+        <News />
+        <BrochureCta />
       </main>
       <Footer />
+      <WhatsAppButton />
     </>
   );
 }

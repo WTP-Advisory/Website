@@ -1,0 +1,75 @@
+{
+  "title": "Compliance Retainer",
+  "metaDescription": "Fixed-fee monthly legal advisory retainer in Vietnam — ongoing compliance support that acts as your in-house legal team.",
+  "hero": {
+    "eyebrow": "Legal Advisory",
+    "title": "Compliance retainer services in Vietnam",
+    "subtitle": "Fixed-fee legal advisory that gives SMEs and foreign investors the benefits of an in-house legal team — without the cost of hiring full-time staff.",
+    "cta": { "label": "Make an Inquiry", "href": "/make-an-inquiry" }
+  },
+  "sections": [
+    {
+      "type": "richText",
+      "eyebrow": "Overview",
+      "heading": "Your on-call legal team in Vietnam",
+      "align": "center",
+      "body": [
+        "Staying compliant in Vietnam means keeping pace with frequent changes in tax, labour and corporate governance rules. InCorp Vietnam's Compliance Retainer is a monthly, fixed-fee legal advisory service designed for SMEs and foreign direct investors who need dependable guidance without the expense of a permanent legal hire.",
+        "Acting as your in-house legal partner, we provide proactive monitoring and timely advice so potential issues are addressed before they escalate."
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "What's Included",
+      "heading": "Inside the retainer",
+      "columns": 1,
+      "items": [
+        "Compliance advice and memos tailored to your business situation",
+        "Multiple communication channels — email, phone calls and document exchanges",
+        "In-person consultations at your office when needed",
+        "Proactive regulatory monitoring across tax, labour law and corporate governance",
+        "Ad-hoc updates on significant legal changes affecting your operations"
+      ]
+    },
+    {
+      "type": "cards",
+      "eyebrow": "Benefits",
+      "heading": "Why choose a retainer",
+      "columns": 2,
+      "items": [
+        { "title": "Cost Savings", "desc": "A fixed monthly fee costs far less than hiring permanent legal staff." },
+        { "title": "Consistent Oversight", "desc": "Continuous compliance monitoring reduces the risk of non-compliance." },
+        { "title": "Dedicated Expertise", "desc": "A legal partner who knows your business and acts as your in-house team." },
+        { "title": "Proactive Risk Management", "desc": "Issues are identified and addressed before they escalate." }
+      ]
+    },
+    {
+      "type": "steps",
+      "eyebrow": "How It Works",
+      "heading": "Getting started",
+      "items": [
+        { "title": "Submit information", "desc": "Share your company details and compliance needs." },
+        { "title": "Consult our advisors", "desc": "Meet with our bilingual business advisors to scope the retainer." },
+        { "title": "Verify documents", "desc": "We complete KYC verification and onboard your business." },
+        { "title": "Begin your retainer", "desc": "Select your plan and start receiving ongoing compliance support." }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "FAQs",
+      "heading": "Common questions",
+      "items": [
+        { "q": "What areas does the retainer cover?", "a": "The retainer typically covers tax, labour and corporate governance compliance, with the scope tailored to your business." },
+        { "q": "How often do we check in?", "a": "Frequency is customisable — commonly monthly or quarterly check-ins, plus immediate updates whenever regulations change." }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Ready for dependable compliance support?",
+      "subtitle": "Let our advisors act as your in-house legal team in Vietnam.",
+      "button": { "label": "Make an Inquiry", "href": "/make-an-inquiry" },
+      "variant": "red"
+    }
+  ],
+  "showContactForm": false
+}

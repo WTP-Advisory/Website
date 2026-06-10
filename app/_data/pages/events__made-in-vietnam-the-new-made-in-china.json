@@ -1,0 +1,51 @@
+{
+  "layout": "event",
+  "title": "Is “Made in Vietnam” The New “Made in China”?",
+  "metaDescription": "A webinar exploring Vietnam's manufacturing trends and what they mean for foreign investors and businesses, led by InCorp Vietnam with FiinGroup.",
+  "banner": "/incorp/events/made-in-vietnam.png",
+  "format": "Webinar",
+  "date": "March 20, 2025",
+  "about": [
+    "Join us for an insightful event designed for foreign individuals and businesses operating in Vietnam, led by InCorp Vietnam's experts in collaboration with FiinGroup.",
+    "Vietnam is rapidly gaining recognition as a top destination for foreign investment, thanks to its skilled workforce, competitive production costs, expanding trade agreements, and strategic location in Southeast Asia. As global supply chains continue to evolve, businesses are increasingly looking to Vietnam for manufacturing, sourcing, and market expansion opportunities.",
+    "This event brings together industry experts to provide critical insights into Vietnam's growing role in global trade and investment."
+  ],
+  "details": [
+    { "label": "Date", "value": "March 20, 2025" },
+    { "label": "Time", "value": "14:00 – 15:00 (GMT+7)" },
+    { "label": "Format", "value": "Online webinar — joining link provided upon registration" }
+  ],
+  "bulletSections": [
+    {
+      "heading": "What You'll Learn",
+      "items": [
+        "Vietnam's Competitive Edge — why companies are choosing Vietnam for manufacturing and business expansion",
+        "Investment & Regulatory Updates — essential legal and policy changes for foreign investors in 2024",
+        "Emerging Sectors & Market Trends — where the biggest growth opportunities lie",
+        "Business Entry Strategies — step-by-step guidance on setting up operations in Vietnam",
+        "Challenges & Risk Management — navigating Vietnam's business landscape for long-term success"
+      ]
+    },
+    {
+      "heading": "Who Should Attend",
+      "items": [
+        "Investors & entrepreneurs exploring Vietnam's growing market",
+        "Manufacturers & supply chain leaders looking to expand operations in Asia",
+        "Business executives & trade professionals seeking insights into Vietnam's economic growth"
+      ]
+    }
+  ],
+  "registration": {
+    "heading": "Save Your Seat",
+    "subtitle": "Tune in to our exclusive webinar for the latest updates.",
+    "schedule": "March 20, 2025 | 14:00 – 15:00 (GMT+7)"
+  },
+  "prev": {
+    "title": "Tax Compliance Risks for Foreigners in Vietnam",
+    "href": "/events/webinar-tax-compliance-risks"
+  },
+  "next": {
+    "title": "Bridging Borders: Vietnam Launchpad – Move, Build, Succeed for Overseas Vietnamese",
+    "href": "/events/bridging-borders-vietnam-launchpad"
+  }
+}

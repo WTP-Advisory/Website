@@ -1,0 +1,63 @@
+{
+  "title": "VAT Refund Services in Vietnam",
+  "metaDescription": "Expert VAT refund services in Vietnam — eligibility assessment, documentation, filing, compliance assurance and audit support to simplify the process and maximize your eligible refunds.",
+  "hero": {
+    "eyebrow": "Tax Advisory",
+    "title": "VAT Refund Services at InCorp Vietnam",
+    "subtitle": "We simplify the VAT refund process, ensure compliance and help you maximize your eligible refunds.",
+    "cta": { "label": "Make an Inquiry", "href": "/make-an-inquiry" }
+  },
+  "sections": [
+    {
+      "type": "richText",
+      "eyebrow": "Overview",
+      "heading": "Protect your cash flow with proper VAT recovery",
+      "align": "center",
+      "body": [
+        "VAT is critical to business operations in Vietnam, and delays or errors in claims can disrupt cash flow and create compliance risks.",
+        "Professional assistance is essential for navigating the complexity of the refund process. Our team manages each step so your claims are accurate, complete and timely."
+      ]
+    },
+    {
+      "type": "steps",
+      "eyebrow": "Our Process",
+      "heading": "How our VAT refund service works",
+      "items": [
+        { "title": "Eligibility Assessment", "desc": "We review your activities and transactions to confirm refund eligibility." },
+        { "title": "Documentation Support", "desc": "We prepare and organise the supporting documents required for your claim." },
+        { "title": "Filing & Submission", "desc": "We submit a complete, accurate claim to the tax authorities." },
+        { "title": "Compliance Assurance", "desc": "We ensure every claim aligns with the latest regulations." },
+        { "title": "Audit Assistance", "desc": "We support you throughout any tax authority review or audit." }
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "Why InCorp Vietnam",
+      "heading": "Why choose us for VAT refunds",
+      "columns": 2,
+      "items": [
+        "Expert consultation grounded in Vietnam's VAT regulations.",
+        "Comprehensive support backed by a full accounting suite.",
+        "Simplified process that handles the time-consuming work for you.",
+        "Focus on core business while we manage your refunds."
+      ]
+    },
+    {
+      "type": "stats",
+      "heading": "Experience you can rely on",
+      "items": [
+        { "value": "30+", "label": "Years track record" },
+        { "value": "120+", "label": "Accounting & tax clients" },
+        { "value": "15,000+", "label": "Clients worldwide" }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Recover the VAT you are owed",
+      "subtitle": "Talk to our experts and maximize your eligible refunds in Vietnam.",
+      "button": { "label": "Make an Inquiry", "href": "/make-an-inquiry" },
+      "variant": "red"
+    }
+  ],
+  "showContactForm": false
+}

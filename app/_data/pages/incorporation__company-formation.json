@@ -1,0 +1,81 @@
+{
+  "title": "Company Formation",
+  "metaDescription": "Company formation services in Vietnam — register an LLC, JSC, branch or representative office with up to 100% foreign ownership.",
+  "hero": {
+    "eyebrow": "Incorporation",
+    "title": "Company Formation Services in Vietnam",
+    "subtitle": "Setting up a business in Vietnam can be challenging, but it doesn't have to be.",
+    "cta": { "label": "Make an Inquiry", "href": "/make-an-inquiry" }
+  },
+  "sections": [
+    {
+      "type": "richText",
+      "eyebrow": "Overview",
+      "heading": "We handle your entire company registration",
+      "body": [
+        "InCorp Vietnam simplifies business establishment by handling the entire registration process — from representative office setup to complete company incorporation. We assist global companies from Asia Pacific, Europe and North America in navigating regulations and administrative requirements for legal, long-term success.",
+        "Your formation comes wrapped in a comprehensive market-entry package: legal consultation, HR support, taxation guidance and accounting assistance, all under one roof."
+      ]
+    },
+    {
+      "type": "cards",
+      "eyebrow": "Entity types",
+      "heading": "Choose the right company structure",
+      "subtitle": "Four common structures for foreign investors entering Vietnam.",
+      "columns": 2,
+      "items": [
+        { "title": "Limited Liability Company (LLC)", "desc": "The most common type — a straightforward structure with quick setup and flexible capital requirements." },
+        { "title": "Joint-Stock Company (JSC)", "desc": "A shareholder-based entity with transferable shares, suited to larger ventures and capital raising." },
+        { "title": "Representative Office (RO)", "desc": "A non-profit, foreign-owned office for market research and hiring, with no capital requirement." },
+        { "title": "Branch Office (BO)", "desc": "Operates under the parent company's structure and can acquire permits for business activities." }
+      ]
+    },
+    {
+      "type": "steps",
+      "eyebrow": "Process",
+      "heading": "How company registration works",
+      "subtitle": "A clear, guided path from first contact to operations.",
+      "items": [
+        { "title": "Submit information & needs", "desc": "Share your company information and Vietnam business aspirations." },
+        { "title": "Book a consultation", "desc": "Meet with our bilingual business consultants to plan your structure." },
+        { "title": "Verify KYC documents", "desc": "We process the paperwork and prepare your company dossier." },
+        { "title": "Choose a plan & succeed", "desc": "Select your plan and begin operations with ongoing InCorp support." }
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "Why InCorp",
+      "heading": "Benefits of forming your company with us",
+      "columns": 2,
+      "items": [
+        "One-stop market-entry solution",
+        "Up to 100% foreign ownership available",
+        "Local expertise and market knowledge",
+        "Speed and efficiency in every process",
+        "Long-term commitment to client success",
+        "International prestige through the InCorp Group network"
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "FAQ",
+      "heading": "Frequently asked questions",
+      "items": [
+        { "q": "Can foreigners establish companies in Vietnam?", "a": "Yes. Foreign investors can register companies — limited liability companies are the most common thanks to their straightforward structure and quick setup." },
+        { "q": "What entity types are available?", "a": "Four options: LLC, JSC, Branch Office and Representative Office." },
+        { "q": "Are there minimum capital requirements?", "a": "Vietnamese law specifies no general minimum, though USD 25,000-30,000 is typically advised for smooth operations." },
+        { "q": "Can foreigners own 100% of the company?", "a": "Yes, in most sectors — with exceptions in restricted areas such as narcotics, hazardous chemicals, endangered species, prostitution and human trafficking." },
+        { "q": "How long does incorporation take?", "a": "LLC or JSC formation typically takes 40-60 days, though purchasing a shelf company can accelerate this to a few working days." },
+        { "q": "Are there alternatives without full incorporation?", "a": "Yes — HR outsourcing as Employer of Record and local distributor partnerships are viable options." }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Start your company in Vietnam today",
+      "subtitle": "Our experts will guide you from structure selection to first day of operations.",
+      "button": { "label": "Make an Inquiry", "href": "/make-an-inquiry" },
+      "variant": "red"
+    }
+  ],
+  "showContactForm": false
+}

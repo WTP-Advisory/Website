@@ -1,0 +1,69 @@
+{
+  "title": "Offshore Incorporation",
+  "metaDescription": "Offshore incorporation with InCorp — expand globally, optimize taxes and protect assets across an established Asia-Pacific network.",
+  "hero": {
+    "eyebrow": "Incorporation",
+    "title": "Offshore Incorporation with InCorp Vietnam",
+    "subtitle": "Offshore incorporation enables businesses to expand globally, optimize taxes and protect assets.",
+    "cta": { "label": "Make an Inquiry", "href": "/make-an-inquiry" }
+  },
+  "sections": [
+    {
+      "type": "richText",
+      "eyebrow": "Overview",
+      "heading": "Structure your business for global growth",
+      "body": [
+        "Offshore incorporation with InCorp Vietnam covers establishing entities in international jurisdictions, navigating complex legal and regulatory frameworks, and managing corporate structures for global expansion, asset protection and tax optimization.",
+        "Every engagement is supported across legal, HR, taxation and accounting, so your offshore structure is set up correctly and stays compliant."
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "Benefits",
+      "heading": "Why incorporate offshore with us",
+      "columns": 2,
+      "items": [
+        "Up to 100% foreign-owned entity with complete business control and minimal risk exposure",
+        "One-stop solution incorporating legal consultation, HR, taxation and accounting",
+        "Complete transparency — pay only for the services you need, when you need them",
+        "International prestige through InCorp Group's presence across Asia-Pacific"
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "Reach",
+      "heading": "Where we operate",
+      "columns": 3,
+      "items": [
+        "Singapore",
+        "Australia",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Malaysia",
+        "Philippines",
+        "Vietnam",
+        "Mainland China"
+      ]
+    },
+    {
+      "type": "stats",
+      "eyebrow": "Track record",
+      "heading": "A partner you can trust",
+      "items": [
+        { "value": "30+", "label": "Years of regional expertise" },
+        { "value": "100+", "label": "Companies incorporated annually" },
+        { "value": "15,000+", "label": "Clients served globally" },
+        { "value": "1,500+", "label": "Professionals on staff" }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Take your business global",
+      "subtitle": "Let our experts navigate offshore structuring, tax optimization and asset protection for you.",
+      "button": { "label": "Make an Inquiry", "href": "/make-an-inquiry" },
+      "variant": "red"
+    }
+  ],
+  "showContactForm": false
+}

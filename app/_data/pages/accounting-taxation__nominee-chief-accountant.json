@@ -1,0 +1,62 @@
+{
+  "title": "Nominee Chief Accountant",
+  "metaDescription": "Nominee chief accountant services in Vietnam — meet the mandatory requirement for non-micro-enterprises with a qualified professional handling tax compliance, financial reporting and audits.",
+  "hero": {
+    "eyebrow": "Accounting & Taxation",
+    "title": "Nominee Chief Accountant Services in Vietnam",
+    "subtitle": "Chief accountants are mandatory for non-micro-enterprises in Vietnam, handling tax compliance, financial reporting, audits and liaising with the tax authorities.",
+    "cta": { "label": "Make an Inquiry", "href": "/make-an-inquiry" }
+  },
+  "sections": [
+    {
+      "type": "richText",
+      "eyebrow": "Overview",
+      "heading": "Meet Vietnam's chief accountant requirement",
+      "align": "left",
+      "body": [
+        "Vietnamese law requires non-micro-enterprises to appoint a qualified chief accountant to oversee critical financial responsibilities and ensure regulatory adherence.",
+        "InCorp Vietnam provides a nominee chief accountant so you can satisfy this requirement immediately — without the cost and complexity of recruiting a full-time hire."
+      ]
+    },
+    {
+      "type": "cards",
+      "eyebrow": "What's included",
+      "heading": "Our nominee chief accountant service",
+      "columns": 2,
+      "items": [
+        { "title": "Chief accountant dossier", "desc": "We coordinate with your team, state authorities and banks to assign a chief accountant and establish business bank accounts." },
+        { "title": "Ongoing representation", "desc": "Signing accounting reports, financial statements, tax filings and Power of Attorney documentation as required." }
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "Why InCorp",
+      "heading": "Key benefits",
+      "columns": 1,
+      "items": [
+        "Minimizes legal risks and compliance fines",
+        "Provides expert professional guidance",
+        "Enables strategic tax optimization within the law",
+        "Ensures accurate financial reporting for informed decision-making"
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "FAQs",
+      "heading": "Frequently asked questions",
+      "items": [
+        { "q": "How much does the service cost?", "a": "Cost depends on your business requirements, including the types and frequency of reports involved. We tailor a quote to your needs." },
+        { "q": "Is this suitable for my company size?", "a": "Yes. The service works for large, medium and small enterprises that fall outside the micro-enterprise threshold." },
+        { "q": "How do I get started?", "a": "Submit an inquiry with your company details and we will prepare a customized solution for you." }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Stay compliant with a nominee chief accountant",
+      "subtitle": "Satisfy Vietnam's statutory requirement with a qualified professional on your side.",
+      "button": { "label": "Make an Inquiry", "href": "/make-an-inquiry" },
+      "variant": "red"
+    }
+  ],
+  "showContactForm": false
+}

@@ -1,0 +1,72 @@
+{
+  "title": "Virtual Office in Ho Chi Minh City",
+  "metaDescription": "Virtual office services in Ho Chi Minh City — a prestigious business address for licensing and compliance with low overhead.",
+  "hero": {
+    "eyebrow": "Incorporation",
+    "title": "Virtual Office in Ho Chi Minh City",
+    "subtitle": "Establish your business presence in Vietnam with a prestigious Ho Chi Minh City address. Our virtual office services guarantee legal compliance and cost savings.",
+    "cta": { "label": "Make an Inquiry", "href": "/make-an-inquiry" }
+  },
+  "sections": [
+    {
+      "type": "richText",
+      "eyebrow": "Overview",
+      "heading": "A professional presence without the overhead",
+      "body": [
+        "A virtual office lets your business maintain a professional presence in Ho Chi Minh City without requiring physical workspace. It combines cost efficiency with flexibility, so you can operate remotely while keeping your credibility and legal compliance intact.",
+        "From a registered business address to mail handling and on-site support during inspections, we cover the essentials you need to license and run your company."
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "What's included",
+      "heading": "Virtual office features",
+      "columns": 2,
+      "items": [
+        "Registered business address for company licensing and regulatory filings",
+        "Virtual office lease agreement and VAT invoice",
+        "Company nameplate displayed at the registered location",
+        "Mailbox with PO box assignment and regular mail handling",
+        "Visitor reception in the lobby and meeting room access for small groups",
+        "Supporting documentation for government registrations",
+        "Legal support during government inspections",
+        "Amenities including receptionist service, Wi-Fi, printing and IT support"
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "Why InCorp",
+      "heading": "Benefits of our virtual office",
+      "columns": 2,
+      "items": [
+        "Cost savings with a prestigious address and low overhead",
+        "Bilingual experts ensuring legal compliance is met",
+        "Accurate, timely reporting delivered on schedule",
+        "Flexible, scalable market-entry options",
+        "Professional image without sacrificing credibility",
+        "Transparent pricing with no hidden charges"
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "FAQ",
+      "heading": "Frequently asked questions",
+      "items": [
+        { "q": "Can foreigners establish companies in Vietnam?", "a": "Yes. Foreign investors can form foreign-owned entities, with LLCs being the most common structure for faster setup." },
+        { "q": "What company types exist in Vietnam?", "a": "Limited Liability Company (LLC), Joint-Stock Company (JSC), Branch Office and Representative Office." },
+        { "q": "Is minimum capital required?", "a": "Although not legally mandated, USD 25,000-30,000 is typically considered the practical minimum for smooth operations." },
+        { "q": "Can foreigners hold 100% ownership?", "a": "Yes, in most sectors except restricted areas such as drugs, hazardous materials, endangered species, prostitution and human trafficking." },
+        { "q": "How long does company registration take?", "a": "Approximately 40-60 days for LLC or JSC formation; shelf companies can be activated within days." },
+        { "q": "What alternatives exist without full incorporation?", "a": "HR outsourcing, Employer of Record (EOR) services and local distributor partnerships are available options." }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Secure your Ho Chi Minh City address",
+      "subtitle": "Get a compliant, prestigious business address without the cost of physical space.",
+      "button": { "label": "Make an Inquiry", "href": "/make-an-inquiry" },
+      "variant": "red"
+    }
+  ],
+  "showContactForm": false
+}

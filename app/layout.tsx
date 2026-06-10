@@ -1,44 +1,41 @@
 import type { Metadata } from "next";
-import { Montserrat } from "next/font/google";
+import { Roboto } from "next/font/google";
 import "./globals.css";
 
-const montserrat = Montserrat({
-  variable: "--font-montserrat",
+const roboto = Roboto({
+  variable: "--font-roboto",
   subsets: ["latin", "vietnamese"],
-  weight: ["400", "500", "600", "700", "800"],
+  weight: ["300", "400", "500", "700", "900"],
   display: "swap",
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://wtpadvisory.vn"),
+  metadataBase: new URL("https://vietnam.incorp.asia"),
   title: {
-    default: "WTP Advisory — Cố vấn Quản trị thuê ngoài cho doanh nghiệp Việt",
-    template: "%s | WTP Advisory",
+    default: "InCorp Vietnam - Leading Market Entry & Corporate Services",
+    template: "%s | InCorp Vietnam",
   },
   description:
-    "WTP Advisory cung cấp dịch vụ Cố vấn Quản trị thuê ngoài — khai phóng lãnh đạo, đồng hành cùng doanh nghiệp Việt từ chiến lược đến thực thi để tăng trưởng bền vững và vươn ra toàn cầu.",
+    "InCorp Vietnam is a leading market entry & corporate services firm. We provide incorporation, legal advisory, accounting, tax, HR & payroll, and immigration services to help you expand your business in Vietnam.",
   keywords: [
-    "WTP Advisory",
-    "cố vấn quản trị thuê ngoài",
-    "tư vấn quản trị doanh nghiệp",
-    "khai phóng lãnh đạo",
-    "tư vấn chiến lược",
-    "WTP Capital",
+    "InCorp Vietnam",
+    "company formation Vietnam",
+    "market entry Vietnam",
+    "corporate services Vietnam",
+    "incorporation Vietnam",
+    "business expansion Vietnam",
   ],
   openGraph: {
     type: "website",
-    locale: "vi_VN",
-    siteName: "WTP Advisory",
-    title: "WTP Advisory — Cố vấn Quản trị thuê ngoài cho doanh nghiệp Việt",
+    locale: "en_US",
+    siteName: "InCorp Vietnam",
+    title: "InCorp Vietnam - Leading Market Entry & Corporate Services",
     description:
-      "Khai phóng lãnh đạo — đồng hành cùng doanh nghiệp Việt từ chiến lược đến thực thi.",
+      "Your business expansion expert in Vietnam — one-stop company formation and corporate services.",
   },
   icons: {
-    icon: [
-      { url: "/favicon-16.png", sizes: "16x16", type: "image/png" },
-      { url: "/favicon-32.png", sizes: "32x32", type: "image/png" },
-    ],
-    apple: { url: "/apple-touch-icon.png", sizes: "180x180", type: "image/png" },
+    icon: [{ url: "/incorp/brand/favicon.png", type: "image/png" }],
+    apple: { url: "/incorp/brand/favicon.png", sizes: "180x180", type: "image/png" },
   },
 };
 
@@ -48,11 +45,8 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html
-      lang="vi"
-      className={`${montserrat.variable} h-full antialiased`}
-    >
-      <body className="min-h-full flex flex-col bg-white text-ink">{children}</body>
+    <html lang="en" className={`${roboto.variable} h-full antialiased`}>
+      <body className="min-h-full flex flex-col bg-white text-ink-soft">{children}</body>
     </html>
   );
 }

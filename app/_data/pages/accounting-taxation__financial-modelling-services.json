@@ -1,0 +1,59 @@
+{
+  "title": "Financial Modelling Services",
+  "metaDescription": "Financial modelling services in Vietnam — customized, data-driven models for forecasting, valuation, budgeting, scenario analysis, M&A and capital structure decisions.",
+  "hero": {
+    "eyebrow": "Accounting & Taxation",
+    "title": "Financial Modelling Services in Vietnam",
+    "subtitle": "Customized, data-driven models that support strategic planning, investment evaluation and informed business decision-making.",
+    "cta": { "label": "Make an Inquiry", "href": "/make-an-inquiry" }
+  },
+  "sections": [
+    {
+      "type": "richText",
+      "eyebrow": "Overview",
+      "heading": "Turn data into decisions",
+      "align": "left",
+      "body": [
+        "A robust financial model lets you analyze past performance, project future outcomes and assess investment opportunities with clarity.",
+        "InCorp Vietnam builds tailored models that support business planning, valuation and risk management — giving stakeholders a structured, data-driven basis for every decision."
+      ]
+    },
+    {
+      "type": "cards",
+      "eyebrow": "What we build",
+      "heading": "Our financial modelling services",
+      "columns": 3,
+      "items": [
+        { "title": "Financial forecasting", "desc": "Project revenue, costs and performance across future periods." },
+        { "title": "Valuation models", "desc": "Estimate business and asset value to inform deals and reporting." },
+        { "title": "Budgeting & financial planning", "desc": "Align budgets, targets and resources with your business goals." },
+        { "title": "Scenario & sensitivity analysis", "desc": "Stress-test assumptions to understand the range of outcomes." },
+        { "title": "M&A analysis", "desc": "Model acquisitions, fundraising and other transactions." },
+        { "title": "Cash flow analysis", "desc": "Track liquidity and the timing of cash inflows and outflows." },
+        { "title": "Debt & capital structure modeling", "desc": "Evaluate financing options and optimal capital structure." },
+        { "title": "Performance metrics & KPIs", "desc": "Define and track the indicators that measure financial health." }
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "Why InCorp",
+      "heading": "The benefits of professional modelling",
+      "columns": 1,
+      "items": [
+        "Informed decision-making through a structured assessment of business scenarios",
+        "Investment analysis to value businesses and evaluate M&A or fundraising",
+        "Strategic planning that aligns budgets, targets and resources with your goals",
+        "Risk management by simulating scenarios and identifying potential risks early",
+        "Performance evaluation that tracks KPIs to support growth strategies"
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Plan ahead with a model built for your business",
+      "subtitle": "Let our experts translate your data into a clear path forward.",
+      "button": { "label": "Make an Inquiry", "href": "/make-an-inquiry" },
+      "variant": "red"
+    }
+  ],
+  "showContactForm": false
+}
