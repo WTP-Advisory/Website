@@ -21,10 +21,10 @@
     { "label": "Location", "value": "Zoom link will be provided upon registration" }
   ],
   "speakers": [
-    { "name": "Raymond Lim", "role": "Vanguard Financial Group — Moderator & Host" },
-    { "name": "Jack Nguyen", "role": "WTP Advisory — Market Entry, Legal & FDI Compliance Expert" },
-    { "name": "Yee Chung Seck", "role": "Baker McKenzie Vietnam — Legal & Regulatory Advisor for Foreign Investors" },
-    { "name": "Quynh Pham", "role": "Vietcombank — Head of Customer Services Organization" }
+    { "name": "Christopher Wong", "role": "Vanguard Financial Group — Moderator & Host" },
+    { "name": "Michael Tran", "role": "WTP Advisory — Market Entry, Legal & FDI Compliance Expert" },
+    { "name": "Wei Ming Tan", "role": "Baker McKenzie Vietnam — Legal & Regulatory Advisor for Foreign Investors" },
+    { "name": "Hoa Pham", "role": "Vietcombank — Head of Customer Services Organization" }
   ],
   "agenda": [
     { "time": "15:00 – 15:05", "title": "Welcome & Opening Remarks" },

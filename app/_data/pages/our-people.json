@@ -25,9 +25,9 @@
       "variant": "portrait",
       "columns": 3,
       "items": [
-        { "name": "Jack Nguyen, CPA, CA", "role": "Chief Executive Officer", "image": "/incorp/people/placeholder.svg", "profileHref": "/our-people", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" },
-        { "name": "Benny Nguyen", "role": "Head of Business Advisory", "image": "/incorp/people/placeholder.svg", "profileHref": "/our-people", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" },
-        { "name": "Si Pham", "role": "Head of Corporate Secretarial and Advisory Services", "image": "/incorp/people/placeholder.svg", "profileHref": "/our-people", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" }
+        { "name": "Michael Tran, CPA, CA", "role": "Chief Executive Officer", "image": "/incorp/people/placeholder.svg", "profileHref": "/our-people", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" },
+        { "name": "David Pham", "role": "Head of Business Advisory", "image": "/incorp/people/placeholder.svg", "profileHref": "/our-people", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" },
+        { "name": "Linh Hoang", "role": "Head of Corporate Secretarial and Advisory Services", "image": "/incorp/people/placeholder.svg", "profileHref": "/our-people", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" }
       ]
     },
     {
@@ -38,13 +38,13 @@
       "variant": "avatar",
       "columns": 4,
       "items": [
-        { "name": "Cecilia Nguyen", "role": "Legal Manager, External Legal Compliance", "image": "/incorp/people/placeholder.svg", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" },
-        { "name": "Anna Le", "role": "Head of External Accounting", "image": "/incorp/people/placeholder.svg", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" },
-        { "name": "Toan Nguyen", "role": "Assistant Manager, External Accounting", "image": "/incorp/people/placeholder.svg", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" },
-        { "name": "Hien Le", "role": "Human Resources Manager", "image": "/incorp/people/placeholder.svg", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" },
-        { "name": "Ken Nguyen", "role": "Head of Recruitment and Staffing", "image": "/incorp/people/placeholder.svg", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" },
-        { "name": "Tina Le", "role": "Head of Business Intelligence", "image": "/incorp/people/placeholder.svg", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" },
-        { "name": "Ngan Nguyen", "role": "Head of Hanoi Branches", "image": "/incorp/people/placeholder.svg", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" }
+        { "name": "Jennifer Le", "role": "Legal Manager, External Legal Compliance", "image": "/incorp/people/placeholder.svg", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" },
+        { "name": "Sophie Nguyen", "role": "Head of External Accounting", "image": "/incorp/people/placeholder.svg", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" },
+        { "name": "Minh Tran", "role": "Assistant Manager, External Accounting", "image": "/incorp/people/placeholder.svg", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" },
+        { "name": "Thu Pham", "role": "Human Resources Manager", "image": "/incorp/people/placeholder.svg", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" },
+        { "name": "Nam Le", "role": "Head of Recruitment and Staffing", "image": "/incorp/people/placeholder.svg", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" },
+        { "name": "Lan Hoang", "role": "Head of Business Intelligence", "image": "/incorp/people/placeholder.svg", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" },
+        { "name": "Mai Tran", "role": "Head of Hanoi Branches", "image": "/incorp/people/placeholder.svg", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" }
       ]
     },
     {
