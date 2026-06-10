@@ -29,18 +29,17 @@ function MegaPanel({ groups }: { groups: Group[] }) {
 
   return (
     <div className="absolute left-0 right-0 top-full hidden max-h-[calc(100vh-70px)] overflow-y-auto overflow-x-hidden border-t border-stone-100 bg-footer-light shadow-lg group-hover:block">
-      {/* red accent block, full-bleed left */}
-      <div className="pointer-events-none absolute left-0 top-0 h-full w-[6%] bg-brand-600" />
-      {/* faded city image, full-bleed right */}
-      {/* eslint-disable-next-line @next/next/no-img-element */}
-      <img
-        src="/incorp/hero/slide-power-of-one.png"
-        alt=""
-        className="pointer-events-none absolute right-0 top-0 hidden h-full w-[18%] object-cover opacity-20 lg:block"
-      />
-
       <Container className="relative">
-        <div className="flex min-h-[340px]">
+        <div className="relative flex min-h-[340px]">
+          {/* red accent — right edge meets the category list, bleeds off-screen left at any width */}
+          <div className="pointer-events-none absolute right-full top-0 h-full w-screen bg-brand-600" />
+          {/* faded city image — left edge starts past the cards, bleeds off-screen right */}
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img
+            src="/incorp/hero/slide-power-of-one.png"
+            alt=""
+            className="pointer-events-none absolute left-full top-0 hidden h-full w-[40vw] object-cover opacity-20 lg:block"
+          />
           {/* left: category list */}
           <ul className="w-[30%] shrink-0 border-r border-stone-300 py-6">
             {groups.map((group, i) => (

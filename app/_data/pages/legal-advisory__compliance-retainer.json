@@ -1,75 +1,154 @@
 {
-  "title": "Compliance Retainer",
-  "metaDescription": "Fixed-fee monthly legal advisory retainer in Vietnam — ongoing compliance support that acts as your in-house legal team.",
+  "title": "Compliance Retainer for Companies in Vietnam",
+  "metaDescription": "Get your own in-house team of compliance retainer experts, constantly monitoring and safeguarding you against violations and penalties.",
   "hero": {
-    "eyebrow": "Legal Advisory",
-    "title": "Compliance retainer services in Vietnam",
-    "subtitle": "Fixed-fee legal advisory that gives SMEs and foreign investors the benefits of an in-house legal team — without the cost of hiring full-time staff.",
-    "cta": { "label": "Make an Inquiry", "href": "/make-an-inquiry" }
+    "eyebrow": "Services",
+    "title": "Compliance Retainer for Companies in Vietnam",
+    "subtitle": "Get your own in-house team of compliance retainer experts, constantly monitoring and safeguarding you against violations and penalties.",
+    "cta": {
+      "label": "Make an Inquiry",
+      "href": "/make-an-inquiry"
+    },
+    "image": "/incorp/solutions/legal-advisory.jpg"
   },
   "sections": [
     {
-      "type": "richText",
-      "eyebrow": "Overview",
-      "heading": "Your on-call legal team in Vietnam",
-      "align": "center",
-      "body": [
-        "Staying compliant in Vietnam means keeping pace with frequent changes in tax, labour and corporate governance rules. InCorp Vietnam's Compliance Retainer is a monthly, fixed-fee legal advisory service designed for SMEs and foreign direct investors who need dependable guidance without the expense of a permanent legal hire.",
-        "Acting as your in-house legal partner, we provide proactive monitoring and timely advice so potential issues are addressed before they escalate."
-      ]
-    },
-    {
-      "type": "list",
-      "eyebrow": "What's Included",
-      "heading": "Inside the retainer",
-      "columns": 1,
-      "items": [
-        "Compliance advice and memos tailored to your business situation",
-        "Multiple communication channels — email, phone calls and document exchanges",
-        "In-person consultations at your office when needed",
-        "Proactive regulatory monitoring across tax, labour law and corporate governance",
-        "Ad-hoc updates on significant legal changes affecting your operations"
-      ]
-    },
-    {
       "type": "cards",
-      "eyebrow": "Benefits",
-      "heading": "Why choose a retainer",
-      "columns": 2,
+      "heading": "Benefits to Expect from Our Compliance Retainer Services",
+      "columns": 4,
       "items": [
-        { "title": "Cost Savings", "desc": "A fixed monthly fee costs far less than hiring permanent legal staff." },
-        { "title": "Consistent Oversight", "desc": "Continuous compliance monitoring reduces the risk of non-compliance." },
-        { "title": "Dedicated Expertise", "desc": "A legal partner who knows your business and acts as your in-house team." },
-        { "title": "Proactive Risk Management", "desc": "Issues are identified and addressed before they escalate." }
+        {
+          "title": "Cost-effective",
+          "desc": "Receive expert compliance advice for a fixed monthly fee, saving on the expense of a full-time legal team.",
+          "icon": "banknote"
+        },
+        {
+          "title": "Ongoing Support",
+          "desc": "Regular, reliable guidance ensures your business stays aligned with Vietnam's regulations.",
+          "icon": "headset"
+        },
+        {
+          "title": "In-house Expertise",
+          "desc": "We act as your in-house legal team, offering tailored advice on compliance issues without the overhead.",
+          "icon": "users"
+        },
+        {
+          "title": "Proactive Risk Management",
+          "desc": "Address potential legal challenges before they become issues, minimizing risk to your business.",
+          "icon": "shield"
+        }
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "How Does the Compliance Retainer Service Work?",
+      "body": [
+        "Keeping Your Business Constantly Monitored and Safeguarded",
+        "At InCorp Vietnam, we understand that every inquiry is unique. We take great care in matching your specific compliance needs with a consultant who possesses the specialized skills and experience to support your compliance and commercial objectives.",
+        "Once appointed, our Compliance Retainer service can be delivered through various communication channels, whether it be via email, telephone conversations, document provisions, or other formats that suit your needs.",
+        "Our comprehensive Compliance Retainer service includes ongoing regulatory monitoring, advisory support, and dedicated guidance to keep your business compliant."
       ]
     },
     {
       "type": "steps",
-      "eyebrow": "How It Works",
-      "heading": "Getting started",
+      "heading": "Your Success Plan in Vietnam",
       "items": [
-        { "title": "Submit information", "desc": "Share your company details and compliance needs." },
-        { "title": "Consult our advisors", "desc": "Meet with our bilingual business advisors to scope the retainer." },
-        { "title": "Verify documents", "desc": "We complete KYC verification and onboard your business." },
-        { "title": "Begin your retainer", "desc": "Select your plan and start receiving ongoing compliance support." }
+        {
+          "title": "Submit Your Information & Needs",
+          "desc": "Tell us about your company's needs and aspirations in Vietnam",
+          "icon": "file"
+        },
+        {
+          "title": "Book a Consultation With Our Experts",
+          "desc": "Go over your plan with one of our bilingual business Consultants",
+          "icon": "headset"
+        },
+        {
+          "title": "Verify KYC Documents",
+          "desc": "Our consultants will contact you to process the necessary paperwork and create your company dossier",
+          "icon": "clipboard"
+        },
+        {
+          "title": "Choose a Plan & Succeed In Vietnam",
+          "desc": "Let us simplify your business journey and make your mark in APAC's fastest-growing economy",
+          "icon": "rocket"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Other Services for Businesses in Vietnam",
+      "columns": 4,
+      "items": [
+        {
+          "title": "Incorporation",
+          "desc": "Gain a presence in the Vietnamese market through our incorporation services.",
+          "href": "/incorporation",
+          "icon": "rocket"
+        },
+        {
+          "title": "Accounting & Taxation",
+          "desc": "Save time and money while ensuring compliance with full-service accounting services.",
+          "href": "/accounting-taxation",
+          "icon": "calculator"
+        },
+        {
+          "title": "HR & Payroll",
+          "desc": "Comprehensive outsourcing services for recruitment, payroll, insurance, and taxes.",
+          "href": "/hr-payroll-services",
+          "icon": "users"
+        },
+        {
+          "title": "Immigration",
+          "desc": "Navigate visa requirements and obtain work permits, investor, and business visa.",
+          "href": "/immigration",
+          "icon": "globe"
+        }
       ]
     },
     {
       "type": "faq",
-      "eyebrow": "FAQs",
-      "heading": "Common questions",
+      "heading": "Frequently Asked Questions on Compliance Retainer",
       "items": [
-        { "q": "What areas does the retainer cover?", "a": "The retainer typically covers tax, labour and corporate governance compliance, with the scope tailored to your business." },
-        { "q": "How often do we check in?", "a": "Frequency is customisable — commonly monthly or quarterly check-ins, plus immediate updates whenever regulations change." }
+        {
+          "q": "How can compliance retainer services help my business stay updated with evolving regulatory changes in Vietnam?",
+          "a": "Our compliance retainer service continuously monitors changes to Vietnam's laws and regulations and provides timely advisory updates, ensuring your business remains aligned with current requirements and avoids penalties from non-compliance."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "variant": "red",
+      "heading": "Backed by InCorp Group",
+      "items": [
+        {
+          "value": "30+",
+          "label": "Years of experience"
+        },
+        {
+          "value": "1,500+",
+          "label": "Professionals across APAC"
+        },
+        {
+          "value": "20,000+",
+          "label": "Clients served globally"
+        },
+        {
+          "value": "8",
+          "label": "Markets in Asia-Pacific"
+        }
       ]
     },
     {
       "type": "cta",
-      "title": "Ready for dependable compliance support?",
-      "subtitle": "Let our advisors act as your in-house legal team in Vietnam.",
-      "button": { "label": "Make an Inquiry", "href": "/make-an-inquiry" },
+      "title": "Ready to get started in Vietnam?",
+      "subtitle": "Talk to our experts about how we can support your business.",
+      "button": {
+        "label": "Make an Inquiry",
+        "href": "/make-an-inquiry"
+      },
       "variant": "red"
     }
   ],
-  "showContactForm": false
+  "showContactForm": true
 }

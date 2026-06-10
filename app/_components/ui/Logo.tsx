@@ -1,12 +1,11 @@
-import site from "../../_data/site.json";
-
 export function Logo({ className = "" }: { className?: string }) {
   return (
-    // eslint-disable-next-line @next/next/no-img-element
-    <img
-      src={site.logo}
-      alt={site.name}
-      className={`h-10 w-auto lg:h-12 ${className}`}
-    />
+    <span
+      className={`inline-flex items-baseline whitespace-nowrap text-2xl font-extrabold tracking-tight text-ink lg:text-[26px] ${className}`}
+    >
+      WTP
+      <span className="px-0.5 text-brand-600">.</span>
+      <span className="font-semibold text-ink-soft">Advisory</span>
+    </span>
   );
 }

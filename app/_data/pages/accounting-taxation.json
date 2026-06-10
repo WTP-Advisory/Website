@@ -1,77 +1,369 @@
 {
-  "title": "Accounting & Taxation",
-  "metaDescription": "Outsourced accounting and tax compliance for foreign-invested and domestic companies in Vietnam — bookkeeping, financial statements, IFRS conversion, nominee chief accountant, due diligence, modelling and valuation.",
+  "title": "Accounting and Tax Services in Vietnam",
+  "metaDescription": "Simplify your finances with trusted accounting and tax services in Vietnam. Our experts ensure accuracy, compliance, and peace of mind — so you can focus on growth.",
   "hero": {
-    "eyebrow": "Accounting & Finance",
+    "eyebrow": "Services",
     "title": "Accounting and Tax Services in Vietnam",
-    "subtitle": "Save money and time with our accounting services in Vietnam. Focus on your bottom line and let our bilingual experts streamline your tax returns and statutory submissions.",
-    "cta": { "label": "Make an Inquiry", "href": "/make-an-inquiry" }
+    "subtitle": "Save money and time with our accounting services in Vietnam. Focus on your bottom line and let us streamline your tax returns and submissions. Avoid fines and legal pressure while maintaining full compliance.",
+    "cta": {
+      "label": "Make an Inquiry",
+      "href": "/make-an-inquiry"
+    },
+    "image": "/incorp/solutions/accounting-finance.jpg"
   },
   "sections": [
     {
-      "type": "richText",
-      "eyebrow": "Overview",
-      "heading": "End-to-end accounting and tax compliance",
-      "align": "left",
-      "body": [
-        "InCorp Vietnam provides outsourced accounting and tax compliance solutions for foreign-invested and domestic companies operating in Vietnam, eliminating the need for a costly in-house accounting team.",
-        "Our bilingual professionals combine deep Vietnam-specific expertise with the backing of InCorp Group's network across eight APAC markets, ensuring your financial statements and tax submissions are accurate, compliant and on time."
-      ]
-    },
-    {
       "type": "cards",
-      "eyebrow": "What we do",
-      "heading": "Our accounting & taxation services",
-      "subtitle": "Comprehensive support across every stage of your financial operations in Vietnam.",
-      "columns": 3,
+      "heading": "Benefits of Accounting Services & Tax Reporting Outsourcing",
+      "columns": 4,
       "items": [
-        { "title": "Bookkeeping Services", "desc": "Accurate, timely financial record-keeping to maintain compliance and streamline operations.", "href": "/accounting-taxation/bookkeeping-services" },
-        { "title": "Financial Statement Preparation", "desc": "Precise, compliant balance sheets, P&L and cash flow statements aligned with Vietnamese standards.", "href": "/accounting-taxation/financial-statement-preparation" },
-        { "title": "IFRS Conversion Services", "desc": "Align your financial reporting with international standards while minimizing business disruption.", "href": "/accounting-taxation/ifrs-conversion-services" },
-        { "title": "Nominee Chief Accountant", "desc": "A qualified chief accountant to meet Vietnam's mandatory requirement for non-micro-enterprises.", "href": "/accounting-taxation/nominee-chief-accountant" },
-        { "title": "Financial Due Diligence", "desc": "In-depth analysis of a target company's financial standing for confident decisions.", "href": "/accounting-taxation/financial-due-diligence-services" },
-        { "title": "Financial Modelling", "desc": "Customized, data-driven models for forecasting, valuation and investment evaluation.", "href": "/accounting-taxation/financial-modelling-services" },
-        { "title": "Valuation Services", "desc": "Independent, robust valuations of businesses, assets and investments.", "href": "/accounting-taxation/valuation-services" }
+        {
+          "title": "Easy accounting compliance",
+          "desc": "Never mess up financial statements with our expert accounting services for small businesses.",
+          "icon": "rocket"
+        },
+        {
+          "title": "Expert accountants at your service",
+          "desc": "Work with a bilingual team experienced in personalized accounting in Vietnam.",
+          "icon": "headset"
+        },
+        {
+          "title": "Get accurate reports submitted on time",
+          "desc": "Take advantage of our expertise in taxation for timely and compliant tax reporting.",
+          "icon": "fileCheck"
+        },
+        {
+          "title": "Global Reach",
+          "desc": "As part of InCorp Group, we provide quality accounting services in eight APAC countries.",
+          "icon": "globe"
+        }
       ]
     },
     {
-      "type": "steps",
-      "eyebrow": "How it works",
-      "heading": "Getting started is simple",
-      "items": [
-        { "title": "Submit your information", "desc": "Tell us about your company and your accounting and tax needs." },
-        { "title": "Consult our team", "desc": "Speak with our bilingual business consultants to scope the right solution." },
-        { "title": "Complete KYC", "desc": "We complete KYC verification and documentation to onboard your business." },
-        { "title": "Begin operations", "desc": "Select your service plan and let us handle your accounting and tax compliance." }
+      "type": "table",
+      "heading": "Vietnam's Main Taxes on Foreign Companies",
+      "columns": [
+        "Corporate Income Tax",
+        "Value-Added Tax",
+        "Personal Income Tax",
+        "Business License Tax"
+      ],
+      "rows": [
+        {
+          "label": "Applicable",
+          "cells": [
+            "All companies except Representative Office",
+            "All companies",
+            "All companies",
+            "All companies"
+          ]
+        },
+        {
+          "label": "Tax Rate",
+          "cells": [
+            "Standard: 20%, Incentivized: 0-17%, Restricted: 32-50%",
+            "Standard: 10%*, Incentivized: 0-5%",
+            "5-35% (depending on income)",
+            "VND 2,000,000 – 3,000,000 (depending on capital)"
+          ]
+        },
+        {
+          "label": "Declaration Frequency",
+          "cells": [
+            "Quarterly, Yearly",
+            "Monthly, Quarterly, Yearly",
+            "Monthly, Yearly",
+            "Monthly, Yearly"
+          ]
+        }
       ]
     },
     {
-      "type": "stats",
-      "eyebrow": "Vietnam tax at a glance",
-      "heading": "Key rates and figures",
-      "items": [
-        { "value": "20%", "label": "Standard Corporate Income Tax rate" },
-        { "value": "10%", "label": "Standard VAT rate" },
-        { "value": "Mar 31", "label": "Annual tax finalization deadline" },
-        { "value": "15,000+", "label": "Clients served worldwide" }
+      "type": "richText",
+      "heading": "Outsource Your Accounting & Taxation Services to InCorp Vietnam",
+      "align": "center",
+      "body": [
+        "Recruiting and managing your accounting team can be costly, time-consuming, and sometimes frustrating. Let our SME accounting solutions handle your tax filing and submission, and financial statement preparation and reporting."
       ]
     },
     {
-      "type": "faq",
-      "eyebrow": "FAQs",
-      "heading": "Frequently asked questions",
+      "type": "richText",
+      "heading": "Accounting and Tax Report Setup – Implementation",
+      "body": [
+        "InCorp Vietnam streamlines your business with efficient e-tax management and comprehensive tax services in Vietnam. We handle administrative tasks like E-invoice setup, online presence on the Government Portal, document collection, and tailored accounting software, freeing you to focus on business growth."
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "The Setup – Implementation service helps you:",
+      "columns": 1,
       "items": [
-        { "q": "Can any business outsource accounting to InCorp?", "a": "Yes. Our services are suitable for businesses of all sizes, from start-ups to large foreign-invested enterprises." },
-        { "q": "How much do accounting services cost?", "a": "Cost varies based on your requirements, including transaction volume, report types and reporting frequency. We tailor a plan to your needs." },
-        { "q": "Do I still need to report if my company is inactive?", "a": "Yes. Mandatory reporting requirements apply even for inactive companies in Vietnam, including the annual tax finalization due by March 31st." },
-        { "q": "Is your team qualified in local regulations?", "a": "Our bilingual professionals are experienced in Vietnamese Accounting Standards (VAS), local tax regulations and accounting software." }
+        "Create an online account for the company on the Government Online Portal",
+        "Register of E-tax declaration and E-tax payment",
+        "Prepare online folders for collecting required accounting supporting documents from clients",
+        "Set up the initial accounts on Accounting Software based on your business lines"
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Monthly/ Quarterly Accounting",
+      "body": [
+        "Discover InCorp's comprehensive routine accounting services to simplify your financial management and safeguard your business. Let us manage everything from accounting to tax filing, ensuring compliance with VAS and tax regulations."
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "The Monthly/Quarterly Accounting service helps you:",
+      "columns": 1,
+      "items": [
+        "Review accounting invoices, and the documentation provided",
+        "Post day-to-day transactions into accounting software, comply with the Vietnam Accounting Standard (VAS) and tax regulations",
+        "Prepare statutory monthly/quarterly and yearly VAS reports (except PIT declaration and finalization)",
+        "Work with the Tax Department on tax compliance issues"
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Value Added Tax (VAT) Compliance Service",
+      "body": [
+        "Our dedicated team for VAT services in Vietnam handles input and output obligations, manages monthly and quarterly declarations, processes refund claims for investors, and meets annual requirements on your behalf. Stay informed about VAT payments with our seamless tax compliance solutions."
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "The VAT Compliance Service helps you:",
+      "columns": 1,
+      "items": [
+        "Prepare monthly/ quarterly VAT declarations",
+        "Update monthly/quarterly to the Client of the VAT payable and make the VAT payments",
+        "Submit monthly/quarterly the VAT declarations to the Tax Online Portal"
       ]
     },
     {
       "type": "cta",
-      "title": "Ready to streamline your accounting and tax in Vietnam?",
-      "subtitle": "Let our experts handle compliance so you can focus on your bottom line.",
-      "button": { "label": "Make an Inquiry", "href": "/make-an-inquiry" },
+      "title": "Not sure where to start? Talk to a consultant.",
+      "subtitle": "Whether you need an employer of record service or payroll services for small business, InCorp offers contractor payroll services that give your company a strategic advantage.",
+      "button": {
+        "label": "Make an Inquiry",
+        "href": "/make-an-inquiry"
+      },
+      "variant": "blue"
+    },
+    {
+      "type": "richText",
+      "heading": "Corporate Income Tax (CIT) Compliance",
+      "body": [
+        "Explore InCorp Vietnam's CIT management service, which simplifies your tax operations. We handle CIT installment calculation, business tax preparation, and payment reminders, and ensure smooth compliance for your business's success."
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "The CIT Compliance service helps you:",
+      "columns": 1,
+      "items": [
+        "Prepare and calculate monthly/quarterly CIT installment amounts.",
+        "Update you monthly or quarterly on the CIT payables and proceeds with the CIT payments."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Year-end Services",
+      "body": [
+        "InCorp Vietnam specializes in financial reporting services and annual CIT finalization for seamless tax compliance. Our services include preparing Financial Statements, facilitating CIT discussions, and ensuring smooth Tax Online Portal submissions. For FDI firms, we provide auditing services and comprehensive digital records for hassle-free financial management."
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Our Year-end Compliance service helps you:",
+      "columns": 1,
+      "items": [
+        "Prepare Financial Statements, and discuss the final CIT amount",
+        "Submit Financial Statements to Tax Online Portal https://thuedientu.gdt.gov.vn/",
+        "Support your team to work with independent auditors in Vietnam (for FDI companies)",
+        "Prepare and submit the Annual CIT Finalization (if using ad-hoc cost)",
+        "Hand over the implemented accounting books in digital format"
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Other Ad-hoc Services",
+      "body": [
+        "InCorp Vietnam handles your FDI Company's financial statements submission and mandatory Department of Finance report submission so you can focus on your core business. We also print all tax declarations, statements, and records for your convenience."
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Our Ad-hoc Financial Reporting Services Include",
+      "columns": 1,
+      "items": [
+        "Submit Financial Statements to the Statistics Department and perform the Statistical Corporate investigation",
+        "Submit the hard copy of the Audited Financial Statements report to the Department of Finance (for FDI companies)",
+        "Print all Tax Declarations, Financial Statements, Inventory input-output, petty Cash payments/ receipts, General Ledger for Client's filing"
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Additional Tax Accounting Services for Your Business",
+      "columns": 2,
+      "items": [
+        {
+          "title": "Third Party Audit & Tax Advisory",
+          "desc": "Ensure compliance with mandatory annual financial statement audits for foreign-invested entities and receive expert tax compliance consultation for your company",
+          "icon": "eye"
+        },
+        {
+          "title": "Nominee Chief Accountant",
+          "desc": "Be assigned a qualified and reliable Nominee Chief Accountant, enabling you to meet regulatory requirements and focus on your core business operations",
+          "icon": "userCheck",
+          "href": "/accounting-taxation/nominee-chief-accountant"
+        },
+        {
+          "title": "Administrative Accountant",
+          "desc": "Work with a functional accountant who conducts transactions and performs administrative tasks efficiently",
+          "icon": "calculator"
+        },
+        {
+          "title": "VAT Refund",
+          "desc": "Reclaim overpaid and exempt VAT payments with our corporate tax services. (Contact us for eligibility)",
+          "icon": "receipt"
+        }
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "Your Success Plan in Vietnam",
+      "items": [
+        {
+          "title": "Submit Your Information & Needs",
+          "desc": "Tell us about your company's needs and aspirations in Vietnam"
+        },
+        {
+          "title": "Book a Consultation With Our Experts",
+          "desc": "Go over your plan with one of our bilingual business consultants and receive solid accounting consulting."
+        },
+        {
+          "title": "Verify KYC Documents",
+          "desc": "Our consultants will contact you to process the necessary paperwork and create your company dossier."
+        },
+        {
+          "title": "Choose a Plan & Succeed In Vietnam",
+          "desc": "Stamp your business name into APAC's fastest-growing economy with our bespoke SME accounting solutions."
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "eyebrow": "Explore More",
+      "heading": "Other Services for Vietnam Market Entry & Business Outsourcing",
+      "columns": 4,
+      "items": [
+        {
+          "title": "Incorporation",
+          "desc": "Gain a presence in the Vietnamese market through our incorporation services.",
+          "href": "/incorporation",
+          "icon": "rocket"
+        },
+        {
+          "title": "Legal Advisory",
+          "desc": "Obtain all the necessary licenses and sublicenses for doing business in Vietnam.",
+          "href": "/legal-advisory",
+          "icon": "scale"
+        },
+        {
+          "title": "HR & Payroll",
+          "desc": "Comprehensive outsourcing services for recruitment, payroll, insurance, and taxes.",
+          "href": "/hr-payroll-services",
+          "icon": "users"
+        },
+        {
+          "title": "Immigration",
+          "desc": "Navigate entry requirements and obtain permits for investors, businesses, and residence.",
+          "href": "/immigration",
+          "icon": "plane"
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "heading": "Frequently Asked Questions on Accounting Services & Tax Reporting in Vietnam",
+      "items": [
+        {
+          "q": "How do I start outsourcing my accounting tasks in Vietnam?",
+          "a": "You can fill out the inquiry form below, and our accounting experts will contact you promptly. Please specify your requirements so that we can tailor our complete bookkeeping services for your business."
+        },
+        {
+          "q": "How much does InCorp's accounting outsourcing service cost?",
+          "a": "The cost varies based on your business needs. It depends on the reports you need prepared and filed and if you require daily, weekly, or monthly bookkeeping services."
+        },
+        {
+          "q": "What are the benefits of accounting outsourcing in Vietnam?",
+          "a": "Outsourcing cuts costs (no need for an internal team), ensures compliance with Vietnam's changing financial regulations, and lets you focus on core business activities."
+        },
+        {
+          "q": "Does InCorp Vietnam offer other accounting outsourcing services?",
+          "a": "In addition to accounting, we provide payroll processing, outsourcing, and corporate tax compliance, especially small business tax services in Vietnam."
+        },
+        {
+          "q": "Is accounting outsourcing suitable for all businesses?",
+          "a": "Yes, you can outsource accounting services for large corporations or small businesses. At InCorp Vietnam, we provide tailored solutions to meet your needs."
+        },
+        {
+          "q": "How skilled is your accounting team?",
+          "a": "Our dedicated team is highly skilled, experienced in major accounting software, and up-to-date with Vietnamese bookkeeping, accounting, and tax regulations."
+        },
+        {
+          "q": "If my company has no activities, should I still report taxation?",
+          "a": "Yes, even with no activities, monthly and annual reports are mandatory once your company is established."
+        },
+        {
+          "q": "What are the deadlines for annual tax return?",
+          "a": "Both corporate and individual tax returns are due by March 31st."
+        },
+        {
+          "q": "What are Vietnam's corporate income tax rates?",
+          "a": "The CIT rate differs depending on the type of business: 20% for standard industries, and 32%-50% for sectors like oil and gas."
+        },
+        {
+          "q": "What is Vietnam's standard financial year?",
+          "a": "January 1st to December 31st is the standard financial year. However, under specific conditions, SMEs in Vietnam may choose alternative financial years ending on March 31, June 30, or September 30."
+        },
+        {
+          "q": "How is corporate income tax calculated?",
+          "a": "Corporate income tax is calculated based on assessable income. Please contact our tax specialists for details on what this includes."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "variant": "red",
+      "heading": "Backed by InCorp Group",
+      "items": [
+        {
+          "value": "30+",
+          "label": "Years of experience"
+        },
+        {
+          "value": "1,500+",
+          "label": "Professionals across APAC"
+        },
+        {
+          "value": "20,000+",
+          "label": "Clients served globally"
+        },
+        {
+          "value": "8",
+          "label": "Markets in Asia-Pacific"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Ready to get started in Vietnam?",
+      "subtitle": "Talk to our experts about how we can support your business.",
+      "button": {
+        "label": "Make an Inquiry",
+        "href": "/make-an-inquiry"
+      },
       "variant": "red"
     }
   ],

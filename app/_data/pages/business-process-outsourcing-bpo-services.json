@@ -1,70 +1,198 @@
 {
-  "title": "Business Process Outsourcing (BPO) Services in Vietnam",
-  "metaDescription": "InCorp Vietnam's BPO services are your one-stop shop — incorporation, accounting, tax advisory and payroll outsourcing — customized to your business needs for greater efficiency and long-term success.",
+  "title": "Business Process Outsourcing – BPO Services in Vietnam",
+  "metaDescription": "Let a dedicated expert team handle your tedious administrative processes. Our BPO services is ideal for reducing costs and boost growth.",
   "hero": {
-    "eyebrow": "BPO Services",
-    "title": "Business Process Outsourcing (BPO) Services in Vietnam",
-    "subtitle": "Our BPO solutions are your one-stop shop, covering everything from incorporation and tax advisory to payroll outsourcing. We customize everything to fit your unique business needs — a flexible, tailor-made approach that enhances efficiency and drives long-term success.",
-    "cta": { "label": "Make an Inquiry", "href": "/make-an-inquiry" }
+    "eyebrow": "Services",
+    "title": "Business Process Outsourcing – BPO Services in Vietnam",
+    "subtitle": "Our BPO solutions are your one-stop-shop, covering everything from incorporation, tax advisory, to payroll outsourcing. And the best part? We customize everything to fit your unique business needs, offering a flexible, tailor-made approach that enhances your efficiency and drives long-term success.",
+    "cta": {
+      "label": "Make an Inquiry",
+      "href": "/make-an-inquiry"
+    },
+    "image": "/incorp/hero/slide-bpo.jpg"
   },
   "sections": [
     {
       "type": "cards",
-      "eyebrow": "Why BPO",
-      "heading": "Benefits of outsourcing with InCorp Vietnam",
-      "columns": 2,
+      "heading": "Benefits to Expect from Our Business Process Outsourcing Service",
+      "columns": 4,
       "items": [
-        { "title": "Enhanced Efficiency", "desc": "Outsource administrative tasks so you can focus on core activities and boost productivity." },
-        { "title": "Customized Solutions", "desc": "Flexible, scalable solutions for accounting, tax and payroll tailored to your specific needs." },
-        { "title": "Cost Savings", "desc": "Reduce overhead by eliminating full-time internal resources while accessing expert support." },
-        { "title": "Compliance & Risk Management", "desc": "Our deep local knowledge ensures full compliance with Vietnamese tax, labor and governance rules." }
-      ]
-    },
-    {
-      "type": "list",
-      "eyebrow": "What We Offer",
-      "heading": "BPO services offered",
-      "columns": 2,
-      "items": [
-        "Incorporation",
-        "Accounting & tax compliance",
-        "Payroll outsourcing",
-        "Tax advisory",
-        "Temporary workforce replacement",
-        "Visa & work permit processing"
+        {
+          "title": "Enhanced efficiency",
+          "desc": "By outsourcing your administrative tasks, you can focus on core business activities, improving operational efficiency and productivity.",
+          "icon": "rocket"
+        },
+        {
+          "title": "Customized solutions",
+          "desc": "Our BPO services are tailored to fit your specific business needs, offering flexible and scalable solutions for accounting, tax, and payroll functions.",
+          "icon": "headset"
+        },
+        {
+          "title": "Cost savings",
+          "desc": "BPO allows you to reduce overhead costs by eliminating the need for full-time internal resources, while still accessing expert support.",
+          "icon": "coins"
+        },
+        {
+          "title": "Compliance and risk management",
+          "desc": "With InCorp Vietnam's deep local knowledge, we ensure full compliance with Vietnamese regulations, minimizing risks related to taxes, labor, and corporate governance.",
+          "icon": "globe"
+        }
       ]
     },
     {
       "type": "steps",
-      "eyebrow": "How We Work",
-      "heading": "Your success plan",
+      "heading": "Your Success Plan in Vietnam",
       "items": [
-        { "title": "Share Your Requirements", "desc": "Tell us your vision, plan and specific business needs." },
-        { "title": "Get Advised on an Optimal Plan", "desc": "Our experts design the best BPO solution for your situation." },
-        { "title": "Acquire the Perfect Talent Match", "desc": "We source and onboard top professionals for your operation." },
-        { "title": "Daily Reports & Communication", "desc": "Stay connected and informed through your dedicated team." }
+        {
+          "title": "Share Your Requirements",
+          "desc": "Share your vision, plan, and specific needs with us, so we can understand your business goals and challenges.",
+          "icon": "file"
+        },
+        {
+          "title": "Get Advised on an Optimal Plan",
+          "desc": "Our expert team will design the best BPO solutions to match your business requirements, ensuring a strategic fit.",
+          "icon": "lightbulb"
+        },
+        {
+          "title": "Acquire the Perfect Talent Match",
+          "desc": "We source and onboard top professionals tailored to your needs, ensuring you have the right talent for the job.",
+          "icon": "clipboard"
+        },
+        {
+          "title": "Daily Reports and Communication",
+          "desc": "Stay connected with your dedicated team for consistent updates and progress reports, keeping you informed at every step.",
+          "icon": "fileCheck"
+        }
       ]
     },
     {
       "type": "faq",
-      "eyebrow": "FAQs",
-      "heading": "Frequently asked questions",
+      "heading": "Frequently Asked Questions on Business Process Outsourcing",
       "items": [
-        { "q": "What are the main benefits of BPO?", "a": "Customized solutions, cost efficiency, specialized expertise and effective risk mitigation — all tailored to your business." },
-        { "q": "How do you assure quality?", "a": "We apply a rigorous selection process, deploy qualified team members, and provide regular updates throughout the engagement." },
-        { "q": "Can the services be customized?", "a": "Yes. Packages are completely customizable based on your unique requirements." },
-        { "q": "How will we communicate?", "a": "We provide daily reports and regular updates so you always have visibility." },
-        { "q": "Which industries do you serve?", "a": "Manufacturing, retail, technology, financial services, real estate and more." },
-        { "q": "How is my data protected?", "a": "We apply strict security measures to protect sensitive information and ensure full legal compliance." }
+        {
+          "q": "What BPO services does InCorp Vietnam provide?",
+          "a": "InCorp Vietnam offers one-stop BPO solutions covering everything from incorporation and tax advisory to accounting, HR, and payroll outsourcing. Every service can be customized to fit your unique business needs."
+        },
+        {
+          "q": "What are the benefits of using BPO services from InCorp Vietnam?",
+          "a": "Key benefits include enhanced efficiency by freeing you to focus on core business activities, customized and scalable solutions, significant cost savings on overhead, and full compliance with Vietnamese regulations backed by our deep local knowledge."
+        },
+        {
+          "q": "How does InCorp Vietnam ensure the quality of outsourced services?",
+          "a": "We follow a rigorous selection process to acquire top talent and ensure that all team members are highly qualified in their respective fields. We also provide regular updates and reports to maintain transparency and track progress."
+        },
+        {
+          "q": "Can BPO services be tailored to my specific business needs?",
+          "a": "Yes, our BPO solutions are completely customizable to fit the unique requirements of your business. We offer flexible packages that allow you to choose only the services that you need, ensuring that our solutions grow with your business."
+        },
+        {
+          "q": "How do I communicate with my outsourced team?",
+          "a": "InCorp Vietnam ensures seamless communication with your team through daily reports and regular updates, keeping you informed of all progress and performance metrics."
+        },
+        {
+          "q": "What industries do you serve with your BPO services?",
+          "a": "We serve a variety of industries, including manufacturing, retail, technology, financial services, real estate, and more. Our BPO services are adaptable across sectors."
+        },
+        {
+          "q": "How do I get started with InCorp Vietnam's BPO services?",
+          "a": "You can start by sharing your business requirements with us. Our team will then propose a customized plan and help you acquire the perfect talent match for your business needs."
+        },
+        {
+          "q": "What are the costs associated with BPO services?",
+          "a": "Costs vary depending on the scope and nature of the services you require. However, we ensure that our pricing is competitive and aligned with the value we provide to your business."
+        },
+        {
+          "q": "Is it safe to outsource sensitive business processes?",
+          "a": "Yes, at InCorp Vietnam we prioritize data security and confidentiality. We have strict measures in place to protect your sensitive business information and ensure compliance with all applicable laws."
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Other Services You Might Need",
+      "columns": 4,
+      "items": [
+        {
+          "title": "Legal Advisory",
+          "desc": "Ensure compliance by obtaining all necessary licenses and sublicenses for your company setup process in Vietnam.",
+          "href": "/legal-advisory",
+          "icon": "scale"
+        },
+        {
+          "title": "Accounting & Taxation",
+          "desc": "Save time and money with full-service accounting services that ensure compliance with Vietnam's regulations.",
+          "href": "/accounting-taxation",
+          "icon": "calculator"
+        },
+        {
+          "title": "HR & Payroll",
+          "desc": "Outsource your recruitment, payroll, insurance, and tax needs when opening a business in Vietnam.",
+          "href": "/hr-payroll-services",
+          "icon": "users"
+        },
+        {
+          "title": "Immigration",
+          "desc": "Navigate entry requirements and obtain permits for investors, businesses, and residence with guidance from InCorp's company formation lawyer.",
+          "href": "/immigration",
+          "icon": "plane"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Meet Our Experts",
+      "columns": 3,
+      "items": [
+        {
+          "title": "Jack Nguyen, CPA, CA",
+          "desc": "Chief Executive Officer",
+          "icon": "userCheck"
+        },
+        {
+          "title": "Benny Nguyen",
+          "desc": "Head of Business Advisory",
+          "icon": "user"
+        },
+        {
+          "title": "Si Pham",
+          "desc": "Head of Corporate Secretarial and Advisory Services",
+          "icon": "users"
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "variant": "red",
+      "heading": "Backed by InCorp Group",
+      "items": [
+        {
+          "value": "30+",
+          "label": "Years of experience"
+        },
+        {
+          "value": "1,500+",
+          "label": "Professionals across APAC"
+        },
+        {
+          "value": "20,000+",
+          "label": "Clients served globally"
+        },
+        {
+          "value": "8",
+          "label": "Markets in Asia-Pacific"
+        }
       ]
     },
     {
       "type": "cta",
-      "title": "Ready to streamline your operations in Vietnam?",
-      "subtitle": "Share your requirements and we'll prepare a customized BPO proposal.",
-      "button": { "label": "Make an Inquiry", "href": "/make-an-inquiry" },
+      "title": "Ready to get started in Vietnam?",
+      "subtitle": "Talk to our experts about how we can support your business.",
+      "button": {
+        "label": "Make an Inquiry",
+        "href": "/make-an-inquiry"
+      },
       "variant": "red"
     }
   ],
-  "showContactForm": false
+  "showContactForm": true
 }

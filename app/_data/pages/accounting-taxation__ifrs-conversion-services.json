@@ -1,64 +1,103 @@
 {
-  "title": "IFRS Conversion Services",
-  "metaDescription": "Expert IFRS conversion services in Vietnam — assess your financial systems, implement an IFRS-compliant reporting framework and align with international standards while minimizing disruption.",
+  "title": "IFRS Conversion Services in Vietnam",
+  "metaDescription": "Ensure financial transparency with our IFRS conversion services. InCorp Vietnam aligns your reporting with international standards, minimizing disruptions.",
   "hero": {
-    "eyebrow": "Accounting & Taxation",
+    "eyebrow": "Services",
     "title": "IFRS Conversion Services in Vietnam",
-    "subtitle": "Ensure global financial transparency with our expert IFRS conversion services. We streamline the process, aligning your reporting with international standards while minimizing business disruption.",
-    "cta": { "label": "Make an Inquiry", "href": "/make-an-inquiry" }
+    "subtitle": "Ensure global financial transparency with our expert IFRS conversion services. InCorp Vietnam streamlines the process, aligning your financial reporting with international standards while minimizing business disruptions.",
+    "cta": {
+      "label": "Make an Inquiry",
+      "href": "/make-an-inquiry"
+    },
+    "image": "/incorp/solutions/accounting-finance.jpg"
   },
   "sections": [
     {
       "type": "richText",
-      "eyebrow": "Overview",
-      "heading": "Move to international standards with confidence",
-      "align": "left",
+      "heading": "Why choose IFRS Conversion services at InCorp Vietnam?",
       "body": [
-        "As businesses expand and seek international investment, converting from Vietnamese Accounting Standards (VAS) to IFRS becomes essential for transparency and comparability.",
-        "InCorp Vietnam offers end-to-end IFRS conversion — assessing your financial systems, implementing a compliant reporting framework and guiding you through the entire transition with minimal disruption."
-      ]
+        "Adopting International Financial Reporting Standards (IFRS) is essential for businesses aiming for transparency, global competitiveness, and seamless financial reporting. However, the conversion process can be complex, requiring deep expertise and a strategic approach.",
+        "At InCorp Vietnam, we provide end-to-end IFRS conversion services, ensuring accurate compliance with international standards while minimizing disruptions to your operations. Our experts guide you through the entire process, from assessing current financial systems to implementing IFRS-compliant reporting frameworks, enabling your business to meet global financial reporting requirements with confidence."
+      ],
+      "align": "left"
     },
     {
-      "type": "steps",
-      "eyebrow": "Our approach",
-      "heading": "The conversion process",
+      "type": "stats",
+      "heading": "Your trusted accounting services provider",
       "items": [
-        { "title": "Financial system assessment", "desc": "Review your current systems, policies and reporting against IFRS requirements." },
-        { "title": "Framework design", "desc": "Implement an IFRS-compliant reporting framework tailored to your business." },
-        { "title": "Conversion & restatement", "desc": "Convert balances and restate financials in line with international standards." },
-        { "title": "Ongoing guidance", "desc": "Support your team through the transition and beyond to maintain compliance." }
+        {
+          "value": "30+",
+          "label": "Years Track Record"
+        },
+        {
+          "value": "15,000+",
+          "label": "Clients Worldwide"
+        },
+        {
+          "value": "120+",
+          "label": "Accounting & Tax Clients"
+        }
       ]
     },
     {
       "type": "cards",
-      "eyebrow": "Why InCorp",
-      "heading": "The benefits of our service",
-      "columns": 2,
+      "heading": "Benefits of IFRS Conversion Services with InCorp Vietnam",
+      "columns": 4,
       "items": [
-        { "title": "Expert consultation", "desc": "Insights into financial best practices and regulatory optimization." },
-        { "title": "Comprehensive support", "desc": "A full accounting suite from bookkeeping to tax compliance." },
-        { "title": "Simplified process", "desc": "We handle the time-consuming record-keeping and reporting tasks." },
-        { "title": "Core business focus", "desc": "Concentrate on growth while we maintain accuracy and compliance." }
+        {
+          "title": "Expert Consultation",
+          "desc": "Our accounting experts offer insights into financial best practices and regulations to help you optimize your business operations.",
+          "icon": "globe"
+        },
+        {
+          "title": "Comprehensive Support",
+          "desc": "We offer a full suite of accounting services, from bookkeeping to tax compliance, ensuring seamless financial management.",
+          "icon": "handshake"
+        },
+        {
+          "title": "Simplified Process",
+          "desc": "We handle the time-consuming tasks of financial record-keeping and reporting, allowing you to focus on your core business activities.",
+          "icon": "rocket"
+        },
+        {
+          "title": "Focus on Core Business",
+          "desc": "With our accounting expertise, you can focus on achieving your business goals while ensuring financial accuracy and compliance.",
+          "icon": "network"
+        }
       ]
     },
     {
-      "type": "stats",
-      "eyebrow": "By the numbers",
-      "heading": "Backed by certified professionals",
+      "type": "cards",
+      "heading": "Meet Our Experts",
+      "columns": 3,
       "items": [
-        { "value": "30+", "label": "Years of experience" },
-        { "value": "120+", "label": "Accounting & tax clients" },
-        { "value": "15,000+", "label": "Clients worldwide" },
-        { "value": "CPA/CA", "label": "Certified team members" }
+        {
+          "title": "Jack Nguyen, CPA, CA",
+          "desc": "Chief Executive Officer",
+          "icon": "user"
+        },
+        {
+          "title": "Benny Nguyen",
+          "desc": "Head of Business Advisory",
+          "icon": "userCheck"
+        },
+        {
+          "title": "Si Pham",
+          "desc": "Head of Corporate Secretarial and Advisory Services",
+          "icon": "users"
+        }
       ]
     },
     {
       "type": "cta",
-      "title": "Align your reporting with international standards",
-      "subtitle": "Let our IFRS specialists streamline your conversion from start to finish.",
-      "button": { "label": "Make an Inquiry", "href": "/make-an-inquiry" },
+      "title": "Ready to get started in Vietnam?",
+      "subtitle": "Talk to our experts about how we can support your business.",
+      "button": {
+        "label": "Make an Inquiry",
+        "href": "/make-an-inquiry"
+      },
       "variant": "red"
     }
   ],
-  "showContactForm": false
+  "showContactForm": true
 }

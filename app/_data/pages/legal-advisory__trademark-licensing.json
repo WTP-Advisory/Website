@@ -1,76 +1,212 @@
 {
-  "title": "Trademark Licensing",
-  "metaDescription": "Trademark registration and brand protection services in Vietnam through the National Office of Intellectual Property (NOIP).",
+  "title": "Trademark Application in Vietnam",
+  "metaDescription": "Trademark registration is essential to protecting your company's rights while doing business in Vietnam. Here's how we help simplify the process.",
   "hero": {
-    "eyebrow": "Legal Advisory",
-    "title": "Trademark registration services in Vietnam",
-    "subtitle": "Secure exclusive rights to your brand and protect it from misuse — we manage the entire registration process through the National Office of Intellectual Property.",
-    "cta": { "label": "Make an Inquiry", "href": "/make-an-inquiry" }
+    "eyebrow": "Services",
+    "title": "Trademark Application in Vietnam",
+    "subtitle": "Constantly changing regulations, protecting your assets, including your intellectual property, can seem daunting for a foreign-owned company in Vietnam. Our experienced bilingual legal team makes trademark licensing and international trademark registration easy and affordable. From day one, we'll provide affordable trademark registration, so you can focus on doing business without any worries.",
+    "cta": {
+      "label": "Make an Inquiry",
+      "href": "/make-an-inquiry"
+    },
+    "image": "/incorp/solutions/legal-advisory.jpg"
   },
   "sections": [
     {
-      "type": "richText",
-      "eyebrow": "Overview",
-      "heading": "Protect your brand in Vietnam",
-      "align": "center",
-      "body": [
-        "A registered trademark gives your business exclusive rights to its name, logo and identity in Vietnam — and the legal standing to stop others from using it. InCorp Vietnam helps foreign-owned companies secure those rights by handling the full registration process through the National Office of Intellectual Property of Vietnam (NOIP).",
-        "From application examination and legal consultation through to certificate issuance, our advisors manage drafting, dossier assembly, agency representation and follow-up so you can protect your brand with confidence."
-      ]
-    },
-    {
       "type": "cards",
-      "eyebrow": "Benefits",
-      "heading": "Why register your trademark",
-      "columns": 2,
+      "heading": "Benefits of Trademark Licensing in Vietnam",
+      "columns": 4,
       "items": [
-        { "title": "Exclusive Rights", "desc": "Gain exclusive rights to your trademark and stop others from using it without permission." },
-        { "title": "Brand Protection", "desc": "Keep your brand safe from misuse and avoid confusion with similar marks." },
-        { "title": "Priority Recognition", "desc": "Secure priority and national recognition, and defend your ownership claims." },
-        { "title": "Asset Value", "desc": "Boost your trademark's value, making it easier to secure loans and strengthening your reputation." }
+        {
+          "title": "Exclusive Rights and Preventing Unauthorized Use",
+          "desc": "Get exclusive rights to your trademark, stopping others from using it without permission.",
+          "icon": "rocket"
+        },
+        {
+          "title": "Protect Identity and Deter infringement",
+          "desc": "Keep your brand safe from misuse and avoid confusion with similar marks.",
+          "icon": "shield"
+        },
+        {
+          "title": "Priority Recognition and Safeguard Ownership",
+          "desc": "Secure priority recognition, gain national recognition, and defend your ownership claims.",
+          "icon": "fileCheck"
+        },
+        {
+          "title": "Enhance Asset Value and Loan Collateral",
+          "desc": "Boost your trademark's value, making it easier to get loans and improving your business reputation.",
+          "icon": "globe"
+        }
       ]
     },
     {
-      "type": "list",
-      "eyebrow": "What's Included",
-      "heading": "Our comprehensive service",
-      "columns": 1,
-      "items": [
-        "Application examination and legal consultation",
-        "Document drafting and preparation",
-        "Complete dossier assembly",
-        "Agency representation and follow-up with NOIP",
-        "Official document delivery and government portal updates"
+      "type": "table",
+      "heading": "Required Documents for Trademark Application in Vietnam",
+      "columns": ["No.", "Name of Documents", "Notes"],
+      "rows": [
+        {
+          "label": "1",
+          "cells": ["Declaration for licensing", "According to the form of State Agencies"]
+        },
+        {
+          "label": "2",
+          "cells": ["Samples of trademarks attached", "If trading on stock market, minimum 10 billion VND"]
+        },
+        {
+          "label": "3",
+          "cells": ["Proof of payment of fees and charges to State Agencies", "Application fee: 150,000 VND. Application publication fee: 120,000 VND. Searching fee for content examination: 180,000 VND/group of products and services. Searching fee for the 7th+ product or service: 30,000 VND/product or service"]
+        },
+        {
+          "label": "4",
+          "cells": ["Power of Attorney", "In case of applying through a representative"]
+        },
+        {
+          "label": "5",
+          "cells": ["Documents certifying the permission to use special signs", "In case the trademark required to protect contains symbols, flags, badges of domestic and international agencies or organizations, etc."]
+        },
+        {
+          "label": "6",
+          "cells": ["Documents proving the right to register", "In case such right is acquired by the applicant from another party"]
+        },
+        {
+          "label": "7",
+          "cells": ["Documents evidencing the priority right", "If the application has the requirement for priority right"]
+        }
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Trademark Application Procedure in Vietnam",
+      "body": [
+        "Navigating the procedure for trademark registration in Vietnam can be complex, but understanding the timeline and steps involved makes it easier. Here's what to expect once the National Office of Intellectual Property of Vietnam (NOIP) receives your trademark application:",
+        "Form examination: 1 month",
+        "Application publication: Your application will be published within 2 months after NOIP accepts it as valid",
+        "Content examination: Not exceeding 9 months from the date of application publication",
+        "However, the entire procedure to register a trademark can sometimes extend to 18-24 months due to backlog and other factors."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "How to apply",
+      "body": [
+        "Submit Directly: You can send your application directly or by post to NOIP's registered office.",
+        "Submit Online: Alternatively, use NOIP's Online Public Service Portal for submission.",
+        "Validity: The certificate for your trademark is valid for 10 years from the date of issuance. It can be renewed indefinitely, in 10-year increments."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Trademark Application Service with InCorp Vietnam",
+      "body": [
+        "Looking to protect your brand in Vietnam? Our trademark registration service has got you covered. From start to finish, we make the trademark registration process smooth and hassle-free.",
+        "Our comprehensive Trademark Application services include:",
+        "Examination of Trademark application",
+        "Consulting on the requirements and legal implications",
+        "Reviewing client application and business licenses in accordance with the law in Vietnam",
+        "Advising on the application and representation",
+        "Following up the application result for the work"
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Trademark Announcement",
+      "body": [
+        "InCorp Vietnam guarantees the swift delivery of official trademark documents and timely updates, expertly managing all communication related to your registered trademark in Vietnam.",
+        "This Trademark Announcement services will help you:",
+        "Send you the official documents for registered trademark",
+        "Provide updates and official announcements on the Vietnam Government portal of Trademark"
       ]
     },
     {
       "type": "steps",
-      "eyebrow": "The Process",
-      "heading": "Registration timeline (typically 18–24 months)",
+      "heading": "Your Success Plan in Vietnam",
       "items": [
-        { "title": "Form examination", "desc": "Formal review of your application, approximately 1 month." },
-        { "title": "Application publication", "desc": "Published 2 months after acceptance." },
-        { "title": "Content examination", "desc": "Substantive examination, up to 9 months from publication." },
-        { "title": "Certificate issuance", "desc": "Certificate valid for 10 years and renewable indefinitely." }
+        {
+          "title": "Submit Your Information & Needs",
+          "desc": "Tell us about your company's needs and aspirations for trademark licensing in Vietnam."
+        },
+        {
+          "title": "Book a Consultation With Our Experts",
+          "desc": "Go over your plan with one of our bilingual business consultants who specialize in international trademark registration in Vietnam."
+        },
+        {
+          "title": "Verify KYC Documents",
+          "desc": "Our trademark registration attorney will contact you to process the necessary paperwork and create your company dossier."
+        },
+        {
+          "title": "Choose a Plan & Succeed In Vietnam",
+          "desc": "Simplify your business journey with InCorp's licensed trademark attorney and make your mark in APAC's fastest-growing economy."
+        }
       ]
     },
     {
       "type": "faq",
-      "eyebrow": "FAQs",
-      "heading": "Common questions",
+      "eyebrow": "FAQ",
+      "heading": "Frequently Asked Questions on Trademark Licensing in Vietnam",
       "items": [
-        { "q": "How long is a trademark protected?", "a": "A registered trademark is protected for 10 years and can be renewed indefinitely." },
-        { "q": "What types of trademarks can be registered?", "a": "Five categories are recognised, including ordinary marks, service marks, collective marks and certification marks." },
-        { "q": "What are the filing fees?", "a": "Filing fees start at approximately US$190 per class, plus additional examination and publication fees." }
+        {
+          "q": "Why is trademark registration important for foreign investors in Vietnam?",
+          "a": "Trademark registration is essential for protecting your brand against copyright infringements, establishing ownership, and preventing competitors from using your brand name or logo. It also enhances legal defense and helps maintain customer trust."
+        },
+        {
+          "q": "What are the different types of trademarks recognized in Vietnam?",
+          "a": "Vietnam recognizes several types of trademarks, including word marks, figurative marks, combined marks, collective marks, and certification marks."
+        },
+        {
+          "q": "What advantages does trademark registration provide under Vietnamese law?",
+          "a": "Trademark registration grants exclusive rights to use the trademark nationwide, legal authority to prevent unauthorized use, and the ability to take legal action against infringers. It also serves as a strong proof of ownership in legal contexts."
+        },
+        {
+          "q": "What steps are involved in the trademark registration process?",
+          "a": "The process involves filing the application with the National Office of Intellectual Property (NOIP), a form examination, publication of the application, and a content examination before the certificate is granted. The entire procedure can take 18-24 months depending on backlog."
+        },
+        {
+          "q": "What is the duration of trademark protection in Vietnam?",
+          "a": "A registered trademark in Vietnam is protected for 10 years, with the option for renewal upon expiration."
+        },
+        {
+          "q": "Can trademarks be registered for both local and international protection?",
+          "a": "Yes, businesses can register trademarks for local protection within Vietnam or pursue international protection if they operate or plan to operate beyond Vietnam's borders."
+        },
+        {
+          "q": "What are the fees associated with trademark registration in Vietnam?",
+          "a": "Fees vary based on the number of classes and goods/services. The minimum filing fee for a single class starts at approximately US$190.00. Additional fees include examination fees, publication fees, and usage fees."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "variant": "red",
+      "heading": "Backed by InCorp Group",
+      "items": [
+        {
+          "value": "30+",
+          "label": "Years of experience"
+        },
+        {
+          "value": "1,500+",
+          "label": "Professionals across APAC"
+        },
+        {
+          "value": "20,000+",
+          "label": "Clients served globally"
+        },
+        {
+          "value": "8",
+          "label": "Markets in Asia-Pacific"
+        }
       ]
     },
     {
       "type": "cta",
-      "title": "Ready to protect your brand in Vietnam?",
-      "subtitle": "Let our advisors secure your trademark and defend your intellectual property.",
-      "button": { "label": "Make an Inquiry", "href": "/make-an-inquiry" },
+      "title": "Ready to get started in Vietnam?",
+      "subtitle": "Talk to our experts about how we can support your business.",
+      "button": {
+        "label": "Make an Inquiry",
+        "href": "/make-an-inquiry"
+      },
       "variant": "red"
     }
   ],
-  "showContactForm": false
+  "showContactForm": true
 }

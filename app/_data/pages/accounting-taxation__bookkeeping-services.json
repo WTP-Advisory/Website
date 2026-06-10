@@ -1,72 +1,157 @@
 {
-  "title": "Bookkeeping Services",
-  "metaDescription": "Expert bookkeeping services in Vietnam for accurate, timely financial record-keeping — transaction recording, reconciliation, payroll, VAT reporting and full regulatory compliance.",
+  "title": "Bookkeeping Services in Vietnam",
+  "metaDescription": "InCorp Vietnam provides expert bookkeeping for accurate records, compliance, and streamlined finances.",
   "hero": {
-    "eyebrow": "Accounting & Taxation",
+    "eyebrow": "Services",
     "title": "Bookkeeping Services in Vietnam",
-    "subtitle": "Expert bookkeeping to ensure accurate and timely financial record-keeping, helping your business maintain compliance and streamline its financial operations.",
-    "cta": { "label": "Make an Inquiry", "href": "/make-an-inquiry" }
+    "subtitle": "InCorp Vietnam offers expert bookkeeping services to ensure accurate and timely financial record-keeping, helping your business maintain compliance and streamline its financial operations.",
+    "cta": {
+      "label": "Make an Inquiry",
+      "href": "/make-an-inquiry"
+    },
+    "image": "/incorp/solutions/accounting-finance.jpg"
   },
   "sections": [
     {
       "type": "richText",
-      "eyebrow": "Overview",
-      "heading": "Reliable record-keeping, end to end",
-      "align": "left",
+      "heading": "Why choose bookkeeping services at InCorp Vietnam?",
       "body": [
-        "Accurate bookkeeping is the foundation of compliant financial reporting in Vietnam. InCorp Vietnam maintains your books so your records are always audit-ready and aligned with local regulations.",
-        "By delegating day-to-day record-keeping to our experienced team, you free up time and resources to focus on growing your core business."
-      ]
+        "At InCorp Vietnam, we offer comprehensive bookkeeping services at competitive rates. Many national and international clients have benefited from our tailored bookkeeping solutions. As a professional firm providing bookkeeping services in Vietnam, InCorp Vietnam ensures that your accounts are accurately maintained, saving you time and boosting the productivity of your business. Our consistent and reliable services allow you to focus on your company's core activities while we handle the complexities of financial management."
+      ],
+      "align": "left"
     },
     {
-      "type": "list",
-      "eyebrow": "What's included",
-      "heading": "Our bookkeeping covers",
-      "columns": 2,
+      "type": "stats",
+      "heading": "Your trusted accounting services provider",
       "items": [
-        "Daily transaction recording and general ledger maintenance",
-        "Accounts payable and accounts receivable management",
-        "Bank reconciliation",
-        "Payroll processing",
-        "Financial statement preparation",
-        "Tax filing support",
-        "Inventory management",
-        "Expense tracking and cost allocation",
-        "Financial reporting and analysis",
-        "VAT reporting and refund assistance",
-        "Local regulatory compliance"
+        {
+          "value": "30+",
+          "label": "Years Track Record"
+        },
+        {
+          "value": "15,000+",
+          "label": "Clients Worldwide"
+        },
+        {
+          "value": "120+",
+          "label": "Accounting & Tax Clients"
+        }
       ]
     },
     {
       "type": "cards",
-      "eyebrow": "Why InCorp",
-      "heading": "The benefits of outsourcing your bookkeeping",
-      "columns": 2,
+      "heading": "Comprehensive Bookkeeping Services",
+      "columns": 4,
       "items": [
-        { "title": "Expert guidance", "desc": "Practical advice on financial best practices and Vietnamese regulations." },
-        { "title": "Full-service support", "desc": "Seamless coverage from bookkeeping through to tax compliance." },
-        { "title": "Time savings", "desc": "Delegate record-keeping and reclaim time for your core operations." },
-        { "title": "Proven track record", "desc": "Competitive rates backed by experience across 120+ accounting clients." }
+        {
+          "title": "Daily Transaction Recording",
+          "icon": "file"
+        },
+        {
+          "title": "Accounts Payable & Receivable Management",
+          "icon": "coins"
+        },
+        {
+          "title": "General Ledger Maintenance",
+          "icon": "book"
+        },
+        {
+          "title": "Bank Reconciliation",
+          "icon": "landmark"
+        },
+        {
+          "title": "Payroll Processing & Management",
+          "icon": "banknote"
+        },
+        {
+          "title": "Financial Statement Preparation",
+          "icon": "fileCheck"
+        },
+        {
+          "title": "Tax Filing Support",
+          "icon": "receipt"
+        },
+        {
+          "title": "Inventory Management",
+          "icon": "layers"
+        },
+        {
+          "title": "Cost Allocation and Expense Tracking",
+          "icon": "wallet"
+        },
+        {
+          "title": "Financial Reporting & Analysis",
+          "icon": "chart"
+        },
+        {
+          "title": "VAT Reporting & VAT Refund",
+          "icon": "percent"
+        },
+        {
+          "title": "Compliance with Local Regulations",
+          "icon": "shield"
+        }
       ]
     },
     {
-      "type": "stats",
-      "eyebrow": "By the numbers",
-      "heading": "Backed by InCorp Group",
+      "type": "cards",
+      "heading": "Bookkeeping Services with InCorp Vietnam",
+      "columns": 4,
       "items": [
-        { "value": "30+", "label": "Years of experience" },
-        { "value": "15,000", "label": "Clients worldwide" },
-        { "value": "1,500+", "label": "Professionals across APAC" },
-        { "value": "120+", "label": "Accounting & tax clients" }
+        {
+          "title": "Expert Consultation",
+          "desc": "Our accounting experts offer insights into financial best practices and regulations to help you optimize your business operations.",
+          "icon": "users"
+        },
+        {
+          "title": "Comprehensive Support",
+          "desc": "We offer a full suite of accounting services, from bookkeeping to tax compliance, ensuring seamless financial management.",
+          "icon": "handshake"
+        },
+        {
+          "title": "Simplified Process",
+          "desc": "We handle the time-consuming tasks of financial record-keeping and reporting, allowing you to focus on your core business activities.",
+          "icon": "rocket"
+        },
+        {
+          "title": "Focus on Core Business",
+          "desc": "With our accounting expertise, you can focus on achieving your business goals while ensuring financial accuracy and compliance.",
+          "icon": "target"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Meet Our Experts",
+      "columns": 3,
+      "items": [
+        {
+          "title": "Jack Nguyen, CPA, CA",
+          "desc": "Chief Executive Officer",
+          "icon": "user"
+        },
+        {
+          "title": "Benny Nguyen",
+          "desc": "Head of Business Advisory",
+          "icon": "user"
+        },
+        {
+          "title": "Si Pham",
+          "desc": "Head of Corporate Secretarial and Advisory Services",
+          "icon": "user"
+        }
       ]
     },
     {
       "type": "cta",
-      "title": "Keep your books accurate and compliant",
-      "subtitle": "Let our team handle your record-keeping so you can focus on growth.",
-      "button": { "label": "Make an Inquiry", "href": "/make-an-inquiry" },
+      "title": "Ready to get started in Vietnam?",
+      "subtitle": "Talk to our experts about how we can support your business.",
+      "button": {
+        "label": "Make an Inquiry",
+        "href": "/make-an-inquiry"
+      },
       "variant": "red"
     }
   ],
-  "showContactForm": false
+  "showContactForm": true
 }

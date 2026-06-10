@@ -1,63 +1,112 @@
 {
-  "title": "VAT Refund Services in Vietnam",
-  "metaDescription": "Expert VAT refund services in Vietnam — eligibility assessment, documentation, filing, compliance assurance and audit support to simplify the process and maximize your eligible refunds.",
+  "title": "VAT Refund Services at InCorp Vietnam",
+  "metaDescription": "InCorp Vietnam offers expert VAT refund services designed to simplify the process, ensure compliance, and maximize your eligible refunds.",
   "hero": {
-    "eyebrow": "Tax Advisory",
+    "eyebrow": "Services",
     "title": "VAT Refund Services at InCorp Vietnam",
-    "subtitle": "We simplify the VAT refund process, ensure compliance and help you maximize your eligible refunds.",
-    "cta": { "label": "Make an Inquiry", "href": "/make-an-inquiry" }
+    "subtitle": "InCorp Vietnam offers expert VAT refund services designed to simplify the process, ensure compliance, and maximize your eligible refunds.",
+    "cta": {
+      "label": "Make an Inquiry",
+      "href": "/make-an-inquiry"
+    },
+    "image": "/incorp/solutions/tax-services.jpg"
   },
   "sections": [
     {
       "type": "richText",
-      "eyebrow": "Overview",
-      "heading": "Protect your cash flow with proper VAT recovery",
-      "align": "center",
+      "heading": "Why choose VAT Refund services at InCorp Vietnam?",
       "body": [
-        "VAT is critical to business operations in Vietnam, and delays or errors in claims can disrupt cash flow and create compliance risks.",
-        "Professional assistance is essential for navigating the complexity of the refund process. Our team manages each step so your claims are accurate, complete and timely."
+        "Value-Added Tax (VAT) is a critical aspect of doing business in Vietnam. Delays or errors in VAT refund claims can disrupt cash flow, increase financial strain, and expose businesses to compliance risks. Understanding and meeting the regulatory requirements can be time-consuming and complicated without professional assistance.",
+        "InCorp Vietnam offers expert VAT refund services designed to simplify the process, ensure compliance, and maximize your eligible refunds."
       ]
     },
     {
-      "type": "steps",
-      "eyebrow": "Our Process",
-      "heading": "How our VAT refund service works",
+      "type": "cards",
+      "heading": "Comprehensive VAT Refund Services",
+      "columns": 3,
       "items": [
-        { "title": "Eligibility Assessment", "desc": "We review your activities and transactions to confirm refund eligibility." },
-        { "title": "Documentation Support", "desc": "We prepare and organise the supporting documents required for your claim." },
-        { "title": "Filing & Submission", "desc": "We submit a complete, accurate claim to the tax authorities." },
-        { "title": "Compliance Assurance", "desc": "We ensure every claim aligns with the latest regulations." },
-        { "title": "Audit Assistance", "desc": "We support you throughout any tax authority review or audit." }
+        {
+          "title": "Eligibility Assessment",
+          "icon": "clipboard"
+        },
+        {
+          "title": "Documentation Support",
+          "icon": "file"
+        },
+        {
+          "title": "Filing and Submission",
+          "icon": "fileCheck"
+        },
+        {
+          "title": "Compliance Assurance",
+          "icon": "shield"
+        },
+        {
+          "title": "Audit Assistance",
+          "icon": "percent"
+        }
       ]
     },
     {
-      "type": "list",
-      "eyebrow": "Why InCorp Vietnam",
-      "heading": "Why choose us for VAT refunds",
-      "columns": 2,
+      "type": "cards",
+      "heading": "Benefits of VAT Refund Services with InCorp Vietnam",
+      "columns": 4,
       "items": [
-        "Expert consultation grounded in Vietnam's VAT regulations.",
-        "Comprehensive support backed by a full accounting suite.",
-        "Simplified process that handles the time-consuming work for you.",
-        "Focus on core business while we manage your refunds."
+        {
+          "title": "Expert Consultation",
+          "desc": "Our accounting experts offer insights into financial best practices and regulations to help you optimize your business operations.",
+          "icon": "globe"
+        },
+        {
+          "title": "Comprehensive Support",
+          "desc": "We offer a full suite of accounting services, from bookkeeping to tax compliance, ensuring seamless financial management.",
+          "icon": "handshake"
+        },
+        {
+          "title": "Simplified Process",
+          "desc": "We handle the time-consuming tasks of financial record-keeping and reporting, allowing you to focus on your core business activities.",
+          "icon": "rocket"
+        },
+        {
+          "title": "Focus on Core Business",
+          "desc": "With our accounting expertise, you can focus on achieving your business goals while ensuring financial accuracy and compliance.",
+          "icon": "network"
+        }
       ]
     },
     {
       "type": "stats",
-      "heading": "Experience you can rely on",
+      "variant": "red",
+      "heading": "Backed by InCorp Group",
       "items": [
-        { "value": "30+", "label": "Years track record" },
-        { "value": "120+", "label": "Accounting & tax clients" },
-        { "value": "15,000+", "label": "Clients worldwide" }
+        {
+          "value": "30+",
+          "label": "Years of experience"
+        },
+        {
+          "value": "1,500+",
+          "label": "Professionals across APAC"
+        },
+        {
+          "value": "20,000+",
+          "label": "Clients served globally"
+        },
+        {
+          "value": "8",
+          "label": "Markets in Asia-Pacific"
+        }
       ]
     },
     {
       "type": "cta",
-      "title": "Recover the VAT you are owed",
-      "subtitle": "Talk to our experts and maximize your eligible refunds in Vietnam.",
-      "button": { "label": "Make an Inquiry", "href": "/make-an-inquiry" },
+      "title": "Ready to get started in Vietnam?",
+      "subtitle": "Talk to our experts about how we can support your business.",
+      "button": {
+        "label": "Make an Inquiry",
+        "href": "/make-an-inquiry"
+      },
       "variant": "red"
     }
   ],
-  "showContactForm": false
+  "showContactForm": true
 }

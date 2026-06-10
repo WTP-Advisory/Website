@@ -2,12 +2,21 @@
   "title": "Services",
   "metaDescription": "One-stop corporate solutions for your business in Vietnam — incorporation, legal advisory, accounting, tax, HR & payroll, immigration and more.",
   "hero": {
-    "eyebrow": "Our Services",
     "title": "One-stop corporate solutions for your business in Vietnam",
-    "subtitle": "Expanding into Vietnam in the most seamless ways — from company formation to ongoing compliance, our experts handle it end to end.",
-    "cta": { "label": "Make an Inquiry", "href": "/make-an-inquiry" }
+    "subtitle": "See how InCorp Vietnam services help foreign and local enterprises enter the Vietnam market.",
+    "image": "/incorp/solutions/incorporation.webp",
+    "variant": "brand",
+    "cta": { "label": "Download free brochure", "href": "/make-an-inquiry" }
   },
   "sections": [
+    {
+      "type": "richText",
+      "heading": "Expanding into Vietnam in the Most Seamless Ways",
+      "align": "center",
+      "body": [
+        "Expansion overseas is challenging, and Vietnam is known to have strict conduct regulations. InCorp Vietnam provides comprehensive support for corporate services, experienced consultants, and deep market expertise to simplify business in Vietnam."
+      ]
+    },
     {
       "type": "solutions",
       "eyebrow": "What we do",

@@ -1,75 +1,259 @@
 {
-  "title": "Product Registration",
-  "metaDescription": "Product registration and licensing services in Vietnam for medical devices, food & beverage, health supplements and cosmetics.",
+  "title": "Product Registration in Vietnam",
+  "metaDescription": "Our product registration services specialize in food & beverage, health supplements, medical devices, and cosmetics in Vietnam.",
   "hero": {
-    "eyebrow": "Legal Advisory",
-    "title": "Product registration services in Vietnam",
-    "subtitle": "Import and distribute your products with confidence — we act as your local representative and manage every application and compliance requirement.",
-    "cta": { "label": "Make an Inquiry", "href": "/make-an-inquiry" }
+    "eyebrow": "Services",
+    "title": "Product Registration in Vietnam",
+    "subtitle": "Product registration in Vietnam is complicated, but it doesn't have to be. Let us demystify product regulation compliance while you focus on your business' success.",
+    "cta": {
+      "label": "Make an Inquiry",
+      "href": "/make-an-inquiry"
+    },
+    "image": "/incorp/solutions/legal-advisory.jpg"
   },
   "sections": [
     {
-      "type": "richText",
-      "eyebrow": "Overview",
-      "heading": "Bring your products to the Vietnamese market",
-      "align": "center",
-      "body": [
-        "Many product categories cannot legally be imported or sold in Vietnam until they are registered with the relevant authority. InCorp Vietnam provides comprehensive product registration and licensing assistance — preparing applications, acting as your local representative, and ensuring full compliance with regulatory requirements.",
-        "With professional bilingual experts and complete cost and time transparency, we make sure you have all the required documents for import and sale, with no hidden fees."
+      "type": "cards",
+      "heading": "Benefits of Our Product Registration Services",
+      "columns": 4,
+      "items": [
+        {
+          "title": "Work with Professional Bilingual Experts",
+          "desc": "Ensure flawless cross-communication with no disruptions",
+          "icon": "users"
+        },
+        {
+          "title": "Guidance for Your Dream Business",
+          "desc": "Guidance for Your Dream Business",
+          "icon": "rocket"
+        },
+        {
+          "title": "Complete Cost and Time Transparency",
+          "desc": "Receive clear trajectory estimates in advance with no hidden fees",
+          "icon": "fileCheck"
+        },
+        {
+          "title": "Direct and Virtual Consultations",
+          "desc": "Flexible timing and solutions for your convenience",
+          "icon": "globe"
+        }
       ]
     },
     {
-      "type": "cards",
-      "eyebrow": "Product Categories",
-      "heading": "Products we help you register",
-      "columns": 2,
-      "items": [
-        { "title": "Medical Devices", "desc": "Imported devices must obtain a Marketing Authorization (MA) licence and administrative documents such as GMP or CPP certificates, under a risk-based classification (Classes A–D)." },
-        { "title": "Food & Beverage", "desc": "Importers must comply with food safety regulations; packaging and label changes require approval from the Vietnam Food Safety Authority." },
-        { "title": "Health Supplements", "desc": "Products must complete self-declaration or registration with the Ministry of Health under strict food safety standards." },
-        { "title": "Cosmetics", "desc": "International cosmetics require registration through the Drug Administration of Vietnam (DAV) before market entry." }
+      "type": "richText",
+      "heading": "How InCorp Vietnam Helps You Register & Import Products",
+      "align": "left",
+      "body": [
+        "Product Registration Made Easy",
+        "InCorp Vietnam provides licensing, product registration, and tax services to help you import and distribute your products to Vietnam. We also offer incorporation services so you can start the process without being in Vietnam."
       ]
     },
     {
       "type": "list",
-      "eyebrow": "Why InCorp",
-      "heading": "Benefits of our service",
+      "heading": "Our comprehensive Product Registration experts can:",
       "columns": 1,
       "items": [
-        "Work with professional bilingual experts for seamless communication with authorities",
-        "Complete cost and time transparency with advance estimates and no hidden fees",
-        "Direct and virtual consultations with flexible scheduling",
-        "Local representation that handles applications and ongoing compliance on your behalf"
+        "Act as local representatives to complete the product registration application on your behalf.",
+        "Offer advice and complete procedures for quality specification of products.",
+        "Translate documents and get them notarized.",
+        "Obtain safety licenses for qualified products for you, and file certificate extensions at relevant state agencies.",
+        "Conduct monthly and yearly tax reporting."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "How to Register Medical Devices in Vietnam: Rules & Regulations",
+      "align": "center",
+      "body": [
+        "In Vietnam, medical devices and their related products have a profit margin of between 35 and 40 percent.",
+        "All medical devices that enter the Vietnamese market must be registered prior to distribution.",
+        "Importantly, both domestic and imported medical equipment must obtain a Marketing Authorization (MA) license and other administrative documents such as Good Manufacturing Practice (GMP) or a Certificate of Pharmaceutical Products (CPP). All classes of medical devices require a free sale registration dossier (CFS).",
+        "Clinical trials are required for medical devices that have never been imported into Vietnam and provide a new feature or therapy. Foreign clinical studies are normally permitted; however, local clinical trials by the Ministry of Health may be requested in exceptional circumstances."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "How to Register Food & Beverage in Vietnam: Rules & Regulations",
+      "align": "left",
+      "body": [
+        "Currently, 35% of Vietnamese food and beverage consumption is based on Western food, mainly because of the growing number of foreign food and beverage brands in the country and the expanding middle class.",
+        "To import food and beverages into Vietnam, importers must strictly adhere to the regulations of food safety, stated by the local law. In case of minor changes, such as the size of the package and the information on the label, it is required to obtain approval from the VFA (Vietnam Food Safety Authority). Other changes may require a new Certificate of Conformity Declaration. A consultation with a specialist is necessary to avoid non-compliance that may lead to penalties and sanctions."
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Import Requirements",
+      "subtitle": "All importers must satisfy the following food and beverage import requirements:",
+      "columns": 1,
+      "items": [
+        "Customs declaration by preparing a set of required documents",
+        "E-customs registration is available but importers must register through the Vietnam Automated Cargo and Post-consolidated System first",
+        "Declaration forms must be submitted in advance or within 30 days of product arrival. There are three types of inspection: simplified, ordinary, and strict, depending on the type of food and beverage",
+        "Get a delivery order by preparing documents such as a signed bill of lading, importing operator details, and seal, among others",
+        "Provide the customs declaration result and pay for the value-added tax (VAT) and import tax"
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Required Documents for F&B Registration",
+      "subtitle": "Depending on the type of food and beverage that will be imported into Vietnam, the most common and important documents are:",
+      "columns": 1,
+      "items": [
+        "Certificate of Food Safety and Hygiene Standards: to certify that high-risk products comply with the hygiene and safety standards",
+        "Certificate of Good Manufacturing Practice: to certify that a manufacturing site and the manufacturing methods fulfill the requirements of good manufacturing practice",
+        "The food safety data sheet is issued within 12 months before the self-declaration is made by a designated laboratory or a laboratory complying with ISO 17025; the datasheet must specify safety indicators prescribed by the Ministry of Health",
+        "Product samples",
+        "Product labels",
+        "Enterprise registration certificate (ERC)",
+        "Certificate of Free Sale or Health Certificate",
+        "Product profile",
+        "Certificate of Good Manufacturing Practice (GMP) (depending on the product)"
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "How to Register Health Supplements in Vietnam: Rules & Regulations",
+      "align": "left",
+      "body": [
+        "Vietnam's healthcare spending in 2019 was estimated to be over $17 billion, accounting for 6.6 percent of the country's GDP, according to FitchSolutions. Healthcare expenditure will climb to $23 billion in 2022 and can grow over 10% annually from 2019 to 2024. Having a trusted local consultant with extensive experience in product registration can simplify the process so you can maximize efficiency.",
+        "To register health supplements in Vietnam, investors must comply with several regulations and strict food safety and hygiene standards."
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Required Documents for Health Supplement Registration",
+      "columns": 1,
+      "items": [
+        "Certificate of Free Sale or Health Certificate",
+        "Licenses of a Vietnamese importer consisting of the Investment Registration Certificate (IRC) and Enterprise Registration Certificate (ERC)",
+        "Product samples",
+        "Product label",
+        "Certificate of Good Manufacturing Practice (GMP)"
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Claims of Vietnam health supplements",
+      "columns": 1,
+      "items": [
+        "Nutrient content claims: Not every health supplement can have nutrient content claims. Only products that provide 10% or more of the Vietnamese RNI, either per 100g or per portion, can have the claims. Another factor is the main active ingredients. To be eligible for claims, a product must contain at least 15% of the concerned nutrient reference intake.",
+        "Health claims: Only health supplements whose added substances contain 10% or more of the RNI can have health claims. Scientific evidence is required to make such claims."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "How to Register Cosmetics in Vietnam: Rules & Regulations",
+      "align": "center",
+      "body": [
+        "With the growth of the Vietnamese middle-income population and higher purchasing power, high-quality, well-known cosmetics are booming in Vietnam. Even though Vietnam possesses abundant natural cosmetic raw materials, the Vietnamese cosmetic industry relies heavily on imported products. In fact, local brands account for 10% of the market. High-quality international brands are the most demanded products among young consumers and have a natural advantage in the market."
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Required Documents for Cosmetics Registration",
+      "subtitle": "To register cosmetics in Vietnam, importers are required to proclaim their products. The proclamation dossier includes:",
+      "columns": 1,
+      "items": [
+        "Proclamation report of cosmetics",
+        "Enterprise registration certificate",
+        "Power of Attorney from the producer/owner of the product",
+        "Product information file",
+        "Certificate of Free Sale"
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Entity Establishment for Foreign Cosmetics Firms",
+      "align": "left",
+      "body": [
+        "Furthermore, foreign investors must establish a company responsible for registering and putting the products on the market. A certificate of free sale, product information file, product safety certificate, and several other licenses/documents should be presented to obtain a registration number."
       ]
     },
     {
       "type": "steps",
-      "eyebrow": "How It Works",
-      "heading": "Our four-step process",
+      "heading": "Your Success Plan in Vietnam",
       "items": [
-        { "title": "Submit information", "desc": "Share your company details and product registration needs." },
-        { "title": "Book a consultation", "desc": "Meet with our bilingual business consultants to plan your registration." },
-        { "title": "Verify documents", "desc": "We complete KYC verification and prepare your company dossier." },
-        { "title": "Begin operations", "desc": "Choose your plan and start importing and distributing in Vietnam." }
+        {
+          "title": "Submit Your Information & Needs",
+          "desc": "Tell us about your company's needs and aspirations in Vietnam",
+          "icon": "clipboard"
+        },
+        {
+          "title": "Book a Consultation With Our Experts",
+          "desc": "Go over your plan with one of our bilingual business Consultants",
+          "icon": "headset"
+        },
+        {
+          "title": "Verify KYC Documents",
+          "desc": "Our consultants will contact you to process the necessary paperwork and create your company dossier",
+          "icon": "fileCheck"
+        },
+        {
+          "title": "Choose a Plan & Succeed In Vietnam",
+          "desc": "Let us simplify your business journey and make your mark in APAC's fastest-growing economy",
+          "icon": "rocket"
+        }
       ]
     },
     {
       "type": "faq",
-      "eyebrow": "FAQs",
-      "heading": "Common questions",
+      "heading": "Frequently Asked Questions on Product Registration in Vietnam",
       "items": [
-        { "q": "How are medical devices classified in Vietnam?", "a": "Medical devices follow a risk-based classification system across Classes A to D, which determines the licensing and documentation requirements before distribution." },
-        { "q": "What must appear on food labels?", "a": "Food labels must include the product name, ingredients, origin, expiration date and storage instructions, in line with Vietnam's food safety regulations." },
-        { "q": "How are health supplements labelled?", "a": "Health supplements require a 'supplemental foods' designation on the label, along with nutritional information and usage instructions." }
+        {
+          "q": "How are medical devices classified in Vietnam?",
+          "a": "Medical devices in Vietnam are classified into different risk-based classes (A, B, C, and D) according to their potential risk to users. The classification determines the registration requirements and the administrative documents that must be obtained prior to distribution."
+        },
+        {
+          "q": "What is the government agency responsible for medical device registration in Vietnam?",
+          "a": "The Ministry of Health, through the Department of Medical Equipment and Health Works, is the government agency responsible for the registration and regulation of medical devices in Vietnam."
+        },
+        {
+          "q": "How are food and beverage products labeled in Vietnam?",
+          "a": "Food and beverage products must be labeled in accordance with Vietnamese food safety regulations, including required information such as product name, ingredients, and safety indicators. Minor label changes require approval from the Vietnam Food Safety Authority (VFA)."
+        },
+        {
+          "q": "How are health supplements classified in Vietnam?",
+          "a": "Health supplements are regulated under food safety law and must comply with strict food safety and hygiene standards. They are subject to product declaration registration with the Ministry of Health, and claims are restricted based on nutrient and RNI thresholds."
+        },
+        {
+          "q": "What is the government agency responsible for cosmetics registration in Vietnam?",
+          "a": "The Drug Administration of Vietnam, under the Ministry of Health, is responsible for cosmetics registration and issuing the proclamation receipt number required to put cosmetic products on the Vietnamese market."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "variant": "red",
+      "heading": "Backed by InCorp Group",
+      "items": [
+        {
+          "value": "30+",
+          "label": "Years of experience"
+        },
+        {
+          "value": "1,500+",
+          "label": "Professionals across APAC"
+        },
+        {
+          "value": "20,000+",
+          "label": "Clients served globally"
+        },
+        {
+          "value": "8",
+          "label": "Markets in Asia-Pacific"
+        }
       ]
     },
     {
       "type": "cta",
-      "title": "Ready to register your products in Vietnam?",
-      "subtitle": "Let our experts handle the licensing so you can focus on your market launch.",
-      "button": { "label": "Make an Inquiry", "href": "/make-an-inquiry" },
+      "title": "Ready to get started in Vietnam?",
+      "subtitle": "Talk to our experts about how we can support your business.",
+      "button": {
+        "label": "Make an Inquiry",
+        "href": "/make-an-inquiry"
+      },
       "variant": "red"
     }
   ],
-  "showContactForm": false
+  "showContactForm": true
 }

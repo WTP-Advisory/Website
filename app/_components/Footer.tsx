@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Mail, MapPin, Phone } from "lucide-react";
 import { Container } from "./ui/Container";
+import { JarvisFormEmbed } from "./JarvisFormEmbed";
 import footer from "../_data/footer.json";
 
 function SocialIcon({ name, className }: { name: string; className?: string }) {
@@ -70,24 +71,9 @@ export function Footer() {
           <div>
             <h3 className="text-lg font-bold text-ink">{footer.newsletter.heading}</h3>
             <p className="mt-4 text-sm text-ink-soft">{footer.newsletter.body}</p>
-            <form className="mt-5 space-y-3" aria-label="Newsletter Form (Footer)">
-              <input
-                type="text"
-                placeholder={footer.newsletter.namePlaceholder}
-                className="w-full rounded border border-stone-300 bg-white px-3 py-2.5 text-sm text-ink focus:border-brand-600 focus:outline-none"
-              />
-              <input
-                type="email"
-                placeholder={footer.newsletter.emailPlaceholder}
-                className="w-full rounded border border-stone-300 bg-white px-3 py-2.5 text-sm text-ink focus:border-brand-600 focus:outline-none"
-              />
-              <button
-                type="button"
-                className="w-full rounded bg-brand-600 px-5 py-2.5 text-sm font-medium text-white transition-colors hover:bg-brand-700"
-              >
-                {footer.newsletter.submitLabel}
-              </button>
-            </form>
+            <div className="mt-5">
+              <JarvisFormEmbed formId="form_OfLQZmv3dfyAjr" title="Newsletter Form (Footer)" />
+            </div>
           </div>
         </Container>
       </div>

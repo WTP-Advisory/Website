@@ -1,81 +1,124 @@
 {
-  "title": "Company Formation",
-  "metaDescription": "Company formation services in Vietnam — register an LLC, JSC, branch or representative office with up to 100% foreign ownership.",
+  "title": "Company Formation Services in Vietnam",
+  "metaDescription": "Set up your company in Vietnam with ease. We handle every step of the company formation process — from registration to compliance — so you can focus on growth.",
   "hero": {
     "eyebrow": "Incorporation",
     "title": "Company Formation Services in Vietnam",
-    "subtitle": "Setting up a business in Vietnam can be challenging, but it doesn't have to be.",
-    "cta": { "label": "Make an Inquiry", "href": "/make-an-inquiry" }
+    "subtitle": "Setting up a business in Vietnam can be challenging, but it doesn't have to be. From representative office setup to complete company registration, we handle the entire company establishment process for you.",
+    "cta": {
+      "label": "Book a Consultation",
+      "href": "/make-an-inquiry"
+    },
+    "image": "/incorp/solutions/incorporation.webp"
   },
   "sections": [
     {
-      "type": "richText",
-      "eyebrow": "Overview",
-      "heading": "We handle your entire company registration",
+      "type": "imageText",
+      "heading": "Open a company in Vietnam with the help of our registration consultants",
+      "image": "/incorp/solutions/incorporation.webp",
+      "imageSide": "left",
       "body": [
-        "InCorp Vietnam simplifies business establishment by handling the entire registration process — from representative office setup to complete company incorporation. We assist global companies from Asia Pacific, Europe and North America in navigating regulations and administrative requirements for legal, long-term success.",
-        "Your formation comes wrapped in a comprehensive market-entry package: legal consultation, HR support, taxation guidance and accounting assistance, all under one roof."
+        "Expanding your business into a new region can be complex. In Vietnam, navigating registration and administrative requirements is crucial for establishing your company legally and ensuring long-term success.",
+        "At InCorp, we've assisted global companies from Asia Pacific, Europe, and North America in smoothly setting up operations in Vietnam. Our experienced team makes your business setup seamless — from registration and compliance to outsourcing and secretarial services — so you can focus on growing your business."
       ]
     },
     {
       "type": "cards",
-      "eyebrow": "Entity types",
-      "heading": "Choose the right company structure",
-      "subtitle": "Four common structures for foreign investors entering Vietnam.",
-      "columns": 2,
+      "eyebrow": "Why InCorp",
+      "heading": "Benefits to expect from our Vietnam company registry services",
+      "columns": 3,
       "items": [
-        { "title": "Limited Liability Company (LLC)", "desc": "The most common type — a straightforward structure with quick setup and flexible capital requirements." },
-        { "title": "Joint-Stock Company (JSC)", "desc": "A shareholder-based entity with transferable shares, suited to larger ventures and capital raising." },
-        { "title": "Representative Office (RO)", "desc": "A non-profit, foreign-owned office for market research and hiring, with no capital requirement." },
-        { "title": "Branch Office (BO)", "desc": "Operates under the parent company's structure and can acquire permits for business activities." }
+        { "title": "One-stop market entry solution", "icon": "network", "desc": "Our package includes legal consultation, HR, taxation, and accounting services." },
+        { "title": "Up to 100% foreign-owned entity", "icon": "rocket", "desc": "Take complete control over your business with no risk when registering a company in Vietnam." },
+        { "title": "Local expertise", "icon": "users", "desc": "Our incorporation team has deep-rooted local knowledge and understanding of the Vietnam market." },
+        { "title": "Speed and flexibility", "icon": "clock", "desc": "We deliver swiftly and decisively on your behalf, cutting through red tape with efficient processes." },
+        { "title": "Long-term commitment", "icon": "handshake", "desc": "Work with personal stakeholders in our firm, genuinely committed to your long-term success." },
+        { "title": "International prestige", "icon": "globe", "desc": "As part of InCorp Group, with a presence across APAC, we enhance your global reputation." }
+      ]
+    },
+    {
+      "type": "cards",
+      "eyebrow": "Entity Types",
+      "heading": "Choose the right company formation option",
+      "columns": 4,
+      "items": [
+        { "title": "Limited Liability Company", "icon": "building", "desc": "A flexible, protected entity for all investors — easy to set up and raise capital with minimal paperwork." },
+        { "title": "Representative Office", "icon": "briefcase", "desc": "A foreign-owned office for market research and hiring, with no capital requirement." },
+        { "title": "Branch Office", "icon": "network", "desc": "A foreign branch operating under the parent company's structure, able to acquire permits and do business." },
+        { "title": "Joint-Stock Company (JSC)", "icon": "chart", "desc": "A shareholder-based company with transferable shares and limited liability." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Options for setting up a business in Vietnam",
+      "subtitle": "Compare the main entity types available to foreign investors in Vietnam.",
+      "columns": [
+        "Limited Liability Company (LLC)",
+        "Representative Office (RO)",
+        "Branch Office (BO)",
+        "Joint-stock Company (JSC)"
+      ],
+      "rows": [
+        { "label": "Applicable", "cells": ["All investors", "All members of WTO", "All investors", "All investors"] },
+        { "label": "Minimum Capital", "cells": ["Depending on business activities", "No requirements", "No requirements", "If trading on stock market, min. 10 billion VND (~US$ 440,000)"] },
+        { "label": "Minimum Number of Shareholders", "cells": ["≥ 1 (individual or corporate)", "Owned by head office", "Owned by head office", "≥ 3 (individual or entity)"] },
+        { "label": "Limited Liability Protection", "cells": [true, false, false, true] },
+        { "label": "Import-Export Activities", "cells": [true, false, true, true] },
+        { "label": "Be a Shareholder of Another Entity", "cells": [true, false, false, true] },
+        { "label": "Conversion to Other Entity Type", "cells": [true, false, false, true] },
+        { "label": "Corporate Income Tax", "cells": ["Depending on the business industry", "No business activities that yield profit", "Depending on the business industry", "Depending on the business industry"] },
+        { "label": "Setup Time", "cells": ["6–8 weeks", "4–6 weeks", "4–8 weeks", "6–8 weeks"] },
+        { "label": "Benefits", "cells": ["Easiest to set up\nEasy to raise capital\nLess paperwork", "No capital requirements\nEligible to hire employees\nResearch target market", "Same structure as original entity\nLegal representative can get more permits", "Shareholders only limited to liability of their investment\nEasy to transfer shares"] }
       ]
     },
     {
       "type": "steps",
-      "eyebrow": "Process",
-      "heading": "How company registration works",
-      "subtitle": "A clear, guided path from first contact to operations.",
+      "heading": "Your success plan in Vietnam",
       "items": [
-        { "title": "Submit information & needs", "desc": "Share your company information and Vietnam business aspirations." },
-        { "title": "Book a consultation", "desc": "Meet with our bilingual business consultants to plan your structure." },
-        { "title": "Verify KYC documents", "desc": "We process the paperwork and prepare your company dossier." },
-        { "title": "Choose a plan & succeed", "desc": "Select your plan and begin operations with ongoing InCorp support." }
-      ]
-    },
-    {
-      "type": "list",
-      "eyebrow": "Why InCorp",
-      "heading": "Benefits of forming your company with us",
-      "columns": 2,
-      "items": [
-        "One-stop market-entry solution",
-        "Up to 100% foreign ownership available",
-        "Local expertise and market knowledge",
-        "Speed and efficiency in every process",
-        "Long-term commitment to client success",
-        "International prestige through the InCorp Group network"
+        { "title": "Submit Your Information & Needs", "desc": "Tell us about your company's needs and aspirations in Vietnam." },
+        { "title": "Book a Consultation With Our Experts", "desc": "Go over your plan with one of our bilingual business consultants." },
+        { "title": "Verify KYC Documents", "desc": "Our consultants process the necessary paperwork and create your company dossier." },
+        { "title": "Choose a Plan & Succeed In Vietnam", "desc": "Let us simplify your business journey and make your mark in APAC's fastest-growing economy." }
       ]
     },
     {
       "type": "faq",
       "eyebrow": "FAQ",
-      "heading": "Frequently asked questions",
+      "heading": "Frequently asked questions on opening a company in Vietnam",
       "items": [
-        { "q": "Can foreigners establish companies in Vietnam?", "a": "Yes. Foreign investors can register companies — limited liability companies are the most common thanks to their straightforward structure and quick setup." },
-        { "q": "What entity types are available?", "a": "Four options: LLC, JSC, Branch Office and Representative Office." },
-        { "q": "Are there minimum capital requirements?", "a": "Vietnamese law specifies no general minimum, though USD 25,000-30,000 is typically advised for smooth operations." },
-        { "q": "Can foreigners own 100% of the company?", "a": "Yes, in most sectors — with exceptions in restricted areas such as narcotics, hazardous chemicals, endangered species, prostitution and human trafficking." },
-        { "q": "How long does incorporation take?", "a": "LLC or JSC formation typically takes 40-60 days, though purchasing a shelf company can accelerate this to a few working days." },
-        { "q": "Are there alternatives without full incorporation?", "a": "Yes — HR outsourcing as Employer of Record and local distributor partnerships are viable options." }
+        { "q": "Can I set up a company in Vietnam as a foreigner?", "a": "Yes. Foreign investors can establish a foreign-owned company in Vietnam. The most common type is an LLC (Limited Liability Company), known for its straightforward structure and quick setup. The right structure depends on your business type." },
+        { "q": "What are the company types available in Vietnam?", "a": "You can open a new company as one of four entities: Limited Liability Company (LLC), Joint-stock Company (JSC), Branch Office, and Representative Office." },
+        { "q": "Is there any minimum capital requirements for Vietnam company formation?", "a": "While Vietnamese law does not specify a minimum, having around US$ 25,000–30,000 is typically advised to ensure smooth incorporation and operations." },
+        { "q": "Will I be able to hold 100-percent ownership of a foreign-owned company?", "a": "Yes. Vietnamese law enables foreigners to open 100% foreign-owned companies in most sectors, with only a few restricted business sectors." },
+        { "q": "Is there any option to expand my business without incorporating a company in Vietnam?", "a": "Yes. Several options suit investors who wish to expand without forming a legal entity, such as a representative office or appointing a local distributor." },
+        { "q": "I want to set up a company as soon as possible, is there a way to speed up the incorporation process?", "a": "Setting up an LLC or JSC typically takes 40–60 days. To expedite, consider purchasing a shelf company from InCorp, allowing management control to be transferred to you within a few working days." },
+        { "q": "What are the benefits of a local nominee company and a shelf company?", "a": "A local nominee company lets you operate in sectors that require local ownership while keeping management control, whereas a shelf company is a ready-made, pre-registered entity that can be transferred to you quickly so you can start operating almost immediately." },
+        { "q": "I would like to set up a joint venture local company, but I do not have a reliable local partner to act as a shareholder. What should I do?", "a": "InCorp can act as a trusted local nominee shareholder on your behalf, allowing you to meet local ownership requirements while retaining management control of the company through a clear legal agreement." },
+        { "q": "Does InCorp offer market entry and corporate services outside Vietnam?", "a": "Yes. As part of InCorp Group, we provide market entry, incorporation, and corporate services across the Asia Pacific region, helping you expand into multiple markets through a single partner." }
       ]
     },
     {
-      "type": "cta",
-      "title": "Start your company in Vietnam today",
-      "subtitle": "Our experts will guide you from structure selection to first day of operations.",
-      "button": { "label": "Make an Inquiry", "href": "/make-an-inquiry" },
-      "variant": "red"
+      "type": "stats",
+      "heading": "Your Experts in Company Incorporation",
+      "items": [
+        { "value": "30+", "label": "Years Track Record" },
+        { "value": "15,000+", "label": "Clients Worldwide" },
+        { "value": "100+", "label": "Companies Incorporated Yearly" },
+        { "value": "1,500+", "label": "Professionals" }
+      ]
+    },
+    {
+      "type": "team",
+      "eyebrow": "Our Team",
+      "heading": "Meet Our Experts",
+      "variant": "portrait",
+      "columns": 3,
+      "items": [
+        { "name": "Jack Nguyen, CPA, CA", "role": "Chief Executive Officer", "image": "/incorp/people/placeholder.svg", "profileHref": "/our-people", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" },
+        { "name": "Benny Nguyen", "role": "Head of Business Advisory", "image": "/incorp/people/placeholder.svg", "profileHref": "/our-people", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" },
+        { "name": "Si Pham", "role": "Head of Corporate Secretarial and Advisory Services", "image": "/incorp/people/placeholder.svg", "profileHref": "/our-people", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" }
+      ]
     }
   ],
-  "showContactForm": false
+  "showContactForm": true
 }

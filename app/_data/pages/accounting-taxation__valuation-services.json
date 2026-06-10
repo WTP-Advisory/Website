@@ -1,53 +1,104 @@
 {
-  "title": "Valuation Services",
-  "metaDescription": "Valuation services in Vietnam — accurate, independent assessments of businesses, assets and investments for M&A, financial reporting, disputes and taxation.",
+  "title": "Valuation Services in Vietnam",
+  "metaDescription": "Our Valuation services in Vietnam offer accurate, data-driven assessments for strategic decisions and financial planning.",
   "hero": {
-    "eyebrow": "Accounting & Taxation",
+    "eyebrow": "Services",
     "title": "Valuation Services in Vietnam",
-    "subtitle": "Accurate, data-driven assessments of businesses, assets and investments to support strategic decision-making and financial planning.",
-    "cta": { "label": "Make an Inquiry", "href": "/make-an-inquiry" }
+    "subtitle": "Our Valuation services in Vietnam provide accurate, data-driven assessments of businesses, assets, and investments to support strategic decision-making and financial planning.",
+    "cta": {
+      "label": "Make an Inquiry",
+      "href": "/make-an-inquiry"
+    },
+    "image": "/incorp/solutions/accounting-finance.jpg"
   },
   "sections": [
     {
       "type": "richText",
-      "eyebrow": "Overview",
-      "heading": "Independent, robust valuations",
-      "align": "left",
+      "heading": "The importance of Valuation services?",
       "body": [
-        "Valuations are crucial for mergers and acquisitions, tax structuring, dispute resolution, corporate restructuring and financial reporting.",
-        "Because valuation is inherently subjective, an independent and robust assessment is essential. Our CPA and CA professionals deliver defensible valuations you can rely on."
+        "Value can take many forms, including tangible and intangible assets, investments, or intellectual property. In today's global economy, businesses must assess whether opportunities or transactions enhance or detract from value. Valuations are crucial for mergers and acquisitions, tax structuring, dispute resolution, corporate restructuring, and financial reporting. Given their subjective nature, an independent and robust valuation is essential, especially in light of recent global business changes requiring professional expertise."
+      ],
+      "align": "left"
+    },
+    {
+      "type": "stats",
+      "variant": "red",
+      "heading": "Your trusted accounting services provider",
+      "items": [
+        {
+          "value": "30+",
+          "label": "Years Track Record"
+        },
+        {
+          "value": "15,000+",
+          "label": "Clients Worldwide"
+        },
+        {
+          "value": "120+",
+          "label": "Accounting & Tax Clients"
+        }
       ]
     },
     {
       "type": "cards",
-      "eyebrow": "What we cover",
-      "heading": "Our valuation services",
-      "columns": 2,
+      "heading": "Comprehensive Valuation Services at InCorp Vietnam",
+      "columns": 4,
       "items": [
-        { "title": "Mergers & acquisitions", "desc": "Business valuations to support M&A transactions and negotiations." },
-        { "title": "Financial reporting", "desc": "Valuations for compliance and disclosure under applicable standards." },
-        { "title": "Dispute, arbitration & litigation", "desc": "Expert valuations to support legal proceedings." },
-        { "title": "Taxation", "desc": "Valuations for tax structuring and planning purposes." }
+        {
+          "title": "Merger & Acquisitions",
+          "icon": "coins"
+        },
+        {
+          "title": "Financial Reporting",
+          "icon": "fileCheck"
+        },
+        {
+          "title": "Dispute, arbitration and litigation",
+          "icon": "scale"
+        },
+        {
+          "title": "Taxation",
+          "icon": "receipt"
+        }
       ]
     },
     {
-      "type": "stats",
-      "eyebrow": "By the numbers",
-      "heading": "Backed by certified professionals",
+      "type": "cards",
+      "heading": "Seamless Accounting Management with Vietnam InCorp",
+      "columns": 4,
       "items": [
-        { "value": "30+", "label": "Years of experience" },
-        { "value": "120+", "label": "Accounting & tax clients" },
-        { "value": "15,000+", "label": "Clients worldwide" },
-        { "value": "CPA/CA", "label": "Certified team members" }
+        {
+          "title": "Expert Consultation",
+          "desc": "Our accounting experts offer insights into financial best practices and regulations to help you optimize your business operations.",
+          "icon": "globe"
+        },
+        {
+          "title": "Comprehensive Support",
+          "desc": "We offer a full suite of accounting services, from bookkeeping to tax compliance, ensuring seamless financial management.",
+          "icon": "handshake"
+        },
+        {
+          "title": "Simplified Process",
+          "desc": "We handle the time-consuming tasks of financial record-keeping and reporting, allowing you to focus on your core business activities.",
+          "icon": "rocket"
+        },
+        {
+          "title": "Focus on Core Business",
+          "desc": "With our accounting expertise, you can focus on achieving your business goals while ensuring financial accuracy and compliance.",
+          "icon": "network"
+        }
       ]
     },
     {
       "type": "cta",
-      "title": "Get a valuation you can stand behind",
-      "subtitle": "Let our experts deliver an independent, defensible assessment for your needs.",
-      "button": { "label": "Make an Inquiry", "href": "/make-an-inquiry" },
+      "title": "Ready to get started in Vietnam?",
+      "subtitle": "Talk to our experts about how we can support your business.",
+      "button": {
+        "label": "Make an Inquiry",
+        "href": "/make-an-inquiry"
+      },
       "variant": "red"
     }
   ],
-  "showContactForm": false
+  "showContactForm": true
 }

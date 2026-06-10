@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Roboto } from "next/font/google";
+import Script from "next/script";
 import "./globals.css";
 
 const roboto = Roboto({
@@ -46,7 +47,19 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className={`${roboto.variable} h-full antialiased`}>
-      <body className="min-h-full flex flex-col bg-white text-ink-soft">{children}</body>
+      <body className="min-h-full flex flex-col bg-white text-ink-soft">
+        {children}
+        <Script id="rocketchat-livechat" strategy="afterInteractive">
+          {`(function(w, d, s, u) {
+    w.RocketChat = function(c) { w.RocketChat._.push(c) }; w.RocketChat._ = []; w.RocketChat.url = u;
+    var h = d.getElementsByTagName(s)[0], j = d.createElement(s);
+    j.async = true; j.src = 'https://livechat.jarvis.cx/livechat/rocketchat-livechat.min.js?_=201903270000';
+    h.parentNode.insertBefore(j, h);
+    w.ticketplus = w.ticketplus || {};
+    w.ticketplus.tenantid = 'c3a8c883-06c0-4b10-9ae3-0ba0604ce727';
+})(window, document, 'script', 'https://livechat.jarvis.cx/livechat');`}
+        </Script>
+      </body>
     </html>
   );
 }

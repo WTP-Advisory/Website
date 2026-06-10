@@ -1,56 +1,109 @@
 {
   "title": "Immigration Advisory Services in Vietnam",
-  "metaDescription": "Immigration advisory services in Vietnam — visa applications, work permits, residency guidance, foreign talent hiring, staff relocation and long-term residency solutions.",
+  "metaDescription": "We offer expert immigration advisory services for hassle-free visa applications, work permits, and residency compliance.",
   "hero": {
-    "eyebrow": "Immigration",
+    "eyebrow": "Services",
     "title": "Immigration Advisory Services in Vietnam",
-    "subtitle": "Expanding your business operations or career into Vietnam often involves navigating complex immigration processes. Our advisors guide you through every step.",
-    "cta": { "label": "Make an Inquiry", "href": "/make-an-inquiry" }
+    "subtitle": "Expanding your business operations or career into Vietnam often involves navigating complex immigration processes. At InCorp Vietnam, we provide expert immigration advisory services to help businesses and individuals streamline visa applications, work permits, and residency requirements with ease and compliance.",
+    "cta": {
+      "label": "Make an Inquiry",
+      "href": "/make-an-inquiry"
+    },
+    "image": "/incorp/solutions/immigration.jpg"
   },
   "sections": [
     {
-      "type": "list",
-      "eyebrow": "Our Services",
-      "heading": "How we support your immigration needs",
-      "columns": 2,
-      "items": [
-        "Visa application assistance",
-        "Work permit processing",
-        "Residency requirements guidance",
-        "Foreign talent hiring support",
-        "Staff relocation services",
-        "Long-term residency solutions"
-      ]
+      "type": "richText",
+      "heading": "Why choose immigration advisory services at InCorp Vietnam?",
+      "body": [
+        "Expanding your business operations or career into Vietnam often involves navigating complex immigration processes. At InCorp Vietnam, we provide expert immigration advisory services to help businesses and individuals streamline visa applications, work permits, and residency requirements with ease and compliance.",
+        "Our dedicated team of specialists has extensive knowledge of Vietnam's immigration regulations and procedures, ensuring tailored solutions that align with your unique needs. Whether you're hiring foreign talent, relocating staff, or seeking long-term residency, we guide you through every step of the process to eliminate uncertainty and delays.",
+        "With a commitment to efficiency and professionalism, InCorp Vietnam simplifies immigration challenges, enabling you to focus on what matters most - achieving your goals in Vietnam's thriving market."
+      ],
+      "align": "left"
     },
     {
-      "type": "list",
-      "eyebrow": "Why InCorp Vietnam",
-      "heading": "Why choose our advisory team",
-      "columns": 2,
+      "type": "cards",
+      "heading": "Benefits of Immigration Services with InCorp Vietnam",
+      "columns": 4,
       "items": [
-        "International team — multilingual experts ensure seamless communication.",
-        "Transparency — reliable, client-focused service with no hidden fees.",
-        "Flexible engagement — online and in-person consulting with tailored digital processes.",
-        "Scalability — adaptable support, including seasonal assistance and ongoing help."
+        {
+          "title": "Meet the International Team of Experts",
+          "desc": "Multilingual experts ensure seamless communication, no breakdowns.",
+          "icon": "users"
+        },
+        {
+          "title": "Full Transparency for the Entire Process",
+          "desc": "Transparent, reliable, and client-focused. No hidden fees or scams.",
+          "icon": "eye"
+        },
+        {
+          "title": "Both Remote and Direct Communication",
+          "desc": "Online & in-person consulting. Tailored digital processes for convenience.",
+          "icon": "headset"
+        },
+        {
+          "title": "Enhances Scalability and Adaptability",
+          "desc": "Adaptable support, including seasonal assistance and ongoing help.",
+          "icon": "trending"
+        }
       ]
     },
     {
       "type": "stats",
-      "heading": "Experience you can rely on",
+      "heading": "Your Experts in Company Incorporation",
       "items": [
-        { "value": "30+", "label": "Years track record" },
-        { "value": "100+", "label": "Companies incorporated yearly" },
-        { "value": "15,000+", "label": "Clients worldwide" },
-        { "value": "1,500+", "label": "Professionals" }
+        {
+          "value": "30+",
+          "label": "Years Track Record"
+        },
+        {
+          "value": "15,000+",
+          "label": "Clients Worldwide"
+        },
+        {
+          "value": "100+",
+          "label": "Companies Incorporated Yearly"
+        },
+        {
+          "value": "1,500+",
+          "label": "Professionals"
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "variant": "red",
+      "heading": "Backed by InCorp Group",
+      "items": [
+        {
+          "value": "30+",
+          "label": "Years of experience"
+        },
+        {
+          "value": "1,500+",
+          "label": "Professionals across APAC"
+        },
+        {
+          "value": "20,000+",
+          "label": "Clients served globally"
+        },
+        {
+          "value": "8",
+          "label": "Markets in Asia-Pacific"
+        }
       ]
     },
     {
       "type": "cta",
-      "title": "Move to Vietnam with expert guidance",
-      "subtitle": "Speak with our immigration advisors about visas, work permits and residency.",
-      "button": { "label": "Make an Inquiry", "href": "/make-an-inquiry" },
+      "title": "Ready to get started in Vietnam?",
+      "subtitle": "Talk to our experts about how we can support your business.",
+      "button": {
+        "label": "Make an Inquiry",
+        "href": "/make-an-inquiry"
+      },
       "variant": "red"
     }
   ],
-  "showContactForm": false
+  "showContactForm": true
 }

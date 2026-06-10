@@ -1,65 +1,107 @@
 {
-  "title": "Expat Services in Vietnam",
-  "metaDescription": "Expat services in Vietnam — visa and work permit processing, tax advisory, immigration assistance and local orientation. Personalized support to help you settle in.",
+  "title": "Expat Services with InCorp Vietnam",
+  "metaDescription": "Relocating to Vietnam? InCorp Vietnam offers comprehensive expat services for a seamless, stress-free transition.",
   "hero": {
-    "eyebrow": "Expat Services",
+    "eyebrow": "Services",
     "title": "Expat Services with InCorp Vietnam",
-    "subtitle": "Relocating can be both exciting and challenging. We cover everything from visa and work permit processing to tax advisory and local orientation.",
-    "cta": { "label": "Make an Inquiry", "href": "/make-an-inquiry" }
+    "subtitle": "Relocating to Vietnam as an expatriate can be both exciting and challenging, with various legal, cultural, and logistical aspects to navigate. At InCorp Vietnam, we offer comprehensive expat services designed to make your transition seamless and stress-free.",
+    "cta": {
+      "label": "Make an Inquiry",
+      "href": "/make-an-inquiry"
+    },
+    "image": "/incorp/solutions/immigration.jpg"
   },
   "sections": [
     {
       "type": "richText",
-      "eyebrow": "Overview",
-      "heading": "Let us help you make Vietnam feel like home",
-      "align": "center",
+      "heading": "Why choose expat services with InCorp Vietnam?",
       "body": [
-        "Moving to a new country involves far more than a plane ticket. From paperwork to settling in, the details add up quickly.",
-        "Our team provides personalized support for individuals and companies, smoothing every step of your relocation to Vietnam."
-      ]
-    },
-    {
-      "type": "cards",
-      "eyebrow": "Our Services",
-      "heading": "Everything you need to settle in",
-      "columns": 3,
-      "items": [
-        { "title": "Visa & Work Permit Processing", "desc": "End-to-end support to secure the right visa and work authorization." },
-        { "title": "Tax Advisory", "desc": "Guidance on personal income tax obligations for expatriates." },
-        { "title": "Immigration Assistance", "desc": "Support with residency, renewals and ongoing immigration needs." },
-        { "title": "Local Orientation", "desc": "Cultural guidance and practical help to settle in comfortably." },
-        { "title": "Personalized Support", "desc": "Tailored assistance for individuals and relocating companies." }
-      ]
-    },
-    {
-      "type": "list",
-      "eyebrow": "Why InCorp Vietnam",
-      "heading": "Why choose us",
-      "columns": 2,
-      "items": [
-        "International team — multilingual experts ensure seamless communication.",
-        "Transparency — reliable, client-focused service with no hidden fees.",
-        "Flexible access — online and in-person consulting with tailored digital processes.",
-        "Scalability — adaptable support, including seasonal assistance and ongoing help."
+        "Our services cover everything from visa and work permit processing to tax advisory and local orientation. Whether you're an individual moving for a career opportunity or a company bringing foreign talent into Vietnam, our experienced team ensures personalized support tailored to your unique needs.",
+        "With InCorp Vietnam as your trusted partner, you can confidently settle into Vietnam's vibrant culture and dynamic economy, knowing all the details are expertly handled. Let us help you make Vietnam feel like home."
       ]
     },
     {
       "type": "stats",
-      "heading": "Experience you can rely on",
+      "heading": "Your Experts in Company Incorporation",
       "items": [
-        { "value": "30+", "label": "Years of experience" },
-        { "value": "100+", "label": "Companies incorporated yearly" },
-        { "value": "15,000+", "label": "Clients worldwide" },
-        { "value": "1,500+", "label": "Professionals" }
+        {
+          "value": "30+",
+          "label": "Years Track Record"
+        },
+        {
+          "value": "15,000+",
+          "label": "Clients Worldwide"
+        },
+        {
+          "value": "100+",
+          "label": "Companies Incorporated Yearly"
+        },
+        {
+          "value": "1,500+",
+          "label": "Professionals"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Benefits of Expat Services with InCorp Vietnam",
+      "columns": 4,
+      "items": [
+        {
+          "title": "Meet the International Team of Experts",
+          "desc": "Multilingual experts ensure seamless communication, no breakdowns.",
+          "icon": "globe"
+        },
+        {
+          "title": "Full Transparency for the Entire Process",
+          "desc": "Transparent, reliable, and client-focused. No hidden fees or scams.",
+          "icon": "eye"
+        },
+        {
+          "title": "Both Remote and Direct Communication",
+          "desc": "Online & in-person consulting. Tailored digital processes for convenience.",
+          "icon": "headset"
+        },
+        {
+          "title": "Enhances Scalability and Adaptability",
+          "desc": "Adaptable support, including seasonal assistance and ongoing help.",
+          "icon": "trending"
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "variant": "red",
+      "heading": "Backed by InCorp Group",
+      "items": [
+        {
+          "value": "30+",
+          "label": "Years of experience"
+        },
+        {
+          "value": "1,500+",
+          "label": "Professionals across APAC"
+        },
+        {
+          "value": "20,000+",
+          "label": "Clients served globally"
+        },
+        {
+          "value": "8",
+          "label": "Markets in Asia-Pacific"
+        }
       ]
     },
     {
       "type": "cta",
-      "title": "Make your move to Vietnam seamless",
-      "subtitle": "Talk to our experts about visas, work permits, tax and settling in.",
-      "button": { "label": "Make an Inquiry", "href": "/make-an-inquiry" },
+      "title": "Ready to get started in Vietnam?",
+      "subtitle": "Talk to our experts about how we can support your business.",
+      "button": {
+        "label": "Make an Inquiry",
+        "href": "/make-an-inquiry"
+      },
       "variant": "red"
     }
   ],
-  "showContactForm": false
+  "showContactForm": true
 }

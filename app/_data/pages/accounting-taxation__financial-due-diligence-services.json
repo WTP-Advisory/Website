@@ -1,64 +1,130 @@
 {
-  "title": "Financial Due Diligence Services",
-  "metaDescription": "Financial due diligence services in Vietnam — in-depth analysis of a target company's financial standing, covering asset quality, hidden liabilities, tax risks and profit sustainability.",
+  "title": "Financial Due Diligence Services in Vietnam",
+  "metaDescription": "Our financial due diligence offers in-depth analysis and insights to support confident investment and strategic decisions.",
   "hero": {
-    "eyebrow": "Accounting & Taxation",
+    "eyebrow": "Services",
     "title": "Financial Due Diligence Services in Vietnam",
-    "subtitle": "In-depth analysis and expert insights into a company's financial standing, so you can make business decisions with confidence.",
-    "cta": { "label": "Make an Inquiry", "href": "/make-an-inquiry" }
+    "subtitle": "Our financial due diligence services provide in-depth analysis and expert insights into a company's financial standing, helping businesses make confident investment and strategic decisions.",
+    "cta": {
+      "label": "Make an Inquiry",
+      "href": "/make-an-inquiry"
+    },
+    "image": "/incorp/solutions/accounting-finance.jpg"
   },
   "sections": [
     {
       "type": "richText",
-      "eyebrow": "Overview",
-      "heading": "Know before you commit",
-      "align": "left",
+      "heading": "The importance of Financial Due Diligence at enterprise?",
       "body": [
-        "Whether you are acquiring a business, investing or entering a partnership, a clear view of the target's financial health is essential.",
-        "Our financial due diligence examines the numbers behind the deal — uncovering risks and validating performance so you can negotiate and decide with confidence."
-      ]
-    },
-    {
-      "type": "list",
-      "eyebrow": "What we examine",
-      "heading": "Scope of our review",
-      "columns": 2,
-      "items": [
-        "Asset quality and hidden liabilities",
-        "Tax risks and exposures",
-        "Profit sustainability and quality of earnings",
-        "Overall financial condition of the target company",
-        "Specific financial concerns you identify"
-      ]
-    },
-    {
-      "type": "steps",
-      "eyebrow": "Our process",
-      "heading": "How we conduct due diligence",
-      "items": [
-        { "title": "Kick-off meeting", "desc": "Align on scope, timelines and the documents required." },
-        { "title": "Planning", "desc": "Assess the business environment and the target's internal controls." },
-        { "title": "Fieldwork", "desc": "Review financial data, reconcile documents, analyze transactions and interview key personnel." },
-        { "title": "Reporting", "desc": "Deliver a comprehensive report, with presentations to stakeholders as needed." }
-      ]
+        "The primary purpose of Financial Due Diligence (FDD) is to provide clients with a comprehensive analysis of a target company's financial condition, including asset quality, hidden liabilities, tax risks, profit sustainability, and any specific financial concerns raised by the client. The service delivers a detailed report outlining key findings and explanations for each component of the target's financial statements. This report equips clients with essential insights to decide whether to proceed with the investment or adopt suitable investment strategies.",
+        "At InCorp Vietnam, our Financial Due Diligence services provide comprehensive evaluations of target companies' financial health, helping clients make well-informed investment decisions with confidence."
+      ],
+      "align": "left"
     },
     {
       "type": "stats",
-      "eyebrow": "By the numbers",
-      "heading": "Led by certified professionals",
+      "heading": "Your trusted accounting services provider",
       "items": [
-        { "value": "30+", "label": "Years of experience" },
-        { "value": "120+", "label": "Accounting & tax clients" },
-        { "value": "15,000+", "label": "Clients worldwide" }
+        {
+          "value": "30+",
+          "label": "Years Track Record"
+        },
+        {
+          "value": "15,000+",
+          "label": "Clients Worldwide"
+        },
+        {
+          "value": "120+",
+          "label": "Accounting & Tax Clients"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "The Delivery of Financial Due Diligence Services at InCorp Vietnam",
+      "columns": 2,
+      "items": [
+        {
+          "title": "Kick-off Meeting",
+          "desc": "We align with clients and targets on the scope of work, specific requests, timelines, contacts, cooperation mechanisms, and required documents.",
+          "icon": "handshake"
+        },
+        {
+          "title": "Planning",
+          "desc": "We assess the client's business environment and internal controls to design an effective and efficient approach.",
+          "icon": "clipboard"
+        },
+        {
+          "title": "Fieldwork",
+          "desc": "At the target's office, we review financial data, reconcile documents, analyze transactions, interview key personnel, and consult industry experts. Additional procedures like inventory observation and stakeholder confirmations are performed as needed.",
+          "icon": "eye"
+        },
+        {
+          "title": "Reporting",
+          "desc": "We deliver comprehensive reports, followed by direct presentations if required.",
+          "icon": "fileCheck"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Benefits of Financial Due Diligence Services with InCorp Vietnam",
+      "columns": 4,
+      "items": [
+        {
+          "title": "Expert Consultation",
+          "desc": "Our accounting experts offer insights into financial best practices and regulations to help you optimize your business operations.",
+          "icon": "globe"
+        },
+        {
+          "title": "Comprehensive Support",
+          "desc": "We offer a full suite of accounting services, from bookkeeping to tax compliance, ensuring seamless financial management.",
+          "icon": "handshake"
+        },
+        {
+          "title": "Simplified Process",
+          "desc": "We handle the time-consuming tasks of financial record-keeping and reporting, allowing you to focus on your core business activities.",
+          "icon": "rocket"
+        },
+        {
+          "title": "Focus on Core Business",
+          "desc": "With our accounting expertise, you can focus on achieving your business goals while ensuring financial accuracy and compliance.",
+          "icon": "network"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Meet Our Experts",
+      "columns": 3,
+      "items": [
+        {
+          "title": "Jack Nguyen, CPA, CA",
+          "desc": "Chief Executive Officer",
+          "icon": "userCheck"
+        },
+        {
+          "title": "Benny Nguyen",
+          "desc": "Head of Business Advisory",
+          "icon": "user"
+        },
+        {
+          "title": "Si Pham",
+          "desc": "Head of Corporate Secretarial and Advisory Services",
+          "icon": "users"
+        }
       ]
     },
     {
       "type": "cta",
-      "title": "Make your next deal with confidence",
-      "subtitle": "Let our experts uncover the financial reality behind your target.",
-      "button": { "label": "Make an Inquiry", "href": "/make-an-inquiry" },
+      "title": "Ready to get started in Vietnam?",
+      "subtitle": "Talk to our experts about how we can support your business.",
+      "button": {
+        "label": "Make an Inquiry",
+        "href": "/make-an-inquiry"
+      },
       "variant": "red"
     }
   ],
-  "showContactForm": false
+  "showContactForm": true
 }

@@ -1,59 +1,172 @@
 {
-  "title": "Financial Modelling Services",
-  "metaDescription": "Financial modelling services in Vietnam — customized, data-driven models for forecasting, valuation, budgeting, scenario analysis, M&A and capital structure decisions.",
+  "title": "Financial Modelling Services in Vietnam",
+  "metaDescription": "InCorp Vietnam provides data-driven financial models for strategic planning, investment evaluation, and better decisions.",
   "hero": {
-    "eyebrow": "Accounting & Taxation",
+    "eyebrow": "Services",
     "title": "Financial Modelling Services in Vietnam",
-    "subtitle": "Customized, data-driven models that support strategic planning, investment evaluation and informed business decision-making.",
-    "cta": { "label": "Make an Inquiry", "href": "/make-an-inquiry" }
+    "subtitle": "At InCorp Vietnam, our Financial Modelling services provide customized, data driven models that support strategic planning, investment evaluation, and informed business decision-making.",
+    "cta": {
+      "label": "Make an Inquiry",
+      "href": "/make-an-inquiry"
+    },
+    "image": "/incorp/solutions/accounting-finance.jpg"
   },
   "sections": [
     {
       "type": "richText",
-      "eyebrow": "Overview",
-      "heading": "Turn data into decisions",
-      "align": "left",
+      "heading": "Why choose Financial Modelling services at InCorp Vietnam?",
       "body": [
-        "A robust financial model lets you analyze past performance, project future outcomes and assess investment opportunities with clarity.",
-        "InCorp Vietnam builds tailored models that support business planning, valuation and risk management — giving stakeholders a structured, data-driven basis for every decision."
+        "Financial modeling creates quantitative representations of a company's financial performance to support decision-making, forecasting, and valuation. It helps in assessing business scenarios, valuing companies, analyzing investments, and planning budgets to align with business goals.",
+        "These models also aid in risk management by simulating scenarios to identify risks and track key performance indicators (KPIs) for financial health and growth strategies. At InCorp Vietnam, we provide tailored financial models to analyze past performance, project future outcomes, and assess investment opportunities."
       ]
     },
     {
       "type": "cards",
-      "eyebrow": "What we build",
-      "heading": "Our financial modelling services",
       "columns": 3,
       "items": [
-        { "title": "Financial forecasting", "desc": "Project revenue, costs and performance across future periods." },
-        { "title": "Valuation models", "desc": "Estimate business and asset value to inform deals and reporting." },
-        { "title": "Budgeting & financial planning", "desc": "Align budgets, targets and resources with your business goals." },
-        { "title": "Scenario & sensitivity analysis", "desc": "Stress-test assumptions to understand the range of outcomes." },
-        { "title": "M&A analysis", "desc": "Model acquisitions, fundraising and other transactions." },
-        { "title": "Cash flow analysis", "desc": "Track liquidity and the timing of cash inflows and outflows." },
-        { "title": "Debt & capital structure modeling", "desc": "Evaluate financing options and optimal capital structure." },
-        { "title": "Performance metrics & KPIs", "desc": "Define and track the indicators that measure financial health." }
+        {
+          "title": "Informed Decision-Making",
+          "desc": "Financial models provide a structured way to assess different business scenarios, helping stakeholders make data-driven decisions.",
+          "icon": "lightbulb"
+        },
+        {
+          "title": "Investment Analysis",
+          "desc": "They are essential tools for valuing businesses, understanding investment opportunities, and analyzing mergers, acquisitions, or fundraising options.",
+          "icon": "chart"
+        },
+        {
+          "title": "Strategic Planning",
+          "desc": "Financial models help companies plan budgets, set financial targets, and optimize resources to align with business goals.",
+          "icon": "target"
+        },
+        {
+          "title": "Risk Management",
+          "desc": "By simulating various financial scenarios, financial models allow businesses to identify potential risks and take proactive measures.",
+          "icon": "shield"
+        },
+        {
+          "title": "Performance Evaluation",
+          "desc": "Financial modeling allows businesses to track key performance indicators (KPIs) and assess their financial health, enabling improvements and growth strategies.",
+          "icon": "trending"
+        }
       ]
     },
     {
-      "type": "list",
-      "eyebrow": "Why InCorp",
-      "heading": "The benefits of professional modelling",
-      "columns": 1,
+      "type": "stats",
+      "heading": "Your trusted accounting services provider",
       "items": [
-        "Informed decision-making through a structured assessment of business scenarios",
-        "Investment analysis to value businesses and evaluate M&A or fundraising",
-        "Strategic planning that aligns budgets, targets and resources with your goals",
-        "Risk management by simulating scenarios and identifying potential risks early",
-        "Performance evaluation that tracks KPIs to support growth strategies"
+        {
+          "value": "30+",
+          "label": "Years Track Record"
+        },
+        {
+          "value": "15,000+",
+          "label": "Clients Worldwide"
+        },
+        {
+          "value": "120+",
+          "label": "Accounting & Tax Clients"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Comprehensive Financial Modelling Services at InCorp Vietnam",
+      "columns": 3,
+      "items": [
+        {
+          "title": "Financial Forecasting",
+          "icon": "trending"
+        },
+        {
+          "title": "Valuation Models",
+          "icon": "gem"
+        },
+        {
+          "title": "Budgeting & Financial Planning",
+          "icon": "calculator"
+        },
+        {
+          "title": "Scenario & Sensitivity Analysis",
+          "icon": "layers"
+        },
+        {
+          "title": "M&A Analysis",
+          "icon": "handshake"
+        },
+        {
+          "title": "Cash Flow Analysis",
+          "icon": "banknote"
+        },
+        {
+          "title": "Debt & Capital Structure Modeling",
+          "icon": "coins"
+        },
+        {
+          "title": "Performance Metrics & KPIs",
+          "icon": "chart"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Seamless Accounting & Finance Management with InCorp Vietnam",
+      "columns": 4,
+      "items": [
+        {
+          "title": "Expert Consultation",
+          "desc": "Our accounting experts offer insights into financial best practices and regulations to help you optimize your business operations.",
+          "icon": "users"
+        },
+        {
+          "title": "Comprehensive Support",
+          "desc": "We offer a full suite of accounting services, from bookkeeping to tax compliance, ensuring seamless financial management.",
+          "icon": "headset"
+        },
+        {
+          "title": "Simplified Process",
+          "desc": "We handle the time-consuming tasks of financial record-keeping and reporting, allowing you to focus on your core business activities.",
+          "icon": "rocket"
+        },
+        {
+          "title": "Focus on Core Business",
+          "desc": "With our accounting expertise, you can focus on achieving your business goals while ensuring financial accuracy and compliance.",
+          "icon": "network"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Meet Our Experts",
+      "columns": 3,
+      "items": [
+        {
+          "title": "Jack Nguyen, CPA, CA",
+          "desc": "Chief Executive Officer",
+          "icon": "user"
+        },
+        {
+          "title": "Benny Nguyen",
+          "desc": "Head of Business Advisory",
+          "icon": "user"
+        },
+        {
+          "title": "Si Pham",
+          "desc": "Head of Corporate Secretarial and Advisory Services",
+          "icon": "user"
+        }
       ]
     },
     {
       "type": "cta",
-      "title": "Plan ahead with a model built for your business",
-      "subtitle": "Let our experts translate your data into a clear path forward.",
-      "button": { "label": "Make an Inquiry", "href": "/make-an-inquiry" },
+      "title": "Ready to get started in Vietnam?",
+      "subtitle": "Talk to our experts about how we can support your business.",
+      "button": {
+        "label": "Make an Inquiry",
+        "href": "/make-an-inquiry"
+      },
       "variant": "red"
     }
   ],
-  "showContactForm": false
+  "showContactForm": true
 }

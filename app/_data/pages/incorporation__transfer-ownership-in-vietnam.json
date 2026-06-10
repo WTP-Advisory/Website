@@ -1,54 +1,60 @@
 {
   "title": "Transfer Ownership in Vietnam",
-  "metaDescription": "Expert transfer of business ownership in Vietnam — a smooth, legally compliant transition with minimal bureaucracy.",
+  "metaDescription": "InCorp Vietnam provides expert transfer-of-ownership services, ensuring a smooth and legally compliant business ownership transition through official registration with relevant government authorities.",
   "hero": {
     "eyebrow": "Incorporation",
     "title": "Transfer Ownership in Vietnam",
-    "subtitle": "InCorp Vietnam provides expert transfer-of-ownership services, ensuring a smooth and legally compliant business ownership transition.",
-    "cta": { "label": "Make an Inquiry", "href": "/make-an-inquiry" }
+    "subtitle": "InCorp Vietnam provides expert transfer ownership services, ensuring a smooth and legally compliant business ownership transition through official registration with relevant government authorities.",
+    "cta": {
+      "label": "Talk to Our Experts",
+      "href": "/make-an-inquiry"
+    },
+    "image": "/incorp/solutions/incorporation.webp"
   },
   "sections": [
     {
       "type": "richText",
-      "eyebrow": "Overview",
-      "heading": "A simpler path than starting fresh",
+      "heading": "What are the benefits of transferring a business ownership in Vietnam?",
+      "align": "left",
       "body": [
-        "Transferring business ownership in Vietnam means facilitating an official ownership transition through registration with the relevant government authorities. Compared with establishing a new entity, it requires far less bureaucratic process and paperwork.",
-        "Our team manages the legal and administrative steps end to end, helping investors take over an existing, operating business with confidence and full compliance."
+        "Transferring business ownership in Vietnam offers several key advantages, including a quick process with fewer bureaucratic hurdles, reduced paperwork compared to starting a new company, and no requirement to prove financial capability.",
+        "Additionally, foreign investors can gain long-term residency through investor visas or temporary residence cards, enabling stable business operations and personal settlement in Vietnam."
       ]
     },
     {
-      "type": "list",
-      "eyebrow": "Benefits",
-      "heading": "Why transfer ownership",
-      "columns": 2,
+      "type": "stats",
+      "heading": "Your Experts in Company Incorporation",
       "items": [
-        "Streamlined process with fewer bureaucratic hurdles and less paperwork",
-        "Financial flexibility — no requirement to demonstrate financial capability",
-        "Residency advantages through investor visas or temporary residence cards",
-        "Business stability enabling continued operations and personal settlement in Vietnam"
+        { "value": "30+", "label": "Years Track Record" },
+        { "value": "15,000+", "label": "Clients Worldwide" },
+        { "value": "100+", "label": "Companies Incorporated Yearly" },
+        { "value": "1,500+", "label": "Professionals" }
       ]
     },
     {
-      "type": "list",
+      "type": "cards",
       "eyebrow": "Why InCorp",
-      "heading": "What you get with our team",
-      "columns": 2,
+      "heading": "Benefits of transferring your company ownership with InCorp Vietnam",
+      "columns": 4,
       "items": [
-        "Professional bilingual experts ensuring clear communication",
-        "Guidance aligned with your specific business objectives",
-        "Transparent cost and timeline estimates with no hidden fees",
-        "Flexible direct and virtual consultation options",
-        "30+ years of track record with 100+ annual incorporations"
+        { "title": "Work with Professional Bilingual Experts", "icon": "headset", "desc": "Ensure flawless cross-communication with no disruptions." },
+        { "title": "Guidance for Your Dream Business", "icon": "rocket", "desc": "Get the support you need for your specific business goals." },
+        { "title": "Complete Cost and Time Transparency", "icon": "fileCheck", "desc": "Receive clear trajectory estimates in advance with no hidden fees." },
+        { "title": "Direct and Virtual Consultations", "icon": "globe", "desc": "Flexible timing and solutions for your convenience." }
       ]
     },
     {
-      "type": "cta",
-      "title": "Take over a business in Vietnam, seamlessly",
-      "subtitle": "Let our experts manage a compliant, low-friction ownership transition.",
-      "button": { "label": "Make an Inquiry", "href": "/make-an-inquiry" },
-      "variant": "red"
+      "type": "team",
+      "eyebrow": "Our Team",
+      "heading": "Meet Our Experts",
+      "variant": "portrait",
+      "columns": 3,
+      "items": [
+        { "name": "Jack Nguyen, CPA, CA", "role": "Chief Executive Officer", "image": "/incorp/people/placeholder.svg", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" },
+        { "name": "Benny Nguyen", "role": "Head of Business", "image": "/incorp/people/placeholder.svg", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" },
+        { "name": "Si Pham", "role": "Head of Corporate Secretarial", "image": "/incorp/people/placeholder.svg", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" }
+      ]
     }
   ],
-  "showContactForm": false
+  "showContactForm": true
 }

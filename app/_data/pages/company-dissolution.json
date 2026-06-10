@@ -1,72 +1,301 @@
 {
   "title": "Company Dissolution Services in Vietnam",
-  "metaDescription": "InCorp Vietnam manages company dissolution end to end — legal, accounting and HR procedures — to deregister your company quickly, simply and in full compliance with Vietnamese authorities.",
+  "metaDescription": "Read our complete guide to company dissolution in Vietnam and how InCorp Vietnam's services can simplify the process while ensuring compliance.",
   "hero": {
-    "eyebrow": "Corporate Services",
-    "title": "Company Dissolution Services: Quick, Simple, Compliant",
-    "subtitle": "If you choose to cease operations and close your company in Vietnam, you must follow the necessary procedures to deregister with the appropriate authorities. We handle the entire process on your behalf.",
-    "cta": { "label": "Make an Inquiry", "href": "/make-an-inquiry" }
+    "eyebrow": "Services",
+    "title": "Company Dissolution Services in Vietnam",
+    "subtitle": "If you choose to cease operations and close your company in Vietnam, you need to follow the necessary procedures for deregistering your company with the appropriate authorities. We are here to help you complete this process in a compliant and expedited manner.",
+    "cta": {
+      "label": "Make an Inquiry",
+      "href": "/make-an-inquiry"
+    },
+    "image": "/incorp/solutions/legal-advisory.jpg"
   },
   "sections": [
     {
       "type": "cards",
-      "eyebrow": "Key Benefits",
-      "heading": "Benefits of company dissolution services",
-      "columns": 2,
+      "heading": "Benefits of Company Dissolution Services in Vietnam",
+      "columns": 4,
       "items": [
-        { "title": "Expert Guidance, Smooth Process", "desc": "Experienced professionals prevent errors and ensure every dissolution step is done correctly." },
-        { "title": "Effortless Paperwork", "desc": "We manage the documentation and administrative burden, saving you valuable time." },
-        { "title": "Guaranteed Legal Compliance", "desc": "We ensure a lawful, worry-free closure that satisfies all regulatory requirements." },
-        { "title": "Minimized Risks", "desc": "We reduce post-dissolution complications so you can move on with peace of mind." }
+        {
+          "title": "Expert Guidance Ensures Smooth Process Flow",
+          "desc": "Experienced pros ensure proper dissolution flow.",
+          "icon": "userCheck"
+        },
+        {
+          "title": "Effortless Paperwork Handling, Valuable Time Saved",
+          "desc": "Services handle paperwork, save time, ease admin burdens for businesses.",
+          "icon": "clock"
+        },
+        {
+          "title": "Guarantee Legal Compliance, Worry-Free and Secure",
+          "desc": "Dissolution services ensure legal compliance for a lawful closure.",
+          "icon": "shield"
+        },
+        {
+          "title": "Minimized Risks, Peace of Mind Achieved",
+          "desc": "Reduce risk, gain confidence, induce post-dissolution risks.",
+          "icon": "badge"
+        }
       ]
     },
     {
       "type": "richText",
-      "eyebrow": "Know the Basics",
-      "heading": "Forms of company dissolution",
-      "align": "left",
+      "heading": "Different Forms of Company Dissolution in Vietnam",
+      "align": "center",
       "body": [
-        "Voluntary dissolution occurs when owners decide to close. Common situations include the specified operating period expiring without extension, or owners discontinuing due to business inefficiency.",
-        "Compulsory dissolution is mandated by the government for reasons such as legal violations or failure to maintain the minimum shareholder or member requirements.",
-        "Before dissolution can complete, all debts and property obligations must be fully settled."
+        "Company Dissolution in Vietnam means ending a business officially. This process follows rules from the Law on Enterprises (LOE). There are two main ways it can happen:"
       ]
     },
     {
-      "type": "steps",
-      "eyebrow": "The Process",
-      "heading": "Dissolution procedures in Vietnam",
-      "items": [
-        { "title": "Submit Dissolution Notice", "desc": "File the dissolution notice within 7 days of the resolution to dissolve." },
-        { "title": "Status Updated to 'In Progress'", "desc": "The Business Registration Office updates your company's status accordingly." },
-        { "title": "Liquidate Debts", "desc": "Settle outstanding debts in the legally required priority order." },
-        { "title": "Submit Full Application", "desc": "File the complete application together with asset and liquidation reports." },
-        { "title": "Final Confirmation", "desc": "The tax authority confirms clearance and the dissolution is finalized." }
+      "type": "richText",
+      "heading": "Voluntary Dissolution",
+      "body": [
+        "Voluntary dissolution is when owners decide to close a company, settling debts, and dividing assets among themselves for their company's best interest. Voluntary dissolution can occur in the following situations:"
       ]
     },
     {
       "type": "list",
-      "eyebrow": "Comprehensive Support",
-      "heading": "What InCorp Vietnam handles for you",
-      "columns": 3,
+      "columns": 1,
       "items": [
-        "Consultation on dissolution requirements",
-        "Drafting and preparing application forms",
-        "Submission to the Department of Planning and Investment",
-        "Corporate seal return coordination",
-        "Accounting closure and document review",
-        "Final financial statement preparation",
-        "Tax reconciliation and audit support",
-        "Labor and employee compensation agreements",
-        "Payroll, PIT and social insurance reporting"
+        "When the specified operating period in the company's charter expires, and the owners choose not to extend it further.",
+        "When the owners decide to discontinue business operations due to the recognition of the company's inefficiency."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Compulsory Dissolution",
+      "body": [
+        "Compulsory dissolution is the termination of a business or company that is mandated or enforced by government authorities due to non-compliance with legal provisions or regulations. This occurs when:"
+      ]
+    },
+    {
+      "type": "list",
+      "columns": 1,
+      "items": [
+        "A business violates established laws, leading to the mandatory cessation of all its business activities.",
+        "A business fails to meet the minimum requirements for members or shareholders as stipulated by regulatory agencies and is unable to rectify the deficiency within a specified period."
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Requirements of Company Dissolution in Vietnam",
+      "columns": 2,
+      "items": [
+        {
+          "title": "Completion of Operation Term",
+          "desc": "When the charter-specified operational duration ends without an extension decision.",
+          "icon": "clock"
+        },
+        {
+          "title": "Resolutions and Decisions",
+          "desc": "Dissolution can occur through resolutions by business owners, Members' Council (for partnerships and LLCs), or Shareholders' Meeting (for joint-stock companies).",
+          "icon": "clipboard"
+        },
+        {
+          "title": "Insufficient Membership",
+          "desc": "If the company doesn't meet the minimum member count for six consecutive months and doesn't transform its enterprise type as required by the law, dissolution becomes an option.",
+          "icon": "users"
+        },
+        {
+          "title": "Revocation of Enterprise Registration",
+          "desc": "If the enterprise registration certificate is revoked, dissolution follows unless the Law on Tax Administration specifies otherwise.",
+          "icon": "fileCheck"
+        }
+      ]
+    },
+    {
+      "type": "richText",
+      "body": [
+        "Note: Dissolution can only happen after settling all debts and property obligations. It's not allowed during ongoing dispute resolutions. In case of certificate revocation, both the manager and the enterprise share debt responsibility."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "Company Dissolution Procedures in Vietnam",
+      "subtitle": "In general, to start implementing the process of dissolving as the resolutions and decisions on dissolutions of the company, the following steps must be taken:",
+      "items": [
+        {
+          "title": "Step 1",
+          "desc": "Send the notice of dissolution of the enterprise to the Business Registration Office, with relevant documentation, within 7 days from the date of adoption of the resolution or decision on dissolution."
+        },
+        {
+          "title": "Step 2",
+          "desc": "Within 1 working day from the date of receipt of the Notice, the Business Registration Office will post on the Portal, change the legal status of the enterprise to \"In progress of dissolution procedures\" and transfer information to Tax Authorities. Enterprises must then carry out the procedures for completing tax obligations to the Tax Authorities."
+        },
+        {
+          "title": "Step 3",
+          "desc": "Enterprises liquidate debts in the following order: unpaid salaries, severance pay, social insurance, health insurance and benefits; tax debts; and other debts. Note: An enterprise may only be dissolved after all of its debts and liabilities are fully paid off and it is not involved in any dispute at local courts or arbitration."
+        },
+        {
+          "title": "Step 4",
+          "desc": "Submit the application for business dissolution to the Business Registration Office. Note: Before proceeding, businesses must close related branches or offices at the local Business Registration Office, and return the seal and certificate to the police during dissolution if using their seal."
+        },
+        {
+          "title": "Step 5",
+          "desc": "After receiving the Registration, they shall send information to the Tax Authorities, which shall reply within 2 working days to confirm fulfilment of the tax payment obligation. If the Business Registration Office does not receive a refusal from the Tax Authorities, they change the legal status of the enterprise to \"Dissolved\" and issue a notice of dissolution."
+        }
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Legal Procedures of Company Dissolution",
+      "body": [
+        "Our HCMC Company Dissolution Service handles all steps, from advice to dossier submission, ensuring a seamless and efficient dissolution for your company."
+      ]
+    },
+    {
+      "type": "list",
+      "columns": 1,
+      "items": [
+        "Consult your business on requirements",
+        "Collect your business's information, dossiers",
+        "Draft application forms for all steps",
+        "Submit the Notice on dissolution intent to HCMC Department of Planning and Investment",
+        "Return of Corporate seal if granted by HCMC Public Security Department",
+        "Submit complete application dossier for company dissolution to HCMC Department of Planning and Investment after completion of enterprise dissolution procedure at Tax Authority"
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Accounting Procedures of Company Dissolution",
+      "body": [
+        "InCorp Vietnam's Accounting Procedures for Company Dissolution ensure a seamless process, from document review to tax reconciliation, providing a hassle-free conclusion. The Accounting Procedures in Company Dissolution Service helps:"
+      ]
+    },
+    {
+      "type": "list",
+      "columns": 1,
+      "items": [
+        "Check and review all of the accounting supporting documents",
+        "Close accounting books and prepare the final financial statements",
+        "Support the independent audit for the final auditing",
+        "Prepare the Letter for Taxation Confirmation to confirm the tax obligation status of the Company, working with the Tax Authority to do the tax reconciliation",
+        "Prepare essential dissolution documents including liquidation notice, board minutes, company decision, and financial statements",
+        "Submit dissolution documentation to the Tax Authority and maintain regular communication to expedite their processes",
+        "Tax authorities perform tax audits, and we act as intermediaries, communicating and providing explanations to the authorities on your behalf",
+        "Work and communicate with the Tax authority for completion of tax obligations and lock tax code",
+        "Recover the stamp, ERC, and conclude the dissolution process"
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "HR Procedures of Company Dissolution",
+      "body": [
+        "HR Procedures in Company Dissolution Service from InCorp Vietnam simplifies the process by assisting with labor requirements, compensation agreements, data collection, financial calculations, and online reporting for a seamless dissolution. The HR Procedures in Company Dissolution Service helps:"
+      ]
+    },
+    {
+      "type": "list",
+      "columns": 1,
+      "items": [
+        "Consult you on labor-related requirements",
+        "Meet with affected employees to get their mutual agreements on compensation",
+        "Draft mutual agreements on termination of labor contracts between you and affected employees",
+        "Gather all payroll data and employee data regarding their incurred PIT with your business",
+        "Calculate the total amount of compensation that you need to pay to affected employees",
+        "Calculate the pending PIT/SI amount that you need to pay",
+        "Produce quarterly and annual PIT reports for online submission",
+        "Issue confirmation letter of income and/or e-PIT certificate"
       ]
     },
     {
       "type": "cta",
-      "title": "Closing your company in Vietnam?",
-      "subtitle": "Let our experts handle the dissolution quickly and compliantly.",
-      "button": { "label": "Make an Inquiry", "href": "/make-an-inquiry" },
+      "title": "Not sure where to start? Talk to a consultant.",
+      "subtitle": "Whether you need an employer of record service or payroll services for small business, InCorp offers contractor payroll services that give your company a strategic advantage.",
+      "button": {
+        "label": "Make an Inquiry",
+        "href": "/make-an-inquiry"
+      },
+      "variant": "blue"
+    },
+    {
+      "type": "steps",
+      "heading": "Your Success Plan in Vietnam",
+      "items": [
+        {
+          "title": "Submit Your Information & Needs",
+          "desc": "Tell us about your company's needs and aspirations in Vietnam"
+        },
+        {
+          "title": "Book a Consultation With Our Experts",
+          "desc": "Go over your plan with one of our bilingual business Consultants"
+        },
+        {
+          "title": "Verify KYC Documents",
+          "desc": "Our consultants will contact you to process the necessary paperwork and create your company dossier"
+        },
+        {
+          "title": "Choose a Plan & Succeed In Vietnam",
+          "desc": "Let us simplify your business journey and make your mark in APAC's fastest-growing economy"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "eyebrow": "Explore More",
+      "heading": "Other Services for Businesses in Vietnam",
+      "columns": 4,
+      "items": [
+        {
+          "title": "Incorporation",
+          "desc": "Gain a presence in the Vietnamese market through our incorporation services.",
+          "href": "/incorporation",
+          "icon": "building"
+        },
+        {
+          "title": "Accounting & Taxation",
+          "desc": "Save time and money while ensuring compliance with full-service accounting services.",
+          "href": "/accounting-taxation",
+          "icon": "calculator"
+        },
+        {
+          "title": "HR & Payroll",
+          "desc": "Comprehensive solutions for recruitment, payroll, insurance, and taxes.",
+          "href": "/hr-payroll-services",
+          "icon": "users"
+        },
+        {
+          "title": "Immigration",
+          "desc": "Navigate visa requirements and obtain work permits, investor, and business visa.",
+          "href": "/immigration",
+          "icon": "plane"
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "variant": "red",
+      "heading": "Backed by InCorp Group",
+      "items": [
+        {
+          "value": "30+",
+          "label": "Years of experience"
+        },
+        {
+          "value": "1,500+",
+          "label": "Professionals across APAC"
+        },
+        {
+          "value": "20,000+",
+          "label": "Clients served globally"
+        },
+        {
+          "value": "8",
+          "label": "Markets in Asia-Pacific"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Ready to get started in Vietnam?",
+      "subtitle": "Talk to our experts about how we can support your business.",
+      "button": {
+        "label": "Make an Inquiry",
+        "href": "/make-an-inquiry"
+      },
       "variant": "red"
     }
   ],
-  "showContactForm": false
+  "showContactForm": true
 }

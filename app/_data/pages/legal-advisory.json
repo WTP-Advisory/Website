@@ -1,67 +1,202 @@
 {
-  "title": "Legal Advisory",
-  "metaDescription": "Corporate legal solutions in Vietnam — product registration, trademark filing, conditional business licensing, compliance retainers and personal data protection.",
+  "title": "Legal Advisory Services in Vietnam",
+  "metaDescription": "Employ your own corporate secretary with legal advisory services, including compliance updates, fulfilling reports & other administrative processes.",
   "hero": {
-    "eyebrow": "Legal Advisory",
-    "title": "Navigate Vietnam's legal landscape with confidence",
-    "subtitle": "From licensing and registration to ongoing compliance, our bilingual legal advisors handle the complexity so your business stays compliant and ready to grow.",
-    "cta": { "label": "Make an Inquiry", "href": "/make-an-inquiry" }
+    "eyebrow": "Services",
+    "title": "Legal Advisory Services in Vietnam",
+    "subtitle": "As your trusted corporate legal advisor, we are dedicated to ensuring your business ventures into Vietnam are seamless and successful. Whether you're starting a new business or expanding operations, our business consulting lawyers guarantee a hassle-free market entry experience.",
+    "cta": {
+      "label": "Make an Inquiry",
+      "href": "/make-an-inquiry"
+    },
+    "image": "/incorp/solutions/legal-advisory.jpg"
   },
   "sections": [
     {
-      "type": "richText",
-      "eyebrow": "Overview",
-      "heading": "Comprehensive corporate legal support",
-      "align": "center",
-      "body": [
-        "Operating in Vietnam means navigating a regulatory environment that is detailed, evolving, and frequently conducted in Vietnamese. InCorp Vietnam provides end-to-end legal advisory services that help foreign-owned companies obtain the right licenses, protect their brands, and remain compliant with local laws.",
-        "Our advisors combine deep local knowledge with international standards, offering transparent processes and flexible engagement — both remote and in person — so you always understand exactly what is required and why."
+      "type": "cards",
+      "heading": "Benefits of Hiring Top Legal Consulting Firms like InCorp",
+      "columns": 4,
+      "items": [
+        {
+          "title": "Register your Products for Sale in Vietnam",
+          "desc": "Ensure you have all required documents for import and sale, guided by experienced legal advisors for startups.",
+          "icon": "rocket"
+        },
+        {
+          "title": "Your Own On-demand Legal Advisor",
+          "desc": "Gain the advantage of having your own advisor who guarantees compliance for your business.",
+          "icon": "headset"
+        },
+        {
+          "title": "Full Transparency throughout the Process",
+          "desc": "Navigate regulatory complexities smoothly with reliable, client-centric, and transparent business law advisors.",
+          "icon": "fileCheck"
+        },
+        {
+          "title": "Both Remote and In-person Communication",
+          "desc": "Enjoy tailored digital solutions for remote and in-person consultations with our corporate legal advisors.",
+          "icon": "globe"
+        }
       ]
     },
     {
-      "type": "cards",
-      "eyebrow": "Our Services",
-      "heading": "Explore our legal advisory services",
-      "subtitle": "Specialised support across every legal touchpoint of your Vietnam operations.",
-      "columns": 3,
-      "items": [
-        { "title": "Product Registration", "desc": "Licensing and registration for F&B, medical devices, cosmetics and health supplements.", "href": "/legal-advisory/product-registration" },
-        { "title": "Trademark Licensing", "desc": "Register and protect your brand through the National Office of Intellectual Property.", "href": "/legal-advisory/trademark-licensing" },
-        { "title": "Conditional Business License", "desc": "Secure the sub-licenses required to operate in regulated industries.", "href": "/legal-advisory/conditional-business-license" },
-        { "title": "Compliance Retainer", "desc": "Fixed-fee monthly legal advisory acting as your in-house legal team.", "href": "/legal-advisory/compliance-retainer" },
-        { "title": "Personal Data Protection", "desc": "Achieve and maintain compliance with Vietnam's personal data protection rules.", "href": "/legal-advisory/personal-data-protection" }
+      "type": "richText",
+      "heading": "What is a Corporate Secretary?",
+      "body": [
+        "Also known as a compliance officer, this is a senior position in a public or private firm that oversees the administrative activities of the board of directors and senior management."
       ]
     },
     {
       "type": "list",
-      "eyebrow": "Why InCorp",
-      "heading": "The advantages of working with us",
+      "heading": "InCorp Vietnam’s Corporate Secretarial Service",
+      "subtitle": "Responsibilities of Corporate Secretary",
+      "columns": 1,
+      "items": [
+        "Local compliance, adding shareholders and investors in fundraising rounds",
+        "Timely statutory and regulatory updates for all clients",
+        "Maintain compliance with Vietnam’s record-keeping regulations, updating records as required",
+        "Craft and update company constitution as required for compliance",
+        "Offer outsourcing services for annual compliance, including executive prep and meeting documentation"
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "InCorp Vietnam’s Other Legal Services",
       "columns": 2,
       "items": [
-        "Bilingual corporate legal advisors who bridge local and international requirements",
-        "Transparent processes with clear communication at every step",
-        "Flexible remote and in-person consultation options",
-        "Dedicated, ongoing advisory tailored to your business needs",
-        "Backed by InCorp Group — 30+ years of experience and 20,000+ clients served",
-        "Members of professional bodies including IFAC, ICSA and ACCA"
+        {
+          "title": "Leasing Contract Review",
+          "desc": "InCorp Vietnam begins with the crucial step of finalizing and confirming the deal structure and term sheet with the client, then reviews and revises the contract base term sheet against client requirements.",
+          "icon": "fileCheck"
+        },
+        {
+          "title": "Corporate Bank Account",
+          "desc": "InCorp Vietnam offers comprehensive financial consultancy services, advising on documentation, collecting necessary materials, and efficiently facilitating offshore corporate bank account openings.",
+          "icon": "landmark"
+        },
+        {
+          "title": "Nominee Director & Company",
+          "desc": "InCorp Vietnam supports foreign entrepreneurs looking to establish and operate businesses in Vietnam. Our business consulting services cover ownership facilitation, asset management, swift market entry, and potential licensing and capital advantages.",
+          "icon": "userCheck"
+        },
+        {
+          "title": "Product Registration",
+          "desc": "Rely on InCorp Vietnam for product regulation compliance, offering licensing, product registration (medical devices, food & beverage, food supplement…), and tax services to streamline the importation of your products into Vietnam.",
+          "icon": "clipboard"
+        },
+        {
+          "title": "Trademark Registration",
+          "desc": "With the constantly changing regulations, our experienced bilingual legal team will help you register your trademark easily and quickly from day one, so you can do business without any worries.",
+          "icon": "badge"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Additional Corporate Legal Advisory Services",
+      "columns": 2,
+      "items": [
+        {
+          "title": "Business License & Sub-Licenses",
+          "desc": "Explore our Sublicense Service for efficient license acquisition and expert support in Vietnam, ensuring regulatory compliance and a seamless application experience with our legal advisors.",
+          "icon": "shield"
+        },
+        {
+          "title": "FDI – ISA Reports",
+          "desc": "InCorp Vietnam specializes in legal advisory services for FDI and ISA Reports, offering status checks, account issuance, and successful submission, which ensure compliance for your business.",
+          "icon": "file"
+        }
       ]
     },
     {
       "type": "steps",
-      "eyebrow": "How It Works",
-      "heading": "A clear path to compliance",
+      "heading": "Your Success Plan in Vietnam",
       "items": [
-        { "title": "Share your needs", "desc": "Submit your company information and the legal support you require." },
-        { "title": "Consult our advisors", "desc": "Meet with our bilingual corporate legal advisors to map out the right approach." },
-        { "title": "Verify documentation", "desc": "We complete KYC verification and prepare your company dossier." },
-        { "title": "Start operating", "desc": "Select your service plan and commence compliant operations in Vietnam." }
+        {
+          "title": "Submit Your Information & Needs",
+          "desc": "Tell us about your company’s needs and aspirations for our financial consultancy services in Vietnam",
+          "icon": "clipboard"
+        },
+        {
+          "title": "Book a Consultation With Our Experts",
+          "desc": "Go over your plan with one of our bilingual business strategy consultants who are also experienced corporate legal advisors.",
+          "icon": "headset"
+        },
+        {
+          "title": "Verify KYC Documents",
+          "desc": "Our team will guide you through processing the necessary paperwork to create your company dossier.",
+          "icon": "fileCheck"
+        },
+        {
+          "title": "Choose a Plan & Succeed In Vietnam",
+          "desc": "Let our business consulting lawyers simplify your business journey and make your mark in APAC’s fastest-growing economy",
+          "icon": "award"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "eyebrow": "Explore More",
+      "heading": "Other Services for Vietnam Market Entry & Business Outsourcing",
+      "columns": 4,
+      "items": [
+        {
+          "title": "Incorporation",
+          "desc": "Gain a presence in the Vietnamese market through our incorporation services, guided by expert legal advisors for startups.",
+          "href": "/incorporation",
+          "icon": "building"
+        },
+        {
+          "title": "Accounting & Taxation",
+          "desc": "Save time and money while ensuring compliance with full-service accounting services overseen by our small business legal advisors.",
+          "href": "/accounting-taxation",
+          "icon": "calculator"
+        },
+        {
+          "title": "HR & Payroll",
+          "desc": "Streamline your services with our human resources outsourcing services, including recruitment, payroll, insurance, and tax filing.",
+          "href": "/hr-payroll-services",
+          "icon": "users"
+        },
+        {
+          "title": "Immigration",
+          "desc": "Navigate visa requirements and obtain work permits, investor, and business visa with support from our corporate legal advisors.",
+          "href": "/immigration",
+          "icon": "plane"
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "variant": "red",
+      "heading": "Backed by InCorp Group",
+      "items": [
+        {
+          "value": "30+",
+          "label": "Years of experience"
+        },
+        {
+          "value": "1,500+",
+          "label": "Professionals across APAC"
+        },
+        {
+          "value": "20,000+",
+          "label": "Clients served globally"
+        },
+        {
+          "value": "8",
+          "label": "Markets in Asia-Pacific"
+        }
       ]
     },
     {
       "type": "cta",
-      "title": "Ready to get your legal foundations right?",
-      "subtitle": "Talk to our legal advisors about licensing, compliance and brand protection in Vietnam.",
-      "button": { "label": "Make an Inquiry", "href": "/make-an-inquiry" },
+      "title": "Ready to get started in Vietnam?",
+      "subtitle": "Talk to our experts about how we can support your business.",
+      "button": {
+        "label": "Make an Inquiry",
+        "href": "/make-an-inquiry"
+      },
       "variant": "red"
     }
   ],

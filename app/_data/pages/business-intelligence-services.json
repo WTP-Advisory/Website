@@ -1,69 +1,174 @@
 {
-  "title": "Business Intelligence Services",
-  "metaDescription": "Decision-grade business intelligence in Vietnam — market entry, location, supply chain, compliance and due diligence to de-risk your expansion.",
+  "title": "Business Intelligence Services in Vietnam",
+  "metaDescription": "Making expansion or investment decisions in Vietnam is complex, but it doesn't have to be uncertain. Simplify critical decisions with a Business Intelligence partner that provides clear, decision-grade insight at every stage",
   "hero": {
-    "eyebrow": "Business Intelligence",
+    "eyebrow": "Services",
     "title": "Business Intelligence Services in Vietnam",
-    "subtitle": "Making expansion or investment decisions in Vietnam is complex, but it doesn't have to be uncertain.",
-    "cta": { "label": "Make an Inquiry", "href": "/make-an-inquiry" }
+    "subtitle": "Making expansion or investment decisions in Vietnam is complex, but it doesn't have to be uncertain. Simplify critical decisions with a Business Intelligence partner that provides clear, decision-grade insight at every stage. From market entry and site selection to supply-chain diversification and regional expansion, we support leadership teams with practical analysis, on-the-ground insight, and structured benchmarking. We help you reduce risk, align stakeholders, and move confidently from evaluation to execution.",
+    "cta": {
+      "label": "Make an Inquiry",
+      "href": "/make-an-inquiry"
+    },
+    "image": "/incorp/solutions/accounting-finance.jpg"
   },
   "sections": [
     {
       "type": "richText",
-      "eyebrow": "Overview",
-      "heading": "Decision-focused intelligence for your expansion",
+      "heading": "Make confident expansion and investment decisions in Vietnam with expert business intelligence support",
       "body": [
-        "InCorp Vietnam provides decision-grade intelligence to support corporate expansion and investment decisions. We combine on-the-ground expertise with structured analysis, helping leadership teams navigate market entry, site selection, supply-chain diversification and regional expansion across Vietnam and Asia-Pacific.",
-        "Every engagement connects analysis to execution — so the insights you receive flow directly into market entry, compliance and operations."
+        "Expanding or investing across Vietnam requires more than data. It requires clear, decision-grade insight to navigate market complexity, regulatory risk, and competing options.",
+        "InCorp Vietnam's Business Intelligence team supports market entry, site selection, supply-chain diversification, and regional expansion across Vietnam and also Asia-Pacific. Combining on-the-ground insight with structured benchmarking, we help leadership teams reduce risk, align decisions, and move from evaluation to execution with confidence."
+      ],
+      "align": "left"
+    },
+    {
+      "type": "cards",
+      "heading": "Benefits to Expect from Our Business Intelligence Services",
+      "columns": 3,
+      "items": [
+        {
+          "title": "Proven regional experience",
+          "desc": "27 markets across Asia-Pacific. 55 cities with active local presence.",
+          "icon": "globe"
+        },
+        {
+          "title": "Scale you can rely on",
+          "desc": "2,800+ professionals supporting 63,000+ client entities.",
+          "icon": "users"
+        },
+        {
+          "title": "Decision support at every stage",
+          "desc": "Market entry, site selection, and expansion assessments delivered annually.",
+          "icon": "target"
+        },
+        {
+          "title": "Faster decisions, lower risk",
+          "desc": "Early identification of regulatory, commercial, and supply-chain risks.",
+          "icon": "clock"
+        },
+        {
+          "title": "Intelligence connected to execution",
+          "desc": "From strategy to market entry, compliance, and operations.",
+          "icon": "network"
+        },
+        {
+          "title": "Tech-enabled, insight-driven",
+          "desc": "Proprietary data, local networks, and technology-enabled delivery.",
+          "icon": "lightbulb"
+        }
       ]
     },
     {
       "type": "cards",
-      "eyebrow": "What we cover",
-      "heading": "Intelligence service categories",
-      "subtitle": "Six interconnected intelligence streams tailored to your decision.",
+      "heading": "How We Help to Reduce Market Entry Risk",
       "columns": 3,
       "items": [
-        { "title": "Commercial Intelligence", "desc": "Market entry assessments, sector trends, competitor overviews and demand analysis." },
-        { "title": "Location Intelligence", "desc": "Multi-country benchmarking, industrial park matching and site feasibility assessment." },
-        { "title": "Supply Chain Intelligence", "desc": "Supplier ecosystem evaluation, screening and tariff and trade exposure analysis." },
-        { "title": "Compliance Intelligence", "desc": "Market access and regulatory gating, policy updates and risk assessment." },
-        { "title": "Stakeholder Intelligence", "desc": "Partner identification, commercial and operational due diligence and reputational checks." },
-        { "title": "Government & EDO Support", "desc": "In-market representation, trade mission support and regulatory monitoring." }
-      ]
-    },
-    {
-      "type": "list",
-      "eyebrow": "Why InCorp",
-      "heading": "Benefits of our intelligence services",
-      "columns": 2,
-      "items": [
-        "Regional reach across 27 Asia-Pacific markets and 55 cities",
-        "2,800+ professionals supporting 63,000+ client entities",
-        "Early identification of regulatory, commercial and supply-chain risks",
-        "Intelligence integrated with market entry, compliance and operations",
-        "Proprietary data combined with deep local networks",
-        "Decision-grade insights delivered to your timeline"
+        {
+          "title": "Commercial Intelligence",
+          "desc": "Market entry and expansion assessment, sector and industry trend tracking, market and competitor overview, demand and customer analysis, and ongoing market and competitor intelligence briefs.",
+          "icon": "chart"
+        },
+        {
+          "title": "Location Intelligence",
+          "desc": "Multi-country location benchmarking and country shortlists, in-country benchmarking across provinces and economic zones, site feasibility and readiness assessment (labor, utilities, timeline, constraints), and final site recommendation with industrial park matching.",
+          "icon": "building"
+        },
+        {
+          "title": "Supply Chain Intelligence",
+          "desc": "Supplier ecosystem reality check, supplier search and screening, supplier longlists and shortlists, and tariff and trade exposure analysis.",
+          "icon": "layers"
+        },
+        {
+          "title": "Compliance Intelligence",
+          "desc": "Early identification of regulatory and licensing requirements, compliance risk assessment, and monitoring of regulatory changes affecting your entry and operations.",
+          "icon": "shield"
+        },
+        {
+          "title": "Stakeholder Intelligence",
+          "desc": "Structured screening and risk checks on suppliers, partners, and acquisition targets covering commercial capability, operational capacity, regulatory exposure, and reputational risk.",
+          "icon": "handshake"
+        },
+        {
+          "title": "Govt & EDO Support",
+          "desc": "Support for governments and economic development organizations with investor targeting, investment promotion, and market positioning insight.",
+          "icon": "landmark"
+        }
       ]
     },
     {
       "type": "faq",
-      "eyebrow": "FAQ",
-      "heading": "Frequently asked questions",
+      "heading": "Frequently Asked Questions on Business Intelligence Services",
       "items": [
-        { "q": "What is business intelligence?", "a": "It provides decision-grade insights for evaluating markets, locations, suppliers and partners to support informed expansion decisions." },
-        { "q": "When should companies engage?", "a": "Before major decisions such as market entry, site selection, supply-chain changes or regional expansion." },
-        { "q": "What is the typical timeline?", "a": "Most engagements range from a few weeks to a few months, depending on scope and decision urgency." },
-        { "q": "Do you support execution?", "a": "Yes. Our services integrate with InCorp's broader platform, enabling a smooth transition from analysis to market entry and operations." }
+        {
+          "q": "What is business intelligence and how can it support my expansion in Vietnam and Asia?",
+          "a": "Business intelligence provides decision-grade insights to help companies evaluate markets, locations, suppliers, and partners. It supports informed expansion, investment and restructuring decisions across complex Vietnam and Asian markets."
+        },
+        {
+          "q": "When should a company engage business intelligence services?",
+          "a": "Business intelligence is most valuable before major decisions such as market entry, site selection, supply-chain diversification, partner selection, or regional expansion, when risks and costs are still manageable."
+        },
+        {
+          "q": "What types of decisions can business intelligence support?",
+          "a": "Our services support decisions related to market entry strategy, country and site selection, supplier and partner evaluation, investment planning, and multi-country expansion across Vietnam and Asia-Pacific."
+        },
+        {
+          "q": "How is business intelligence different from market research or consulting?",
+          "a": "Business intelligence focuses on practical, decision-ready outputs such as benchmarks, shortlists, and risk assessments. It goes beyond descriptive research by directly supporting real-world business decisions."
+        },
+        {
+          "q": "Do you provide country-specific or multi-country intelligence?",
+          "a": "We provide both. Our team delivers in-depth country intelligence as well as structured multi-country benchmarking to support regional and Asia-wide decision-making."
+        },
+        {
+          "q": "Can business intelligence help with site selection and location decisions?",
+          "a": "Yes. We support country, provincial, and site-level selection through location benchmarking, industrial park comparison, and site feasibility and readiness assessments."
+        },
+        {
+          "q": "How do you assess suppliers, partners, or acquisition targets?",
+          "a": "We conduct structured screening and risk checks covering commercial capability, operational capacity, regulatory exposure, and reputational risk to support confident partner or supplier selection."
+        },
+        {
+          "q": "What industries do you support through your business intelligence services?",
+          "a": "We support a wide range of industries, including manufacturing, consumer goods, technology, logistics, and institutional and investment-driven sectors."
+        },
+        {
+          "q": "Can business intelligence support execution after the analysis phase?",
+          "a": "Yes. Our intelligence work is connected to execution: from strategy through market entry, compliance, and operations, insights translate directly into incorporation, licensing, and on-the-ground operational support."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "heading": "Your Experts in Company Incorporation",
+      "items": [
+        { "value": "30+", "label": "Years Track Record" },
+        { "value": "15,000+", "label": "Clients Worldwide" },
+        { "value": "100+", "label": "Companies Incorporated Yearly" },
+        { "value": "1,500+", "label": "Professionals" }
+      ]
+    },
+    {
+      "type": "team",
+      "eyebrow": "Our Team",
+      "heading": "Meet Our Experts",
+      "variant": "portrait",
+      "columns": 3,
+      "items": [
+        { "name": "Jack Nguyen, CPA, CA", "role": "Chief Executive Officer", "image": "/incorp/people/placeholder.svg", "profileHref": "/our-people", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" },
+        { "name": "Benny Nguyen", "role": "Head of Business Advisory", "image": "/incorp/people/placeholder.svg", "profileHref": "/our-people", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" },
+        { "name": "Si Pham", "role": "Head of Corporate Secretarial and Advisory Services", "image": "/incorp/people/placeholder.svg", "profileHref": "/our-people", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" }
       ]
     },
     {
       "type": "cta",
-      "title": "De-risk your next move in Vietnam",
-      "subtitle": "Talk to our intelligence team before your next major decision.",
-      "button": { "label": "Make an Inquiry", "href": "/make-an-inquiry" },
+      "title": "Ready to get started in Vietnam?",
+      "subtitle": "Talk to our experts about how we can support your business.",
+      "button": {
+        "label": "Make an Inquiry",
+        "href": "/make-an-inquiry"
+      },
       "variant": "red"
     }
   ],
-  "showContactForm": false
+  "showContactForm": true
 }

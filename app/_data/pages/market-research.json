@@ -1,73 +1,273 @@
 {
   "title": "Market Research in Vietnam",
-  "metaDescription": "InCorp Vietnam delivers tailored market research — brand, competitor, consumer and product research — to help you analyze your audience and make informed, data-driven decisions in Vietnam.",
+  "metaDescription": "Unlock business insights and gain a competitive edge with market research in Vietnam: comprehensive analysis & strategic data-driven decisions.",
   "hero": {
-    "eyebrow": "Market Research",
-    "title": "Market Research in Vietnam: Analyze & Know Your Audience",
-    "subtitle": "We provide tailored market research solutions to help businesses make informed decisions — from fully customized studies to cost-effective standard solutions for tactical decision-making.",
-    "cta": { "label": "Make an Inquiry", "href": "/make-an-inquiry" }
+    "eyebrow": "Services",
+    "title": "Market Research in Vietnam",
+    "subtitle": "We offer tailored market research solutions in Vietnam to assist your business in making informed decisions. While many foreign investors have unique decision-making requirements, our team also provides cost-effective standard market research solutions, ideal for simple tactical decisions.",
+    "cta": {
+      "label": "Make an Inquiry",
+      "href": "/make-an-inquiry"
+    },
+    "image": "/incorp/solutions/accounting-finance.jpg"
   },
   "sections": [
     {
       "type": "cards",
-      "eyebrow": "Why It Matters",
-      "heading": "Benefits of market research",
-      "columns": 2,
+      "heading": "Benefits of Market Research & Analysis Services",
+      "columns": 4,
       "items": [
-        { "title": "Tailor Products to Customers", "desc": "Customer feedback guides product development for enhanced satisfaction and loyalty." },
-        { "title": "Identify Risks and Opportunities", "desc": "Address challenges, adapt to threats, and seize opportunities before competitors do." },
-        { "title": "Inform Your Decisions", "desc": "Gain reliable insights that drive effective business decisions and sustainable growth." },
-        { "title": "Drive a Competitive Edge", "desc": "Align your marketing with customer preferences to build a lasting advantage." }
+        {
+          "title": "Tailor Products for Customer Satisfaction Success",
+          "desc": "Feedback guides product development for enhanced satisfaction and success",
+          "icon": "userCheck"
+        },
+        {
+          "title": "Identify Risks, Adapting, and Seizing Opportunities",
+          "desc": "Businesses address challenges, adapt, avert threats, and seize opportunities",
+          "icon": "rocket"
+        },
+        {
+          "title": "Informed Data Guides Strategic Business Decisions",
+          "desc": "Gain insights informs effective business decisions for success and growth",
+          "icon": "clipboard"
+        },
+        {
+          "title": "Drive Competitive Edge through Understanding",
+          "desc": "Foster a competitive edge, aligning marketing with customer preferences",
+          "icon": "globe"
+        }
       ]
     },
     {
       "type": "cards",
-      "eyebrow": "What We Cover",
-      "heading": "Our range of market research types",
-      "columns": 3,
+      "heading": "Our Range of Market Research in Vietnam",
+      "subtitle": "Market research encompasses various types tailored to specific business goals, from brand research to customer segmentation. Understanding these facets helps companies make informed decisions and stay competitive. Let's explore some of these research methods.",
+      "columns": 2,
       "items": [
-        { "title": "Brand Research", "desc": "Assesses brand awareness, loyalty, associations, and customer-brand relationships." },
-        { "title": "Marketing Campaign Evaluation", "desc": "Tracks metrics such as ad visibility and click-through rates to measure impact." },
-        { "title": "Competitor Research", "desc": "Analyzes competitors' strategies to reveal their strengths and weaknesses." },
-        { "title": "Customer Segmentation", "desc": "Creates distinct customer segments for customized, effective advertising." },
-        { "title": "Consumer Research", "desc": "Covers a range of study types tailored to your specific business goals." },
-        { "title": "Product Development", "desc": "Validates concepts and refines products based on real market feedback." },
-        { "title": "Usability Testing", "desc": "Focuses on product functionality and the overall user experience." }
+        {
+          "title": "Branch Research",
+          "desc": "Brand research aims to develop or enhance company's brand to leave a strong, positive impact on your target market. It involves assessing brand awareness, customer loyalty, brand associations, and overall customer-brand relationships.",
+          "icon": "gem"
+        },
+        {
+          "title": "Marketing Campaign Evaluation",
+          "desc": "Certain market research is geared towards assessing the effectiveness of marketing campaigns. It involves tracking metrics like online ad visibility and click-through rates. This data informs adjustments and guides future campaigns, ensuring efficient customer acquisition.",
+          "icon": "target"
+        },
+        {
+          "title": "Competitor Research",
+          "desc": "Competitor research provides insights for your company's strategic advantage. Analyzing competitors' marketing, brand, sales, and more reveals strengths and weaknesses to learn from.",
+          "icon": "eye"
+        },
+        {
+          "title": "Customer Segmentation Research",
+          "desc": "Segmenting customers create distinct identities or segments within your wider consumer base. Knowing the many customer segments you wish to reach will assist you in developing customized advertising for each one.",
+          "icon": "layers"
+        },
+        {
+          "title": "Consumer Research",
+          "desc": "Market research encompasses various types tailored to specific business goals, from brand research to customer segmentation. Understanding these facets helps companies make informed decisions and stay competitive.",
+          "icon": "users"
+        },
+        {
+          "title": "Product Development Research",
+          "desc": "Product development necessitates prior market research to validate the concept's value and continuous refinement over time. Monitoring sales trends and customer feedback can unveil shifting needs and inform product enhancements.",
+          "icon": "lightbulb"
+        },
+        {
+          "title": "Usability Testing",
+          "desc": "Usability testing, akin to product development research, centers on product functionality and user experience. For instance, launching a mobile app beta version allows user feedback for bug identification and issue resolution.",
+          "icon": "fileCheck"
+        }
       ]
     },
     {
-      "type": "list",
-      "eyebrow": "Methodologies",
-      "heading": "Primary research methods we use",
-      "subtitle": "Primary research collects fresh data directly, while secondary research draws on existing sources such as government census data, industry reports and trend statistics.",
+      "type": "cards",
+      "heading": "How to Conduct Market Research in Vietnam",
+      "subtitle": "Businesses employ diverse approaches to conduct market research. To start, distinguishing between primary and secondary research is vital for understanding data acquisition.",
       "columns": 2,
       "items": [
-        "Surveys — quick questionnaires across in-person, phone, mail and online formats",
-        "Focus Groups — smaller researcher-led sessions for in-depth consumer insights",
-        "Interviews — individual in-depth discussions offering specific insights",
-        "Observation — watching consumer behavior in natural settings such as retail",
-        "Field Trials — testing changes on a limited scale before broader rollout",
-        "Secondary Research — synthesizing census data, industry reports and trends"
+        {
+          "title": "Primary Research",
+          "desc": "Primary research entails data collection by a company or a designated expert for their market research. It includes exploratory research, which is open-ended, and research designed to address specific questions or issues.",
+          "icon": "chart"
+        },
+        {
+          "title": "Secondary Research",
+          "desc": "Secondary research relies on existing data readily available for market research. It includes sources like government census data, industry reports, and market trend statistics, offering valuable insights into the broader market and competitors.",
+          "icon": "book"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Methods of Primary Research in Vietnam",
+      "subtitle": "Numerous primary research methods are employed by companies to gain insights from consumers. Some of the most commonly used methods include:",
+      "columns": 2,
+      "items": [
+        {
+          "title": "Surveys",
+          "desc": "Quick-response questionnaires gather feedback through multiple-choice or open-ended queries, accessible in various formats like in-person, phone, mail, or online, ensuring efficient data collection from a diverse audience.",
+          "icon": "clipboard"
+        },
+        {
+          "title": "Focus Groups",
+          "desc": "Focus groups are smaller, led by a researcher to delve into consumer perspectives. Multiple groups are formed for comprehensive insights, with observation through one-way mirrors or recorded sessions.",
+          "icon": "users"
+        },
+        {
+          "title": "Interviews",
+          "desc": "Individual interviews, although more in-depth, lack the statistical reliability of larger surveys. However, they offer valuable insights from one customer, which can be beneficial for specific cases.",
+          "icon": "headset"
+        },
+        {
+          "title": "Observation",
+          "desc": "Market observation entails discreetly watching consumers in natural settings, like a retail store, to analyze their behaviors. Researchers may examine security footage to identify shopping patterns and interactions with in-store displays.",
+          "icon": "eye"
+        },
+        {
+          "title": "Field Trials",
+          "desc": "Field trials encompass implementing a business change on a limited scale and assessing outcomes. For instance, a restaurant chain may introduce a new menu item in a few locations to gauge its popularity before expanding it regionally.",
+          "icon": "target"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Market Research & Analysis with InCorp Vietnam",
+      "subtitle": "InCorp Vietnam offers tailored market research solutions in Vietnam, ensuring clients make informed decisions based on their unique needs. For quick, cost-effective solutions, InCorp Vietnam RapidSurvey is designed to streamline simple tactical choices.",
+      "columns": 2,
+      "items": [
+        {
+          "title": "RapidSurvey",
+          "desc": "Obtain quick and budget-friendly solutions for your tactical marketing decisions with our RapidSurvey. We specialize in providing the insights you need to make informed choices, helping you navigate the competitive landscape effectively.",
+          "icon": "rocket"
+        },
+        {
+          "title": "Experience Management",
+          "desc": "Enhance your business by focusing on employee, customer, and user experiences. By prioritizing these aspects, you can drive satisfaction, loyalty, and overall success.",
+          "icon": "sparkles"
+        },
+        {
+          "title": "Brand Consulting and Design",
+          "desc": "Apply design thinking-led consulting to shape your strategy and brand design, driving impactful bite-sized innovations that boost your brand's commercial success.",
+          "icon": "gem"
+        },
+        {
+          "title": "Marketing Planning",
+          "desc": "Marketing planning includes exploration, brand equity audits, and segmentation to guide strategic decisions, enhancing brand perception, and targeting audiences effectively.",
+          "icon": "clipboard"
+        },
+        {
+          "title": "Marketing Strategy",
+          "desc": "Customize target audience definition and strategic positioning, couple with SMART objectives, form the foundation of effective marketing strategies.",
+          "icon": "target"
+        },
+        {
+          "title": "Marketing Tactics",
+          "desc": "Innovation, concept development, product design, packaging, pricing strategy, advertising campaigns, and distribution channels are pivotal elements in driving business success.",
+          "icon": "lightbulb"
+        },
+        {
+          "title": "Client Insights",
+          "desc": "Understanding clients through ethnographic research, post-shopping interviews, and in-store analytics provides valuable insights into client's behavior and preferences.",
+          "icon": "eye"
+        },
+        {
+          "title": "Data Collection",
+          "desc": "Utilizing quantitative surveys, qualitative methods, online panels, quality control, and test facilities to gather comprehensive data for robust decision-making and product development.",
+          "icon": "chart"
+        }
       ]
     },
     {
       "type": "steps",
-      "eyebrow": "How We Work",
-      "heading": "Your path to success in Vietnam",
+      "heading": "Your Success Plan in Vietnam",
       "items": [
-        { "title": "Submit Your Information", "desc": "Share your company details and your market research needs." },
-        { "title": "Book a Consultation", "desc": "Meet with our bilingual consultants to scope your study." },
-        { "title": "Verify KYC Documents", "desc": "We complete the required due diligence and onboarding." },
-        { "title": "Choose a Plan & Succeed", "desc": "Select the right research plan and act on the insights you gain." }
+        {
+          "title": "Submit Your Information & Needs",
+          "desc": "Tell us about your company's needs and aspirations in Vietnam"
+        },
+        {
+          "title": "Book a Consultation With Our Experts",
+          "desc": "Go over your plan with one of our bilingual business Consultants"
+        },
+        {
+          "title": "Verify KYC Documents",
+          "desc": "Our consultants will contact you to process the necessary paperwork and create your company dossier"
+        },
+        {
+          "title": "Choose a Plan & Succeed In Vietnam",
+          "desc": "Let us simplify your business journey and make your mark in APAC’s fastest-growing economy"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "eyebrow": "Explore More",
+      "heading": "Other Services for Businesses in Vietnam",
+      "columns": 4,
+      "items": [
+        {
+          "title": "Legal Advisory",
+          "desc": "",
+          "href": "/legal-advisory",
+          "icon": "scale"
+        },
+        {
+          "title": "Accounting & Taxation",
+          "desc": "",
+          "href": "/accounting-taxation",
+          "icon": "calculator"
+        },
+        {
+          "title": "HR & Payroll",
+          "desc": "",
+          "href": "/hr-payroll-services",
+          "icon": "users"
+        },
+        {
+          "title": "Immigration",
+          "desc": "",
+          "href": "/immigration",
+          "icon": "plane"
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "variant": "red",
+      "heading": "Backed by InCorp Group",
+      "items": [
+        {
+          "value": "30+",
+          "label": "Years of experience"
+        },
+        {
+          "value": "1,500+",
+          "label": "Professionals across APAC"
+        },
+        {
+          "value": "20,000+",
+          "label": "Clients served globally"
+        },
+        {
+          "value": "8",
+          "label": "Markets in Asia-Pacific"
+        }
       ]
     },
     {
       "type": "cta",
-      "title": "Ready to truly know your audience?",
-      "subtitle": "Talk to our experts about tailored market research for Vietnam.",
-      "button": { "label": "Make an Inquiry", "href": "/make-an-inquiry" },
+      "title": "Ready to get started in Vietnam?",
+      "subtitle": "Talk to our experts about how we can support your business.",
+      "button": {
+        "label": "Make an Inquiry",
+        "href": "/make-an-inquiry"
+      },
       "variant": "red"
     }
   ],
-  "showContactForm": false
+  "showContactForm": true
 }

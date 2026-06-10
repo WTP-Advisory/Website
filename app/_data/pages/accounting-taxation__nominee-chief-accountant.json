@@ -1,62 +1,188 @@
 {
-  "title": "Nominee Chief Accountant",
-  "metaDescription": "Nominee chief accountant services in Vietnam — meet the mandatory requirement for non-micro-enterprises with a qualified professional handling tax compliance, financial reporting and audits.",
+  "title": "Nominee Chief Accountant Services in Vietnam",
+  "metaDescription": "A chief accountant is a required position in many companies to coordinate with authorities, open bank accounts, and approve financial documents.",
   "hero": {
-    "eyebrow": "Accounting & Taxation",
+    "eyebrow": "Services",
     "title": "Nominee Chief Accountant Services in Vietnam",
-    "subtitle": "Chief accountants are mandatory for non-micro-enterprises in Vietnam, handling tax compliance, financial reporting, audits and liaising with the tax authorities.",
-    "cta": { "label": "Make an Inquiry", "href": "/make-an-inquiry" }
+    "subtitle": "Chief accountants in Vietnam are mandatory for non-micro-enterprises, handling tax compliance, financial reporting, audits, and liaising with tax authorities. They require advanced qualifications and oversee critical financial responsibilities.",
+    "cta": {
+      "label": "Make an Inquiry",
+      "href": "/make-an-inquiry"
+    },
+    "image": "/incorp/solutions/accounting-finance.jpg"
   },
   "sections": [
     {
-      "type": "richText",
-      "eyebrow": "Overview",
-      "heading": "Meet Vietnam's chief accountant requirement",
-      "align": "left",
-      "body": [
-        "Vietnamese law requires non-micro-enterprises to appoint a qualified chief accountant to oversee critical financial responsibilities and ensure regulatory adherence.",
-        "InCorp Vietnam provides a nominee chief accountant so you can satisfy this requirement immediately — without the cost and complexity of recruiting a full-time hire."
-      ]
-    },
-    {
       "type": "cards",
-      "eyebrow": "What's included",
-      "heading": "Our nominee chief accountant service",
-      "columns": 2,
+      "heading": "Benefits of Nominee Chief Accountant Services",
+      "columns": 4,
       "items": [
-        { "title": "Chief accountant dossier", "desc": "We coordinate with your team, state authorities and banks to assign a chief accountant and establish business bank accounts." },
-        { "title": "Ongoing representation", "desc": "Signing accounting reports, financial statements, tax filings and Power of Attorney documentation as required." }
+        {
+          "title": "Safeguards for Minimizing Legal Risks and Fines",
+          "desc": "Ensure adherence to financial compliance, reduce legal risks",
+          "icon": "shield"
+        },
+        {
+          "title": "Valuable Advices from Professional Experts",
+          "desc": "Advice informs decisions, enhances resource management effectively",
+          "icon": "headset"
+        },
+        {
+          "title": "Strategic Tax Optimization and Legal Compliance",
+          "desc": "Optimize tax strategies minimizes liabilities, ensures law compliance",
+          "icon": "fileCheck"
+        },
+        {
+          "title": "Accurate Reports Aid Informed Decisions",
+          "desc": "Oversee reports aids decisions, reveals financial health accurately",
+          "icon": "chart"
+        }
       ]
     },
     {
       "type": "list",
-      "eyebrow": "Why InCorp",
-      "heading": "Key benefits",
+      "heading": "Required Qualifications of a Chief Accountant in Vietnam",
       "columns": 1,
       "items": [
-        "Minimizes legal risks and compliance fines",
-        "Provides expert professional guidance",
-        "Enables strategic tax optimization within the law",
-        "Ensures accurate financial reporting for informed decision-making"
+        "Bachelor's degree in Accountancy",
+        "Minimum of 2 years accounting experience",
+        "Training for a Certificate of Chief Accountant",
+        "Proficiency in relevant knowledge, skills, and ethics",
+        "Compliance with government standards for the accounting unit"
+      ]
+    },
+    {
+      "type": "richText",
+      "body": [
+        "*Certain individuals, including those judicially banned from accounting roles and close relatives of the legal representative and director of accounting (except in private enterprises), are ineligible."
+      ],
+      "align": "center"
+    },
+    {
+      "type": "cards",
+      "heading": "Nominee Chief Accountant Service with InCorp Vietnam",
+      "columns": 2,
+      "items": [
+        {
+          "title": "Creating Nominee Chief Accountant Dossier",
+          "desc": "InCorp Vietnam facilitates Chief Accountant assignment and bank account opening by coordinating with clients, state authorities, and banks, streamlining the process for a seamless experience. We work with your business and State authorities to assign the Chief Accountant, and with the bank for company bank account opening — including any necessary visits, signatures, and gathering of personal information.",
+          "icon": "calculator"
+        },
+        {
+          "title": "Ongoing Representation",
+          "desc": "InCorp Vietnam handles document signing, including accounting, financial, and tax reports, as well as Power of Attorney (POA) documentation to authorize and reassign necessary authority and rights efficiently. This covers signing required documents such as accounting reports, financial reports, tax reports, and tax payment declarations, plus signing POA to re-assign authority and rights to the required person.",
+          "icon": "badge"
+        }
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "Your Success Plan in Vietnam",
+      "items": [
+        {
+          "title": "Submit Your Information & Needs",
+          "desc": "Tell us about your company's needs and aspirations in Vietnam"
+        },
+        {
+          "title": "Book a Consultation With Our Experts",
+          "desc": "Go over your plan with one of our bilingual business Consultants"
+        },
+        {
+          "title": "Verify KYC Documents",
+          "desc": "Our consultants will contact you to process the necessary paperwork and create your company dossier"
+        },
+        {
+          "title": "Choose a Plan & Succeed In Vietnam",
+          "desc": "Let us simplify your business journey and make your mark in APAC's fastest-growing economy"
+        }
       ]
     },
     {
       "type": "faq",
-      "eyebrow": "FAQs",
-      "heading": "Frequently asked questions",
+      "heading": "Frequently Asked Questions on Nominee Chief Accountant Services",
       "items": [
-        { "q": "How much does the service cost?", "a": "Cost depends on your business requirements, including the types and frequency of reports involved. We tailor a quote to your needs." },
-        { "q": "Is this suitable for my company size?", "a": "Yes. The service works for large, medium and small enterprises that fall outside the micro-enterprise threshold." },
-        { "q": "How do I get started?", "a": "Submit an inquiry with your company details and we will prepare a customized solution for you." }
+        {
+          "q": "How do I start outsourcing accounting tasks for my business in Vietnam?",
+          "a": "You can fill in the inquiry form below and one of our accounting experts will get back to you as soon as possible. To speed up the process, please also state your company's features and requirements so we can tailor the most suitable solution for you."
+        },
+        {
+          "q": "How much does InCorp Vietnam's accounting outsourcing service cost?",
+          "a": "The cost depends on your business requirements, e.g., the kinds of reports to be prepared and filed, whether you need reports on a daily, weekly, or monthly basis, etc."
+        },
+        {
+          "q": "What are the benefits of accounting outsourcing in Vietnam?",
+          "a": "Benefits of accounting outsourcing include cost reduction (with no need to build an internal team), constant compliance (even with Vietnam's changing regulations), and the ability to keep your core business focus (as accounting is not a revenue-generating task)."
+        },
+        {
+          "q": "Is accounting outsourcing suitable for all businesses?",
+          "a": "Yes, accounting outsourcing is suitable for large, medium and small businesses. At InCorp Vietnam, we work with a range of businesses to provide the ideal accounting solution for them."
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Other Services for Businesses in Vietnam",
+      "columns": 4,
+      "items": [
+        {
+          "title": "Incorporation",
+          "desc": "Gain a presence in the Vietnamese market through our incorporation services.",
+          "href": "/incorporation",
+          "icon": "rocket"
+        },
+        {
+          "title": "Legal Advisory",
+          "desc": "Obtain all the necessary licenses and sublicenses for doing business in Vietnam.",
+          "href": "/legal-advisory",
+          "icon": "scale"
+        },
+        {
+          "title": "HR & Payroll",
+          "desc": "Comprehensive outsourcing services for recruitment, payroll, insurance, and taxes.",
+          "href": "/hr-payroll-services",
+          "icon": "users"
+        },
+        {
+          "title": "Immigration",
+          "desc": "Navigate visa requirements and obtain work permits, investor, and business visa.",
+          "href": "/immigration",
+          "icon": "globe"
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "variant": "red",
+      "heading": "Backed by InCorp Group",
+      "items": [
+        {
+          "value": "30+",
+          "label": "Years of experience"
+        },
+        {
+          "value": "1,500+",
+          "label": "Professionals across APAC"
+        },
+        {
+          "value": "20,000+",
+          "label": "Clients served globally"
+        },
+        {
+          "value": "8",
+          "label": "Markets in Asia-Pacific"
+        }
       ]
     },
     {
       "type": "cta",
-      "title": "Stay compliant with a nominee chief accountant",
-      "subtitle": "Satisfy Vietnam's statutory requirement with a qualified professional on your side.",
-      "button": { "label": "Make an Inquiry", "href": "/make-an-inquiry" },
+      "title": "Ready to get started in Vietnam?",
+      "subtitle": "Talk to our experts about how we can support your business.",
+      "button": {
+        "label": "Make an Inquiry",
+        "href": "/make-an-inquiry"
+      },
       "variant": "red"
     }
   ],
-  "showContactForm": false
+  "showContactForm": true
 }

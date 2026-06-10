@@ -1,66 +1,248 @@
 {
   "title": "Recruitment & Staffing Services in Vietnam",
-  "metaDescription": "Recruitment and staffing services in Vietnam — executive search, flexible staffing and full HR support to help you scale with the right people at the right time.",
+  "metaDescription": "InCorp Vietnam's Recruitment & Staffing services help companies build strong teams through two focused solutions: Executive Search and Mass Recruitment",
   "hero": {
-    "eyebrow": "Recruitment & Staffing",
+    "eyebrow": "Services",
     "title": "Recruitment & Staffing Services in Vietnam",
-    "subtitle": "Scale your business with the right people at the right time, through solutions tailored to Vietnam's talent market.",
-    "cta": { "label": "Make an Inquiry", "href": "/make-an-inquiry" }
+    "subtitle": "Scale your business with the right people at the right time through tailored to Vietnam's talent market. From leadership hiring to high volume workforce expansion, InCorp Vietnam helps businesses identify, attract and secure the talent they need to grow efficiently in Vietnam.",
+    "cta": {
+      "label": "Make an Inquiry",
+      "href": "/make-an-inquiry"
+    },
+    "image": "/incorp/solutions/hr-payroll.jpg"
   },
   "sections": [
     {
       "type": "cards",
-      "eyebrow": "Our Services",
-      "heading": "Find and onboard the right talent",
+      "eyebrow": "Benefits",
+      "heading": "Benefits to expect from our Recruitment & Staffing services",
+      "subtitle": "Vietnam's labor market is evolving quickly. Companies today face growing pressure to hire faster, compete for quality talent and build teams that can support expansion",
       "columns": 3,
       "items": [
-        { "title": "Executive Search", "desc": "Discreet, focused hiring for senior leadership and specialised professionals." },
-        { "title": "Staffing Services", "desc": "Flexible temporary, project-based and full-time placements." },
-        { "title": "Comprehensive Support", "desc": "Labor contracts, payroll, social insurance reporting and payslip administration." }
+        {
+          "title": "Specialized Hiring Support",
+          "desc": "From senior leadership to high volume operational roles",
+          "icon": "headset"
+        },
+        {
+          "title": "Faster Access To Qualified Talent",
+          "desc": "Leverage targeted sourcing and local market networks",
+          "icon": "users"
+        },
+        {
+          "title": "Better Hiring Accuracy",
+          "desc": "Shortlists built around skills, experience and business fit",
+          "icon": "fileCheck"
+        },
+        {
+          "title": "Scalable Workforce Solutions",
+          "desc": "Support for both strategic hires and rapid team expansion",
+          "icon": "trending"
+        },
+        {
+          "title": "Reduced Hiring Pressure",
+          "desc": "A trusted partner to manage sourcing, screening, and coordination",
+          "icon": "handshake"
+        },
+        {
+          "title": "Market Insight That Improves Decisions",
+          "desc": "Guidance on talent availability, hiring challenges and candidate expectations",
+          "icon": "lightbulb"
+        }
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "How We Support Your Hiring Needs in Vietnam",
+      "align": "center",
+      "body": [
+        "InCorp Vietnam's Recruitment & Staffing team supports businesses with practical hiring solutions aligned with business goals, role requirements and market realities. We combine market understanding, targeted search and structured screening to help companies reduce hiring risk and improve talent outcomes."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Executive Search",
+      "align": "left",
+      "body": [
+        "For companies hiring senior leaders, functional heads and highly specialized professionals. We identify candidates who bring the right leadership capability, technical expertise, and long term fit."
       ]
     },
     {
       "type": "list",
-      "eyebrow": "Why InCorp Vietnam",
-      "heading": "Why partner with us",
-      "columns": 2,
+      "columns": 1,
       "items": [
-        "Business-focused recruitment aligned with your growth objectives.",
-        "Deep knowledge of Vietnam's labor market dynamics.",
-        "Adaptable models for executive and large-scale hiring.",
-        "Integration with our broader HR, payroll and compliance services."
+        "C suite and senior leadership hiring",
+        "Department heads and country management roles",
+        "Specialized roles requiring niche market knowledge",
+        "Confidential replacement and succession hiring",
+        "Candidate assessment and shortlist development",
+        "Support through offer stage and hiring coordination"
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Staffing Services",
+      "align": "left",
+      "body": [
+        "For companies that require flexible workforce solutions across temporary, project-based, and full-time positions. We manage candidate sourcing, screening, interview coordination, and preparation and administration of labor contracts in legal compliance, along with payroll processing, including salary calculation, statutory deductions, PIT handling, social insurance reporting, and monthly payslip issuance, ensuring accuracy, confidentiality and timely delivery."
+      ]
+    },
+    {
+      "type": "list",
+      "columns": 1,
+      "items": [
+        "Temporary, project-based, and contract staffing",
+        "Rapid workforce deployment for operational needs",
+        "Candidate sourcing, screening and interview coordination",
+        "Preparation and administration of labor contracts in legal compliance",
+        "Payroll processing including salary calculation, statutory deductions, PIT and social insurance reporting",
+        "Payslip issuance and workforce administration support"
       ]
     },
     {
       "type": "steps",
-      "eyebrow": "Our Process",
-      "heading": "How our recruitment process works",
+      "heading": "Our Recruitment Approach",
       "items": [
-        { "title": "Understand your needs", "desc": "We align with your hiring goals and business objectives." },
-        { "title": "Develop a search strategy", "desc": "We design a targeted approach for the role." },
-        { "title": "Source & screen", "desc": "We source and screen candidates through specialised channels." },
-        { "title": "Coordinate interviews", "desc": "We arrange interviews and gather candidate feedback." },
-        { "title": "Close the hire", "desc": "We support the offer stage through to a successful hire." }
+        {
+          "title": "Understand Your Hiring Needs",
+          "desc": "We align on business goals, role scope, hiring urgency, and candidate requirements.",
+          "icon": "target"
+        },
+        {
+          "title": "Build the Right Search Strategy",
+          "desc": "We define the sourcing plan, candidate profile, and recruitment timeline based on your market and hiring goals.",
+          "icon": "clipboard"
+        },
+        {
+          "title": "Source and Screen Candidates",
+          "desc": "We identify suitable candidates through targeted channels and conduct structured screening before shortlist submission.",
+          "icon": "users"
+        },
+        {
+          "title": "Coordinate Interviews & Selection",
+          "desc": "We support the interview process, candidate communication, and feedback alignment.",
+          "icon": "handshake"
+        },
+        {
+          "title": "Support Offer & Hiring Closure",
+          "desc": "We help clients move from selection to offer stage with better speed and candidate experience.",
+          "icon": "badge"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Why businesses choose InCorp Vietnam for Recruitment & Staffing Services",
+      "columns": 4,
+      "items": [
+        {
+          "title": "Business minded hiring support",
+          "desc": "We understand that recruitment is not only an HR activity. It is a business priority tied to growth, continuity and performance",
+          "icon": "briefcase"
+        },
+        {
+          "title": "Local Market Understanding",
+          "desc": "Our team brings practical knowledge of Vietnam's talent market, hiring dynamics and workforce challenges across industries",
+          "icon": "globe"
+        },
+        {
+          "title": "Flexible Support Model",
+          "desc": "We support both strategic executive hiring and large scale recruitment needs, depending on where your business is in its growth journey",
+          "icon": "layers"
+        },
+        {
+          "title": "Broader Business Services Platform",
+          "desc": "As part of InCorp Vietnam's wider capabilities, our recruitment support can work alongside payroll, HR, employer of record, immigration and compliance solutions",
+          "icon": "network"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "heading": "Who We Support",
+      "subtitle": "We support a wide range of businesses, including:",
+      "columns": 1,
+      "items": [
+        "Foreign invested companies entering or expanding in Vietnam",
+        "Companies building leadership teams in new markets",
+        "Manufacturers and operators scaling workforce capacity",
+        "Service businesses with urgent or high volume hiring needs",
+        "Businesses seeking a more reliable hiring partner in Vietnam"
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Meet Our Expert",
+      "align": "left",
+      "body": [
+        "Ken Nguyen — Head of Recruitment & Staffing",
+        "With over 15 years of experience in HR solutions, talent acquisition and workforce outsourcing across multinational and regional organizations, Ken leads the development of InCorp Vietnam's Recruitment & Staffing services – helping foreign-invested enterprises and growing businesses access qualified talent and scale their workforce efficiently."
       ]
     },
     {
       "type": "faq",
-      "eyebrow": "FAQs",
-      "heading": "Frequently asked questions",
+      "eyebrow": "FAQ",
+      "heading": "Frequently Asked Questions",
       "items": [
-        { "q": "What is the difference between executive search and mass recruitment?", "a": "Executive search is a discreet, focused process for senior and specialised roles, while staffing and mass recruitment provide flexible volume hiring for temporary, project-based or full-time needs." },
-        { "q": "Do you support foreign companies entering Vietnam?", "a": "Yes. We help new market entrants build their teams and integrate recruitment with HR, payroll and compliance support." },
-        { "q": "Which industries do you cover?", "a": "We recruit across a broad range of sectors, matching specialised talent to each industry's requirements." },
-        { "q": "How long does recruitment take?", "a": "Timelines depend on the complexity and seniority of the role; we set clear expectations at the start of each search." }
+        {
+          "q": "What is the difference between Executive Search and Mass Recruitment?",
+          "a": "Executive Search focuses on senior, strategic, or highly specialized roles where a targeted search process is needed. Mass Recruitment focuses on hiring larger volumes of employees efficiently for operational or expansion needs."
+        },
+        {
+          "q": "Can you support foreign companies hiring in Vietnam?",
+          "a": "Yes. We support foreign invested companies and international businesses that need local hiring support, market insight, and practical recruitment coordination in Vietnam."
+        },
+        {
+          "q": "What industries do you support?",
+          "a": "We support hiring across a wide range of sectors depending on role type, business model and workforce needs."
+        },
+        {
+          "q": "Can you help us hire both leadership and operational teams?",
+          "a": "Yes. Our Recruitment & Staffing practice is designed to support both senior level hiring and broader workforce expansion."
+        },
+        {
+          "q": "How long does a recruitment project take?",
+          "a": "Timelines depend on the role, hiring volume, market conditions, and urgency. We align the hiring plan with your business timeline and talent requirements."
+        },
+        {
+          "q": "Can your team support hiring during market entry or business expansion?",
+          "a": "Yes. We support recruitment for market entry, new site launches, team build outs and growth stage hiring in Vietnam."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "variant": "red",
+      "heading": "Backed by InCorp Group",
+      "items": [
+        {
+          "value": "30+",
+          "label": "Years of experience"
+        },
+        {
+          "value": "1,500+",
+          "label": "Professionals across APAC"
+        },
+        {
+          "value": "20,000+",
+          "label": "Clients served globally"
+        },
+        {
+          "value": "8",
+          "label": "Markets in Asia-Pacific"
+        }
       ]
     },
     {
       "type": "cta",
-      "title": "Build your team in Vietnam",
-      "subtitle": "Talk to our recruitment experts about your next hire.",
-      "button": { "label": "Make an Inquiry", "href": "/make-an-inquiry" },
+      "title": "Ready to get started in Vietnam?",
+      "subtitle": "Talk to our experts about how we can support your business.",
+      "button": {
+        "label": "Make an Inquiry",
+        "href": "/make-an-inquiry"
+      },
       "variant": "red"
     }
   ],
-  "showContactForm": false
+  "showContactForm": true
 }

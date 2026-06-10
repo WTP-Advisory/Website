@@ -1,8 +1,87 @@
 import Link from "next/link";
-import { Check, Mail, Search } from "lucide-react";
+import {
+  Check,
+  ChevronDown,
+  Mail,
+  Search,
+  Users,
+  UserRound,
+  Rocket,
+  Globe,
+  FileText,
+  ClipboardList,
+  ShieldCheck,
+  Clock,
+  BadgeCheck,
+  TrendingUp,
+  Scale,
+  Calculator,
+  Landmark,
+  Building2,
+  Briefcase,
+  Receipt,
+  Eye,
+  Award,
+  Banknote,
+  HandCoins,
+  Plane,
+  Headset,
+  Handshake,
+  Wallet,
+  LineChart,
+  Network,
+  Lightbulb,
+  Gem,
+  Sparkles,
+  Target,
+  BookOpen,
+  FileCheck,
+  Percent,
+  UserCheck,
+  Layers,
+  type LucideIcon,
+} from "lucide-react";
 import { Container } from "../ui/Container";
 import { ServiceCards, type ServiceItem } from "../ServiceCards";
 import { JobBoard } from "./JobBoard";
+
+const CARD_ICONS: Record<string, LucideIcon> = {
+  users: Users,
+  user: UserRound,
+  userCheck: UserCheck,
+  rocket: Rocket,
+  globe: Globe,
+  file: FileText,
+  clipboard: ClipboardList,
+  shield: ShieldCheck,
+  clock: Clock,
+  badge: BadgeCheck,
+  trending: TrendingUp,
+  scale: Scale,
+  calculator: Calculator,
+  landmark: Landmark,
+  building: Building2,
+  briefcase: Briefcase,
+  receipt: Receipt,
+  eye: Eye,
+  award: Award,
+  banknote: Banknote,
+  coins: HandCoins,
+  plane: Plane,
+  headset: Headset,
+  handshake: Handshake,
+  wallet: Wallet,
+  chart: LineChart,
+  network: Network,
+  lightbulb: Lightbulb,
+  gem: Gem,
+  sparkles: Sparkles,
+  target: Target,
+  book: BookOpen,
+  fileCheck: FileCheck,
+  percent: Percent,
+  layers: Layers,
+};
 
 function LinkedinIcon({ className }: { className?: string }) {
   return (
@@ -88,7 +167,7 @@ export type Section =
       subtitle?: string;
       items: StepItem[];
     }
-  | { type: "stats"; eyebrow?: string; heading?: string; items: StatItem[] }
+  | { type: "stats"; eyebrow?: string; heading?: string; items: StatItem[]; variant?: "red" }
   | {
       type: "imageText";
       eyebrow?: string;
@@ -154,6 +233,14 @@ export type Section =
       items: ServiceItem[];
     }
   | {
+      type: "table";
+      eyebrow?: string;
+      heading?: string;
+      subtitle?: string;
+      columns: string[];
+      rows: TableRow[];
+    }
+  | {
       type: "cta";
       title: string;
       subtitle?: string;
@@ -161,8 +248,9 @@ export type Section =
       variant?: "blue" | "red";
     };
 
-type CardItem = { title: string; desc?: string; href?: string; image?: string };
-type StepItem = { title: string; desc?: string };
+type CardItem = { title: string; desc?: string; href?: string; image?: string; icon?: string };
+type TableRow = { label: string; cells: (string | boolean)[] };
+type StepItem = { title: string; desc?: string; icon?: string };
 type StatItem = { value: string; label: string };
 type FaqItem = { q: string; a: string };
 type TeamMember = {
@@ -280,6 +368,7 @@ export function SectionRenderer({
             />
             <div className={`mt-10 grid grid-cols-1 gap-6 ${gridCols}`}>
               {section.items.map((item, i) => {
+                const Icon = item.icon ? CARD_ICONS[item.icon] : undefined;
                 const inner = (
                   <>
                     {item.image && (
@@ -290,6 +379,11 @@ export function SectionRenderer({
                         className="mb-4 aspect-[3/2] w-full rounded-md object-cover"
                         loading="lazy"
                       />
+                    )}
+                    {Icon && !item.image && (
+                      <span className="mb-4 flex h-12 w-12 items-center justify-center rounded-full bg-brand-50 text-brand-600">
+                        <Icon className="h-6 w-6" />
+                      </span>
                     )}
                     <h3 className="text-lg font-bold text-ink group-hover:text-brand-600">
                       {item.title}
@@ -322,6 +416,72 @@ export function SectionRenderer({
       );
     }
 
+    case "table":
+      return (
+        <section className={`${band} py-12 lg:py-16`}>
+          <Container>
+            <Heading
+              eyebrow={section.eyebrow}
+              heading={section.heading}
+              subtitle={section.subtitle}
+            />
+            <div className="mt-10 overflow-x-auto">
+              <div className="inline-block min-w-full overflow-hidden rounded-2xl border border-stone-200 shadow-sm">
+                <table className="w-full min-w-[720px] border-collapse text-sm">
+                  <thead>
+                    <tr>
+                      <th className="bg-surface-2 p-4" />
+                      {section.columns.map((col, i) => (
+                        <th
+                          key={i}
+                          className="border-l border-white/15 bg-brand-600 p-4 text-center align-middle text-[13px] font-semibold leading-snug text-white"
+                        >
+                          {col}
+                        </th>
+                      ))}
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {section.rows.map((row, r) => (
+                      <tr
+                        key={r}
+                        className="border-t border-stone-100 transition-colors hover:bg-brand-50/50"
+                      >
+                        <th
+                          className={`p-4 text-left align-middle font-semibold text-ink ${
+                            r % 2 === 1 ? "bg-surface-2" : "bg-surface-3"
+                          }`}
+                        >
+                          {row.label}
+                        </th>
+                        {row.cells.map((cell, c) => (
+                          <td
+                            key={c}
+                            className={`border-l border-stone-100 p-4 text-center align-middle text-ink-soft ${
+                              r % 2 === 1 ? "bg-surface-2/60" : "bg-white"
+                            }`}
+                          >
+                            {cell === true ? (
+                              <span className="mx-auto flex h-7 w-7 items-center justify-center rounded-full bg-brand-50">
+                                <Check className="h-4 w-4 text-brand-600" />
+                              </span>
+                            ) : cell === false || cell === "" ? (
+                              <span className="text-stone-300">—</span>
+                            ) : (
+                              <span className="leading-snug">{cell}</span>
+                            )}
+                          </td>
+                        ))}
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
+            </div>
+          </Container>
+        </section>
+      );
+
     case "list": {
       const cols = section.columns ?? 2;
       const gridCols =
@@ -351,7 +511,11 @@ export function SectionRenderer({
       );
     }
 
-    case "steps":
+    case "steps": {
+      const cols =
+        section.items.length === 3
+          ? "sm:grid-cols-3"
+          : "sm:grid-cols-2 lg:grid-cols-4";
       return (
         <section className={`${band} py-12 lg:py-16`}>
           <Container>
@@ -360,44 +524,94 @@ export function SectionRenderer({
               heading={section.heading}
               subtitle={section.subtitle}
             />
-            <div className="mt-10 grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-4">
-              {section.items.map((item, i) => (
-                <div
-                  key={i}
-                  className="rounded-lg border border-stone-200 bg-white p-6"
-                >
-                  <span className="flex h-10 w-10 items-center justify-center rounded-full bg-brand-600 font-bold text-white">
-                    {i + 1}
-                  </span>
-                  <h3 className="mt-4 font-bold text-ink">{item.title}</h3>
-                  {item.desc && (
-                    <p className="mt-2 text-sm text-ink-soft">{item.desc}</p>
-                  )}
-                </div>
-              ))}
+            <div className={`mt-12 grid grid-cols-1 gap-x-6 gap-y-10 ${cols}`}>
+              {section.items.map((item, i) => {
+                const Icon = item.icon ? CARD_ICONS[item.icon] : undefined;
+                const isLast = i === section.items.length - 1;
+                return (
+                  <div
+                    key={i}
+                    className="relative flex flex-col items-center text-center"
+                  >
+                    {!isLast && (
+                      <span
+                        aria-hidden="true"
+                        className="absolute left-[calc(50%+2.5rem)] top-8 hidden h-px w-[calc(100%-5rem)] border-t-2 border-dashed border-brand-200 lg:block"
+                      />
+                    )}
+                    <span className="relative z-10 flex h-16 w-16 items-center justify-center rounded-full border-2 border-brand-100 bg-brand-50 text-brand-600">
+                      {Icon ? (
+                        <Icon className="h-7 w-7" />
+                      ) : (
+                        <span className="text-xl font-bold">{i + 1}</span>
+                      )}
+                    </span>
+                    <h3 className="mt-5 font-bold text-ink">{item.title}</h3>
+                    {item.desc && (
+                      <p className="mt-2 text-sm leading-relaxed text-ink-soft">
+                        {item.desc}
+                      </p>
+                    )}
+                  </div>
+                );
+              })}
             </div>
           </Container>
         </section>
       );
+    }
 
-    case "stats":
+    case "stats": {
+      const red = section.variant === "red";
       return (
-        <section className={`${band} py-12 lg:py-16`}>
+        <section className={`${red ? "bg-brand-600" : band} py-12 lg:py-16`}>
           <Container>
-            <Heading eyebrow={section.eyebrow} heading={section.heading} />
+            {(section.eyebrow || section.heading) && (
+              <div className="mx-auto max-w-3xl text-center">
+                {section.eyebrow && (
+                  <p
+                    className={`text-sm font-semibold uppercase tracking-wide ${
+                      red ? "text-white/80" : "text-brand-600"
+                    }`}
+                  >
+                    {section.eyebrow}
+                  </p>
+                )}
+                {section.heading && (
+                  <h2
+                    className={`mt-2 text-2xl font-bold lg:text-[34px] ${
+                      red ? "text-white" : "text-ink"
+                    }`}
+                  >
+                    {section.heading}
+                  </h2>
+                )}
+              </div>
+            )}
             <div className="mt-10 grid grid-cols-2 gap-8 lg:grid-cols-4">
               {section.items.map((item, i) => (
                 <div key={i} className="text-center">
-                  <p className="text-3xl font-bold text-brand-600 lg:text-4xl">
+                  <p
+                    className={`text-3xl font-bold lg:text-4xl ${
+                      red ? "text-white" : "text-brand-600"
+                    }`}
+                  >
                     {item.value}
                   </p>
-                  <p className="mt-1 text-sm text-ink-soft">{item.label}</p>
+                  <p
+                    className={`mt-1 text-sm ${
+                      red ? "text-white/85" : "text-ink-soft"
+                    }`}
+                  >
+                    {item.label}
+                  </p>
                 </div>
               ))}
             </div>
           </Container>
         </section>
       );
+    }
 
     case "imageText": {
       const right = section.imageSide !== "left";
@@ -439,16 +653,17 @@ export function SectionRenderer({
         <section className={`${band} py-12 lg:py-16`}>
           <Container className="max-w-3xl">
             <Heading eyebrow={section.eyebrow} heading={section.heading} />
-            <div className="mt-8 divide-y divide-stone-200 border-y border-stone-200">
+            <div className="mt-8 space-y-3">
               {section.items.map((item, i) => (
-                <details key={i} className="group py-4">
-                  <summary className="flex cursor-pointer list-none items-center justify-between font-medium text-ink">
+                <details
+                  key={i}
+                  className="group border-b border-brand-100 pb-3 pt-1"
+                >
+                  <summary className="flex cursor-pointer list-none items-center justify-between gap-4 py-2 font-semibold text-ink">
                     {item.q}
-                    <span className="ml-4 text-brand-600 transition-transform group-open:rotate-45">
-                      +
-                    </span>
+                    <ChevronDown className="h-5 w-5 shrink-0 text-brand-600 transition-transform group-open:rotate-180" />
                   </summary>
-                  <p className="mt-3 text-sm leading-relaxed text-ink-soft">
+                  <p className="pb-2 text-sm leading-relaxed text-ink-soft">
                     {item.a}
                   </p>
                 </details>

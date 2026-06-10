@@ -1,69 +1,46 @@
 {
-  "title": "Offshore Incorporation",
-  "metaDescription": "Offshore incorporation with InCorp — expand globally, optimize taxes and protect assets across an established Asia-Pacific network.",
+  "title": "Offshore Incorporation with InCorp Vietnam",
+  "metaDescription": "Offshore incorporation enables businesses to expand globally, optimize taxes, and protect assets. InCorp Vietnam offers tailored solutions to meet diverse business needs.",
   "hero": {
     "eyebrow": "Incorporation",
-    "title": "Offshore Incorporation with InCorp Vietnam",
-    "subtitle": "Offshore incorporation enables businesses to expand globally, optimize taxes and protect assets.",
-    "cta": { "label": "Make an Inquiry", "href": "/make-an-inquiry" }
+    "title": "Offshore InCorporation with InCorp Vietnam",
+    "subtitle": "Offshore incorporation enables businesses to expand globally, optimize taxes, and protect assets. InCorp Vietnam offers tailored solutions to meet diverse business needs.",
+    "cta": {
+      "label": "Talk to Our Experts",
+      "href": "/make-an-inquiry"
+    },
+    "image": "/incorp/solutions/incorporation.webp"
   },
   "sections": [
     {
       "type": "richText",
-      "eyebrow": "Overview",
-      "heading": "Structure your business for global growth",
+      "heading": "Benefits of setting up your offshore business",
       "body": [
-        "Offshore incorporation with InCorp Vietnam covers establishing entities in international jurisdictions, navigating complex legal and regulatory frameworks, and managing corporate structures for global expansion, asset protection and tax optimization.",
-        "Every engagement is supported across legal, HR, taxation and accounting, so your offshore structure is set up correctly and stays compliant."
+        "Offshore incorporation is a strategic approach that allows businesses to expand their global footprint, optimize tax efficiency, and safeguard assets in a rapidly evolving economic landscape. At InCorp Vietnam, we provide comprehensive offshore incorporation solutions tailored to meet the diverse needs of businesses across industries.",
+        "With over 30 years of regional expertise and a deep understanding of international corporate structures, InCorp Vietnam has established itself as a trusted partner for businesses looking to leverage the benefits of offshore jurisdictions. Our team of seasoned professionals ensures seamless navigation through complex legal, regulatory, and financial frameworks, enabling clients to establish and manage their offshore entities with ease and compliance."
       ]
     },
     {
-      "type": "list",
-      "eyebrow": "Benefits",
-      "heading": "Why incorporate offshore with us",
-      "columns": 2,
+      "type": "cards",
+      "heading": "Benefits you can expect when using our Incorporation Service",
+      "columns": 4,
       "items": [
-        "Up to 100% foreign-owned entity with complete business control and minimal risk exposure",
-        "One-stop solution incorporating legal consultation, HR, taxation and accounting",
-        "Complete transparency — pay only for the services you need, when you need them",
-        "International prestige through InCorp Group's presence across Asia-Pacific"
-      ]
-    },
-    {
-      "type": "list",
-      "eyebrow": "Reach",
-      "heading": "Where we operate",
-      "columns": 3,
-      "items": [
-        "Singapore",
-        "Australia",
-        "Hong Kong",
-        "India",
-        "Indonesia",
-        "Malaysia",
-        "Philippines",
-        "Vietnam",
-        "Mainland China"
+        { "title": "Up to 100% foreign owned entity", "icon": "rocket" },
+        { "title": "One-stop market entry solution", "icon": "network" },
+        { "title": "Complete Transparency", "icon": "fileCheck", "desc": "Only pay for the services you need." },
+        { "title": "International Prestige", "icon": "globe", "desc": "As part of InCorp Group." }
       ]
     },
     {
       "type": "stats",
-      "eyebrow": "Track record",
-      "heading": "A partner you can trust",
+      "heading": "Your Experts in Company Incorporation",
       "items": [
-        { "value": "30+", "label": "Years of regional expertise" },
-        { "value": "100+", "label": "Companies incorporated annually" },
-        { "value": "15,000+", "label": "Clients served globally" },
-        { "value": "1,500+", "label": "Professionals on staff" }
+        { "value": "30+", "label": "Years Track Record" },
+        { "value": "15,000+", "label": "Clients Worldwide" },
+        { "value": "100+", "label": "Companies Incorporated Yearly" },
+        { "value": "1,500+", "label": "Professionals" }
       ]
-    },
-    {
-      "type": "cta",
-      "title": "Take your business global",
-      "subtitle": "Let our experts navigate offshore structuring, tax optimization and asset protection for you.",
-      "button": { "label": "Make an Inquiry", "href": "/make-an-inquiry" },
-      "variant": "red"
     }
   ],
-  "showContactForm": false
+  "showContactForm": true
 }

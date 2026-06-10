@@ -45,13 +45,13 @@ export function ServiceCards({ items }: { items: ServiceItem[] }) {
           >
             <Link
               href={item.href}
-              className="group relative block overflow-hidden rounded-lg shadow-sm"
+              className="group relative block overflow-hidden shadow-sm"
             >
               {/* eslint-disable-next-line @next/next/no-img-element */}
               <img
                 src={item.image}
                 alt={item.alt ?? item.title}
-                className="aspect-[4/3] w-full object-cover transition-transform duration-500 group-hover:scale-105"
+                className="aspect-[4/3] rounded-none w-full object-cover transition-transform duration-500 group-hover:scale-105"
                 loading="lazy"
               />
               <span className="absolute inset-x-0 bottom-0 bg-brand-600 px-5 py-3 text-base font-semibold text-white">

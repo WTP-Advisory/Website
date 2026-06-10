@@ -14,6 +14,7 @@ export type PageHero = {
   title: string;
   subtitle?: string;
   image?: string;
+  variant?: "brand";
   cta?: CtaData;
 };
 
@@ -26,17 +27,30 @@ export type PageData = {
 };
 
 function Hero({ hero, breadcrumb }: { hero: PageHero; breadcrumb: string }) {
+  const brand = hero.variant === "brand";
   return (
-    <section className="relative overflow-hidden bg-footer-dark">
+    <section
+      className={`relative overflow-hidden ${brand ? "bg-brand-700" : "bg-footer-dark"}`}
+    >
       {hero.image && (
         <>
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
             src={hero.image}
             alt=""
-            className="absolute inset-0 h-full w-full object-cover opacity-30"
+            className={
+              brand
+                ? "absolute inset-0 h-full w-full object-cover object-right"
+                : "absolute inset-0 h-full w-full object-cover opacity-30"
+            }
           />
-          <div className="absolute inset-0 bg-gradient-to-r from-black/70 to-black/30" />
+          <div
+            className={
+              brand
+                ? "absolute inset-0 bg-gradient-to-r from-brand-700 from-25% via-brand-700/80 to-indigo-950/50"
+                : "absolute inset-0 bg-gradient-to-r from-black/70 to-black/30"
+            }
+          />
         </>
       )}
       <Container className="relative py-16 lg:py-24">
@@ -54,13 +68,20 @@ function Hero({ hero, breadcrumb }: { hero: PageHero; breadcrumb: string }) {
         <h1 className="mt-2 max-w-3xl text-3xl font-bold text-white lg:text-5xl">
           {hero.title}
         </h1>
+        {brand && <div className="mt-6 h-[3px] w-16 bg-white" />}
         {hero.subtitle && (
-          <p className="mt-5 max-w-2xl text-lg text-white/85">{hero.subtitle}</p>
+          <p className="mt-5 max-w-2xl text-lg text-white/85">
+            {hero.subtitle}
+          </p>
         )}
         {hero.cta && (
           <Link
             href={hero.cta.href}
-            className="mt-7 inline-flex h-12 items-center justify-center rounded-lg bg-brand-600 px-7 text-base font-medium text-white transition-colors hover:bg-brand-700"
+            className={
+              brand
+                ? "mt-7 inline-flex h-12 items-center justify-center rounded-md bg-neutral-900 px-9 text-base font-medium text-white transition-colors hover:bg-neutral-800"
+                : "mt-7 inline-flex h-12 items-center justify-center rounded-lg bg-brand-600 px-7 text-base font-medium text-white transition-colors hover:bg-brand-700"
+            }
           >
             {hero.cta.label}
           </Link>
@@ -74,19 +95,19 @@ function ContactBlock() {
   const c = footer.contact;
   return (
     <section className="bg-white py-12 lg:py-16">
-      <Container className="grid grid-cols-1 gap-10 lg:grid-cols-2">
+      <Container className="grid grid-cols-1 gap-10 lg:grid-cols-3">
         <div>
-          <p className="text-sm font-semibold uppercase tracking-wide text-brand-600">
+          <p className="text-xs font-semibold uppercase tracking-wide text-brand-600">
             Get in touch
           </p>
-          <h2 className="mt-2 text-2xl font-bold text-ink lg:text-3xl">
+          <h2 className="mt-1.5 text-xl font-bold text-ink lg:text-2xl">
             Talk to our experts
           </h2>
-          <p className="mt-4 text-ink-soft">
-            Tell us about your business and how we can help you expand into Vietnam. We
-            respond within one business day.
+          <p className="mt-2 text-sm text-ink-soft">
+            Tell us about your business and how we can help you expand into
+            Vietnam. We respond within one business day.
           </p>
-          <div className="mt-6 space-y-4 text-sm text-ink-soft">
+          <div className="mt-4 space-y-3 text-sm text-ink-soft">
             {c.offices.map((office) => (
               <div key={office.name} className="flex gap-3">
                 <MapPin className="mt-0.5 h-5 w-5 shrink-0 text-brand-600" />
@@ -112,7 +133,7 @@ function ContactBlock() {
             </div>
           </div>
         </div>
-        <div className="rounded-lg border border-stone-200 bg-surface-2 p-6 lg:p-8">
+        <div className="lg:col-span-2">
           <ContactForm />
         </div>
       </Container>
