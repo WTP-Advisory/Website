@@ -1,8 +1,8 @@
-@import "tailwindcss";
+﻿@import "tailwindcss";
 
-/* InCorp Vietnam brand tokens (Tailwind v4 @theme — generates utilities like bg-brand-600) */
+/* WTP Advisory brand tokens (Tailwind v4 @theme — generates utilities like bg-brand-600) */
 @theme {
-  /* Primary InCorp red scale (brand-600 = #bb2121) */
+  /* Primary WTP Advisory red scale (brand-600 = #bb2121) */
   --color-brand-50: #fbeaea;
   --color-brand-100: #f6d2d2;
   --color-brand-200: #eaa3a3;

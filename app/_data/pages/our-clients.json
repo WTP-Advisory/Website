@@ -1,10 +1,10 @@
-{
+﻿{
   "title": "Our Clients",
-  "metaDescription": "InCorp Vietnam works with a diverse range of clients across industries, delivering tailored solutions, strategic insights, and measurable success for businesses expanding into Vietnam and Asia-Pacific.",
+  "metaDescription": "WTP Advisory works with a diverse range of clients across industries, delivering tailored solutions, strategic insights, and measurable success for businesses expanding into Vietnam and Asia-Pacific.",
   "hero": {
     "eyebrow": "Our Clients",
     "title": "Our Clients",
-    "subtitle": "At InCorp Vietnam, we take pride in working with a diverse range of clients across industries. Each partnership is built on a foundation of tailored solutions, strategic insights, and measurable success. Whether it's driving brand growth or optimizing operations, we help our clients achieve their goals with confidence."
+    "subtitle": "At WTP Advisory, we take pride in working with a diverse range of clients across industries. Each partnership is built on a foundation of tailored solutions, strategic insights, and measurable success. Whether it's driving brand growth or optimizing operations, we help our clients achieve their goals with confidence."
   },
   "sections": [
     {
@@ -29,7 +29,7 @@
     },
     {
       "type": "cards",
-      "eyebrow": "Why InCorp",
+      "eyebrow": "Why WTP Advisory",
       "heading": "Why clients choose us",
       "columns": 2,
       "items": [
@@ -63,8 +63,8 @@
       "heading": "Partnering with leading brands",
       "align": "center",
       "body": [
-        "InCorp Vietnam is trusted by globally recognised organisations and regional enterprises alike, supporting their market entry and ongoing corporate compliance needs from our offices in Ho Chi Minh City and Hanoi.",
-        "Backed by InCorp Group's 30+ years of experience, 1,500 professionals, and 20,000 clients assisted across the Asia-Pacific region, we bring the scale and local depth to help every client succeed."
+        "WTP Advisory is trusted by globally recognised organisations and regional enterprises alike, supporting their market entry and ongoing corporate compliance needs from our offices in Ho Chi Minh City and Hanoi.",
+        "Backed by WTP Advisory's 30+ years of experience, 1,500 professionals, and 20,000 clients assisted across the Asia-Pacific region, we bring the scale and local depth to help every client succeed."
       ]
     },
     {
@@ -79,7 +79,7 @@
     },
     {
       "type": "cta",
-      "title": "Join the businesses that trust InCorp",
+      "title": "Join the businesses that trust WTP Advisory",
       "subtitle": "Let's discuss how we can support your goals in Vietnam.",
       "button": { "label": "Start a Conversation", "href": "/make-an-inquiry" },
       "variant": "blue"

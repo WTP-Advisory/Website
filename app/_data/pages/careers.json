@@ -1,16 +1,16 @@
-{
+﻿{
   "title": "Careers",
-  "metaDescription": "Make the next step in your career at InCorp Vietnam. Join a diverse, inclusive culture that promotes growth, with sector-specific projects across accounting, tax, corporate secretarial, and advisory services.",
+  "metaDescription": "Make the next step in your career at WTP Advisory. Join a diverse, inclusive culture that promotes growth, with sector-specific projects across accounting, tax, corporate secretarial, and advisory services.",
   "hero": {
     "eyebrow": "Careers",
     "title": "Make the Next Step in Your Career",
-    "subtitle": "At InCorp Vietnam, we foster a diverse, inclusive working culture promoting growth and development. Join our team to gain valuable experience in sector-specific projects, enhancing your skills and knowledge."
+    "subtitle": "At WTP Advisory, we foster a diverse, inclusive working culture promoting growth and development. Join our team to gain valuable experience in sector-specific projects, enhancing your skills and knowledge."
   },
   "sections": [
     {
       "type": "jobBoard",
       "heading": "Explore Our Teams",
-      "subtitle": "Discover how InCorp Vietnam is committed to your professional growth and success. Explore our teams and find your ideal role to kickstart your dream career and beyond.",
+      "subtitle": "Discover how WTP Advisory is committed to your professional growth and success. Explore our teams and find your ideal role to kickstart your dream career and beyond.",
       "keywordPlaceholder": "Job Title, Keyword",
       "buttonLabel": "Find Job",
       "columns": 3,
@@ -35,12 +35,12 @@
     },
     {
       "type": "richText",
-      "eyebrow": "Working at InCorp",
+      "eyebrow": "Working at WTP Advisory",
       "heading": "Grow with us",
       "align": "center",
       "body": [
         "Our people are at the heart of everything we do. We invest in our teams, encouraging every individual to develop and thrive, and our objective is to be a go-to destination for local talent in Vietnam.",
-        "Working at InCorp means collaborating across departments — from accounting and tax advisory to corporate secretarial services and risk assurance — on meaningful projects for clients ranging from global multinationals to ambitious local enterprises."
+        "Working at WTP Advisory means collaborating across departments — from accounting and tax advisory to corporate secretarial services and risk assurance — on meaningful projects for clients ranging from global multinationals to ambitious local enterprises."
       ]
     },
     {
@@ -53,7 +53,7 @@
         { "title": "Diverse & inclusive", "desc": "A welcoming culture where every voice is valued and supported." },
         { "title": "Sector-specific work", "desc": "Exposure to varied industries and complex, real-world client projects." },
         { "title": "Expert mentorship", "desc": "Learn from an experienced leadership team committed to your success." },
-        { "title": "Regional reach", "desc": "Be part of InCorp Group with 1,500 professionals across Asia-Pacific." },
+        { "title": "Regional reach", "desc": "Be part of WTP Advisory with 1,500 professionals across Asia-Pacific." },
         { "title": "Multiple locations", "desc": "Opportunities in Ho Chi Minh City, Hanoi, and Danang." }
       ]
     },
@@ -77,15 +77,15 @@
       "heading": "Joining our team",
       "items": [
         { "title": "Explore opportunities", "desc": "Review our open roles by location across Danang, Hanoi, and Ho Chi Minh City." },
-        { "title": "Submit your application", "desc": "Send us your CV and tell us why you'd be a great fit for InCorp Vietnam." },
-        { "title": "Meet the team", "desc": "Interview with our hiring managers and learn more about life at InCorp." },
+        { "title": "Submit your application", "desc": "Send us your CV and tell us why you'd be a great fit for WTP Advisory." },
+        { "title": "Meet the team", "desc": "Interview with our hiring managers and learn more about life at WTP Advisory." },
         { "title": "Start your journey", "desc": "Join us and begin developing your career on impactful client projects." }
       ]
     },
     {
       "type": "cta",
       "title": "Ready to take the next step?",
-      "subtitle": "Get in touch to learn more about careers at InCorp Vietnam.",
+      "subtitle": "Get in touch to learn more about careers at WTP Advisory.",
       "button": { "label": "Apply Now", "href": "/make-an-inquiry" },
       "variant": "blue"
     }

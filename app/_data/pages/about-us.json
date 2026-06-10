@@ -1,8 +1,8 @@
-{
+﻿{
   "title": "About Us",
-  "metaDescription": "InCorp Vietnam is a leading market entry & corporate services firm, part of InCorp Group — delivering transparent, dependable solutions to overseas clients in Vietnam and Asia-Pacific.",
+  "metaDescription": "WTP Advisory is a leading market entry & corporate services firm, part of WTP Advisory — delivering transparent, dependable solutions to overseas clients in Vietnam and Asia-Pacific.",
   "hero": {
-    "eyebrow": "About InCorp Vietnam",
+    "eyebrow": "About WTP Advisory",
     "title": "Setting the stage to meet international standards",
     "subtitle": "Our client-centric approach, innovative solutions, and exceptional service have established us as a market entry leader in Vietnam. Our dedicated team of professionals provides business solutions you can trust."
   },
@@ -12,8 +12,8 @@
       "heading": "Our Story",
       "align": "center",
       "body": [
-        "InCorp Vietnam has become a leading market entry & corporate services firm in Vietnam. As an integral part of InCorp Group, we are committed to delivering transparent and dependable solutions to overseas clients seeking to establish their presence in Vietnam and the wider Asia-Pacific region.",
-        "With 30+ years of experience and 1,500 professionals across the group, InCorp has assisted 20,000 clients in elevating their businesses — combining deep local knowledge with international standards."
+        "WTP Advisory has become a leading market entry & corporate services firm in Vietnam. As an integral part of WTP Advisory, we are committed to delivering transparent and dependable solutions to overseas clients seeking to establish their presence in Vietnam and the wider Asia-Pacific region.",
+        "With 30+ years of experience and 1,500 professionals across the group, WTP Advisory has assisted 20,000 clients in elevating their businesses — combining deep local knowledge with international standards."
       ]
     },
     {
@@ -66,7 +66,7 @@
     {
       "type": "list",
       "eyebrow": "Geographic Presence",
-      "heading": "Where you'll find InCorp",
+      "heading": "Where you'll find WTP Advisory",
       "subtitle": "Our services support your business at every stage, from conception to operation — across the Asia-Pacific region.",
       "columns": 3,
       "items": [

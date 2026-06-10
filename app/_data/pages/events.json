@@ -1,15 +1,15 @@
-{
+﻿{
   "title": "Events",
-  "metaDescription": "Join InCorp Vietnam at our upcoming webinars, seminars and networking events on doing business in Vietnam.",
+  "metaDescription": "Join WTP Advisory at our upcoming webinars, seminars and networking events on doing business in Vietnam.",
   "hero": {
     "eyebrow": "Events",
     "title": "Our Events",
-    "subtitle": "Take part in InCorp Vietnam's events, webinars and networking opportunities and maximize your network with our partners to grow your business and career."
+    "subtitle": "Take part in WTP Advisory's events, webinars and networking opportunities and maximize your network with our partners to grow your business and career."
   },
   "sections": [
     {
       "type": "events",
-      "heading": "InCorp Vietnam's Schedule of Events",
+      "heading": "WTP Advisory's Schedule of Events",
       "subtitle": "Looking for additional insights? Join one of our upcoming virtual events or watch a recording from anywhere.",
       "items": [
         {
@@ -45,7 +45,7 @@
           "href": "/events/webinar-tax-compliance-risks"
         },
         {
-          "title": "InCorp Vietnam x FLI: How can sales strategic management boost your sales? – Hanoi",
+          "title": "WTP Advisory x FLI: How can sales strategic management boost your sales? – Hanoi",
           "format": "Offline",
           "date": "September 19, 2024",
           "desc": "FDI enterprise solutions seminar on strategic sales management for businesses in northern Vietnam.",
@@ -61,7 +61,7 @@
           "href": "/events/economic-outlook-half-year-review-future-prospects-h2-2024"
         },
         {
-          "title": "[Savills x InCorp Vietnam] Gateway to Growth 2024: Ha Noi and Northern Vietnam's Investment Landscape",
+          "title": "[Savills x WTP Advisory] Gateway to Growth 2024: Ha Noi and Northern Vietnam's Investment Landscape",
           "format": "Offline",
           "date": "August 15, 2024",
           "desc": "Exploring investment opportunities across Hanoi and northern Vietnam, co-hosted with Savills.",
@@ -85,10 +85,10 @@
           "href": "/events/webinar-chief-accountant-requirements"
         },
         {
-          "title": "One InCorp, Eight Markets: Expand Your Horizons Series – Vietnam Market Insights in Hong Kong",
+          "title": "One WTP Advisory, Eight Markets: Expand Your Horizons Series – Vietnam Market Insights in Hong Kong",
           "format": "Offline",
           "date": "May 29, 2024",
-          "desc": "Vietnam market insights for Hong Kong-based investors as part of the One InCorp, Eight Markets series.",
+          "desc": "Vietnam market insights for Hong Kong-based investors as part of the One WTP Advisory, Eight Markets series.",
           "image": "/incorp/events/eight-markets-hongkong.png",
           "href": "/events/one-incorp-eight-markets-vietnam-market-insights-in-hongkong"
         },
@@ -113,7 +113,7 @@
     {
       "type": "cta",
       "title": "Want to be notified of upcoming events?",
-      "subtitle": "Subscribe and never miss an InCorp Vietnam event.",
+      "subtitle": "Subscribe and never miss an WTP Advisory event.",
       "button": { "label": "Make an Inquiry", "href": "/make-an-inquiry" },
       "variant": "blue"
     }

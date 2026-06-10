@@ -1,12 +1,12 @@
-{
+﻿{
   "layout": "event",
   "title": "From Singapore to Vietnam: Turning Strategic Ties into Smart Investments",
-  "metaDescription": "An insightful online session for Singapore-based business owners, SME leaders and startup founders expanding into Vietnam, led by InCorp Vietnam with Vanguard Financial Group, Baker & McKenzie Vietnam and Vietcombank.",
+  "metaDescription": "An insightful online session for Singapore-based business owners, SME leaders and startup founders expanding into Vietnam, led by WTP Advisory with Vanguard Financial Group, Baker & McKenzie Vietnam and Vietcombank.",
   "banner": "/incorp/events/sg-to-vn-smart-investments.png",
   "format": "Webinar",
   "date": "May 29, 2025",
   "about": [
-    "Join us for an insightful event designed for Singapore-based business owners, SME leaders, and startup founders seeking to expand into Vietnam. This event is led by InCorp Vietnam in collaboration with Vanguard Financial Group, Baker & McKenzie Vietnam, and Vietcombank."
+    "Join us for an insightful event designed for Singapore-based business owners, SME leaders, and startup founders seeking to expand into Vietnam. This event is led by WTP Advisory in collaboration with Vanguard Financial Group, Baker & McKenzie Vietnam, and Vietcombank."
   ],
   "matters": {
     "heading": "Ready to Grow Your Business in One of ASEAN's Most Vibrant Markets?",
@@ -22,7 +22,7 @@
   ],
   "speakers": [
     { "name": "Raymond Lim", "role": "Vanguard Financial Group — Moderator & Host" },
-    { "name": "Jack Nguyen", "role": "InCorp Vietnam — Market Entry, Legal & FDI Compliance Expert" },
+    { "name": "Jack Nguyen", "role": "WTP Advisory — Market Entry, Legal & FDI Compliance Expert" },
     { "name": "Yee Chung Seck", "role": "Baker McKenzie Vietnam — Legal & Regulatory Advisor for Foreign Investors" },
     { "name": "Quynh Pham", "role": "Vietcombank — Head of Customer Services Organization" }
   ],

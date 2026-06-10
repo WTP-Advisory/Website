@@ -1,7 +1,7 @@
-{
+﻿{
   "layout": "event",
-  "title": "[Savills x InCorp Vietnam] Gateway to Growth 2024: Ha Noi and Northern Vietnam's Investment Landscape",
-  "metaDescription": "An exclusive event exploring investment opportunities across Hanoi and northern Vietnam, co-hosted by InCorp Vietnam and Savills.",
+  "title": "[Savills x WTP Advisory] Gateway to Growth 2024: Ha Noi and Northern Vietnam's Investment Landscape",
+  "metaDescription": "An exclusive event exploring investment opportunities across Hanoi and northern Vietnam, co-hosted by WTP Advisory and Savills.",
   "banner": "/incorp/events/gateway-to-growth.png",
   "format": "Offline",
   "date": "August 15, 2024",
@@ -19,7 +19,7 @@
     { "time": "10:00 – 10:05", "title": "Opening Speech" },
     { "time": "10:05 – 10:20", "title": "Navigating Vietnam and Northern Hanoi Industrial Real Estate Landscape: Opportunities and Challenges", "speaker": "Thomas Rooney – Savills Vietnam" },
     { "time": "10:20 – 10:40", "title": "FDI Trends in Key Northern Industrial Cities in Vietnam", "speaker": "Tiffany Trang Pham – Industrial Business Development Senior Manager, Core5 Vietnam" },
-    { "time": "10:40 – 10:55", "title": "Legal Setup of FDI Companies — Trading, Manufacturing, Compliance & Regulations, Tax Incentives, Recruitment for Factories", "speaker": "Jack Nguyen – CEO, InCorp Vietnam" },
+    { "time": "10:40 – 10:55", "title": "Legal Setup of FDI Companies — Trading, Manufacturing, Compliance & Regulations, Tax Incentives, Recruitment for Factories", "speaker": "Jack Nguyen – CEO, WTP Advisory" },
     { "time": "10:55 – 11:10", "title": "Banking Support for FDIs — One-Stop Advisory Services", "speaker": "Duc Tran – Team Lead of International Banking, HSBC Bank Vietnam" },
     { "time": "11:10 – 11:30", "title": "Q&A Session" },
     { "time": "11:30 – 12:30", "title": "Networking Session" }
@@ -34,7 +34,7 @@
     "href": "/events/webinar-representative-office-setup"
   },
   "next": {
-    "title": "InCorp Vietnam x FLI: How can strategic sales management boost your sales? – Hanoi",
+    "title": "WTP Advisory x FLI: How can strategic sales management boost your sales? – Hanoi",
     "href": "/events/fdi-enterprise-solutions-fli-vietnam"
   }
 }

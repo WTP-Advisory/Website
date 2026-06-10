@@ -1,4 +1,4 @@
-{
+﻿{
   "links": [
     {
       "label": "Services",
@@ -12,7 +12,7 @@
             { "title": "Company Formation", "desc": "Establish a foreign-owned entity in Vietnam", "href": "/incorporation/company-formation" },
             { "title": "Virtual Office", "desc": "A legal virtual address for your company", "href": "/incorporation/virtual-office-ho-chi-minh-city" },
             { "title": "Buy a Company", "desc": "Buy a business and start doing business in days", "href": "/incorporation/buy-company" },
-            { "title": "Transfering Ownership", "desc": "InCorp Vietnam ensures smooth ownership transfer", "href": "/incorporation/transfer-ownership-in-vietnam" },
+            { "title": "Transfering Ownership", "desc": "WTP Advisory ensures smooth ownership transfer", "href": "/incorporation/transfer-ownership-in-vietnam" },
             { "title": "Manufacturing Setup", "desc": "Full package including factory and office location", "href": "/manufacturing-company-setup-vietnam" },
             { "title": "Offshore Structuring", "desc": "Offshore incorporation for global growth", "href": "/incorporation/offshore-incorporation" }
           ]
@@ -150,11 +150,11 @@
       "href": "/about-us",
       "megamenu": [
         {
-          "title": "About InCorp Vietnam",
+          "title": "About WTP Advisory",
           "href": "/about-us",
           "items": [
-            { "title": "About InCorp Vietnam", "desc": "Who we are, why we’re here", "href": "/about-us" },
-            { "title": "Our People", "desc": "The faces that make InCorp Vietnam", "href": "/our-people" },
+            { "title": "About WTP Advisory", "desc": "Who we are, why we’re here", "href": "/about-us" },
+            { "title": "Our People", "desc": "The faces that make WTP Advisory", "href": "/our-people" },
             { "title": "Our Clients", "desc": "Why we do what we do", "href": "/our-clients" },
             { "title": "Our Partners", "desc": "We help clients beyond our scope.", "href": "/our-partners" },
             { "title": "Careers", "desc": "Opportunities that shape the future.", "href": "/careers" }

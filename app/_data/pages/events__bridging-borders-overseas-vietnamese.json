@@ -1,4 +1,4 @@
-{
+﻿{
   "layout": "event",
   "title": "Bridging Borders: Navigating Opportunities and Challenges for Overseas Vietnamese in Vietnam",
   "metaDescription": "An evening of discussion on the opportunities and challenges facing Overseas Vietnamese returning to live, work and do business in Vietnam.",
@@ -22,8 +22,8 @@
   "agenda": [
     { "time": "17:30 – 18:00", "title": "Registration and Networking" },
     { "time": "18:00 – 18:05", "title": "Welcome Guest Speakers" },
-    { "time": "18:05 – 18:10", "title": "Vietnam's Economic Journey: Looking Back at 2023 and Ahead to 2024", "speaker": "Jack Nguyen, CPA, CA – CEO, InCorp Vietnam" },
-    { "time": "18:10 – 18:20", "title": "Sharing success stories of Overseas Vietnamese in Vietnam", "speaker": "Jack Nguyen, CPA, CA – CEO, InCorp Vietnam" },
+    { "time": "18:05 – 18:10", "title": "Vietnam's Economic Journey: Looking Back at 2023 and Ahead to 2024", "speaker": "Jack Nguyen, CPA, CA – CEO, WTP Advisory" },
+    { "time": "18:10 – 18:20", "title": "Sharing success stories of Overseas Vietnamese in Vietnam", "speaker": "Jack Nguyen, CPA, CA – CEO, WTP Advisory" },
     { "time": "18:20 – 18:30", "title": "Strategic approaches to attract high-quality FDI to Vietnam", "speaker": "Ken D. Duong, Esq., MBA – CEO, Duong Business Consulting" },
     { "time": "18:30 – 18:40", "title": "Overseas Vietnamese Reintegration Roadmap: Breaking language barriers, bridging cultures and beyond", "speaker": "AnHa (Annie) Vo – COO, Premier Dental" },
     { "time": "18:40 – 19:10", "title": "Panel Discussion", "speaker": "Quang Do (Founder, Overseas Vietnamese), Binh Tran (Co-Founder & General Partner, Ascend Vietnam Ventures) and AnHa (Annie) Vo (COO, Premier Dental)" },
@@ -35,7 +35,7 @@
     "schedule": "May 6, 2024 | From 17:30 (GMT+7)"
   },
   "next": {
-    "title": "One InCorp, Eight Markets: Expand Your Horizons Series – Vietnam Market Insights in Hong Kong",
+    "title": "One WTP Advisory, Eight Markets: Expand Your Horizons Series – Vietnam Market Insights in Hong Kong",
     "href": "/events/one-incorp-eight-markets-vietnam-market-insights-in-hongkong"
   }
 }

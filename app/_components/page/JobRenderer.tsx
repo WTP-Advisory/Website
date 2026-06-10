@@ -1,4 +1,4 @@
-import Link from "next/link";
+﻿import Link from "next/link";
 import { TopBar } from "../TopBar";
 import { Header } from "../Header";
 import { Footer } from "../Footer";
@@ -20,7 +20,7 @@ export type JobData = {
 };
 
 const DEFAULT_NOTICE =
-  "Urgent Notice | InCorp Vietnam has detected ongoing fraudulent activities that are using our brand name to solicit money from job seekers. Please note that we do not engage in monetary transactions or reimbursements as part of our recruitment process.";
+  "Urgent Notice | WTP Advisory has detected ongoing fraudulent activities that are using our brand name to solicit money from job seekers. Please note that we do not engage in monetary transactions or reimbursements as part of our recruitment process.";
 
 type OtherJob = { title: string; desc?: string; href?: string };
 
@@ -100,7 +100,7 @@ export function JobRenderer({ data }: { data: JobData }) {
         <section className="bg-[#2c3e50] py-10">
           <Container className="flex flex-col items-center justify-center gap-5 text-center sm:flex-row sm:justify-between sm:text-left">
             <h2 className="text-xl font-bold text-white lg:text-2xl">
-              Embark on a life-changing career with InCorp
+              Embark on a life-changing career with WTP Advisory
             </h2>
             <Link
               href={data.applyHref ?? "/make-an-inquiry"}

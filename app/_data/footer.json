@@ -1,7 +1,7 @@
-{
+﻿{
   "about": {
-    "heading": "About InCorp Vietnam",
-    "body": "InCorp Vietnam is a leading market entry & corporate services firm in Vietnam. As part of InCorp Group, we focus on providing transparent and reliable services to overseas clients in Vietnam and Asia-Pacific. With 30+ years of experience and 1,500 professionals, InCorp Group has assisted 20,000 clients in elevating their businesses."
+    "heading": "About WTP Advisory",
+    "body": "WTP Advisory is a leading market entry & corporate services firm in Vietnam. As part of WTP Advisory, we focus on providing transparent and reliable services to overseas clients in Vietnam and Asia-Pacific. With 30+ years of experience and 1,500 professionals, WTP Advisory has assisted 20,000 clients in elevating their businesses."
   },
   "contact": {
     "heading": "Contact Us",
@@ -35,10 +35,6 @@
     "emailPlaceholder": "Email",
     "submitLabel": "Subscribe"
   },
-  "badges": [
-    { "src": "/incorp/brand/footer-ascentium-logo.png", "alt": "incorp an ascentium company logo" },
-    { "src": "/incorp/brand/logo-primeglobal.png", "alt": "primeglobal independent member" }
-  ],
   "columns": [
     {
       "heading": "Services",
@@ -66,7 +62,7 @@
     }
   ],
   "bottom": {
-    "copyright": "© 2026 InCorp Vietnam (formerly Cekindo), all rights reserved.",
+    "copyright": "© 2026 WTP Advisory (formerly Cekindo), all rights reserved.",
     "legalLinks": [
       { "label": "Privacy Policy", "href": "/privacy" },
       { "label": "Terms & Conditions", "href": "/terms" }

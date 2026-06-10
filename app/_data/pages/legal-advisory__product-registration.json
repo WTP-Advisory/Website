@@ -1,4 +1,4 @@
-{
+﻿{
   "title": "Product Registration in Vietnam",
   "metaDescription": "Our product registration services specialize in food & beverage, health supplements, medical devices, and cosmetics in Vietnam.",
   "hero": {
@@ -41,11 +41,11 @@
     },
     {
       "type": "richText",
-      "heading": "How InCorp Vietnam Helps You Register & Import Products",
+      "heading": "How WTP Advisory Helps You Register & Import Products",
       "align": "left",
       "body": [
         "Product Registration Made Easy",
-        "InCorp Vietnam provides licensing, product registration, and tax services to help you import and distribute your products to Vietnam. We also offer incorporation services so you can start the process without being in Vietnam."
+        "WTP Advisory provides licensing, product registration, and tax services to help you import and distribute your products to Vietnam. We also offer incorporation services so you can start the process without being in Vietnam."
       ]
     },
     {
@@ -224,7 +224,7 @@
     {
       "type": "stats",
       "variant": "red",
-      "heading": "Backed by InCorp Group",
+      "heading": "Backed by WTP Advisory",
       "items": [
         {
           "value": "30+",

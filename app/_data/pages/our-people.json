@@ -1,6 +1,6 @@
-{
+﻿{
   "title": "Our Experts",
-  "metaDescription": "Meet the experts at InCorp Vietnam — an experienced leadership team and dedicated professionals delivering trusted market entry, accounting, tax, legal, and corporate secretarial services.",
+  "metaDescription": "Meet the experts at WTP Advisory — an experienced leadership team and dedicated professionals delivering trusted market entry, accounting, tax, legal, and corporate secretarial services.",
   "hero": {
     "eyebrow": "Our Experts",
     "title": "Meet the people behind your success in Vietnam",
@@ -13,7 +13,7 @@
       "heading": "Expertise you can rely on",
       "align": "center",
       "body": [
-        "InCorp Vietnam is a leading market entry & corporate services firm, supported by a team of more than 50 specialists across Ho Chi Minh City, Hanoi, and Danang. As part of InCorp Group, we draw on 30+ years of experience and 1,500 professionals to deliver dependable solutions to clients expanding into Vietnam and the wider Asia-Pacific region.",
+        "WTP Advisory is a leading market entry & corporate services firm, supported by a team of more than 50 specialists across Ho Chi Minh City, Hanoi, and Danang. As part of WTP Advisory, we draw on 30+ years of experience and 1,500 professionals to deliver dependable solutions to clients expanding into Vietnam and the wider Asia-Pacific region.",
         "From incorporation and accounting to tax advisory, legal compliance, and corporate secretarial services, our experts bring the technical excellence and on-the-ground insight your business needs at every stage of growth."
       ]
     },
@@ -69,7 +69,7 @@
       "heading": "Our people in numbers",
       "items": [
         { "value": "50+", "label": "Team of experts in Vietnam" },
-        { "value": "1,500", "label": "Professionals across InCorp Group" },
+        { "value": "1,500", "label": "Professionals across WTP Advisory" },
         { "value": "30+", "label": "Years of group experience" },
         { "value": "20,000", "label": "Clients assisted globally" }
       ]

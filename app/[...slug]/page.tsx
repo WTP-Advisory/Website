@@ -100,11 +100,11 @@ export default async function CatchAllPage({
         <section className="bg-surface-2 py-16 lg:py-24">
           <Container>
             <p className="text-sm font-medium uppercase tracking-wide text-brand-600">
-              InCorp Vietnam
+              WTP Advisory
             </p>
             <h1 className="mt-3 text-3xl font-bold text-ink lg:text-5xl">{title}</h1>
             <p className="mt-5 max-w-2xl text-ink-soft">
-              This page is part of the InCorp Vietnam clone. Detailed content for{" "}
+              This page is part of the WTP Advisory clone. Detailed content for{" "}
               <strong className="text-ink">{title}</strong> has not been authored yet.
             </p>
           </Container>

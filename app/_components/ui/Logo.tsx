@@ -1,11 +1,39 @@
-export function Logo({ className = "" }: { className?: string }) {
+import Image from "next/image";
+
+type LogoVariant = "horizontal" | "vertical";
+
+const configs: Record<LogoVariant, { src: string; width: number; height: number; className: string }> = {
+  horizontal: {
+    src: "/wtp-advisory-horizontal.png",
+    width: 495,
+    height: 56,
+    className: "h-9 w-auto object-contain",
+  },
+  vertical: {
+    src: "/wtp-advisory-vertical.png",
+    width: 358,
+    height: 160,
+    className: "h-20 w-auto object-contain",
+  },
+};
+
+export function Logo({
+  className = "",
+  variant = "horizontal",
+}: {
+  className?: string;
+  variant?: LogoVariant;
+}) {
+  const cfg = configs[variant];
   return (
-    <span
-      className={`inline-flex items-baseline whitespace-nowrap text-2xl font-extrabold tracking-tight text-ink lg:text-[26px] ${className}`}
-    >
-      WTP
-      <span className="px-0.5 text-brand-600">.</span>
-      <span className="font-semibold text-ink-soft">Advisory</span>
+    <span className={`inline-flex items-center ${className}`}>
+      <Image
+        src={cfg.src}
+        alt="WTP Advisory"
+        width={cfg.width}
+        height={cfg.height}
+        className={cfg.className}
+      />
     </span>
   );
 }

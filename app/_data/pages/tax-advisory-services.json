@@ -1,10 +1,10 @@
-{
+﻿{
   "title": "Tax Advisory Services in Vietnam",
-  "metaDescription": "InCorp Vietnam provides expert tax advisory services to ensure compliance, optimize tax positions, minimize risks, and support business growth.",
+  "metaDescription": "WTP Advisory provides expert tax advisory services to ensure compliance, optimize tax positions, minimize risks, and support business growth.",
   "hero": {
     "eyebrow": "Services",
     "title": "Tax Advisory Services in Vietnam",
-    "subtitle": "InCorp Vietnam offers expert tax advisory services to help your business navigate Vietnam's tax system. We ensure compliance, optimize tax positions, and minimize risks with tailored solutions for tax planning, incentives, and audits, supporting your business growth.",
+    "subtitle": "WTP Advisory offers expert tax advisory services to help your business navigate Vietnam's tax system. We ensure compliance, optimize tax positions, and minimize risks with tailored solutions for tax planning, incentives, and audits, supporting your business growth.",
     "cta": {
       "label": "Make an Inquiry",
       "href": "/make-an-inquiry"
@@ -17,7 +17,7 @@
       "heading": "The importance of tax compliance in Vietnam",
       "body": [
         "Vietnam's tax system is complex and constantly evolving, making it essential for businesses to stay informed and compliant. With a range of taxes, including corporate income tax, value-added tax, and personal income tax, navigating these regulations can be challenging, especially for foreign companies.",
-        "At InCorp Vietnam, we offer comprehensive tax advisory services to help businesses understand and comply with Vietnamese tax laws. Our team of experts provides tailored solutions for tax planning, compliance, incentives, and audits, ensuring that your business minimizes risks and optimizes its tax position while focusing on growth and success in Vietnam."
+        "At WTP Advisory, we offer comprehensive tax advisory services to help businesses understand and comply with Vietnamese tax laws. Our team of experts provides tailored solutions for tax planning, compliance, incentives, and audits, ensuring that your business minimizes risks and optimizes its tax position while focusing on growth and success in Vietnam."
       ],
       "align": "left"
     },
@@ -65,7 +65,7 @@
     },
     {
       "type": "cards",
-      "heading": "Seamless Tax Management with Vietnam InCorp",
+      "heading": "Seamless Tax Management with Vietnam WTP Advisory",
       "columns": 4,
       "items": [
         {
@@ -115,7 +115,7 @@
     {
       "type": "stats",
       "variant": "red",
-      "heading": "Backed by InCorp Group",
+      "heading": "Backed by WTP Advisory",
       "items": [
         {
           "value": "30+",

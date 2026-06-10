@@ -1,4 +1,4 @@
-{
+﻿{
   "title": "Legal Advisory Services in Vietnam",
   "metaDescription": "Employ your own corporate secretary with legal advisory services, including compliance updates, fulfilling reports & other administrative processes.",
   "hero": {
@@ -14,7 +14,7 @@
   "sections": [
     {
       "type": "cards",
-      "heading": "Benefits of Hiring Top Legal Consulting Firms like InCorp",
+      "heading": "Benefits of Hiring Top Legal Consulting Firms like WTP Advisory",
       "columns": 4,
       "items": [
         {
@@ -48,7 +48,7 @@
     },
     {
       "type": "list",
-      "heading": "InCorp Vietnam’s Corporate Secretarial Service",
+      "heading": "WTP Advisory’s Corporate Secretarial Service",
       "subtitle": "Responsibilities of Corporate Secretary",
       "columns": 1,
       "items": [
@@ -61,27 +61,27 @@
     },
     {
       "type": "cards",
-      "heading": "InCorp Vietnam’s Other Legal Services",
+      "heading": "WTP Advisory’s Other Legal Services",
       "columns": 2,
       "items": [
         {
           "title": "Leasing Contract Review",
-          "desc": "InCorp Vietnam begins with the crucial step of finalizing and confirming the deal structure and term sheet with the client, then reviews and revises the contract base term sheet against client requirements.",
+          "desc": "WTP Advisory begins with the crucial step of finalizing and confirming the deal structure and term sheet with the client, then reviews and revises the contract base term sheet against client requirements.",
           "icon": "fileCheck"
         },
         {
           "title": "Corporate Bank Account",
-          "desc": "InCorp Vietnam offers comprehensive financial consultancy services, advising on documentation, collecting necessary materials, and efficiently facilitating offshore corporate bank account openings.",
+          "desc": "WTP Advisory offers comprehensive financial consultancy services, advising on documentation, collecting necessary materials, and efficiently facilitating offshore corporate bank account openings.",
           "icon": "landmark"
         },
         {
           "title": "Nominee Director & Company",
-          "desc": "InCorp Vietnam supports foreign entrepreneurs looking to establish and operate businesses in Vietnam. Our business consulting services cover ownership facilitation, asset management, swift market entry, and potential licensing and capital advantages.",
+          "desc": "WTP Advisory supports foreign entrepreneurs looking to establish and operate businesses in Vietnam. Our business consulting services cover ownership facilitation, asset management, swift market entry, and potential licensing and capital advantages.",
           "icon": "userCheck"
         },
         {
           "title": "Product Registration",
-          "desc": "Rely on InCorp Vietnam for product regulation compliance, offering licensing, product registration (medical devices, food & beverage, food supplement…), and tax services to streamline the importation of your products into Vietnam.",
+          "desc": "Rely on WTP Advisory for product regulation compliance, offering licensing, product registration (medical devices, food & beverage, food supplement…), and tax services to streamline the importation of your products into Vietnam.",
           "icon": "clipboard"
         },
         {
@@ -103,7 +103,7 @@
         },
         {
           "title": "FDI – ISA Reports",
-          "desc": "InCorp Vietnam specializes in legal advisory services for FDI and ISA Reports, offering status checks, account issuance, and successful submission, which ensure compliance for your business.",
+          "desc": "WTP Advisory specializes in legal advisory services for FDI and ISA Reports, offering status checks, account issuance, and successful submission, which ensure compliance for your business.",
           "icon": "file"
         }
       ]
@@ -169,7 +169,7 @@
     {
       "type": "stats",
       "variant": "red",
-      "heading": "Backed by InCorp Group",
+      "heading": "Backed by WTP Advisory",
       "items": [
         {
           "value": "30+",

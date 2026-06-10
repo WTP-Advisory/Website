@@ -1,10 +1,10 @@
-{
+﻿{
   "title": "HR and Payroll Outsourcing Services in Vietnam",
   "metaDescription": "Simplify and maintain compliance with HR and payroll outsourcing in Vietnam, including recruitment, payroll, insurance, and personal income tax.",
   "hero": {
     "eyebrow": "Services",
     "title": "HR and Payroll Outsourcing Services in Vietnam",
-    "subtitle": "InCorp Vietnam offers HR & Payroll Services, simplifying and ensuring compliance in all HR aspects in Vietnam, including recruitment, payroll, insurance, and personal income taxes. Overcome workforce management challenges with a trusted partner who puts your needs first.",
+    "subtitle": "WTP Advisory offers HR & Payroll Services, simplifying and ensuring compliance in all HR aspects in Vietnam, including recruitment, payroll, insurance, and personal income taxes. Overcome workforce management challenges with a trusted partner who puts your needs first.",
     "cta": {
       "label": "Make an Inquiry",
       "href": "/make-an-inquiry"
@@ -14,7 +14,7 @@
   "sections": [
     {
       "type": "cards",
-      "heading": "Benefits of Outsourcing your HR & Payroll with InCorp Vietnam",
+      "heading": "Benefits of Outsourcing your HR & Payroll with WTP Advisory",
       "columns": 4,
       "items": [
         {
@@ -98,17 +98,17 @@
         },
         {
           "title": "Social, Health & Unemployment Insurance (SHUI)",
-          "desc": "InCorp Vietnam handle a wide range of SHUI Authority compliance tasks, from monthly reports, maternity and sick leave claims, to labor accidents. We also manage health insurance cards and payment requests for seamless operations, including increase/decrease/changes reports, SI book closing, reconciliation of SHUI contributions and payment requests sent to the accountant.",
+          "desc": "WTP Advisory handle a wide range of SHUI Authority compliance tasks, from monthly reports, maternity and sick leave claims, to labor accidents. We also manage health insurance cards and payment requests for seamless operations, including increase/decrease/changes reports, SI book closing, reconciliation of SHUI contributions and payment requests sent to the accountant.",
           "icon": "banknote"
         },
         {
           "title": "Personal Income Tax (PIT)",
-          "desc": "We will efficiently prepare and submit monthly/quarterly personal income tax declarations, both online and in hard copy, based on accurate payroll data. InCorp Vietnam also handle the lodgement of PIT reports with the Tax Department.",
+          "desc": "We will efficiently prepare and submit monthly/quarterly personal income tax declarations, both online and in hard copy, based on accurate payroll data. WTP Advisory also handle the lodgement of PIT reports with the Tax Department.",
           "icon": "receipt"
         },
         {
           "title": "Year-end PIT Tax Finalization & Book",
-          "desc": "Yearly PIT Finalization is for your business with employees working a full calendar year with one income source. InCorp Vietnam issue income confirmations and tax receipts.",
+          "desc": "Yearly PIT Finalization is for your business with employees working a full calendar year with one income source. WTP Advisory issue income confirmations and tax receipts.",
           "icon": "fileCheck"
         },
         {
@@ -204,7 +204,7 @@
     {
       "type": "stats",
       "variant": "red",
-      "heading": "Backed by InCorp Group",
+      "heading": "Backed by WTP Advisory",
       "items": [
         {
           "value": "30+",

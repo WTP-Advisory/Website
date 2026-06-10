@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+﻿import type { Metadata } from "next";
 import { Roboto } from "next/font/google";
 import Script from "next/script";
 import "./globals.css";
@@ -13,13 +13,13 @@ const roboto = Roboto({
 export const metadata: Metadata = {
   metadataBase: new URL("https://vietnam.incorp.asia"),
   title: {
-    default: "InCorp Vietnam - Leading Market Entry & Corporate Services",
-    template: "%s | InCorp Vietnam",
+    default: "WTP Advisory - Leading Market Entry & Corporate Services",
+    template: "%s | WTP Advisory",
   },
   description:
-    "InCorp Vietnam is a leading market entry & corporate services firm. We provide incorporation, legal advisory, accounting, tax, HR & payroll, and immigration services to help you expand your business in Vietnam.",
+    "WTP Advisory is a leading market entry & corporate services firm. We provide incorporation, legal advisory, accounting, tax, HR & payroll, and immigration services to help you expand your business in Vietnam.",
   keywords: [
-    "InCorp Vietnam",
+    "WTP Advisory",
     "company formation Vietnam",
     "market entry Vietnam",
     "corporate services Vietnam",
@@ -29,8 +29,8 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    siteName: "InCorp Vietnam",
-    title: "InCorp Vietnam - Leading Market Entry & Corporate Services",
+    siteName: "WTP Advisory",
+    title: "WTP Advisory - Leading Market Entry & Corporate Services",
     description:
       "Your business expansion expert in Vietnam — one-stop company formation and corporate services.",
   },
