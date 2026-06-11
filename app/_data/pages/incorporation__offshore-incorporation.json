@@ -1,12 +1,12 @@
-﻿{
-  "title": "Offshore Incorporation with WTP Advisory",
-  "metaDescription": "Offshore incorporation enables businesses to expand globally, optimize taxes, and protect assets. WTP Advisory offers tailored solutions to meet diverse business needs.",
+{
+  "title": "Thành lập Công ty Ngoài khơi (Offshore) cùng WTP Advisory",
+  "metaDescription": "Thành lập công ty ngoài khơi (offshore) giúp doanh nghiệp mở rộng toàn cầu, tối ưu thuế và bảo vệ tài sản. WTP Advisory cung cấp các giải pháp được thiết kế riêng đáp ứng đa dạng nhu cầu kinh doanh.",
   "hero": {
-    "eyebrow": "Incorporation",
-    "title": "Offshore InCorporation with WTP Advisory",
-    "subtitle": "Offshore incorporation enables businesses to expand globally, optimize taxes, and protect assets. WTP Advisory offers tailored solutions to meet diverse business needs.",
+    "eyebrow": "Thành lập doanh nghiệp",
+    "title": "Thành lập Công ty Ngoài khơi (Offshore) cùng WTP Advisory",
+    "subtitle": "Thành lập công ty ngoài khơi (offshore) giúp doanh nghiệp mở rộng toàn cầu, tối ưu thuế và bảo vệ tài sản. WTP Advisory cung cấp các giải pháp được thiết kế riêng đáp ứng đa dạng nhu cầu kinh doanh.",
     "cta": {
-      "label": "Talk to Our Experts",
+      "label": "Trao đổi với Chuyên gia",
       "href": "/make-an-inquiry"
     },
     "image": "/incorp/solutions/incorporation.webp"
@@ -14,31 +14,31 @@
   "sections": [
     {
       "type": "richText",
-      "heading": "Benefits of setting up your offshore business",
+      "heading": "Lợi ích của việc thiết lập doanh nghiệp ngoài khơi (offshore)",
       "body": [
-        "Offshore incorporation is a strategic approach that allows businesses to expand their global footprint, optimize tax efficiency, and safeguard assets in a rapidly evolving economic landscape. At WTP Advisory, we provide comprehensive offshore incorporation solutions tailored to meet the diverse needs of businesses across industries.",
-        "With over 30 years of regional expertise and a deep understanding of international corporate structures, WTP Advisory has established itself as a trusted partner for businesses looking to leverage the benefits of offshore jurisdictions. Our team of seasoned professionals ensures seamless navigation through complex legal, regulatory, and financial frameworks, enabling clients to establish and manage their offshore entities with ease and compliance."
+        "Thành lập công ty ngoài khơi (offshore) là một hướng tiếp cận chiến lược cho phép doanh nghiệp mở rộng phạm vi toàn cầu, tối ưu hiệu quả thuế và bảo vệ tài sản trong bối cảnh kinh tế biến động nhanh chóng. Tại WTP Advisory, chúng tôi cung cấp các giải pháp thành lập công ty ngoài khơi toàn diện, được thiết kế riêng để đáp ứng đa dạng nhu cầu của doanh nghiệp trên nhiều ngành nghề.",
+        "Với hơn 30 năm kinh nghiệm trong khu vực và sự am hiểu sâu sắc về các cơ cấu doanh nghiệp quốc tế, WTP Advisory đã khẳng định vị thế là đối tác đáng tin cậy cho các doanh nghiệp muốn tận dụng lợi thế của các vùng tài phán ngoài khơi. Đội ngũ chuyên gia dày dạn của chúng tôi đảm bảo việc xử lý liền mạch các khuôn khổ pháp lý, quy định và tài chính phức tạp, giúp khách hàng thiết lập và quản lý pháp nhân ngoài khơi của mình một cách dễ dàng và tuân thủ."
       ]
     },
     {
       "type": "cards",
-      "heading": "Benefits you can expect when using our Incorporation Service",
+      "heading": "Những lợi ích bạn nhận được khi sử dụng Dịch vụ Thành lập Doanh nghiệp của chúng tôi",
       "columns": 4,
       "items": [
-        { "title": "Up to 100% foreign owned entity", "icon": "rocket" },
-        { "title": "One-stop market entry solution", "icon": "network" },
-        { "title": "Complete Transparency", "icon": "fileCheck", "desc": "Only pay for the services you need." },
-        { "title": "International Prestige", "icon": "globe", "desc": "As part of WTP Advisory." }
+        { "title": "Sở hữu nước ngoài lên đến 100%", "icon": "rocket" },
+        { "title": "Giải pháp gia nhập thị trường trọn gói", "icon": "network" },
+        { "title": "Minh bạch hoàn toàn", "icon": "fileCheck", "desc": "Chỉ trả phí cho những dịch vụ bạn cần." },
+        { "title": "Uy tín quốc tế", "icon": "globe", "desc": "Là một phần của WTP Advisory." }
       ]
     },
     {
       "type": "stats",
-      "heading": "Your Experts in Company Incorporation",
+      "heading": "Chuyên gia của Bạn trong Lĩnh vực Thành lập Doanh nghiệp",
       "items": [
-        { "value": "30+", "label": "Years Track Record" },
-        { "value": "15,000+", "label": "Clients Worldwide" },
-        { "value": "100+", "label": "Companies Incorporated Yearly" },
-        { "value": "1,500+", "label": "Professionals" }
+        { "value": "30+", "label": "Năm kinh nghiệm" },
+        { "value": "15,000+", "label": "Khách hàng trên toàn cầu" },
+        { "value": "100+", "label": "Công ty được thành lập mỗi năm" },
+        { "value": "1,500+", "label": "Chuyên gia" }
       ]
     }
   ],

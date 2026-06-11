@@ -1,12 +1,12 @@
-﻿{
-  "title": "Internal Control Review Services with WTP Advisory",
-  "metaDescription": "WTP Advisory strengthens internal controls to safeguard assets, prevent fraud, and ensure compliance with efficient, risk-mitigating solutions.",
+{
+  "title": "Dịch vụ rà soát kiểm soát nội bộ cùng WTP Advisory",
+  "metaDescription": "WTP Advisory củng cố hệ thống kiểm soát nội bộ để bảo vệ tài sản, ngăn ngừa gian lận và đảm bảo tuân thủ với những giải pháp hiệu quả, giảm thiểu rủi ro.",
   "hero": {
-    "eyebrow": "Services",
-    "title": "Internal Control Review Services with WTP Advisory",
-    "subtitle": "Ensuring strong internal controls is critical for safeguarding assets, preventing fraud, and maintaining regulatory compliance. At WTP Advisory, we help businesses identify weaknesses in their internal control systems and provide actionable solutions to enhance efficiency and mitigate risks.",
+    "eyebrow": "Dịch vụ",
+    "title": "Dịch vụ rà soát kiểm soát nội bộ cùng WTP Advisory",
+    "subtitle": "Đảm bảo hệ thống kiểm soát nội bộ vững mạnh là yếu tố then chốt để bảo vệ tài sản, ngăn ngừa gian lận và duy trì tuân thủ pháp lý. Tại WTP Advisory, chúng tôi giúp doanh nghiệp nhận diện những điểm yếu trong hệ thống kiểm soát nội bộ và đưa ra các giải pháp khả thi nhằm nâng cao hiệu quả và giảm thiểu rủi ro.",
     "cta": {
-      "label": "Make an Inquiry",
+      "label": "Gửi yêu cầu tư vấn",
       "href": "/make-an-inquiry"
     },
     "image": "/incorp/solutions/accounting-finance.jpg"
@@ -14,89 +14,89 @@
   "sections": [
     {
       "type": "richText",
-      "heading": "Why Internal Control Review Matters?",
+      "heading": "Vì sao rà soát kiểm soát nội bộ lại quan trọng?",
       "body": [
-        "A thorough internal control review helps businesses:",
-        "Detect and prevent fraud or financial misstatements",
-        "Improve operational efficiency and accountability",
-        "Ensure compliance with regulatory requirements",
-        "Strengthen financial reporting and risk management",
-        "Safeguard company assets and data"
+        "Một cuộc rà soát kiểm soát nội bộ kỹ lưỡng giúp doanh nghiệp:",
+        "Phát hiện và ngăn ngừa gian lận hoặc sai sót trong báo cáo tài chính",
+        "Nâng cao hiệu quả vận hành và trách nhiệm giải trình",
+        "Đảm bảo tuân thủ các yêu cầu pháp lý",
+        "Củng cố công tác báo cáo tài chính và quản trị rủi ro",
+        "Bảo vệ tài sản và dữ liệu của công ty"
       ]
     },
     {
       "type": "stats",
-      "heading": "Your trusted accounting services provider",
+      "heading": "Đơn vị cung cấp dịch vụ kế toán đáng tin cậy của bạn",
       "items": [
         {
           "value": "30+",
-          "label": "Years Track Record"
+          "label": "Năm bề dày kinh nghiệm"
         },
         {
           "value": "15,000+",
-          "label": "Clients Worldwide"
+          "label": "Khách hàng trên toàn thế giới"
         },
         {
           "value": "120+",
-          "label": "Accounting & Tax Clients"
+          "label": "Khách hàng kế toán & thuế"
         }
       ]
     },
     {
       "type": "cards",
-      "heading": "Why Choose WTP Advisory?",
+      "heading": "Vì sao chọn WTP Advisory?",
       "columns": 2,
       "items": [
         {
-          "title": "Experienced Risk & Compliance Experts",
-          "desc": "Our team brings deep expertise in assessing and optimizing internal control systems.",
+          "title": "Chuyên gia giàu kinh nghiệm về rủi ro & tuân thủ",
+          "desc": "Đội ngũ của chúng tôi sở hữu chuyên môn sâu trong việc đánh giá và tối ưu hóa hệ thống kiểm soát nội bộ.",
           "icon": "users"
         },
         {
-          "title": "Comprehensive Evaluation",
-          "desc": "We review financial controls, operational processes, and IT security measures to identify gaps.",
+          "title": "Đánh giá toàn diện",
+          "desc": "Chúng tôi rà soát các biện pháp kiểm soát tài chính, quy trình vận hành và an ninh công nghệ thông tin để nhận diện các lỗ hổng.",
           "icon": "eye"
         },
         {
-          "title": "Regulatory Compliance",
-          "desc": "Stay ahead of local and international compliance requirements with our expert guidance.",
+          "title": "Tuân thủ pháp lý",
+          "desc": "Luôn dẫn đầu trong việc đáp ứng các yêu cầu tuân thủ trong nước và quốc tế với sự hướng dẫn chuyên môn của chúng tôi.",
           "icon": "shield"
         },
         {
-          "title": "Actionable Insights",
-          "desc": "Receive clear, practical recommendations to enhance control mechanisms and minimize risks.",
+          "title": "Hiểu biết khả thi",
+          "desc": "Nhận những khuyến nghị rõ ràng, thiết thực để củng cố cơ chế kiểm soát và giảm thiểu rủi ro.",
           "icon": "lightbulb"
         },
         {
-          "title": "Customized Solutions",
-          "desc": "Tailored internal control strategies to fit your industry and business size.",
+          "title": "Giải pháp tùy chỉnh",
+          "desc": "Chiến lược kiểm soát nội bộ được thiết kế riêng để phù hợp với ngành nghề và quy mô doanh nghiệp của bạn.",
           "icon": "target"
         }
       ]
     },
     {
       "type": "cards",
-      "heading": "Benefits to Expect from our Internal Control Review",
+      "heading": "Những lợi ích bạn nhận được từ dịch vụ rà soát kiểm soát nội bộ của chúng tôi",
       "columns": 4,
       "items": [
         {
-          "title": "Cost-effective",
-          "desc": "Receive expert compliance advice for a fixed monthly fee, saving on the expense of a full-time legal team.",
+          "title": "Tiết kiệm chi phí",
+          "desc": "Nhận tư vấn tuân thủ chuyên môn với mức phí cố định hằng tháng, tiết kiệm chi phí so với một đội ngũ pháp lý toàn thời gian.",
           "icon": "wallet"
         },
         {
-          "title": "Ongoing Support",
-          "desc": "Regular, reliable guidance ensures your business stays compliant with Vietnam's regulations.",
+          "title": "Hỗ trợ liên tục",
+          "desc": "Sự hướng dẫn thường xuyên và đáng tin cậy đảm bảo doanh nghiệp của bạn luôn tuân thủ quy định của Việt Nam.",
           "icon": "headset"
         },
         {
-          "title": "In-house Expertise",
-          "desc": "We act as your in-house legal team, offering tailored advice on compliance issues without the overhead.",
+          "title": "Chuyên môn như đội ngũ nội bộ",
+          "desc": "Chúng tôi đóng vai trò như đội ngũ pháp lý nội bộ của bạn, đưa ra tư vấn riêng cho các vấn đề tuân thủ mà không phát sinh chi phí vận hành.",
           "icon": "briefcase"
         },
         {
-          "title": "Proactive Risk Management",
-          "desc": "Address potential legal challenges before they become issues, minimizing risk to your business.",
+          "title": "Quản trị rủi ro chủ động",
+          "desc": "Xử lý các thách thức pháp lý tiềm ẩn trước khi chúng trở thành vấn đề, giảm thiểu rủi ro cho doanh nghiệp của bạn.",
           "icon": "clipboard"
         }
       ]
@@ -104,32 +104,32 @@
     {
       "type": "stats",
       "variant": "red",
-      "heading": "Backed by WTP Advisory",
+      "heading": "Được hậu thuẫn bởi WTP Advisory",
       "items": [
         {
           "value": "30+",
-          "label": "Years of experience"
+          "label": "Năm kinh nghiệm"
         },
         {
           "value": "1,500+",
-          "label": "Professionals across APAC"
+          "label": "Chuyên gia trên khắp APAC"
         },
         {
           "value": "20,000+",
-          "label": "Clients served globally"
+          "label": "Khách hàng được phục vụ trên toàn cầu"
         },
         {
           "value": "8",
-          "label": "Markets in Asia-Pacific"
+          "label": "Thị trường tại châu Á - Thái Bình Dương"
         }
       ]
     },
     {
       "type": "cta",
-      "title": "Ready to get started in Vietnam?",
-      "subtitle": "Talk to our experts about how we can support your business.",
+      "title": "Sẵn sàng khởi đầu tại Việt Nam?",
+      "subtitle": "Trao đổi với các chuyên gia của chúng tôi về cách chúng tôi có thể hỗ trợ doanh nghiệp của bạn.",
       "button": {
-        "label": "Make an Inquiry",
+        "label": "Gửi yêu cầu tư vấn",
         "href": "/make-an-inquiry"
       },
       "variant": "red"

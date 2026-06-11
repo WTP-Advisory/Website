@@ -1,12 +1,12 @@
-﻿{
-  "title": "IFRS Conversion Services in Vietnam",
-  "metaDescription": "Ensure financial transparency with our IFRS conversion services. WTP Advisory aligns your reporting with international standards, minimizing disruptions.",
+{
+  "title": "Dịch vụ Chuyển đổi IFRS tại Việt Nam",
+  "metaDescription": "Đảm bảo minh bạch tài chính với dịch vụ chuyển đổi IFRS của chúng tôi. WTP Advisory đưa hệ thống báo cáo của bạn phù hợp với các chuẩn mực quốc tế, giảm thiểu gián đoạn.",
   "hero": {
-    "eyebrow": "Services",
-    "title": "IFRS Conversion Services in Vietnam",
-    "subtitle": "Ensure global financial transparency with our expert IFRS conversion services. WTP Advisory streamlines the process, aligning your financial reporting with international standards while minimizing business disruptions.",
+    "eyebrow": "Dịch vụ",
+    "title": "Dịch vụ Chuyển đổi IFRS tại Việt Nam",
+    "subtitle": "Đảm bảo minh bạch tài chính toàn cầu với dịch vụ chuyển đổi IFRS chuyên nghiệp của chúng tôi. WTP Advisory tinh giản quy trình, đưa hệ thống báo cáo tài chính của bạn phù hợp với các chuẩn mực quốc tế trong khi giảm thiểu gián đoạn hoạt động kinh doanh.",
     "cta": {
-      "label": "Make an Inquiry",
+      "label": "Gửi yêu cầu tư vấn",
       "href": "/make-an-inquiry"
     },
     "image": "/incorp/solutions/accounting-finance.jpg"
@@ -14,86 +14,86 @@
   "sections": [
     {
       "type": "richText",
-      "heading": "Why choose IFRS Conversion services at WTP Advisory?",
+      "heading": "Vì sao nên chọn dịch vụ chuyển đổi IFRS tại WTP Advisory?",
       "body": [
-        "Adopting International Financial Reporting Standards (IFRS) is essential for businesses aiming for transparency, global competitiveness, and seamless financial reporting. However, the conversion process can be complex, requiring deep expertise and a strategic approach.",
-        "At WTP Advisory, we provide end-to-end IFRS conversion services, ensuring accurate compliance with international standards while minimizing disruptions to your operations. Our experts guide you through the entire process, from assessing current financial systems to implementing IFRS-compliant reporting frameworks, enabling your business to meet global financial reporting requirements with confidence."
+        "Việc áp dụng Chuẩn mực Báo cáo Tài chính Quốc tế (IFRS) là thiết yếu đối với các doanh nghiệp hướng tới sự minh bạch, năng lực cạnh tranh toàn cầu và báo cáo tài chính liền mạch. Tuy nhiên, quá trình chuyển đổi có thể phức tạp, đòi hỏi chuyên môn sâu và phương pháp tiếp cận chiến lược.",
+        "Tại WTP Advisory, chúng tôi cung cấp dịch vụ chuyển đổi IFRS trọn gói, đảm bảo tuân thủ chính xác các chuẩn mực quốc tế trong khi giảm thiểu gián đoạn cho hoạt động của bạn. Các chuyên gia của chúng tôi đồng hành cùng bạn xuyên suốt toàn bộ quá trình, từ đánh giá hệ thống tài chính hiện tại đến triển khai khung báo cáo tuân thủ IFRS, giúp doanh nghiệp của bạn tự tin đáp ứng các yêu cầu báo cáo tài chính toàn cầu."
       ],
       "align": "left"
     },
     {
       "type": "stats",
-      "heading": "Your trusted accounting services provider",
+      "heading": "Nhà cung cấp dịch vụ kế toán đáng tin cậy của bạn",
       "items": [
         {
           "value": "30+",
-          "label": "Years Track Record"
+          "label": "Năm hoạt động"
         },
         {
           "value": "15,000+",
-          "label": "Clients Worldwide"
+          "label": "Khách hàng trên toàn thế giới"
         },
         {
           "value": "120+",
-          "label": "Accounting & Tax Clients"
+          "label": "Khách hàng kế toán & thuế"
         }
       ]
     },
     {
       "type": "cards",
-      "heading": "Benefits of IFRS Conversion Services with WTP Advisory",
+      "heading": "Lợi ích của dịch vụ chuyển đổi IFRS cùng WTP Advisory",
       "columns": 4,
       "items": [
         {
-          "title": "Expert Consultation",
-          "desc": "Our accounting experts offer insights into financial best practices and regulations to help you optimize your business operations.",
+          "title": "Tư vấn chuyên môn",
+          "desc": "Các chuyên gia kế toán của chúng tôi mang đến hiểu biết sâu sắc về các thông lệ tài chính tốt nhất và quy định pháp luật để giúp bạn tối ưu hóa hoạt động kinh doanh.",
           "icon": "globe"
         },
         {
-          "title": "Comprehensive Support",
-          "desc": "We offer a full suite of accounting services, from bookkeeping to tax compliance, ensuring seamless financial management.",
+          "title": "Hỗ trợ toàn diện",
+          "desc": "Chúng tôi cung cấp trọn bộ dịch vụ kế toán, từ ghi sổ kế toán đến tuân thủ thuế, đảm bảo quản lý tài chính liền mạch.",
           "icon": "handshake"
         },
         {
-          "title": "Simplified Process",
-          "desc": "We handle the time-consuming tasks of financial record-keeping and reporting, allowing you to focus on your core business activities.",
+          "title": "Quy trình đơn giản",
+          "desc": "Chúng tôi đảm nhận những công việc tốn thời gian trong việc lưu giữ hồ sơ và báo cáo tài chính, cho phép bạn tập trung vào các hoạt động kinh doanh cốt lõi.",
           "icon": "rocket"
         },
         {
-          "title": "Focus on Core Business",
-          "desc": "With our accounting expertise, you can focus on achieving your business goals while ensuring financial accuracy and compliance.",
+          "title": "Tập trung vào hoạt động cốt lõi",
+          "desc": "Với chuyên môn kế toán của chúng tôi, bạn có thể tập trung đạt được mục tiêu kinh doanh trong khi vẫn đảm bảo sự chính xác và tuân thủ về tài chính.",
           "icon": "network"
         }
       ]
     },
     {
       "type": "cards",
-      "heading": "Meet Our Experts",
+      "heading": "Gặp gỡ đội ngũ chuyên gia của chúng tôi",
       "columns": 3,
       "items": [
         {
-          "title": "Michael Tran, CPA, CA",
-          "desc": "Chief Executive Officer",
+          "title": "[Tên CEO], CPA, CA",
+          "desc": "Tổng Giám đốc",
           "icon": "user"
         },
         {
-          "title": "David Pham",
-          "desc": "Head of Business Advisory",
+          "title": "[Tên Trưởng Phòng Tư Vấn]",
+          "desc": "Trưởng phòng Tư vấn doanh nghiệp",
           "icon": "userCheck"
         },
         {
-          "title": "Linh Hoang",
-          "desc": "Head of Corporate Secretarial and Advisory Services",
+          "title": "[Tên Trưởng Phòng Thư Ký]",
+          "desc": "Trưởng phòng Dịch vụ Thư ký doanh nghiệp và Tư vấn",
           "icon": "users"
         }
       ]
     },
     {
       "type": "cta",
-      "title": "Ready to get started in Vietnam?",
-      "subtitle": "Talk to our experts about how we can support your business.",
+      "title": "Sẵn sàng khởi đầu tại Việt Nam?",
+      "subtitle": "Hãy trao đổi với các chuyên gia của chúng tôi về cách chúng tôi có thể hỗ trợ doanh nghiệp của bạn.",
       "button": {
-        "label": "Make an Inquiry",
+        "label": "Gửi yêu cầu tư vấn",
         "href": "/make-an-inquiry"
       },
       "variant": "red"

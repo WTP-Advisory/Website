@@ -1,12 +1,12 @@
-﻿{
-  "title": "Valuation Services in Vietnam",
-  "metaDescription": "Our Valuation services in Vietnam offer accurate, data-driven assessments for strategic decisions and financial planning.",
+{
+  "title": "Dịch vụ Định giá tại Việt Nam",
+  "metaDescription": "Dịch vụ định giá của chúng tôi tại Việt Nam cung cấp các đánh giá chính xác, dựa trên dữ liệu phục vụ quyết định chiến lược và lập kế hoạch tài chính.",
   "hero": {
-    "eyebrow": "Services",
-    "title": "Valuation Services in Vietnam",
-    "subtitle": "Our Valuation services in Vietnam provide accurate, data-driven assessments of businesses, assets, and investments to support strategic decision-making and financial planning.",
+    "eyebrow": "Dịch vụ",
+    "title": "Dịch vụ Định giá tại Việt Nam",
+    "subtitle": "Dịch vụ định giá của chúng tôi tại Việt Nam cung cấp các đánh giá chính xác, dựa trên dữ liệu về doanh nghiệp, tài sản và khoản đầu tư nhằm hỗ trợ ra quyết định chiến lược và lập kế hoạch tài chính.",
     "cta": {
-      "label": "Make an Inquiry",
+      "label": "Gửi yêu cầu tư vấn",
       "href": "/make-an-inquiry"
     },
     "image": "/incorp/solutions/accounting-finance.jpg"
@@ -14,87 +14,87 @@
   "sections": [
     {
       "type": "richText",
-      "heading": "The importance of Valuation services?",
+      "heading": "Tầm quan trọng của dịch vụ định giá?",
       "body": [
-        "Value can take many forms, including tangible and intangible assets, investments, or intellectual property. In today's global economy, businesses must assess whether opportunities or transactions enhance or detract from value. Valuations are crucial for mergers and acquisitions, tax structuring, dispute resolution, corporate restructuring, and financial reporting. Given their subjective nature, an independent and robust valuation is essential, especially in light of recent global business changes requiring professional expertise."
+        "Giá trị có thể tồn tại dưới nhiều hình thức, bao gồm tài sản hữu hình và vô hình, khoản đầu tư hoặc sở hữu trí tuệ. Trong nền kinh tế toàn cầu ngày nay, các doanh nghiệp phải đánh giá xem cơ hội hay giao dịch sẽ làm tăng hay giảm giá trị. Định giá đóng vai trò then chốt trong các thương vụ mua bán và sáp nhập, cơ cấu thuế, giải quyết tranh chấp, tái cấu trúc doanh nghiệp và báo cáo tài chính. Do mang tính chủ quan, một cuộc định giá độc lập và vững chắc là điều thiết yếu, đặc biệt trong bối cảnh những thay đổi gần đây của môi trường kinh doanh toàn cầu đòi hỏi chuyên môn chuyên nghiệp."
       ],
       "align": "left"
     },
     {
       "type": "stats",
       "variant": "red",
-      "heading": "Your trusted accounting services provider",
+      "heading": "Nhà cung cấp dịch vụ kế toán đáng tin cậy của bạn",
       "items": [
         {
           "value": "30+",
-          "label": "Years Track Record"
+          "label": "Năm hoạt động"
         },
         {
           "value": "15,000+",
-          "label": "Clients Worldwide"
+          "label": "Khách hàng trên toàn thế giới"
         },
         {
           "value": "120+",
-          "label": "Accounting & Tax Clients"
+          "label": "Khách hàng kế toán & thuế"
         }
       ]
     },
     {
       "type": "cards",
-      "heading": "Comprehensive Valuation Services at WTP Advisory",
+      "heading": "Dịch vụ định giá toàn diện tại WTP Advisory",
       "columns": 4,
       "items": [
         {
-          "title": "Merger & Acquisitions",
+          "title": "Mua bán & sáp nhập",
           "icon": "coins"
         },
         {
-          "title": "Financial Reporting",
+          "title": "Báo cáo tài chính",
           "icon": "fileCheck"
         },
         {
-          "title": "Dispute, arbitration and litigation",
+          "title": "Tranh chấp, trọng tài và tố tụng",
           "icon": "scale"
         },
         {
-          "title": "Taxation",
+          "title": "Thuế",
           "icon": "receipt"
         }
       ]
     },
     {
       "type": "cards",
-      "heading": "Seamless Accounting Management with Vietnam WTP Advisory",
+      "heading": "Quản lý kế toán liền mạch cùng WTP Advisory Việt Nam",
       "columns": 4,
       "items": [
         {
-          "title": "Expert Consultation",
-          "desc": "Our accounting experts offer insights into financial best practices and regulations to help you optimize your business operations.",
+          "title": "Tư vấn chuyên môn",
+          "desc": "Các chuyên gia kế toán của chúng tôi mang đến hiểu biết sâu sắc về các thông lệ tài chính tốt nhất và quy định pháp luật để giúp bạn tối ưu hóa hoạt động kinh doanh.",
           "icon": "globe"
         },
         {
-          "title": "Comprehensive Support",
-          "desc": "We offer a full suite of accounting services, from bookkeeping to tax compliance, ensuring seamless financial management.",
+          "title": "Hỗ trợ toàn diện",
+          "desc": "Chúng tôi cung cấp trọn bộ dịch vụ kế toán, từ ghi sổ kế toán đến tuân thủ thuế, đảm bảo quản lý tài chính liền mạch.",
           "icon": "handshake"
         },
         {
-          "title": "Simplified Process",
-          "desc": "We handle the time-consuming tasks of financial record-keeping and reporting, allowing you to focus on your core business activities.",
+          "title": "Quy trình đơn giản",
+          "desc": "Chúng tôi đảm nhận những công việc tốn thời gian trong việc lưu giữ hồ sơ và báo cáo tài chính, cho phép bạn tập trung vào các hoạt động kinh doanh cốt lõi.",
           "icon": "rocket"
         },
         {
-          "title": "Focus on Core Business",
-          "desc": "With our accounting expertise, you can focus on achieving your business goals while ensuring financial accuracy and compliance.",
+          "title": "Tập trung vào hoạt động cốt lõi",
+          "desc": "Với chuyên môn kế toán của chúng tôi, bạn có thể tập trung đạt được mục tiêu kinh doanh trong khi vẫn đảm bảo sự chính xác và tuân thủ về tài chính.",
           "icon": "network"
         }
       ]
     },
     {
       "type": "cta",
-      "title": "Ready to get started in Vietnam?",
-      "subtitle": "Talk to our experts about how we can support your business.",
+      "title": "Sẵn sàng khởi đầu tại Việt Nam?",
+      "subtitle": "Hãy trao đổi với các chuyên gia của chúng tôi về cách chúng tôi có thể hỗ trợ doanh nghiệp của bạn.",
       "button": {
-        "label": "Make an Inquiry",
+        "label": "Gửi yêu cầu tư vấn",
         "href": "/make-an-inquiry"
       },
       "variant": "red"

@@ -1,30 +1,30 @@
-﻿{
-  "heading": "Enter the Vietnamese market and beyond",
-  "intro": "With a decade of experience and a vast network, WTP Advisory has emerged as a distinguished consulting company, providing comprehensive corporate services to cater to your business needs.",
+{
+  "heading": "Thâm nhập thị trường Việt Nam và vươn xa hơn",
+  "intro": "Với một thập kỷ kinh nghiệm và mạng lưới rộng khắp, WTP Advisory đã trở thành một công ty tư vấn uy tín, cung cấp dịch vụ doanh nghiệp toàn diện đáp ứng mọi nhu cầu kinh doanh của bạn.",
   "items": [
     {
       "value": "20,000+",
-      "label": "clients worldwide",
+      "label": "khách hàng trên toàn cầu",
       "icon": "/incorp/stats/clients.svg",
-      "alt": "15000 clients worldwide"
+      "alt": "15000 khách hàng trên toàn cầu"
     },
     {
       "value": "1,500+",
-      "label": "professional staff",
+      "label": "nhân sự chuyên nghiệp",
       "icon": "/incorp/stats/staff.svg",
-      "alt": "1000 staff"
+      "alt": "1000 nhân sự"
     },
     {
       "value": "30+",
-      "label": "years track record",
+      "label": "năm bề dày kinh nghiệm",
       "icon": "/incorp/stats/track-record.svg",
-      "alt": "30 years track record"
+      "alt": "30 năm bề dày kinh nghiệm"
     },
     {
       "value": "20+",
-      "label": "global partners",
+      "label": "đối tác toàn cầu",
       "icon": "/incorp/stats/partners.svg",
-      "alt": "30 global partners"
+      "alt": "30 đối tác toàn cầu"
     }
   ]
 }

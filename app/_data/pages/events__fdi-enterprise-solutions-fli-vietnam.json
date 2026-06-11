@@ -1,53 +1,53 @@
-﻿{
+{
   "layout": "event",
-  "title": "WTP Advisory x FLI: How can strategic sales management boost your sales? – Hanoi",
-  "metaDescription": "An exclusive FDI enterprise solutions workshop on strategic sales management for businesses in northern Vietnam, presented by WTP Advisory with the Frontier Leader Institute (FLI).",
+  "title": "WTP Advisory x FLI: Quản trị bán hàng chiến lược có thể thúc đẩy doanh số của bạn như thế nào? – Hà Nội",
+  "metaDescription": "Một hội thảo chuyên đề độc quyền về giải pháp cho doanh nghiệp FDI với chủ đề quản trị bán hàng chiến lược dành cho các doanh nghiệp tại miền Bắc Việt Nam, do WTP Advisory trình bày cùng Frontier Leader Institute (FLI).",
   "banner": "/incorp/events/fdi-fli.jpg",
   "format": "Offline",
-  "date": "September 19, 2024",
+  "date": "Ngày 19 tháng 9 năm 2024",
   "about": [
-    "Join us on September 19th, 2024, in Hanoi for an exclusive workshop designed to elevate your sales team's performance. In collaboration with the Frontier Leader Institute (FLI), WTP Advisory proudly presents “How Can Strategic Sales Management Boost Your Revenue?”, led by Mrs. Thanh Lam, Former CEO of VinFast Europe.",
-    "This workshop offers actionable strategies and insights tailored for FDI companies in Vietnam, aimed at driving sustainable growth and securing your competitive edge in the dynamic market. Don't miss this opportunity to transform your sales approach and achieve long-term success."
+    "Hãy tham gia cùng chúng tôi vào ngày 19 tháng 9 năm 2024 tại Hà Nội trong một hội thảo độc quyền được thiết kế để nâng tầm hiệu suất của đội ngũ bán hàng. Phối hợp cùng Frontier Leader Institute (FLI), WTP Advisory tự hào giới thiệu “Quản trị Bán hàng Chiến lược có thể Thúc đẩy Doanh thu của bạn như thế nào?”, do bà [Tên Diễn Giả - VinFast Europe], Nguyên CEO của VinFast Europe, dẫn dắt.",
+    "Hội thảo này mang đến những chiến lược và góc nhìn có thể áp dụng thực tế, được thiết kế riêng cho các doanh nghiệp FDI tại Việt Nam, nhằm thúc đẩy tăng trưởng bền vững và giữ vững lợi thế cạnh tranh trong một thị trường đầy biến động. Đừng bỏ lỡ cơ hội này để chuyển đổi cách tiếp cận bán hàng và đạt được thành công lâu dài."
   ],
   "details": [
-    { "label": "Date", "value": "Thursday, September 19, 2024" },
-    { "label": "Time", "value": "17:30 – 20:30 (GMT+7)" },
-    { "label": "Location", "value": "Floor 3, Aura Building, The Manor Central Park, Nguyen Xien Street, Dai Kim, Hoang Mai Ward, Hanoi City" }
+    { "label": "Ngày", "value": "Thứ Năm, ngày 19 tháng 9 năm 2024" },
+    { "label": "Thời gian", "value": "17:30 – 20:30 (GMT+7)" },
+    { "label": "Địa điểm", "value": "Tầng 3, Tòa nhà Aura, The Manor Central Park, Đường Nguyễn Xiển, Đại Kim, Phường Hoàng Mai, Hà Nội" }
   ],
   "bulletSections": [
     {
-      "heading": "What You'll Learn",
-      "intro": "Our comprehensive workshop series covers a range of customer-centric topics critical to your business.",
+      "heading": "Những điều bạn sẽ học được",
+      "intro": "Chuỗi hội thảo toàn diện của chúng tôi bao quát nhiều chủ đề lấy khách hàng làm trọng tâm, có ý nghĩa then chốt đối với doanh nghiệp của bạn.",
       "items": [
-        "Essential Leadership Skills — cultivate the qualities needed to inspire and guide your team towards organizational goals",
-        "Effective People Management — manage and motivate your workforce, fostering a productive and positive work environment",
-        "Dynamic Sales Strategies — develop cutting-edge techniques to boost your revenue and market presence",
-        "Exceptional Customer Relationship Management — enhance engagement and satisfaction through proven CRM practices",
-        "Efficient Project Management — deliver results on time and within budget",
-        "Resilient Crisis Management — navigate and mitigate crises to keep your business resilient"
+        "Kỹ năng Lãnh đạo Thiết yếu — trau dồi những phẩm chất cần thiết để truyền cảm hứng và dẫn dắt đội ngũ hướng tới mục tiêu của tổ chức",
+        "Quản trị Nhân sự Hiệu quả — quản lý và tạo động lực cho đội ngũ, xây dựng môi trường làm việc năng suất và tích cực",
+        "Chiến lược Bán hàng Năng động — phát triển những kỹ thuật tiên tiến để thúc đẩy doanh thu và sự hiện diện trên thị trường",
+        "Quản trị Quan hệ Khách hàng Xuất sắc — nâng cao sự gắn kết và hài lòng thông qua các thực hành CRM đã được kiểm chứng",
+        "Quản trị Dự án Hiệu quả — mang lại kết quả đúng hạn và trong phạm vi ngân sách",
+        "Quản trị Khủng hoảng Linh hoạt — ứng phó và giảm thiểu khủng hoảng để giữ cho doanh nghiệp luôn vững vàng"
       ]
     },
     {
-      "heading": "What You'll Gain",
+      "heading": "Những điều bạn sẽ đạt được",
       "items": [
-        "Strategic Sales Leadership — develop winning sales strategies that drive measurable growth",
-        "High-Impact Team Management — advanced techniques to inspire and lead a top-performing sales team",
-        "Data-Driven Decision Making — use analytics to refine your approach and enhance sales outcomes",
-        "Deep Customer Insight — tailor your strategies to the nuances of the Vietnamese market"
+        "Lãnh đạo Bán hàng Chiến lược — xây dựng những chiến lược bán hàng thắng lợi, mang lại tăng trưởng đo lường được",
+        "Quản trị Đội ngũ Hiệu quả Cao — những kỹ thuật nâng cao để truyền cảm hứng và dẫn dắt một đội ngũ bán hàng hàng đầu",
+        "Ra quyết định Dựa trên Dữ liệu — sử dụng phân tích để tinh chỉnh cách tiếp cận và cải thiện kết quả bán hàng",
+        "Thấu hiểu Sâu sắc Khách hàng — điều chỉnh chiến lược phù hợp với những đặc thù của thị trường Việt Nam"
       ]
     }
   ],
   "registration": {
-    "heading": "Reserve Your Spot",
-    "subtitle": "Join the Frontier Leadership Institute's exclusive workshop series and take the first step towards transforming your business.",
-    "schedule": "September 19, 2024 | 17:30 – 20:30 (GMT+7)"
+    "heading": "Giữ chỗ cho bạn",
+    "subtitle": "Tham gia chuỗi hội thảo độc quyền của Frontier Leadership Institute và bước những bước đầu tiên để chuyển đổi doanh nghiệp của bạn.",
+    "schedule": "Ngày 19 tháng 9 năm 2024 | 17:30 – 20:30 (GMT+7)"
   },
   "prev": {
-    "title": "[Savills x WTP Advisory] Gateway to Growth 2024: Ha Noi and Northern Vietnam's Investment Landscape",
+    "title": "[Savills x WTP Advisory] Gateway to Growth 2024: Bức tranh Đầu tư tại Hà Nội và Miền Bắc Việt Nam",
     "href": "/events/gateway-to-growth-hanoi-and-northern-investment"
   },
   "next": {
-    "title": "Vietnam Economic Outlook: Half-Year Review and Future Prospects for H2 2024 and Beyond",
+    "title": "Triển vọng Kinh tế Việt Nam: Đánh giá Nửa năm và Triển vọng cho Nửa cuối năm 2024 và Xa hơn",
     "href": "/events/economic-outlook-half-year-review-future-prospects-h2-2024"
   }
 }

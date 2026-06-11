@@ -1,12 +1,12 @@
-﻿{
-  "title": "Accounting and Tax Services in Vietnam",
-  "metaDescription": "Simplify your finances with trusted accounting and tax services in Vietnam. Our experts ensure accuracy, compliance, and peace of mind — so you can focus on growth.",
+{
+  "title": "Dịch vụ Kế toán và Thuế tại Việt Nam",
+  "metaDescription": "Đơn giản hóa công tác tài chính với dịch vụ kế toán và thuế đáng tin cậy tại Việt Nam. Đội ngũ chuyên gia của chúng tôi đảm bảo sự chính xác, tuân thủ và an tâm tuyệt đối — để bạn tập trung vào tăng trưởng.",
   "hero": {
-    "eyebrow": "Services",
-    "title": "Accounting and Tax Services in Vietnam",
-    "subtitle": "Save money and time with our accounting services in Vietnam. Focus on your bottom line and let us streamline your tax returns and submissions. Avoid fines and legal pressure while maintaining full compliance.",
+    "eyebrow": "Dịch vụ",
+    "title": "Dịch vụ Kế toán và Thuế tại Việt Nam",
+    "subtitle": "Tiết kiệm chi phí và thời gian với dịch vụ kế toán của chúng tôi tại Việt Nam. Hãy tập trung vào lợi nhuận và để chúng tôi xử lý việc kê khai, nộp thuế. Tránh các khoản phạt và áp lực pháp lý trong khi vẫn tuân thủ đầy đủ quy định.",
     "cta": {
-      "label": "Make an Inquiry",
+      "label": "Gửi yêu cầu tư vấn",
       "href": "/make-an-inquiry"
     },
     "image": "/incorp/solutions/accounting-finance.jpg"
@@ -14,270 +14,270 @@
   "sections": [
     {
       "type": "cards",
-      "heading": "Benefits of Accounting Services & Tax Reporting Outsourcing",
+      "heading": "Lợi ích của việc thuê ngoài dịch vụ kế toán & báo cáo thuế",
       "columns": 4,
       "items": [
         {
-          "title": "Easy accounting compliance",
-          "desc": "Never mess up financial statements with our expert accounting services for small businesses.",
+          "title": "Tuân thủ kế toán dễ dàng",
+          "desc": "Không bao giờ sai sót trong báo cáo tài chính nhờ dịch vụ kế toán chuyên nghiệp dành cho doanh nghiệp nhỏ.",
           "icon": "rocket"
         },
         {
-          "title": "Expert accountants at your service",
-          "desc": "Work with a bilingual team experienced in personalized accounting in Vietnam.",
+          "title": "Đội ngũ kế toán chuyên gia luôn sẵn sàng",
+          "desc": "Làm việc cùng đội ngũ song ngữ giàu kinh nghiệm trong lĩnh vực kế toán cá nhân hóa tại Việt Nam.",
           "icon": "headset"
         },
         {
-          "title": "Get accurate reports submitted on time",
-          "desc": "Take advantage of our expertise in taxation for timely and compliant tax reporting.",
+          "title": "Báo cáo chính xác, nộp đúng hạn",
+          "desc": "Tận dụng chuyên môn về thuế của chúng tôi để báo cáo thuế kịp thời và tuân thủ quy định.",
           "icon": "fileCheck"
         },
         {
-          "title": "Global Reach",
-          "desc": "As part of WTP Advisory, we provide quality accounting services in eight APAC countries.",
+          "title": "Phạm vi toàn cầu",
+          "desc": "Là một phần của WTP Advisory, chúng tôi cung cấp dịch vụ kế toán chất lượng tại tám quốc gia khu vực Châu Á - Thái Bình Dương.",
           "icon": "globe"
         }
       ]
     },
     {
       "type": "table",
-      "heading": "Vietnam's Main Taxes on Foreign Companies",
+      "heading": "Các loại thuế chính của Việt Nam đối với doanh nghiệp nước ngoài",
       "columns": [
-        "Corporate Income Tax",
-        "Value-Added Tax",
-        "Personal Income Tax",
-        "Business License Tax"
+        "Thuế thu nhập doanh nghiệp",
+        "Thuế giá trị gia tăng",
+        "Thuế thu nhập cá nhân",
+        "Thuế môn bài"
       ],
       "rows": [
         {
-          "label": "Applicable",
+          "label": "Đối tượng áp dụng",
           "cells": [
-            "All companies except Representative Office",
-            "All companies",
-            "All companies",
-            "All companies"
+            "Tất cả doanh nghiệp, trừ Văn phòng đại diện",
+            "Tất cả doanh nghiệp",
+            "Tất cả doanh nghiệp",
+            "Tất cả doanh nghiệp"
           ]
         },
         {
-          "label": "Tax Rate",
+          "label": "Thuế suất",
           "cells": [
-            "Standard: 20%, Incentivized: 0-17%, Restricted: 32-50%",
-            "Standard: 10%*, Incentivized: 0-5%",
-            "5-35% (depending on income)",
-            "VND 2,000,000 – 3,000,000 (depending on capital)"
+            "Tiêu chuẩn: 20%, Ưu đãi: 0-17%, Hạn chế: 32-50%",
+            "Tiêu chuẩn: 10%*, Ưu đãi: 0-5%",
+            "5-35% (tùy theo thu nhập)",
+            "2.000.000 – 3.000.000 VND (tùy theo vốn)"
           ]
         },
         {
-          "label": "Declaration Frequency",
+          "label": "Tần suất kê khai",
           "cells": [
-            "Quarterly, Yearly",
-            "Monthly, Quarterly, Yearly",
-            "Monthly, Yearly",
-            "Monthly, Yearly"
+            "Theo quý, Theo năm",
+            "Theo tháng, Theo quý, Theo năm",
+            "Theo tháng, Theo năm",
+            "Theo tháng, Theo năm"
           ]
         }
       ]
     },
     {
       "type": "richText",
-      "heading": "Outsource Your Accounting & Taxation Services to WTP Advisory",
+      "heading": "Thuê ngoài dịch vụ kế toán & thuế cho WTP Advisory",
       "align": "center",
       "body": [
-        "Recruiting and managing your accounting team can be costly, time-consuming, and sometimes frustrating. Let our SME accounting solutions handle your tax filing and submission, and financial statement preparation and reporting."
+        "Việc tuyển dụng và quản lý đội ngũ kế toán có thể tốn kém, mất thời gian và đôi khi gây nhiều phiền toái. Hãy để các giải pháp kế toán dành cho SME của chúng tôi đảm nhận việc kê khai, nộp thuế cũng như lập và báo cáo báo cáo tài chính cho bạn."
       ]
     },
     {
       "type": "richText",
-      "heading": "Accounting and Tax Report Setup – Implementation",
+      "heading": "Thiết lập kế toán và báo cáo thuế – Triển khai",
       "body": [
-        "WTP Advisory streamlines your business with efficient e-tax management and comprehensive tax services in Vietnam. We handle administrative tasks like E-invoice setup, online presence on the Government Portal, document collection, and tailored accounting software, freeing you to focus on business growth."
+        "WTP Advisory tinh giản hoạt động doanh nghiệp của bạn với quy trình quản lý thuế điện tử hiệu quả và dịch vụ thuế toàn diện tại Việt Nam. Chúng tôi xử lý các tác vụ hành chính như thiết lập hóa đơn điện tử, đăng ký hiện diện trực tuyến trên Cổng thông tin Chính phủ, thu thập chứng từ và cấu hình phần mềm kế toán phù hợp, giúp bạn rảnh tay tập trung phát triển kinh doanh."
       ]
     },
     {
       "type": "list",
-      "heading": "The Setup – Implementation service helps you:",
+      "heading": "Dịch vụ Thiết lập – Triển khai giúp bạn:",
       "columns": 1,
       "items": [
-        "Create an online account for the company on the Government Online Portal",
-        "Register of E-tax declaration and E-tax payment",
-        "Prepare online folders for collecting required accounting supporting documents from clients",
-        "Set up the initial accounts on Accounting Software based on your business lines"
+        "Tạo tài khoản trực tuyến cho doanh nghiệp trên Cổng thông tin điện tử của Chính phủ",
+        "Đăng ký kê khai thuế điện tử và nộp thuế điện tử",
+        "Chuẩn bị thư mục trực tuyến để thu thập các chứng từ kế toán cần thiết từ khách hàng",
+        "Thiết lập hệ thống tài khoản ban đầu trên phần mềm kế toán dựa trên ngành nghề kinh doanh của bạn"
       ]
     },
     {
       "type": "richText",
-      "heading": "Monthly/ Quarterly Accounting",
+      "heading": "Kế toán theo tháng/quý",
       "body": [
-        "Discover WTP Advisory's comprehensive routine accounting services to simplify your financial management and safeguard your business. Let us manage everything from accounting to tax filing, ensuring compliance with VAS and tax regulations."
+        "Khám phá dịch vụ kế toán thường xuyên toàn diện của WTP Advisory để đơn giản hóa công tác quản lý tài chính và bảo vệ doanh nghiệp của bạn. Hãy để chúng tôi quản lý mọi việc, từ kế toán đến kê khai thuế, đảm bảo tuân thủ chuẩn mực VAS và các quy định về thuế."
       ]
     },
     {
       "type": "list",
-      "heading": "The Monthly/Quarterly Accounting service helps you:",
+      "heading": "Dịch vụ Kế toán theo tháng/quý giúp bạn:",
       "columns": 1,
       "items": [
-        "Review accounting invoices, and the documentation provided",
-        "Post day-to-day transactions into accounting software, comply with the Vietnam Accounting Standard (VAS) and tax regulations",
-        "Prepare statutory monthly/quarterly and yearly VAS reports (except PIT declaration and finalization)",
-        "Work with the Tax Department on tax compliance issues"
+        "Rà soát hóa đơn kế toán và các chứng từ được cung cấp",
+        "Hạch toán các giao dịch phát sinh hằng ngày vào phần mềm kế toán, tuân thủ Chuẩn mực Kế toán Việt Nam (VAS) và các quy định về thuế",
+        "Lập các báo cáo VAS theo tháng/quý và theo năm theo luật định (trừ kê khai và quyết toán thuế TNCN)",
+        "Làm việc với Cơ quan Thuế về các vấn đề tuân thủ thuế"
       ]
     },
     {
       "type": "richText",
-      "heading": "Value Added Tax (VAT) Compliance Service",
+      "heading": "Dịch vụ tuân thủ thuế Giá trị gia tăng (VAT)",
       "body": [
-        "Our dedicated team for VAT services in Vietnam handles input and output obligations, manages monthly and quarterly declarations, processes refund claims for investors, and meets annual requirements on your behalf. Stay informed about VAT payments with our seamless tax compliance solutions."
+        "Đội ngũ chuyên trách về dịch vụ VAT tại Việt Nam của chúng tôi xử lý nghĩa vụ thuế đầu vào và đầu ra, quản lý kê khai theo tháng và quý, xử lý hồ sơ hoàn thuế cho nhà đầu tư và đáp ứng các yêu cầu hằng năm thay cho bạn. Luôn nắm rõ tình hình nộp thuế VAT nhờ giải pháp tuân thủ thuế liền mạch của chúng tôi."
       ]
     },
     {
       "type": "list",
-      "heading": "The VAT Compliance Service helps you:",
+      "heading": "Dịch vụ tuân thủ VAT giúp bạn:",
       "columns": 1,
       "items": [
-        "Prepare monthly/ quarterly VAT declarations",
-        "Update monthly/quarterly to the Client of the VAT payable and make the VAT payments",
-        "Submit monthly/quarterly the VAT declarations to the Tax Online Portal"
+        "Lập tờ khai VAT theo tháng/quý",
+        "Cập nhật theo tháng/quý cho Khách hàng về số thuế VAT phải nộp và thực hiện nộp thuế VAT",
+        "Nộp tờ khai VAT theo tháng/quý lên Cổng thông tin thuế điện tử"
       ]
     },
     {
       "type": "cta",
-      "title": "Not sure where to start? Talk to a consultant.",
-      "subtitle": "Whether you need an employer of record service or payroll services for small business, WTP Advisory offers contractor payroll services that give your company a strategic advantage.",
+      "title": "Chưa biết bắt đầu từ đâu? Hãy trao đổi với chuyên gia tư vấn.",
+      "subtitle": "Dù bạn cần dịch vụ employer of record hay dịch vụ tính lương cho doanh nghiệp nhỏ, WTP Advisory cung cấp dịch vụ tính lương cho nhà thầu mang lại lợi thế chiến lược cho công ty của bạn.",
       "button": {
-        "label": "Make an Inquiry",
+        "label": "Gửi yêu cầu tư vấn",
         "href": "/make-an-inquiry"
       },
       "variant": "blue"
     },
     {
       "type": "richText",
-      "heading": "Corporate Income Tax (CIT) Compliance",
+      "heading": "Tuân thủ thuế Thu nhập doanh nghiệp (CIT)",
       "body": [
-        "Explore WTP Advisory's CIT management service, which simplifies your tax operations. We handle CIT installment calculation, business tax preparation, and payment reminders, and ensure smooth compliance for your business's success."
+        "Khám phá dịch vụ quản lý CIT của WTP Advisory, giúp đơn giản hóa các hoạt động về thuế của bạn. Chúng tôi tính toán số thuế CIT tạm nộp, chuẩn bị hồ sơ thuế doanh nghiệp, nhắc nhở thời hạn nộp và đảm bảo tuân thủ thông suốt vì thành công của doanh nghiệp bạn."
       ]
     },
     {
       "type": "list",
-      "heading": "The CIT Compliance service helps you:",
+      "heading": "Dịch vụ tuân thủ CIT giúp bạn:",
       "columns": 1,
       "items": [
-        "Prepare and calculate monthly/quarterly CIT installment amounts.",
-        "Update you monthly or quarterly on the CIT payables and proceeds with the CIT payments."
+        "Lập và tính toán số thuế CIT tạm nộp theo tháng/quý.",
+        "Cập nhật cho bạn theo tháng hoặc quý về số thuế CIT phải nộp và thực hiện nộp thuế CIT."
       ]
     },
     {
       "type": "richText",
-      "heading": "Year-end Services",
+      "heading": "Dịch vụ cuối năm",
       "body": [
-        "WTP Advisory specializes in financial reporting services and annual CIT finalization for seamless tax compliance. Our services include preparing Financial Statements, facilitating CIT discussions, and ensuring smooth Tax Online Portal submissions. For FDI firms, we provide auditing services and comprehensive digital records for hassle-free financial management."
+        "WTP Advisory chuyên về dịch vụ báo cáo tài chính và quyết toán CIT hằng năm để đảm bảo tuân thủ thuế liền mạch. Dịch vụ của chúng tôi bao gồm lập báo cáo tài chính, hỗ trợ trao đổi về CIT và đảm bảo nộp hồ sơ thông suốt trên Cổng thông tin thuế điện tử. Đối với các doanh nghiệp FDI, chúng tôi cung cấp dịch vụ kiểm toán cùng hồ sơ số toàn diện để quản lý tài chính không phiền hà."
       ]
     },
     {
       "type": "list",
-      "heading": "Our Year-end Compliance service helps you:",
+      "heading": "Dịch vụ tuân thủ cuối năm của chúng tôi giúp bạn:",
       "columns": 1,
       "items": [
-        "Prepare Financial Statements, and discuss the final CIT amount",
-        "Submit Financial Statements to Tax Online Portal https://thuedientu.gdt.gov.vn/",
-        "Support your team to work with independent auditors in Vietnam (for FDI companies)",
-        "Prepare and submit the Annual CIT Finalization (if using ad-hoc cost)",
-        "Hand over the implemented accounting books in digital format"
+        "Lập báo cáo tài chính và trao đổi về số thuế CIT cuối cùng",
+        "Nộp báo cáo tài chính lên Cổng thông tin thuế điện tử https://thuedientu.gdt.gov.vn/",
+        "Hỗ trợ đội ngũ của bạn làm việc với kiểm toán viên độc lập tại Việt Nam (đối với doanh nghiệp FDI)",
+        "Lập và nộp Quyết toán CIT hằng năm (nếu sử dụng chi phí phát sinh)",
+        "Bàn giao sổ sách kế toán đã thực hiện dưới định dạng số"
       ]
     },
     {
       "type": "richText",
-      "heading": "Other Ad-hoc Services",
+      "heading": "Các dịch vụ phát sinh khác",
       "body": [
-        "WTP Advisory handles your FDI Company's financial statements submission and mandatory Department of Finance report submission so you can focus on your core business. We also print all tax declarations, statements, and records for your convenience."
+        "WTP Advisory đảm nhận việc nộp báo cáo tài chính của doanh nghiệp FDI và nộp báo cáo bắt buộc cho Sở Tài chính để bạn có thể tập trung vào hoạt động kinh doanh cốt lõi. Chúng tôi cũng in toàn bộ tờ khai thuế, báo cáo và chứng từ để bạn thuận tiện."
       ]
     },
     {
       "type": "list",
-      "heading": "Our Ad-hoc Financial Reporting Services Include",
+      "heading": "Dịch vụ báo cáo tài chính phát sinh của chúng tôi bao gồm",
       "columns": 1,
       "items": [
-        "Submit Financial Statements to the Statistics Department and perform the Statistical Corporate investigation",
-        "Submit the hard copy of the Audited Financial Statements report to the Department of Finance (for FDI companies)",
-        "Print all Tax Declarations, Financial Statements, Inventory input-output, petty Cash payments/ receipts, General Ledger for Client's filing"
+        "Nộp báo cáo tài chính cho Cục Thống kê và thực hiện điều tra thống kê doanh nghiệp",
+        "Nộp bản cứng báo cáo tài chính đã được kiểm toán cho Sở Tài chính (đối với doanh nghiệp FDI)",
+        "In toàn bộ tờ khai thuế, báo cáo tài chính, nhập-xuất tồn kho, phiếu thu/chi tiền mặt, sổ cái để lưu trữ cho Khách hàng"
       ]
     },
     {
       "type": "cards",
-      "heading": "Additional Tax Accounting Services for Your Business",
+      "heading": "Các dịch vụ kế toán thuế bổ sung cho doanh nghiệp của bạn",
       "columns": 2,
       "items": [
         {
-          "title": "Third Party Audit & Tax Advisory",
-          "desc": "Ensure compliance with mandatory annual financial statement audits for foreign-invested entities and receive expert tax compliance consultation for your company",
+          "title": "Kiểm toán & tư vấn thuế bên thứ ba",
+          "desc": "Đảm bảo tuân thủ yêu cầu kiểm toán báo cáo tài chính hằng năm bắt buộc đối với doanh nghiệp có vốn đầu tư nước ngoài và nhận tư vấn chuyên môn về tuân thủ thuế cho công ty của bạn",
           "icon": "eye"
         },
         {
-          "title": "Nominee Chief Accountant",
-          "desc": "Be assigned a qualified and reliable Nominee Chief Accountant, enabling you to meet regulatory requirements and focus on your core business operations",
+          "title": "Kế toán trưởng danh nghĩa",
+          "desc": "Được bố trí một Kế toán trưởng danh nghĩa đủ năng lực và đáng tin cậy, giúp bạn đáp ứng các yêu cầu pháp lý và tập trung vào hoạt động kinh doanh cốt lõi",
           "icon": "userCheck",
           "href": "/accounting-taxation/nominee-chief-accountant"
         },
         {
-          "title": "Administrative Accountant",
-          "desc": "Work with a functional accountant who conducts transactions and performs administrative tasks efficiently",
+          "title": "Kế toán hành chính",
+          "desc": "Làm việc với một kế toán chuyên trách thực hiện giao dịch và xử lý các tác vụ hành chính một cách hiệu quả",
           "icon": "calculator"
         },
         {
-          "title": "VAT Refund",
-          "desc": "Reclaim overpaid and exempt VAT payments with our corporate tax services. (Contact us for eligibility)",
+          "title": "Hoàn thuế VAT",
+          "desc": "Thu hồi các khoản thuế VAT nộp thừa và được miễn với dịch vụ thuế doanh nghiệp của chúng tôi. (Liên hệ để biết điều kiện áp dụng)",
           "icon": "receipt"
         }
       ]
     },
     {
       "type": "steps",
-      "heading": "Your Success Plan in Vietnam",
+      "heading": "Lộ trình thành công của bạn tại Việt Nam",
       "items": [
         {
-          "title": "Submit Your Information & Needs",
-          "desc": "Tell us about your company's needs and aspirations in Vietnam"
+          "title": "Gửi thông tin & nhu cầu của bạn",
+          "desc": "Hãy cho chúng tôi biết về nhu cầu và định hướng của công ty bạn tại Việt Nam"
         },
         {
-          "title": "Book a Consultation With Our Experts",
-          "desc": "Go over your plan with one of our bilingual business consultants and receive solid accounting consulting."
+          "title": "Đặt lịch tư vấn với chuyên gia của chúng tôi",
+          "desc": "Cùng rà soát kế hoạch với một trong những chuyên gia tư vấn song ngữ của chúng tôi và nhận tư vấn kế toán vững chắc."
         },
         {
-          "title": "Verify KYC Documents",
-          "desc": "Our consultants will contact you to process the necessary paperwork and create your company dossier."
+          "title": "Xác minh hồ sơ KYC",
+          "desc": "Chuyên gia tư vấn của chúng tôi sẽ liên hệ để xử lý các thủ tục cần thiết và lập hồ sơ doanh nghiệp cho bạn."
         },
         {
-          "title": "Choose a Plan & Succeed In Vietnam",
-          "desc": "Stamp your business name into APAC's fastest-growing economy with our bespoke SME accounting solutions."
+          "title": "Chọn gói dịch vụ & thành công tại Việt Nam",
+          "desc": "Ghi dấu tên tuổi doanh nghiệp của bạn vào nền kinh tế tăng trưởng nhanh nhất Châu Á - Thái Bình Dương với các giải pháp kế toán SME được thiết kế riêng."
         }
       ]
     },
     {
       "type": "cards",
-      "eyebrow": "Explore More",
-      "heading": "Other Services for Vietnam Market Entry & Business Outsourcing",
+      "eyebrow": "Khám phá thêm",
+      "heading": "Các dịch vụ khác để gia nhập thị trường Việt Nam & thuê ngoài hoạt động kinh doanh",
       "columns": 4,
       "items": [
         {
-          "title": "Incorporation",
-          "desc": "Gain a presence in the Vietnamese market through our incorporation services.",
+          "title": "Thành lập doanh nghiệp",
+          "desc": "Hiện diện tại thị trường Việt Nam thông qua dịch vụ thành lập doanh nghiệp của chúng tôi.",
           "href": "/incorporation",
           "icon": "rocket"
         },
         {
-          "title": "Legal Advisory",
-          "desc": "Obtain all the necessary licenses and sublicenses for doing business in Vietnam.",
+          "title": "Tư vấn pháp lý",
+          "desc": "Có được mọi giấy phép và giấy phép con cần thiết để kinh doanh tại Việt Nam.",
           "href": "/legal-advisory",
           "icon": "scale"
         },
         {
-          "title": "HR & Payroll",
-          "desc": "Comprehensive outsourcing services for recruitment, payroll, insurance, and taxes.",
+          "title": "Nhân sự & Tính lương",
+          "desc": "Dịch vụ thuê ngoài toàn diện cho tuyển dụng, tính lương, bảo hiểm và thuế.",
           "href": "/hr-payroll-services",
           "icon": "users"
         },
         {
-          "title": "Immigration",
-          "desc": "Navigate entry requirements and obtain permits for investors, businesses, and residence.",
+          "title": "Di trú",
+          "desc": "Đáp ứng các yêu cầu nhập cảnh và xin giấy phép cho nhà đầu tư, doanh nghiệp và cư trú.",
           "href": "/immigration",
           "icon": "plane"
         }
@@ -285,83 +285,83 @@
     },
     {
       "type": "faq",
-      "heading": "Frequently Asked Questions on Accounting Services & Tax Reporting in Vietnam",
+      "heading": "Câu hỏi thường gặp về dịch vụ kế toán & báo cáo thuế tại Việt Nam",
       "items": [
         {
-          "q": "How do I start outsourcing my accounting tasks in Vietnam?",
-          "a": "You can fill out the inquiry form below, and our accounting experts will contact you promptly. Please specify your requirements so that we can tailor our complete bookkeeping services for your business."
+          "q": "Tôi bắt đầu thuê ngoài công tác kế toán tại Việt Nam như thế nào?",
+          "a": "Bạn có thể điền vào mẫu yêu cầu bên dưới, và các chuyên gia kế toán của chúng tôi sẽ liên hệ nhanh chóng. Vui lòng nêu rõ yêu cầu của bạn để chúng tôi có thể thiết kế dịch vụ ghi sổ kế toán trọn gói phù hợp với doanh nghiệp của bạn."
         },
         {
-          "q": "How much does WTP Advisory's accounting outsourcing service cost?",
-          "a": "The cost varies based on your business needs. It depends on the reports you need prepared and filed and if you require daily, weekly, or monthly bookkeeping services."
+          "q": "Dịch vụ thuê ngoài kế toán của WTP Advisory có chi phí bao nhiêu?",
+          "a": "Chi phí thay đổi tùy theo nhu cầu doanh nghiệp của bạn. Mức phí phụ thuộc vào loại báo cáo cần lập và nộp, cũng như việc bạn cần dịch vụ ghi sổ kế toán hằng ngày, hằng tuần hay hằng tháng."
         },
         {
-          "q": "What are the benefits of accounting outsourcing in Vietnam?",
-          "a": "Outsourcing cuts costs (no need for an internal team), ensures compliance with Vietnam's changing financial regulations, and lets you focus on core business activities."
+          "q": "Lợi ích của việc thuê ngoài kế toán tại Việt Nam là gì?",
+          "a": "Thuê ngoài giúp cắt giảm chi phí (không cần đội ngũ nội bộ), đảm bảo tuân thủ các quy định tài chính luôn thay đổi của Việt Nam, và cho phép bạn tập trung vào các hoạt động kinh doanh cốt lõi."
         },
         {
-          "q": "Does WTP Advisory offer other accounting outsourcing services?",
-          "a": "In addition to accounting, we provide payroll processing, outsourcing, and corporate tax compliance, especially small business tax services in Vietnam."
+          "q": "WTP Advisory có cung cấp các dịch vụ thuê ngoài kế toán khác không?",
+          "a": "Ngoài kế toán, chúng tôi còn cung cấp dịch vụ xử lý lương, thuê ngoài và tuân thủ thuế doanh nghiệp, đặc biệt là dịch vụ thuế cho doanh nghiệp nhỏ tại Việt Nam."
         },
         {
-          "q": "Is accounting outsourcing suitable for all businesses?",
-          "a": "Yes, you can outsource accounting services for large corporations or small businesses. At WTP Advisory, we provide tailored solutions to meet your needs."
+          "q": "Thuê ngoài kế toán có phù hợp với mọi doanh nghiệp không?",
+          "a": "Có, bạn có thể thuê ngoài dịch vụ kế toán cho tập đoàn lớn hay doanh nghiệp nhỏ. Tại WTP Advisory, chúng tôi cung cấp các giải pháp được thiết kế riêng để đáp ứng nhu cầu của bạn."
         },
         {
-          "q": "How skilled is your accounting team?",
-          "a": "Our dedicated team is highly skilled, experienced in major accounting software, and up-to-date with Vietnamese bookkeeping, accounting, and tax regulations."
+          "q": "Đội ngũ kế toán của bạn có trình độ chuyên môn ra sao?",
+          "a": "Đội ngũ chuyên trách của chúng tôi có trình độ cao, thành thạo các phần mềm kế toán phổ biến và luôn cập nhật các quy định về ghi sổ kế toán, kế toán và thuế của Việt Nam."
         },
         {
-          "q": "If my company has no activities, should I still report taxation?",
-          "a": "Yes, even with no activities, monthly and annual reports are mandatory once your company is established."
+          "q": "Nếu công ty tôi không có hoạt động, tôi có cần báo cáo thuế không?",
+          "a": "Có, ngay cả khi không có hoạt động, việc báo cáo theo tháng và theo năm vẫn là bắt buộc một khi công ty của bạn đã được thành lập."
         },
         {
-          "q": "What are the deadlines for annual tax return?",
-          "a": "Both corporate and individual tax returns are due by March 31st."
+          "q": "Thời hạn nộp tờ khai quyết toán thuế năm là khi nào?",
+          "a": "Cả tờ khai quyết toán thuế doanh nghiệp và cá nhân đều phải nộp trước ngày 31 tháng 3."
         },
         {
-          "q": "What are Vietnam's corporate income tax rates?",
-          "a": "The CIT rate differs depending on the type of business: 20% for standard industries, and 32%-50% for sectors like oil and gas."
+          "q": "Thuế suất thuế thu nhập doanh nghiệp tại Việt Nam là bao nhiêu?",
+          "a": "Thuế suất CIT khác nhau tùy theo loại hình kinh doanh: 20% đối với các ngành thông thường, và 32%-50% đối với các lĩnh vực như dầu khí."
         },
         {
-          "q": "What is Vietnam's standard financial year?",
-          "a": "January 1st to December 31st is the standard financial year. However, under specific conditions, SMEs in Vietnam may choose alternative financial years ending on March 31, June 30, or September 30."
+          "q": "Năm tài chính chuẩn của Việt Nam là gì?",
+          "a": "Năm tài chính chuẩn kéo dài từ ngày 1 tháng 1 đến ngày 31 tháng 12. Tuy nhiên, trong một số điều kiện cụ thể, các SME tại Việt Nam có thể chọn năm tài chính khác kết thúc vào ngày 31 tháng 3, 30 tháng 6 hoặc 30 tháng 9."
         },
         {
-          "q": "How is corporate income tax calculated?",
-          "a": "Corporate income tax is calculated based on assessable income. Please contact our tax specialists for details on what this includes."
+          "q": "Thuế thu nhập doanh nghiệp được tính như thế nào?",
+          "a": "Thuế thu nhập doanh nghiệp được tính dựa trên thu nhập chịu thuế. Vui lòng liên hệ với các chuyên gia thuế của chúng tôi để biết chi tiết về các khoản bao gồm."
         }
       ]
     },
     {
       "type": "stats",
       "variant": "red",
-      "heading": "Backed by WTP Advisory",
+      "heading": "Được hậu thuẫn bởi WTP Advisory",
       "items": [
         {
           "value": "30+",
-          "label": "Years of experience"
+          "label": "Năm kinh nghiệm"
         },
         {
           "value": "1,500+",
-          "label": "Professionals across APAC"
+          "label": "Chuyên gia trên khắp Châu Á - Thái Bình Dương"
         },
         {
           "value": "20,000+",
-          "label": "Clients served globally"
+          "label": "Khách hàng được phục vụ trên toàn cầu"
         },
         {
           "value": "8",
-          "label": "Markets in Asia-Pacific"
+          "label": "Thị trường tại Châu Á - Thái Bình Dương"
         }
       ]
     },
     {
       "type": "cta",
-      "title": "Ready to get started in Vietnam?",
-      "subtitle": "Talk to our experts about how we can support your business.",
+      "title": "Sẵn sàng khởi đầu tại Việt Nam?",
+      "subtitle": "Hãy trao đổi với các chuyên gia của chúng tôi về cách chúng tôi có thể hỗ trợ doanh nghiệp của bạn.",
       "button": {
-        "label": "Make an Inquiry",
+        "label": "Gửi yêu cầu tư vấn",
         "href": "/make-an-inquiry"
       },
       "variant": "red"

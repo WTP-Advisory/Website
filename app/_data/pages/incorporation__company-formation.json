@@ -1,12 +1,12 @@
-﻿{
-  "title": "Company Formation Services in Vietnam",
-  "metaDescription": "Set up your company in Vietnam with ease. We handle every step of the company formation process — from registration to compliance — so you can focus on growth.",
+{
+  "title": "Dịch vụ Thành lập Công ty tại Việt Nam",
+  "metaDescription": "Thành lập công ty tại Việt Nam một cách dễ dàng. Chúng tôi đảm nhận mọi bước trong quy trình thành lập công ty — từ đăng ký đến tuân thủ — để bạn có thể tập trung phát triển kinh doanh.",
   "hero": {
-    "eyebrow": "Incorporation",
-    "title": "Company Formation Services in Vietnam",
-    "subtitle": "Setting up a business in Vietnam can be challenging, but it doesn't have to be. From representative office setup to complete company registration, we handle the entire company establishment process for you.",
+    "eyebrow": "Thành lập doanh nghiệp",
+    "title": "Dịch vụ Thành lập Công ty tại Việt Nam",
+    "subtitle": "Việc thành lập doanh nghiệp tại Việt Nam có thể nhiều thử thách, nhưng không nhất thiết phải như vậy. Từ thiết lập văn phòng đại diện đến đăng ký thành lập công ty trọn gói, chúng tôi đảm nhận toàn bộ quy trình thành lập doanh nghiệp cho bạn.",
     "cta": {
-      "label": "Book a Consultation",
+      "label": "Đặt lịch Tư vấn",
       "href": "/make-an-inquiry"
     },
     "image": "/incorp/solutions/incorporation.webp"
@@ -14,109 +14,109 @@
   "sections": [
     {
       "type": "imageText",
-      "heading": "Open a company in Vietnam with the help of our registration consultants",
+      "heading": "Mở công ty tại Việt Nam với sự hỗ trợ từ các chuyên gia tư vấn đăng ký của chúng tôi",
       "image": "/incorp/solutions/incorporation.webp",
       "imageSide": "left",
       "body": [
-        "Expanding your business into a new region can be complex. In Vietnam, navigating registration and administrative requirements is crucial for establishing your company legally and ensuring long-term success.",
-        "At WTP Advisory, we've assisted global companies from Asia Pacific, Europe, and North America in smoothly setting up operations in Vietnam. Our experienced team makes your business setup seamless — from registration and compliance to outsourcing and secretarial services — so you can focus on growing your business."
+        "Việc mở rộng kinh doanh sang một khu vực mới có thể phức tạp. Tại Việt Nam, việc nắm rõ các yêu cầu đăng ký và hành chính là yếu tố then chốt để thành lập công ty hợp pháp và đảm bảo thành công lâu dài.",
+        "Tại WTP Advisory, chúng tôi đã hỗ trợ nhiều doanh nghiệp toàn cầu từ Châu Á - Thái Bình Dương, Châu Âu và Bắc Mỹ thiết lập hoạt động tại Việt Nam một cách suôn sẻ. Đội ngũ giàu kinh nghiệm của chúng tôi giúp quá trình thiết lập doanh nghiệp của bạn diễn ra liền mạch — từ đăng ký và tuân thủ đến thuê ngoài và dịch vụ thư ký — để bạn có thể tập trung phát triển kinh doanh."
       ]
     },
     {
       "type": "cards",
-      "eyebrow": "Why WTP Advisory",
-      "heading": "Benefits to expect from our Vietnam company registry services",
+      "eyebrow": "Vì sao chọn WTP Advisory",
+      "heading": "Những lợi ích bạn nhận được từ dịch vụ đăng ký doanh nghiệp tại Việt Nam của chúng tôi",
       "columns": 3,
       "items": [
-        { "title": "One-stop market entry solution", "icon": "network", "desc": "Our package includes legal consultation, HR, taxation, and accounting services." },
-        { "title": "Up to 100% foreign-owned entity", "icon": "rocket", "desc": "Take complete control over your business with no risk when registering a company in Vietnam." },
-        { "title": "Local expertise", "icon": "users", "desc": "Our incorporation team has deep-rooted local knowledge and understanding of the Vietnam market." },
-        { "title": "Speed and flexibility", "icon": "clock", "desc": "We deliver swiftly and decisively on your behalf, cutting through red tape with efficient processes." },
-        { "title": "Long-term commitment", "icon": "handshake", "desc": "Work with personal stakeholders in our firm, genuinely committed to your long-term success." },
-        { "title": "International prestige", "icon": "globe", "desc": "As part of WTP Advisory, with a presence across APAC, we enhance your global reputation." }
+        { "title": "Giải pháp gia nhập thị trường trọn gói", "icon": "network", "desc": "Gói dịch vụ của chúng tôi bao gồm tư vấn pháp lý, nhân sự, thuế và kế toán." },
+        { "title": "Sở hữu nước ngoài lên đến 100%", "icon": "rocket", "desc": "Toàn quyền kiểm soát doanh nghiệp của bạn mà không gặp rủi ro khi đăng ký thành lập công ty tại Việt Nam." },
+        { "title": "Am hiểu thị trường địa phương", "icon": "users", "desc": "Đội ngũ thành lập doanh nghiệp của chúng tôi am hiểu sâu sắc về thị trường Việt Nam." },
+        { "title": "Nhanh chóng và linh hoạt", "icon": "clock", "desc": "Chúng tôi hành động nhanh chóng và quyết đoán thay mặt bạn, vượt qua các thủ tục rườm rà với quy trình hiệu quả." },
+        { "title": "Cam kết lâu dài", "icon": "handshake", "desc": "Làm việc cùng những thành viên tận tâm trong công ty chúng tôi, thực sự cam kết với sự thành công lâu dài của bạn." },
+        { "title": "Uy tín quốc tế", "icon": "globe", "desc": "Là một phần của WTP Advisory với sự hiện diện trên toàn khu vực APAC, chúng tôi nâng tầm uy tín toàn cầu của bạn." }
       ]
     },
     {
       "type": "cards",
-      "eyebrow": "Entity Types",
-      "heading": "Choose the right company formation option",
+      "eyebrow": "Loại hình pháp nhân",
+      "heading": "Lựa chọn hình thức thành lập công ty phù hợp",
       "columns": 4,
       "items": [
-        { "title": "Limited Liability Company", "icon": "building", "desc": "A flexible, protected entity for all investors — easy to set up and raise capital with minimal paperwork." },
-        { "title": "Representative Office", "icon": "briefcase", "desc": "A foreign-owned office for market research and hiring, with no capital requirement." },
-        { "title": "Branch Office", "icon": "network", "desc": "A foreign branch operating under the parent company's structure, able to acquire permits and do business." },
-        { "title": "Joint-Stock Company (JSC)", "icon": "chart", "desc": "A shareholder-based company with transferable shares and limited liability." }
+        { "title": "Công ty TNHH", "icon": "building", "desc": "Loại hình linh hoạt, được bảo vệ, phù hợp với mọi nhà đầu tư — dễ thành lập và huy động vốn với thủ tục tối giản." },
+        { "title": "Văn phòng Đại diện", "icon": "briefcase", "desc": "Văn phòng do nước ngoài sở hữu, phục vụ nghiên cứu thị trường và tuyển dụng, không yêu cầu vốn." },
+        { "title": "Chi nhánh", "icon": "network", "desc": "Chi nhánh nước ngoài hoạt động theo cơ cấu của công ty mẹ, có thể xin giấy phép và kinh doanh." },
+        { "title": "Công ty Cổ phần (JSC)", "icon": "chart", "desc": "Công ty dựa trên cổ đông với cổ phần có thể chuyển nhượng và trách nhiệm hữu hạn." }
       ]
     },
     {
       "type": "table",
-      "heading": "Options for setting up a business in Vietnam",
-      "subtitle": "Compare the main entity types available to foreign investors in Vietnam.",
+      "heading": "Các lựa chọn thành lập doanh nghiệp tại Việt Nam",
+      "subtitle": "So sánh các loại hình pháp nhân chính dành cho nhà đầu tư nước ngoài tại Việt Nam.",
       "columns": [
-        "Limited Liability Company (LLC)",
-        "Representative Office (RO)",
-        "Branch Office (BO)",
-        "Joint-stock Company (JSC)"
+        "Công ty TNHH (LLC)",
+        "Văn phòng Đại diện (RO)",
+        "Chi nhánh (BO)",
+        "Công ty Cổ phần (JSC)"
       ],
       "rows": [
-        { "label": "Applicable", "cells": ["All investors", "All members of WTO", "All investors", "All investors"] },
-        { "label": "Minimum Capital", "cells": ["Depending on business activities", "No requirements", "No requirements", "If trading on stock market, min. 10 billion VND (~US$ 440,000)"] },
-        { "label": "Minimum Number of Shareholders", "cells": ["≥ 1 (individual or corporate)", "Owned by head office", "Owned by head office", "≥ 3 (individual or entity)"] },
-        { "label": "Limited Liability Protection", "cells": [true, false, false, true] },
-        { "label": "Import-Export Activities", "cells": [true, false, true, true] },
-        { "label": "Be a Shareholder of Another Entity", "cells": [true, false, false, true] },
-        { "label": "Conversion to Other Entity Type", "cells": [true, false, false, true] },
-        { "label": "Corporate Income Tax", "cells": ["Depending on the business industry", "No business activities that yield profit", "Depending on the business industry", "Depending on the business industry"] },
-        { "label": "Setup Time", "cells": ["6–8 weeks", "4–6 weeks", "4–8 weeks", "6–8 weeks"] },
-        { "label": "Benefits", "cells": ["Easiest to set up\nEasy to raise capital\nLess paperwork", "No capital requirements\nEligible to hire employees\nResearch target market", "Same structure as original entity\nLegal representative can get more permits", "Shareholders only limited to liability of their investment\nEasy to transfer shares"] }
+        { "label": "Đối tượng áp dụng", "cells": ["Mọi nhà đầu tư", "Mọi thành viên WTO", "Mọi nhà đầu tư", "Mọi nhà đầu tư"] },
+        { "label": "Vốn tối thiểu", "cells": ["Tùy theo ngành nghề kinh doanh", "Không yêu cầu", "Không yêu cầu", "Nếu niêm yết trên sàn chứng khoán, tối thiểu 10 tỷ VNĐ (~440.000 USD)"] },
+        { "label": "Số lượng cổ đông tối thiểu", "cells": ["≥ 1 (cá nhân hoặc tổ chức)", "Thuộc trụ sở chính", "Thuộc trụ sở chính", "≥ 3 (cá nhân hoặc tổ chức)"] },
+        { "label": "Bảo vệ trách nhiệm hữu hạn", "cells": [true, false, false, true] },
+        { "label": "Hoạt động xuất nhập khẩu", "cells": [true, false, true, true] },
+        { "label": "Trở thành cổ đông của pháp nhân khác", "cells": [true, false, false, true] },
+        { "label": "Chuyển đổi sang loại hình khác", "cells": [true, false, false, true] },
+        { "label": "Thuế thu nhập doanh nghiệp", "cells": ["Tùy theo ngành nghề kinh doanh", "Không có hoạt động kinh doanh sinh lợi", "Tùy theo ngành nghề kinh doanh", "Tùy theo ngành nghề kinh doanh"] },
+        { "label": "Thời gian thành lập", "cells": ["6–8 tuần", "4–6 tuần", "4–8 tuần", "6–8 tuần"] },
+        { "label": "Lợi ích", "cells": ["Dễ thành lập nhất\nDễ huy động vốn\nÍt thủ tục giấy tờ", "Không yêu cầu vốn\nĐược phép tuyển dụng nhân viên\nNghiên cứu thị trường mục tiêu", "Cùng cơ cấu với pháp nhân gốc\nNgười đại diện pháp luật có thể xin thêm giấy phép", "Cổ đông chỉ chịu trách nhiệm trong phạm vi phần vốn góp\nDễ chuyển nhượng cổ phần"] }
       ]
     },
     {
       "type": "steps",
-      "heading": "Your success plan in Vietnam",
+      "heading": "Lộ trình thành công của bạn tại Việt Nam",
       "items": [
-        { "title": "Submit Your Information & Needs", "desc": "Tell us about your company's needs and aspirations in Vietnam." },
-        { "title": "Book a Consultation With Our Experts", "desc": "Go over your plan with one of our bilingual business consultants." },
-        { "title": "Verify KYC Documents", "desc": "Our consultants process the necessary paperwork and create your company dossier." },
-        { "title": "Choose a Plan & Succeed In Vietnam", "desc": "Let us simplify your business journey and make your mark in APAC's fastest-growing economy." }
+        { "title": "Gửi Thông tin & Nhu cầu của Bạn", "desc": "Chia sẻ với chúng tôi về nhu cầu và mục tiêu của công ty bạn tại Việt Nam." },
+        { "title": "Đặt lịch Tư vấn với Chuyên gia", "desc": "Trao đổi kế hoạch của bạn cùng một chuyên gia tư vấn kinh doanh song ngữ của chúng tôi." },
+        { "title": "Xác minh Hồ sơ KYC", "desc": "Các chuyên gia tư vấn xử lý các thủ tục giấy tờ cần thiết và lập hồ sơ công ty của bạn." },
+        { "title": "Chọn Gói Dịch vụ & Thành công tại Việt Nam", "desc": "Hãy để chúng tôi đơn giản hóa hành trình kinh doanh và giúp bạn ghi dấu ấn tại nền kinh tế phát triển nhanh nhất khu vực APAC." }
       ]
     },
     {
       "type": "faq",
-      "eyebrow": "FAQ",
-      "heading": "Frequently asked questions on opening a company in Vietnam",
+      "eyebrow": "Câu hỏi thường gặp",
+      "heading": "Các câu hỏi thường gặp về mở công ty tại Việt Nam",
       "items": [
-        { "q": "Can I set up a company in Vietnam as a foreigner?", "a": "Yes. Foreign investors can establish a foreign-owned company in Vietnam. The most common type is an LLC (Limited Liability Company), known for its straightforward structure and quick setup. The right structure depends on your business type." },
-        { "q": "What are the company types available in Vietnam?", "a": "You can open a new company as one of four entities: Limited Liability Company (LLC), Joint-stock Company (JSC), Branch Office, and Representative Office." },
-        { "q": "Is there any minimum capital requirements for Vietnam company formation?", "a": "While Vietnamese law does not specify a minimum, having around US$ 25,000–30,000 is typically advised to ensure smooth incorporation and operations." },
-        { "q": "Will I be able to hold 100-percent ownership of a foreign-owned company?", "a": "Yes. Vietnamese law enables foreigners to open 100% foreign-owned companies in most sectors, with only a few restricted business sectors." },
-        { "q": "Is there any option to expand my business without incorporating a company in Vietnam?", "a": "Yes. Several options suit investors who wish to expand without forming a legal entity, such as a representative office or appointing a local distributor." },
-        { "q": "I want to set up a company as soon as possible, is there a way to speed up the incorporation process?", "a": "Setting up an LLC or JSC typically takes 40–60 days. To expedite, consider purchasing a shelf company from WTP Advisory, allowing management control to be transferred to you within a few working days." },
-        { "q": "What are the benefits of a local nominee company and a shelf company?", "a": "A local nominee company lets you operate in sectors that require local ownership while keeping management control, whereas a shelf company is a ready-made, pre-registered entity that can be transferred to you quickly so you can start operating almost immediately." },
-        { "q": "I would like to set up a joint venture local company, but I do not have a reliable local partner to act as a shareholder. What should I do?", "a": "WTP Advisory can act as a trusted local nominee shareholder on your behalf, allowing you to meet local ownership requirements while retaining management control of the company through a clear legal agreement." },
-        { "q": "Does WTP Advisory offer market entry and corporate services outside Vietnam?", "a": "Yes. As part of WTP Advisory, we provide market entry, incorporation, and corporate services across the Asia Pacific region, helping you expand into multiple markets through a single partner." }
+        { "q": "Người nước ngoài có thể thành lập công ty tại Việt Nam không?", "a": "Có. Nhà đầu tư nước ngoài có thể thành lập công ty có vốn nước ngoài tại Việt Nam. Loại hình phổ biến nhất là Công ty TNHH (LLC), được biết đến với cơ cấu đơn giản và thời gian thành lập nhanh chóng. Cơ cấu phù hợp sẽ tùy thuộc vào loại hình kinh doanh của bạn." },
+        { "q": "Có những loại hình công ty nào tại Việt Nam?", "a": "Bạn có thể mở công ty mới dưới một trong bốn loại hình: Công ty TNHH (LLC), Công ty Cổ phần (JSC), Chi nhánh và Văn phòng Đại diện." },
+        { "q": "Có yêu cầu vốn tối thiểu khi thành lập công ty tại Việt Nam không?", "a": "Mặc dù pháp luật Việt Nam không quy định mức tối thiểu, thông thường bạn được khuyến nghị nên có khoảng 25.000–30.000 USD để đảm bảo việc thành lập và hoạt động diễn ra thuận lợi." },
+        { "q": "Tôi có thể sở hữu 100% công ty có vốn nước ngoài không?", "a": "Có. Pháp luật Việt Nam cho phép người nước ngoài mở công ty 100% vốn nước ngoài trong hầu hết các lĩnh vực, chỉ với một số ít lĩnh vực kinh doanh bị hạn chế." },
+        { "q": "Có cách nào mở rộng kinh doanh mà không cần thành lập công ty tại Việt Nam không?", "a": "Có. Một số phương án phù hợp với nhà đầu tư muốn mở rộng mà không cần thành lập pháp nhân, chẳng hạn như văn phòng đại diện hoặc chỉ định nhà phân phối trong nước." },
+        { "q": "Tôi muốn thành lập công ty càng sớm càng tốt, có cách nào đẩy nhanh quy trình thành lập không?", "a": "Việc thành lập Công ty TNHH hoặc Công ty Cổ phần thường mất 40–60 ngày. Để đẩy nhanh, bạn có thể cân nhắc mua lại công ty có sẵn (shelf company) từ WTP Advisory, cho phép chuyển giao quyền quản lý cho bạn chỉ trong vài ngày làm việc." },
+        { "q": "Lợi ích của công ty có cổ đông danh nghĩa trong nước (local nominee) và công ty có sẵn (shelf company) là gì?", "a": "Công ty có cổ đông danh nghĩa trong nước cho phép bạn hoạt động trong các lĩnh vực yêu cầu sở hữu trong nước mà vẫn giữ quyền quản lý, trong khi công ty có sẵn là pháp nhân đã đăng ký trước, có thể được chuyển giao nhanh chóng để bạn bắt đầu hoạt động gần như ngay lập tức." },
+        { "q": "Tôi muốn thành lập công ty liên doanh trong nước nhưng chưa có đối tác địa phương đáng tin cậy làm cổ đông. Tôi nên làm gì?", "a": "WTP Advisory có thể đóng vai trò cổ đông danh nghĩa trong nước đáng tin cậy thay mặt bạn, giúp bạn đáp ứng yêu cầu sở hữu trong nước trong khi vẫn giữ quyền quản lý công ty thông qua một thỏa thuận pháp lý rõ ràng." },
+        { "q": "WTP Advisory có cung cấp dịch vụ gia nhập thị trường và dịch vụ doanh nghiệp ngoài Việt Nam không?", "a": "Có. Là một phần của WTP Advisory, chúng tôi cung cấp dịch vụ gia nhập thị trường, thành lập doanh nghiệp và dịch vụ doanh nghiệp trên toàn khu vực Châu Á - Thái Bình Dương, giúp bạn mở rộng sang nhiều thị trường thông qua một đối tác duy nhất." }
       ]
     },
     {
       "type": "stats",
-      "heading": "Your Experts in Company Incorporation",
+      "heading": "Chuyên gia của Bạn trong Lĩnh vực Thành lập Doanh nghiệp",
       "items": [
-        { "value": "30+", "label": "Years Track Record" },
-        { "value": "15,000+", "label": "Clients Worldwide" },
-        { "value": "100+", "label": "Companies Incorporated Yearly" },
-        { "value": "1,500+", "label": "Professionals" }
+        { "value": "30+", "label": "Năm kinh nghiệm" },
+        { "value": "15,000+", "label": "Khách hàng trên toàn cầu" },
+        { "value": "100+", "label": "Công ty được thành lập mỗi năm" },
+        { "value": "1,500+", "label": "Chuyên gia" }
       ]
     },
     {
       "type": "team",
-      "eyebrow": "Our Team",
-      "heading": "Meet Our Experts",
+      "eyebrow": "Đội ngũ của chúng tôi",
+      "heading": "Gặp gỡ các Chuyên gia của Chúng tôi",
       "variant": "portrait",
       "columns": 3,
       "items": [
-        { "name": "Michael Tran, CPA, CA", "role": "Chief Executive Officer", "image": "/incorp/people/placeholder.svg", "profileHref": "/our-people", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" },
-        { "name": "David Pham", "role": "Head of Business Advisory", "image": "/incorp/people/placeholder.svg", "profileHref": "/our-people", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" },
-        { "name": "Linh Hoang", "role": "Head of Corporate Secretarial and Advisory Services", "image": "/incorp/people/placeholder.svg", "profileHref": "/our-people", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" }
+        { "name": "[Tên CEO], CPA, CA", "role": "Tổng Giám đốc Điều hành", "image": "/incorp/people/placeholder.svg", "profileHref": "/our-people", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" },
+        { "name": "[Tên Trưởng Phòng Tư Vấn]", "role": "Trưởng phòng Tư vấn Kinh doanh", "image": "/incorp/people/placeholder.svg", "profileHref": "/our-people", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" },
+        { "name": "[Tên Trưởng Phòng Thư Ký]", "role": "Trưởng phòng Dịch vụ Thư ký và Tư vấn Doanh nghiệp", "image": "/incorp/people/placeholder.svg", "profileHref": "/our-people", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" }
       ]
     }
   ],

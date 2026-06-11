@@ -1,42 +1,42 @@
-﻿{
+{
   "layout": "event",
-  "title": "Tax Compliance Risks for Foreigners in Vietnam",
-  "metaDescription": "A practical webinar for foreign individuals and businesses on avoiding common tax compliance pitfalls in Vietnam, led by WTP Advisory with Baker & McKenzie.",
+  "title": "Rủi ro tuân thủ thuế đối với người nước ngoài tại Việt Nam",
+  "metaDescription": "Hội thảo trực tuyến thực tiễn dành cho cá nhân và doanh nghiệp nước ngoài về cách phòng tránh những sai sót tuân thủ thuế thường gặp tại Việt Nam, do WTP Advisory phối hợp cùng Baker & McKenzie tổ chức.",
   "banner": "/incorp/events/tax-compliance-risks.png",
   "format": "Webinar",
-  "date": "November 7, 2024",
+  "date": "Ngày 7 tháng 11 năm 2024",
   "about": [
-    "Join us for an insightful webinar designed for foreign individuals and businesses operating in Vietnam, led by WTP Advisory's experts in collaboration with Baker & McKenzie. Gain a comprehensive understanding of Vietnam's tax landscape, learn about key tax compliance obligations, and discover strategies to mitigate risks.",
-    "This webinar is a must-attend for foreign investors, business owners, and expatriates who wish to stay compliant and reduce tax liabilities in Vietnam."
+    "Hãy tham gia cùng chúng tôi trong hội thảo trực tuyến đầy giá trị được thiết kế dành cho các cá nhân và doanh nghiệp nước ngoài đang hoạt động tại Việt Nam, do đội ngũ chuyên gia của WTP Advisory phối hợp cùng Baker & McKenzie dẫn dắt. Bạn sẽ có cái nhìn toàn diện về bức tranh thuế của Việt Nam, nắm rõ các nghĩa vụ tuân thủ thuế trọng yếu và khám phá những chiến lược giúp giảm thiểu rủi ro.",
+    "Đây là hội thảo trực tuyến không thể bỏ lỡ đối với các nhà đầu tư nước ngoài, chủ doanh nghiệp và người nước ngoài mong muốn duy trì tuân thủ và giảm thiểu nghĩa vụ thuế tại Việt Nam."
   ],
   "details": [
-    { "label": "Date", "value": "November 7, 2024" },
-    { "label": "Format", "value": "Online webinar — joining link provided upon registration" }
+    { "label": "Ngày", "value": "Ngày 7 tháng 11 năm 2024" },
+    { "label": "Hình thức", "value": "Hội thảo trực tuyến — đường link tham dự được cung cấp sau khi đăng ký" }
   ],
   "bulletSections": [
     {
-      "heading": "What We'll Cover",
+      "heading": "Nội dung chúng tôi sẽ chia sẻ",
       "items": [
-        "Overview of tax compliance for foreigners in Vietnam",
-        "Common FDI tax issues",
-        "PIT and CIT obligations for foreigners and businesses",
-        "Work permit and government black list issues",
-        "Strategies for mitigating tax risks",
-        "Recent updates on tax laws and regulations"
+        "Tổng quan về tuân thủ thuế đối với người nước ngoài tại Việt Nam",
+        "Những vấn đề thuế thường gặp đối với doanh nghiệp FDI",
+        "Nghĩa vụ thuế thu nhập cá nhân (TNCN) và thuế thu nhập doanh nghiệp (TNDN) đối với người nước ngoài và doanh nghiệp",
+        "Các vấn đề về giấy phép lao động và danh sách đen của cơ quan nhà nước",
+        "Chiến lược giảm thiểu rủi ro về thuế",
+        "Cập nhật mới nhất về luật và quy định thuế"
       ]
     }
   ],
   "registration": {
-    "heading": "Save Your Seat",
-    "subtitle": "Tune in to our exclusive webinar for the latest updates.",
-    "schedule": "November 7, 2024"
+    "heading": "Giữ chỗ ngay",
+    "subtitle": "Đón xem hội thảo trực tuyến độc quyền của chúng tôi để cập nhật những thông tin mới nhất.",
+    "schedule": "Ngày 7 tháng 11 năm 2024"
   },
   "prev": {
-    "title": "Vietnam Economic Outlook: Half-Year Review and Future Prospects for H2 2024 and Beyond",
+    "title": "Triển vọng kinh tế Việt Nam: Đánh giá giữa năm và triển vọng nửa cuối năm 2024 trở đi",
     "href": "/events/economic-outlook-half-year-review-future-prospects-h2-2024"
   },
   "next": {
-    "title": "Is “Made in Vietnam” The New “Made in China”?",
+    "title": "Liệu “Sản xuất tại Việt Nam” có trở thành “Sản xuất tại Trung Quốc” mới?",
     "href": "/events/made-in-vietnam-the-new-made-in-china"
   }
 }

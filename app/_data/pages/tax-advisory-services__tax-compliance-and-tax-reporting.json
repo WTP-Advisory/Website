@@ -1,12 +1,12 @@
-﻿{
-  "title": "Tax Compliance and Tax Reporting in Vietnam",
-  "metaDescription": "WTP Advisory offers tax compliance services to ensure accurate filings, regulatory compliance, and effective tax management for smooth business growth.",
+{
+  "title": "Tuân thủ Thuế và Báo cáo Thuế tại Việt Nam",
+  "metaDescription": "WTP Advisory cung cấp dịch vụ tuân thủ thuế nhằm đảm bảo việc kê khai chính xác, tuân thủ quy định và quản lý thuế hiệu quả cho sự phát triển ổn định của doanh nghiệp.",
   "hero": {
-    "eyebrow": "Services",
-    "title": "Tax Compliance and Tax Reporting in Vietnam",
-    "subtitle": "WTP Advisory provides expert tax compliance and reporting services to help your business meet Vietnam's tax requirements. We ensure timely and accurate tax filings, compliance with local regulations, and effective management of tax obligations. Our tailored solutions help streamline tax reporting processes and minimize risks, supporting your business's smooth operations and growth in Vietnam.",
+    "eyebrow": "Dịch vụ",
+    "title": "Tuân thủ Thuế và Báo cáo Thuế tại Việt Nam",
+    "subtitle": "WTP Advisory cung cấp dịch vụ tuân thủ thuế và báo cáo thuế chuyên sâu, giúp doanh nghiệp của bạn đáp ứng các yêu cầu về thuế tại Việt Nam. Chúng tôi đảm bảo việc kê khai thuế kịp thời và chính xác, tuân thủ các quy định trong nước và quản lý hiệu quả nghĩa vụ thuế. Các giải pháp được thiết kế riêng của chúng tôi giúp tinh gọn quy trình báo cáo thuế và giảm thiểu rủi ro, hỗ trợ doanh nghiệp của bạn vận hành suôn sẻ và phát triển tại Việt Nam.",
     "cta": {
-      "label": "Make an Inquiry",
+      "label": "Gửi yêu cầu tư vấn",
       "href": "/make-an-inquiry"
     },
     "image": "/incorp/solutions/tax-services.jpg"
@@ -14,10 +14,10 @@
   "sections": [
     {
       "type": "richText",
-      "heading": "The Importance of Tax Compliance and Tax Reporting in Vietnam",
+      "heading": "Tầm quan trọng của Tuân thủ Thuế và Báo cáo Thuế tại Việt Nam",
       "body": [
-        "Vietnam's tax system is complex and constantly evolving, making it crucial for businesses to stay informed and compliant. With various taxes, including corporate income tax, value-added tax, and personal income tax, managing these obligations can be challenging, especially for foreign companies operating in Vietnam.",
-        "At WTP Advisory, we provide comprehensive tax compliance and reporting services to ensure your business meets all Vietnamese tax regulations. Our team of experts offers tailored solutions for accurate tax filings, effective reporting, and ensuring full compliance. Helping your business reduce risks and focus on growth and success in Vietnam."
+        "Hệ thống thuế tại Việt Nam phức tạp và liên tục thay đổi, khiến việc luôn cập nhật và tuân thủ trở nên thiết yếu đối với doanh nghiệp. Với nhiều sắc thuế khác nhau như thuế thu nhập doanh nghiệp, thuế giá trị gia tăng và thuế thu nhập cá nhân, việc quản lý các nghĩa vụ này có thể là một thách thức, đặc biệt đối với các doanh nghiệp nước ngoài hoạt động tại Việt Nam.",
+        "Tại WTP Advisory, chúng tôi cung cấp dịch vụ tuân thủ thuế và báo cáo thuế toàn diện, đảm bảo doanh nghiệp của bạn đáp ứng mọi quy định thuế của Việt Nam. Đội ngũ chuyên gia của chúng tôi mang đến các giải pháp được thiết kế riêng cho việc kê khai thuế chính xác, báo cáo hiệu quả và đảm bảo tuân thủ đầy đủ, giúp doanh nghiệp của bạn giảm thiểu rủi ro và tập trung vào tăng trưởng và thành công tại Việt Nam."
       ]
     },
     {
@@ -26,64 +26,64 @@
       "items": [
         {
           "value": "30+",
-          "label": "Years of Experience"
+          "label": "Năm kinh nghiệm"
         },
         {
           "value": "15.000+",
-          "label": "Accounting & Tax Clients"
+          "label": "Khách hàng dịch vụ Kế toán & Thuế"
         }
       ]
     },
     {
       "type": "cards",
-      "heading": "Tax Compliance and Tax Reporting Services",
+      "heading": "Dịch vụ Tuân thủ Thuế và Báo cáo Thuế",
       "columns": 3,
       "items": [
         {
-          "title": "CIT Compliance",
+          "title": "Tuân thủ Thuế TNDN",
           "icon": "percent"
         },
         {
-          "title": "PIT Compliance",
+          "title": "Tuân thủ Thuế TNCN",
           "icon": "wallet"
         },
         {
-          "title": "Payroll Tax Compliance",
+          "title": "Tuân thủ Thuế Tiền lương",
           "icon": "receipt"
         },
         {
-          "title": "Indirect Tax Compliance",
+          "title": "Tuân thủ Thuế Gián thu",
           "icon": "coins"
         },
         {
-          "title": "Trade and Custom duty and Export Compliance",
+          "title": "Tuân thủ Thuế Thương mại, Thuế Hải quan và Xuất khẩu",
           "icon": "globe"
         }
       ]
     },
     {
       "type": "cards",
-      "heading": "Seamless Tax Management with Vietnam WTP Advisory",
+      "heading": "Quản lý Thuế Liền mạch cùng WTP Advisory Việt Nam",
       "columns": 4,
       "items": [
         {
-          "title": "Expert Consultation",
-          "desc": "Our team of tax professionals provides expert guidance on Vietnam's tax regulations, offering insights into regulations and best practices, helping you optimize your tax strategy and operations.",
+          "title": "Tư vấn Chuyên sâu",
+          "desc": "Đội ngũ chuyên gia thuế của chúng tôi đưa ra những hướng dẫn chuyên môn về các quy định thuế tại Việt Nam, cung cấp những phân tích sâu sắc về quy định và thực tiễn tốt nhất, giúp bạn tối ưu hóa chiến lược và hoạt động thuế của mình.",
           "icon": "globe"
         },
         {
-          "title": "Comprehensive Support",
-          "desc": "We offer a full suite of tax services, from reporting to compliance, ensuring streamlined management of your tax obligations.",
+          "title": "Hỗ trợ Toàn diện",
+          "desc": "Chúng tôi cung cấp trọn bộ dịch vụ thuế, từ báo cáo đến tuân thủ, đảm bảo quản lý nghĩa vụ thuế của bạn một cách tinh gọn.",
           "icon": "handshake"
         },
         {
-          "title": "Simplified Process",
-          "desc": "We handle the complex tasks of tax reporting and filing, allowing you to focus on your core business activities.",
+          "title": "Quy trình Tinh gọn",
+          "desc": "Chúng tôi đảm nhận những công việc phức tạp như báo cáo và kê khai thuế, để bạn có thể tập trung vào các hoạt động kinh doanh cốt lõi.",
           "icon": "rocket"
         },
         {
-          "title": "Focus on Core Business",
-          "desc": "By outsourcing your tax compliance to us, you can concentrate on achieving your business goals while ensuring financial accuracy and compliance.",
+          "title": "Tập trung vào Hoạt động Cốt lõi",
+          "desc": "Bằng cách thuê ngoài công tác tuân thủ thuế cho chúng tôi, bạn có thể dồn sức cho các mục tiêu kinh doanh trong khi vẫn đảm bảo sự chính xác về tài chính và tuân thủ.",
           "icon": "network"
         }
       ]
@@ -91,32 +91,32 @@
     {
       "type": "stats",
       "variant": "red",
-      "heading": "Backed by WTP Advisory",
+      "heading": "Được hậu thuẫn bởi WTP Advisory",
       "items": [
         {
           "value": "30+",
-          "label": "Years of experience"
+          "label": "Năm kinh nghiệm"
         },
         {
           "value": "1,500+",
-          "label": "Professionals across APAC"
+          "label": "Chuyên gia trên khắp Châu Á - Thái Bình Dương"
         },
         {
           "value": "20,000+",
-          "label": "Clients served globally"
+          "label": "Khách hàng được phục vụ trên toàn cầu"
         },
         {
           "value": "8",
-          "label": "Markets in Asia-Pacific"
+          "label": "Thị trường tại Châu Á - Thái Bình Dương"
         }
       ]
     },
     {
       "type": "cta",
-      "title": "Ready to get started in Vietnam?",
-      "subtitle": "Talk to our experts about how we can support your business.",
+      "title": "Sẵn sàng khởi đầu tại Việt Nam?",
+      "subtitle": "Hãy trao đổi với các chuyên gia của chúng tôi về cách chúng tôi có thể hỗ trợ doanh nghiệp của bạn.",
       "button": {
-        "label": "Make an Inquiry",
+        "label": "Gửi yêu cầu tư vấn",
         "href": "/make-an-inquiry"
       },
       "variant": "red"

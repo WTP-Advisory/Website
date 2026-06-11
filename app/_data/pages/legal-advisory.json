@@ -1,12 +1,12 @@
-﻿{
-  "title": "Legal Advisory Services in Vietnam",
-  "metaDescription": "Employ your own corporate secretary with legal advisory services, including compliance updates, fulfilling reports & other administrative processes.",
+{
+  "title": "Dịch vụ Tư vấn Pháp lý tại Việt Nam",
+  "metaDescription": "Sở hữu thư ký doanh nghiệp của riêng bạn với dịch vụ tư vấn pháp lý, bao gồm cập nhật tuân thủ, hoàn thiện báo cáo và các thủ tục hành chính khác.",
   "hero": {
-    "eyebrow": "Services",
-    "title": "Legal Advisory Services in Vietnam",
-    "subtitle": "As your trusted corporate legal advisor, we are dedicated to ensuring your business ventures into Vietnam are seamless and successful. Whether you're starting a new business or expanding operations, our business consulting lawyers guarantee a hassle-free market entry experience.",
+    "eyebrow": "Dịch vụ",
+    "title": "Dịch vụ Tư vấn Pháp lý tại Việt Nam",
+    "subtitle": "Với vai trò là nhà tư vấn pháp lý doanh nghiệp đáng tin cậy, chúng tôi cam kết giúp hành trình kinh doanh của bạn tại Việt Nam diễn ra suôn sẻ và thành công. Dù bạn đang khởi nghiệp hay mở rộng hoạt động, đội ngũ luật sư tư vấn kinh doanh của chúng tôi đảm bảo trải nghiệm gia nhập thị trường không gặp trở ngại.",
     "cta": {
-      "label": "Make an Inquiry",
+      "label": "Gửi yêu cầu tư vấn",
       "href": "/make-an-inquiry"
     },
     "image": "/incorp/solutions/legal-advisory.jpg"
@@ -14,153 +14,153 @@
   "sections": [
     {
       "type": "cards",
-      "heading": "Benefits of Hiring Top Legal Consulting Firms like WTP Advisory",
+      "heading": "Lợi ích khi hợp tác với các công ty tư vấn pháp lý hàng đầu như WTP Advisory",
       "columns": 4,
       "items": [
         {
-          "title": "Register your Products for Sale in Vietnam",
-          "desc": "Ensure you have all required documents for import and sale, guided by experienced legal advisors for startups.",
+          "title": "Đăng ký sản phẩm để kinh doanh tại Việt Nam",
+          "desc": "Đảm bảo bạn có đầy đủ giấy tờ cần thiết để nhập khẩu và phân phối, dưới sự hướng dẫn của các chuyên gia tư vấn pháp lý giàu kinh nghiệm dành cho doanh nghiệp khởi nghiệp.",
           "icon": "rocket"
         },
         {
-          "title": "Your Own On-demand Legal Advisor",
-          "desc": "Gain the advantage of having your own advisor who guarantees compliance for your business.",
+          "title": "Chuyên gia tư vấn pháp lý riêng theo yêu cầu",
+          "desc": "Tận hưởng lợi thế khi có chuyên gia tư vấn riêng đảm bảo sự tuân thủ cho doanh nghiệp của bạn.",
           "icon": "headset"
         },
         {
-          "title": "Full Transparency throughout the Process",
-          "desc": "Navigate regulatory complexities smoothly with reliable, client-centric, and transparent business law advisors.",
+          "title": "Minh bạch hoàn toàn trong suốt quá trình",
+          "desc": "Vượt qua những phức tạp về pháp lý một cách dễ dàng cùng đội ngũ tư vấn luật doanh nghiệp đáng tin cậy, lấy khách hàng làm trọng tâm và minh bạch.",
           "icon": "fileCheck"
         },
         {
-          "title": "Both Remote and In-person Communication",
-          "desc": "Enjoy tailored digital solutions for remote and in-person consultations with our corporate legal advisors.",
+          "title": "Trao đổi linh hoạt từ xa và trực tiếp",
+          "desc": "Tận hưởng các giải pháp số được thiết kế riêng cho việc tư vấn từ xa và trực tiếp cùng các chuyên gia tư vấn pháp lý doanh nghiệp của chúng tôi.",
           "icon": "globe"
         }
       ]
     },
     {
       "type": "richText",
-      "heading": "What is a Corporate Secretary?",
+      "heading": "Thư ký Doanh nghiệp là gì?",
       "body": [
-        "Also known as a compliance officer, this is a senior position in a public or private firm that oversees the administrative activities of the board of directors and senior management."
+        "Còn được gọi là cán bộ tuân thủ, đây là vị trí cấp cao trong công ty đại chúng hoặc tư nhân, chịu trách nhiệm giám sát các hoạt động hành chính của hội đồng quản trị và ban lãnh đạo cấp cao."
       ]
     },
     {
       "type": "list",
-      "heading": "WTP Advisory’s Corporate Secretarial Service",
-      "subtitle": "Responsibilities of Corporate Secretary",
+      "heading": "Dịch vụ Thư ký Doanh nghiệp của WTP Advisory",
+      "subtitle": "Trách nhiệm của Thư ký Doanh nghiệp",
       "columns": 1,
       "items": [
-        "Local compliance, adding shareholders and investors in fundraising rounds",
-        "Timely statutory and regulatory updates for all clients",
-        "Maintain compliance with Vietnam’s record-keeping regulations, updating records as required",
-        "Craft and update company constitution as required for compliance",
-        "Offer outsourcing services for annual compliance, including executive prep and meeting documentation"
+        "Tuân thủ quy định tại địa phương, bổ sung cổ đông và nhà đầu tư trong các vòng gọi vốn",
+        "Cập nhật kịp thời các quy định pháp luật và quy chế cho toàn bộ khách hàng",
+        "Duy trì việc tuân thủ các quy định về lưu trữ hồ sơ của Việt Nam, cập nhật hồ sơ khi cần thiết",
+        "Soạn thảo và cập nhật điều lệ công ty theo yêu cầu tuân thủ",
+        "Cung cấp dịch vụ thuê ngoài cho việc tuân thủ thường niên, bao gồm chuẩn bị tài liệu điều hành và hồ sơ cuộc họp"
       ]
     },
     {
       "type": "cards",
-      "heading": "WTP Advisory’s Other Legal Services",
+      "heading": "Các dịch vụ pháp lý khác của WTP Advisory",
       "columns": 2,
       "items": [
         {
-          "title": "Leasing Contract Review",
-          "desc": "WTP Advisory begins with the crucial step of finalizing and confirming the deal structure and term sheet with the client, then reviews and revises the contract base term sheet against client requirements.",
+          "title": "Rà soát hợp đồng thuê",
+          "desc": "WTP Advisory bắt đầu với bước quan trọng là hoàn thiện và xác nhận cấu trúc giao dịch cùng điều khoản tổng quát với khách hàng, sau đó rà soát và chỉnh sửa hợp đồng dựa trên các yêu cầu của khách hàng.",
           "icon": "fileCheck"
         },
         {
-          "title": "Corporate Bank Account",
-          "desc": "WTP Advisory offers comprehensive financial consultancy services, advising on documentation, collecting necessary materials, and efficiently facilitating offshore corporate bank account openings.",
+          "title": "Tài khoản ngân hàng doanh nghiệp",
+          "desc": "WTP Advisory cung cấp dịch vụ tư vấn tài chính toàn diện, tư vấn về hồ sơ, thu thập tài liệu cần thiết và hỗ trợ mở tài khoản ngân hàng doanh nghiệp ở nước ngoài một cách hiệu quả.",
           "icon": "landmark"
         },
         {
-          "title": "Nominee Director & Company",
-          "desc": "WTP Advisory supports foreign entrepreneurs looking to establish and operate businesses in Vietnam. Our business consulting services cover ownership facilitation, asset management, swift market entry, and potential licensing and capital advantages.",
+          "title": "Giám đốc và Công ty được chỉ định",
+          "desc": "WTP Advisory hỗ trợ các doanh nhân nước ngoài mong muốn thành lập và vận hành doanh nghiệp tại Việt Nam. Dịch vụ tư vấn kinh doanh của chúng tôi bao gồm hỗ trợ về quyền sở hữu, quản lý tài sản, gia nhập thị trường nhanh chóng và những lợi thế tiềm năng về giấy phép và vốn.",
           "icon": "userCheck"
         },
         {
-          "title": "Product Registration",
-          "desc": "Rely on WTP Advisory for product regulation compliance, offering licensing, product registration (medical devices, food & beverage, food supplement…), and tax services to streamline the importation of your products into Vietnam.",
+          "title": "Đăng ký sản phẩm",
+          "desc": "Tin tưởng WTP Advisory về việc tuân thủ quy định sản phẩm, với các dịch vụ cấp phép, đăng ký sản phẩm (thiết bị y tế, thực phẩm và đồ uống, thực phẩm bổ sung…) và dịch vụ thuế để hợp lý hóa quá trình nhập khẩu sản phẩm của bạn vào Việt Nam.",
           "icon": "clipboard"
         },
         {
-          "title": "Trademark Registration",
-          "desc": "With the constantly changing regulations, our experienced bilingual legal team will help you register your trademark easily and quickly from day one, so you can do business without any worries.",
+          "title": "Đăng ký nhãn hiệu",
+          "desc": "Trước các quy định không ngừng thay đổi, đội ngũ pháp lý song ngữ giàu kinh nghiệm của chúng tôi sẽ giúp bạn đăng ký nhãn hiệu một cách dễ dàng và nhanh chóng ngay từ ngày đầu, để bạn an tâm kinh doanh.",
           "icon": "badge"
         }
       ]
     },
     {
       "type": "cards",
-      "heading": "Additional Corporate Legal Advisory Services",
+      "heading": "Các dịch vụ tư vấn pháp lý doanh nghiệp bổ sung",
       "columns": 2,
       "items": [
         {
-          "title": "Business License & Sub-Licenses",
-          "desc": "Explore our Sublicense Service for efficient license acquisition and expert support in Vietnam, ensuring regulatory compliance and a seamless application experience with our legal advisors.",
+          "title": "Giấy phép kinh doanh & Giấy phép con",
+          "desc": "Khám phá dịch vụ Giấy phép con của chúng tôi để xin giấy phép hiệu quả cùng sự hỗ trợ chuyên môn tại Việt Nam, đảm bảo tuân thủ quy định và trải nghiệm nộp hồ sơ liền mạch với các chuyên gia tư vấn pháp lý của chúng tôi.",
           "icon": "shield"
         },
         {
-          "title": "FDI – ISA Reports",
-          "desc": "WTP Advisory specializes in legal advisory services for FDI and ISA Reports, offering status checks, account issuance, and successful submission, which ensure compliance for your business.",
+          "title": "Báo cáo FDI – ISA",
+          "desc": "WTP Advisory chuyên cung cấp dịch vụ tư vấn pháp lý cho Báo cáo FDI và ISA, bao gồm kiểm tra tình trạng, cấp tài khoản và nộp hồ sơ thành công, đảm bảo sự tuân thủ cho doanh nghiệp của bạn.",
           "icon": "file"
         }
       ]
     },
     {
       "type": "steps",
-      "heading": "Your Success Plan in Vietnam",
+      "heading": "Lộ trình thành công của bạn tại Việt Nam",
       "items": [
         {
-          "title": "Submit Your Information & Needs",
-          "desc": "Tell us about your company’s needs and aspirations for our financial consultancy services in Vietnam",
+          "title": "Gửi thông tin & nhu cầu của bạn",
+          "desc": "Hãy cho chúng tôi biết về nhu cầu và mục tiêu của công ty bạn đối với dịch vụ tư vấn tài chính của chúng tôi tại Việt Nam",
           "icon": "clipboard"
         },
         {
-          "title": "Book a Consultation With Our Experts",
-          "desc": "Go over your plan with one of our bilingual business strategy consultants who are also experienced corporate legal advisors.",
+          "title": "Đặt lịch tư vấn với chuyên gia của chúng tôi",
+          "desc": "Cùng trao đổi kế hoạch của bạn với một trong những chuyên gia tư vấn chiến lược kinh doanh song ngữ, đồng thời cũng là những chuyên gia tư vấn pháp lý doanh nghiệp giàu kinh nghiệm của chúng tôi.",
           "icon": "headset"
         },
         {
-          "title": "Verify KYC Documents",
-          "desc": "Our team will guide you through processing the necessary paperwork to create your company dossier.",
+          "title": "Xác minh hồ sơ KYC",
+          "desc": "Đội ngũ của chúng tôi sẽ hướng dẫn bạn xử lý các giấy tờ cần thiết để hoàn thiện hồ sơ công ty.",
           "icon": "fileCheck"
         },
         {
-          "title": "Choose a Plan & Succeed In Vietnam",
-          "desc": "Let our business consulting lawyers simplify your business journey and make your mark in APAC’s fastest-growing economy",
+          "title": "Chọn gói dịch vụ & thành công tại Việt Nam",
+          "desc": "Hãy để đội ngũ luật sư tư vấn kinh doanh của chúng tôi đơn giản hóa hành trình kinh doanh và giúp bạn ghi dấu ấn tại nền kinh tế tăng trưởng nhanh nhất khu vực Châu Á - Thái Bình Dương",
           "icon": "award"
         }
       ]
     },
     {
       "type": "cards",
-      "eyebrow": "Explore More",
-      "heading": "Other Services for Vietnam Market Entry & Business Outsourcing",
+      "eyebrow": "Khám phá thêm",
+      "heading": "Các dịch vụ khác cho việc gia nhập thị trường Việt Nam & thuê ngoài doanh nghiệp",
       "columns": 4,
       "items": [
         {
-          "title": "Incorporation",
-          "desc": "Gain a presence in the Vietnamese market through our incorporation services, guided by expert legal advisors for startups.",
+          "title": "Thành lập doanh nghiệp",
+          "desc": "Hiện diện tại thị trường Việt Nam thông qua dịch vụ thành lập doanh nghiệp của chúng tôi, với sự hướng dẫn từ các chuyên gia tư vấn pháp lý dành cho doanh nghiệp khởi nghiệp.",
           "href": "/incorporation",
           "icon": "building"
         },
         {
-          "title": "Accounting & Taxation",
-          "desc": "Save time and money while ensuring compliance with full-service accounting services overseen by our small business legal advisors.",
+          "title": "Kế toán & Thuế",
+          "desc": "Tiết kiệm thời gian và chi phí trong khi đảm bảo tuân thủ với dịch vụ kế toán trọn gói được giám sát bởi các chuyên gia tư vấn pháp lý cho doanh nghiệp nhỏ của chúng tôi.",
           "href": "/accounting-taxation",
           "icon": "calculator"
         },
         {
-          "title": "HR & Payroll",
-          "desc": "Streamline your services with our human resources outsourcing services, including recruitment, payroll, insurance, and tax filing.",
+          "title": "Nhân sự & Tính lương",
+          "desc": "Tối ưu hóa hoạt động với dịch vụ thuê ngoài nhân sự của chúng tôi, bao gồm tuyển dụng, tính lương, bảo hiểm và khai thuế.",
           "href": "/hr-payroll-services",
           "icon": "users"
         },
         {
-          "title": "Immigration",
-          "desc": "Navigate visa requirements and obtain work permits, investor, and business visa with support from our corporate legal advisors.",
+          "title": "Di trú",
+          "desc": "Xử lý các yêu cầu về thị thực và xin giấy phép lao động, thị thực nhà đầu tư và thị thực doanh nghiệp với sự hỗ trợ từ các chuyên gia tư vấn pháp lý doanh nghiệp của chúng tôi.",
           "href": "/immigration",
           "icon": "plane"
         }
@@ -169,32 +169,32 @@
     {
       "type": "stats",
       "variant": "red",
-      "heading": "Backed by WTP Advisory",
+      "heading": "Được hậu thuẫn bởi WTP Advisory",
       "items": [
         {
           "value": "30+",
-          "label": "Years of experience"
+          "label": "Năm kinh nghiệm"
         },
         {
           "value": "1,500+",
-          "label": "Professionals across APAC"
+          "label": "Chuyên gia trên khắp Châu Á - Thái Bình Dương"
         },
         {
           "value": "20,000+",
-          "label": "Clients served globally"
+          "label": "Khách hàng được phục vụ trên toàn cầu"
         },
         {
           "value": "8",
-          "label": "Markets in Asia-Pacific"
+          "label": "Thị trường tại Châu Á - Thái Bình Dương"
         }
       ]
     },
     {
       "type": "cta",
-      "title": "Ready to get started in Vietnam?",
-      "subtitle": "Talk to our experts about how we can support your business.",
+      "title": "Sẵn sàng khởi đầu tại Việt Nam?",
+      "subtitle": "Trao đổi với các chuyên gia của chúng tôi về cách chúng tôi có thể hỗ trợ doanh nghiệp của bạn.",
       "button": {
-        "label": "Make an Inquiry",
+        "label": "Gửi yêu cầu tư vấn",
         "href": "/make-an-inquiry"
       },
       "variant": "red"

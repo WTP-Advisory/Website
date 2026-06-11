@@ -1,12 +1,12 @@
-﻿{
-  "title": "Financial Statement Preparation Services in Vietnam",
-  "metaDescription": "WTP Advisory simplifies financial statements with accurate, compliant solutions for confident decision-making.",
+{
+  "title": "Dịch vụ Lập báo cáo tài chính tại Việt Nam",
+  "metaDescription": "WTP Advisory đơn giản hóa báo cáo tài chính với các giải pháp chính xác, tuân thủ giúp bạn ra quyết định tự tin.",
   "hero": {
-    "eyebrow": "Services",
-    "title": "Financial Statement Preparation Services in Vietnam",
-    "subtitle": "Managing financial statements in Vietnam can be complex, but with WTP Advisory, you don't have to navigate it alone. Our experts deliver precise and compliant financial statements, giving you the confidence to make informed business decisions while meeting regulatory requirements.",
+    "eyebrow": "Dịch vụ",
+    "title": "Dịch vụ Lập báo cáo tài chính tại Việt Nam",
+    "subtitle": "Việc quản lý báo cáo tài chính tại Việt Nam có thể phức tạp, nhưng với WTP Advisory, bạn không phải tự mình xoay xở. Các chuyên gia của chúng tôi cung cấp báo cáo tài chính chính xác và tuân thủ, mang đến cho bạn sự tự tin để ra quyết định kinh doanh sáng suốt trong khi vẫn đáp ứng các yêu cầu pháp lý.",
     "cta": {
-      "label": "Make an Inquiry",
+      "label": "Gửi yêu cầu tư vấn",
       "href": "/make-an-inquiry"
     },
     "image": "/incorp/solutions/accounting-finance.jpg"
@@ -14,97 +14,97 @@
   "sections": [
     {
       "type": "richText",
-      "heading": "Why choose WTP Advisory?",
+      "heading": "Vì sao nên chọn WTP Advisory?",
       "body": [
-        "Handling financial statements in Vietnam can be challenging, but with WTP Advisory, you're in expert hands. Our professionals provide accurate and fully compliant financial reports, empowering you to make confident business decisions while adhering to regulatory requirements."
+        "Việc xử lý báo cáo tài chính tại Việt Nam có thể đầy thách thức, nhưng với WTP Advisory, bạn đang ở trong tay các chuyên gia. Đội ngũ chuyên môn của chúng tôi cung cấp báo cáo tài chính chính xác và tuân thủ đầy đủ, giúp bạn tự tin ra quyết định kinh doanh trong khi vẫn đáp ứng các yêu cầu pháp lý."
       ]
     },
     {
       "type": "stats",
-      "heading": "Your trusted accounting services provider",
+      "heading": "Nhà cung cấp dịch vụ kế toán đáng tin cậy của bạn",
       "items": [
-        { "value": "30+", "label": "Years Track Record" },
-        { "value": "15,000+", "label": "Clients Worldwide" },
-        { "value": "120+", "label": "Accounting & Tax Clients" }
+        { "value": "30+", "label": "Năm hoạt động" },
+        { "value": "15,000+", "label": "Khách hàng trên toàn thế giới" },
+        { "value": "120+", "label": "Khách hàng kế toán & thuế" }
       ]
     },
     {
       "type": "cards",
-      "heading": "Why Choose WTP Advisory?",
+      "heading": "Vì sao nên chọn WTP Advisory?",
       "columns": 3,
       "items": [
         {
-          "title": "Expert Accounting Support",
-          "desc": "Our team ensures accuracy, compliance, and alignment with Vietnam's financial reporting standards.",
+          "title": "Hỗ trợ kế toán chuyên môn",
+          "desc": "Đội ngũ của chúng tôi đảm bảo sự chính xác, tuân thủ và phù hợp với các chuẩn mực báo cáo tài chính của Việt Nam.",
           "icon": "users"
         },
         {
-          "title": "Comprehensive Reporting",
-          "desc": "We prepare balance sheets, profit & loss statements, cash flow reports, and more.",
+          "title": "Báo cáo toàn diện",
+          "desc": "Chúng tôi lập bảng cân đối kế toán, báo cáo kết quả kinh doanh, báo cáo lưu chuyển tiền tệ và nhiều hơn nữa.",
           "icon": "file"
         },
         {
-          "title": "Regulatory Compliance",
-          "desc": "Stay ahead of tax and legal obligations with our up-to-date knowledge of Vietnamese laws.",
+          "title": "Tuân thủ pháp lý",
+          "desc": "Luôn đi trước các nghĩa vụ thuế và pháp lý nhờ kiến thức cập nhật của chúng tôi về luật pháp Việt Nam.",
           "icon": "shield"
         },
         {
-          "title": "Time & Cost Efficiency",
-          "desc": "Free up internal resources while we handle your financial statements with precision.",
+          "title": "Hiệu quả về thời gian & chi phí",
+          "desc": "Giải phóng nguồn lực nội bộ trong khi chúng tôi xử lý báo cáo tài chính của bạn một cách chính xác.",
           "icon": "clock"
         },
         {
-          "title": "Tailored Solutions",
-          "desc": "Whether you're a startup, SME, or large enterprise, we adapt to your business needs.",
+          "title": "Giải pháp được thiết kế riêng",
+          "desc": "Dù bạn là startup, SME hay doanh nghiệp lớn, chúng tôi đều thích ứng với nhu cầu kinh doanh của bạn.",
           "icon": "badge"
         }
       ]
     },
     {
       "type": "cards",
-      "heading": "Financial Statement Preparation Services with WTP Advisory",
+      "heading": "Dịch vụ lập báo cáo tài chính cùng WTP Advisory",
       "columns": 4,
       "items": [
         {
-          "title": "Expert Consultation",
-          "desc": "Our accounting experts offer insights into financial best practices and regulations to help you optimize your business operations.",
+          "title": "Tư vấn chuyên môn",
+          "desc": "Các chuyên gia kế toán của chúng tôi mang đến hiểu biết sâu sắc về các thông lệ tài chính tốt nhất và quy định pháp luật để giúp bạn tối ưu hóa hoạt động kinh doanh.",
           "icon": "globe"
         },
         {
-          "title": "Comprehensive Support",
-          "desc": "We offer a full suite of accounting services, from bookkeeping to tax compliance, ensuring seamless financial management.",
+          "title": "Hỗ trợ toàn diện",
+          "desc": "Chúng tôi cung cấp trọn bộ dịch vụ kế toán, từ ghi sổ kế toán đến tuân thủ thuế, đảm bảo quản lý tài chính liền mạch.",
           "icon": "handshake"
         },
         {
-          "title": "Simplified Process",
-          "desc": "We handle the time-consuming tasks of financial record-keeping and reporting, allowing you to focus on your core business activities.",
+          "title": "Quy trình đơn giản",
+          "desc": "Chúng tôi đảm nhận những công việc tốn thời gian trong việc lưu giữ hồ sơ và báo cáo tài chính, cho phép bạn tập trung vào các hoạt động kinh doanh cốt lõi.",
           "icon": "rocket"
         },
         {
-          "title": "Focus on Core Business",
-          "desc": "With our accounting expertise, you can focus on achieving your business goals while ensuring financial accuracy and compliance.",
+          "title": "Tập trung vào hoạt động cốt lõi",
+          "desc": "Với chuyên môn kế toán của chúng tôi, bạn có thể tập trung đạt được mục tiêu kinh doanh trong khi vẫn đảm bảo sự chính xác và tuân thủ về tài chính.",
           "icon": "network"
         }
       ]
     },
     {
       "type": "team",
-      "eyebrow": "Our Team",
-      "heading": "Meet Our Experts",
+      "eyebrow": "Đội ngũ của chúng tôi",
+      "heading": "Gặp gỡ đội ngũ chuyên gia của chúng tôi",
       "variant": "portrait",
       "columns": 3,
       "items": [
-        { "name": "Michael Tran, CPA, CA", "role": "Chief Executive Officer", "image": "/incorp/people/placeholder.svg", "profileHref": "/our-people", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" },
-        { "name": "David Pham", "role": "Head of Business Advisory", "image": "/incorp/people/placeholder.svg", "profileHref": "/our-people", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" },
-        { "name": "Linh Hoang", "role": "Head of Corporate Secretarial and Advisory Services", "image": "/incorp/people/placeholder.svg", "profileHref": "/our-people", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" }
+        { "name": "[Tên CEO], CPA, CA", "role": "Tổng Giám đốc", "image": "/incorp/people/placeholder.svg", "profileHref": "/our-people", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" },
+        { "name": "[Tên Trưởng Phòng Tư Vấn]", "role": "Trưởng phòng Tư vấn doanh nghiệp", "image": "/incorp/people/placeholder.svg", "profileHref": "/our-people", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" },
+        { "name": "[Tên Trưởng Phòng Thư Ký]", "role": "Trưởng phòng Dịch vụ Thư ký doanh nghiệp và Tư vấn", "image": "/incorp/people/placeholder.svg", "profileHref": "/our-people", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" }
       ]
     },
     {
       "type": "cta",
-      "title": "Ready to get started in Vietnam?",
-      "subtitle": "Talk to our experts about how we can support your business.",
+      "title": "Sẵn sàng khởi đầu tại Việt Nam?",
+      "subtitle": "Hãy trao đổi với các chuyên gia của chúng tôi về cách chúng tôi có thể hỗ trợ doanh nghiệp của bạn.",
       "button": {
-        "label": "Make an Inquiry",
+        "label": "Gửi yêu cầu tư vấn",
         "href": "/make-an-inquiry"
       },
       "variant": "red"

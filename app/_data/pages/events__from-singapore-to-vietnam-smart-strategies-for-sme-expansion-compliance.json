@@ -1,61 +1,61 @@
-﻿{
+{
   "layout": "event",
-  "title": "From Singapore to Vietnam: Turning Strategic Ties into Smart Investments",
-  "metaDescription": "An insightful online session for Singapore-based business owners, SME leaders and startup founders expanding into Vietnam, led by WTP Advisory with Vanguard Financial Group, Baker & McKenzie Vietnam and Vietcombank.",
+  "title": "From Singapore to Vietnam: Biến Mối quan hệ Chiến lược thành Đầu tư Thông minh",
+  "metaDescription": "Một phiên trực tuyến chuyên sâu dành cho các chủ doanh nghiệp, lãnh đạo doanh nghiệp vừa và nhỏ (SME) và nhà sáng lập startup tại Singapore đang mở rộng sang Việt Nam, do WTP Advisory dẫn dắt cùng Vanguard Financial Group, Baker & McKenzie Vietnam và Vietcombank.",
   "banner": "/incorp/events/sg-to-vn-smart-investments.png",
   "format": "Webinar",
-  "date": "May 29, 2025",
+  "date": "Ngày 29 tháng 5 năm 2025",
   "about": [
-    "Join us for an insightful event designed for Singapore-based business owners, SME leaders, and startup founders seeking to expand into Vietnam. This event is led by WTP Advisory in collaboration with Vanguard Financial Group, Baker & McKenzie Vietnam, and Vietcombank."
+    "Hãy tham gia cùng chúng tôi trong một sự kiện chuyên sâu được thiết kế dành cho các chủ doanh nghiệp, lãnh đạo doanh nghiệp vừa và nhỏ (SME) và nhà sáng lập startup tại Singapore đang muốn mở rộng sang Việt Nam. Sự kiện do WTP Advisory dẫn dắt, phối hợp cùng Vanguard Financial Group, Baker & McKenzie Vietnam và Vietcombank."
   ],
   "matters": {
-    "heading": "Ready to Grow Your Business in One of ASEAN's Most Vibrant Markets?",
+    "heading": "Sẵn sàng Phát triển Doanh nghiệp tại Một trong những Thị trường Sôi động nhất ASEAN?",
     "body": [
-      "As Vietnam rises as a strategic growth hub, Singapore remains its second-largest foreign investor with nearly 4,000 active projects worth over US$84 billion. With deepening bilateral ties and expanding opportunities across tech, clean energy, and sustainable infrastructure, the time to act is now.",
-      "Join us for an exclusive 1-hour online session designed for Singaporean business owners, startup founders and SME decision makers looking to expand and scale confidently into Vietnam."
+      "Khi Việt Nam vươn lên trở thành một trung tâm tăng trưởng chiến lược, Singapore vẫn là nhà đầu tư nước ngoài lớn thứ hai với gần 4.000 dự án đang hoạt động trị giá hơn 84 tỷ USD. Với mối quan hệ song phương ngày càng sâu sắc và những cơ hội đang mở rộng trong lĩnh vực công nghệ, năng lượng sạch và hạ tầng bền vững, thời điểm hành động chính là lúc này.",
+      "Hãy tham gia cùng chúng tôi trong phiên trực tuyến độc quyền kéo dài 1 giờ, được thiết kế dành cho các chủ doanh nghiệp, nhà sáng lập startup và những người ra quyết định tại các doanh nghiệp vừa và nhỏ (SME) ở Singapore đang muốn mở rộng và vươn ra Việt Nam một cách tự tin."
     ]
   },
   "details": [
-    { "label": "Date", "value": "May 29, 2025" },
-    { "label": "Time", "value": "3:00 PM – 4:00 PM (SGT)" },
-    { "label": "Location", "value": "Zoom link will be provided upon registration" }
+    { "label": "Ngày", "value": "Ngày 29 tháng 5 năm 2025" },
+    { "label": "Thời gian", "value": "15:00 – 16:00 (giờ Singapore)" },
+    { "label": "Địa điểm", "value": "Đường link Zoom sẽ được cung cấp sau khi đăng ký" }
   ],
   "speakers": [
-    { "name": "Christopher Wong", "role": "Vanguard Financial Group — Moderator & Host" },
-    { "name": "Michael Tran", "role": "WTP Advisory — Market Entry, Legal & FDI Compliance Expert" },
-    { "name": "Wei Ming Tan", "role": "Baker McKenzie Vietnam — Legal & Regulatory Advisor for Foreign Investors" },
-    { "name": "Hoa Pham", "role": "Vietcombank — Head of Customer Services Organization" }
+    { "name": "[Tên Moderator]", "role": "Vanguard Financial Group — Điều phối viên & Người dẫn chương trình" },
+    { "name": "[Tên CEO]", "role": "WTP Advisory — Chuyên gia về Thâm nhập Thị trường, Pháp lý & Tuân thủ FDI" },
+    { "name": "[Tên Diễn Giả - Baker McKenzie]", "role": "Baker McKenzie Vietnam — Cố vấn Pháp lý & Quy định cho Nhà đầu tư nước ngoài" },
+    { "name": "[Tên Diễn Giả - Vietcombank]", "role": "Vietcombank — Giám đốc Tổ chức Dịch vụ Khách hàng" }
   ],
   "agenda": [
-    { "time": "15:00 – 15:05", "title": "Welcome & Opening Remarks" },
-    { "time": "15:05 – 15:15", "title": "Understand the Vietnamese Market & Market Entry Strategies" },
-    { "time": "15:15 – 15:20", "title": "Setting Up Your Business in Vietnam" },
-    { "time": "15:20 – 15:25", "title": "Banking for Foreign Enterprises" },
-    { "time": "15:25 – 15:30", "title": "Legal & Regulatory Insights for Investors" },
-    { "time": "15:30 – 16:00", "title": "Live Q&A — Audience interaction, expert responses" }
+    { "time": "15:00 – 15:05", "title": "Chào mừng & Phát biểu khai mạc" },
+    { "time": "15:05 – 15:15", "title": "Thấu hiểu Thị trường Việt Nam & Chiến lược Thâm nhập Thị trường" },
+    { "time": "15:15 – 15:20", "title": "Thành lập Doanh nghiệp tại Việt Nam" },
+    { "time": "15:20 – 15:25", "title": "Dịch vụ Ngân hàng cho Doanh nghiệp nước ngoài" },
+    { "time": "15:25 – 15:30", "title": "Góc nhìn Pháp lý & Quy định dành cho Nhà đầu tư" },
+    { "time": "15:30 – 16:00", "title": "Hỏi đáp Trực tiếp — Tương tác với khán giả, chuyên gia giải đáp" }
   ],
   "bulletSections": [
     {
-      "heading": "Why Attend",
+      "heading": "Lý do nên tham dự",
       "items": [
-        "Equip your business with crucial local insights",
-        "Minimize expansion risks and maximize opportunities",
-        "Connect with leading professionals who can streamline your market entry",
-        "Seats are limited — gain actionable insights and connect with trusted advisors on Vietnam market expansion"
+        "Trang bị cho doanh nghiệp của bạn những góc nhìn bản địa quan trọng",
+        "Giảm thiểu rủi ro mở rộng và tối đa hóa cơ hội",
+        "Kết nối với các chuyên gia hàng đầu có thể tinh gọn quá trình thâm nhập thị trường của bạn",
+        "Số chỗ có hạn — nhận những góc nhìn thực tiễn và kết nối với các cố vấn uy tín về mở rộng thị trường Việt Nam"
       ]
     }
   ],
   "registration": {
-    "heading": "Save Your Seat",
-    "subtitle": "Register for our exclusive event and save your seat.",
-    "schedule": "May 29, 2025 | 3:00 PM – 4:00 PM (SGT)"
+    "heading": "Giữ chỗ cho bạn",
+    "subtitle": "Đăng ký tham dự sự kiện đặc biệt của chúng tôi và giữ chỗ cho mình.",
+    "schedule": "Ngày 29 tháng 5 năm 2025 | 15:00 – 16:00 (giờ Singapore)"
   },
   "prev": {
-    "title": "Bridging Borders: Vietnam Launchpad – Move, Build, Succeed for Overseas Vietnamese",
+    "title": "Bridging Borders: Vietnam Launchpad – Dịch chuyển, Kiến tạo, Thành công dành cho Người Việt Nam ở nước ngoài",
     "href": "/events/bridging-borders-vietnam-launchpad"
   },
   "next": {
-    "title": "From Singapore to Vietnam: The 2026 Cross-Border Business & Investment Dialogue",
+    "title": "From Singapore to Vietnam: Đối thoại Kinh doanh & Đầu tư Xuyên biên giới 2026",
     "href": "/events/from-singapore-to-vietnam-the-2026-cross-border-business-investment-dialogue"
   }
 }

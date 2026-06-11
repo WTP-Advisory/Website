@@ -1,12 +1,12 @@
-﻿{
-  "title": "Employer of Record Services in Vietnam",
-  "metaDescription": "Recruit both local and foreign employees for your company without establishing a legal entity in Vietnam with an employer of record (EOR) agency.",
+{
+  "title": "Dịch vụ Đơn vị Tuyển dụng Đại diện (Employer of Record) tại Việt Nam",
+  "metaDescription": "Tuyển dụng cả nhân viên người Việt và người nước ngoài cho công ty mà không cần thành lập pháp nhân tại Việt Nam thông qua đơn vị tuyển dụng đại diện (Employer of Record - EOR).",
   "hero": {
-    "eyebrow": "Services",
-    "title": "Employer of Record Services in Vietnam",
-    "subtitle": "Employer of Record (EOR) services allow you to hire employees in Vietnam without establishing a legal entity. Professional Employer Organization (PEO) allows you to outsource all recruitment, payroll, and legal compliance needs so you can focus on your company's bottom line.",
+    "eyebrow": "Dịch vụ",
+    "title": "Dịch vụ Đơn vị Tuyển dụng Đại diện (Employer of Record) tại Việt Nam",
+    "subtitle": "Dịch vụ Đơn vị tuyển dụng đại diện (Employer of Record - EOR) cho phép bạn tuyển dụng nhân viên tại Việt Nam mà không cần thành lập pháp nhân. Tổ chức Sử dụng Lao động Chuyên nghiệp (PEO) cho phép bạn thuê ngoài toàn bộ nhu cầu về tuyển dụng, tính lương và tuân thủ pháp lý, để bạn có thể tập trung vào lợi nhuận của công ty.",
     "cta": {
-      "label": "Make an Inquiry",
+      "label": "Gửi yêu cầu tư vấn",
       "href": "/make-an-inquiry"
     },
     "image": "/incorp/solutions/hr-payroll.jpg"
@@ -14,123 +14,123 @@
   "sections": [
     {
       "type": "cards",
-      "heading": "Benefits of Employer of Record Services",
+      "heading": "Lợi ích của Dịch vụ Đơn vị Tuyển dụng Đại diện",
       "columns": 4,
       "items": [
         {
-          "title": "Global Workforce Expansion for Business",
-          "desc": "Simplify global hiring, broadens talent pool and opens markets",
+          "title": "Mở rộng lực lượng lao động toàn cầu cho doanh nghiệp",
+          "desc": "Đơn giản hóa tuyển dụng toàn cầu, mở rộng nguồn nhân tài và khai mở thị trường",
           "icon": "globe"
         },
         {
-          "title": "Replace In-House Functions, Cut Overheads",
-          "desc": "Offer cost-effective alternatives, cutting in-house HR, legal, and finance",
+          "title": "Thay thế các bộ phận nội bộ, cắt giảm chi phí cố định",
+          "desc": "Đem lại giải pháp tiết kiệm chi phí, cắt giảm nhân sự, pháp lý và tài chính nội bộ",
           "icon": "wallet"
         },
         {
-          "title": "Compliance and Risk Management through Expertise",
-          "desc": "Expertly navigate labor laws, ensure local compliance, and mitigate risks",
+          "title": "Tuân thủ và quản lý rủi ro nhờ chuyên môn",
+          "desc": "Vận dụng thành thạo luật lao động, đảm bảo tuân thủ địa phương và giảm thiểu rủi ro",
           "icon": "shield"
         },
         {
-          "title": "Time and Resource Savings with EORs and PEOs",
-          "desc": "Streamline tasks, frees resources for core business activities",
+          "title": "Tiết kiệm thời gian và nguồn lực với EOR và PEO",
+          "desc": "Tinh gọn công việc, giải phóng nguồn lực cho các hoạt động kinh doanh cốt lõi",
           "icon": "clock"
         }
       ]
     },
     {
       "type": "table",
-      "heading": "Types of Vietnam Increased Insurance Payment Caps",
-      "columns": ["Changes", "For Employees", "For Employers"],
+      "heading": "Các loại mức trần đóng bảo hiểm được điều chỉnh tăng tại Việt Nam",
+      "columns": ["Thay đổi", "Đối với người lao động", "Đối với người sử dụng lao động"],
       "rows": [
         {
-          "label": "Maximum cap of Social Insurance",
-          "cells": ["1,800,000 * 20 * 8% = VND 2,880,000 per month", "1,800,000 * 20 * 17% = VND 6,120,000 per month"]
+          "label": "Mức trần đóng Bảo hiểm Xã hội",
+          "cells": ["1.800.000 * 20 * 8% = 2.880.000 VNĐ mỗi tháng", "1.800.000 * 20 * 17% = 6.120.000 VNĐ mỗi tháng"]
         },
         {
-          "label": "Maximum cap of Health Insurance",
-          "cells": ["1,800,000 * 20 * 1.5% = VND 540,000 per month", "1,800,000 * 20 * 3% = VND 1,080,000 per month"]
+          "label": "Mức trần đóng Bảo hiểm Y tế",
+          "cells": ["1.800.000 * 20 * 1,5% = 540.000 VNĐ mỗi tháng", "1.800.000 * 20 * 3% = 1.080.000 VNĐ mỗi tháng"]
         },
         {
-          "label": "Maximum cap of Accident & Occupational Disease Insurance",
-          "cells": ["N/A", "1,800,000 * 20 * 0.5% = VND 180,000 per month"]
+          "label": "Mức trần đóng Bảo hiểm Tai nạn & Bệnh nghề nghiệp",
+          "cells": ["Không áp dụng", "1.800.000 * 20 * 0,5% = 180.000 VNĐ mỗi tháng"]
         },
         {
-          "label": "Eligibility for 100% coverage of medical expenses (after paying 5 consecutive years of health insurance)",
-          "cells": ["Co-insurance amount VND 10,800,000", "N/A"]
+          "label": "Đủ điều kiện hưởng 100% chi phí khám chữa bệnh (sau khi đóng bảo hiểm y tế 5 năm liên tục)",
+          "cells": ["Mức cùng chi trả 10.800.000 VNĐ", "Không áp dụng"]
         }
       ]
     },
     {
       "type": "richText",
-      "heading": "Employer of Record (EOR) with WTP Advisory",
+      "heading": "Đơn vị Tuyển dụng Đại diện (EOR) cùng WTP Advisory",
       "body": [
-        "Initial Tasks & Implementation: Our all-inclusive HR services ensure compliance and efficiency. We conduct thorough KYC checks, gather employee data, create compliant contracts, facilitate signings, and manage payroll and insurance registration for seamless HR operations. The service helps you: perform KYC of client; collect employee's salary package, contract terms from the client; interview and perform standard background check of employee; prepare and finalize all required HR contracts in compliance with Vietnam labor law; meet with employees and sign contracts with employees; prepare payroll document template and send it to the client.",
-        "Initial Labor Registration: WTP Advisory manages vital labor aspects, registering employees, ensuring local compliance, and structuring salary scales tailored to organizational positions for efficient HR management. The service helps you: Labor Report Registration (to register employee with company); Company Regulation registered with the local authorities; salary scale set up.",
-        "Initial Social Insurance Registration: WTP Advisory offers vital documentation for HR and insurance management, including delivery documents, declaration sheets, and employee information and labor lists. The service helps you: delivery documents sheet; participating and adjusting declaration sheet on Social, Health and Unemployment Insurance for each employee; list of Employee Information and Company Labor List.",
-        "Monthly and Quarterly Tasks: WTP Advisory offers vital documentation for HR and insurance management, including delivery documents, declaration sheets, and employee information and labor lists. The service helps you: monthly, based on client timesheet, annual leave and basic employee information reports to do monthly payroll and business trip reimbursement (if any); send payslip and create salary payment order; collect and provide client employee PIT information for the accounting department; calculate, withhold and settle monthly/quarterly PIT for EOR employees.",
-        "Outsourcing Service: WTP Advisory offers a range of services for seamless HR management, including monthly salary transfers, payroll processing based on employee reports, and dispute resolution facilitation. The service helps you: monthly transfer of employee salary from HR Techsoft bank account to employee bank account, based on client timesheets, annual leave and basic employee information reports to do monthly payroll; act as a mediator between employee and the Client to negotiate, settle labor disputes (if any)."
+        "Công việc và triển khai ban đầu: Dịch vụ nhân sự trọn gói của chúng tôi đảm bảo tuân thủ và hiệu quả. Chúng tôi thực hiện kiểm tra KYC kỹ lưỡng, thu thập dữ liệu nhân viên, soạn thảo hợp đồng tuân thủ quy định, hỗ trợ ký kết, đồng thời quản lý việc đăng ký tính lương và bảo hiểm để vận hành nhân sự liền mạch. Dịch vụ giúp bạn: thực hiện KYC với khách hàng; thu thập gói lương và các điều khoản hợp đồng của nhân viên từ khách hàng; phỏng vấn và thực hiện kiểm tra lý lịch tiêu chuẩn đối với nhân viên; chuẩn bị và hoàn thiện toàn bộ hợp đồng nhân sự cần thiết tuân thủ pháp luật lao động Việt Nam; gặp gỡ và ký hợp đồng với nhân viên; chuẩn bị biểu mẫu chứng từ tính lương và gửi cho khách hàng.",
+        "Đăng ký lao động ban đầu: WTP Advisory quản lý các khía cạnh lao động thiết yếu, đăng ký nhân viên, đảm bảo tuân thủ địa phương và xây dựng thang lương phù hợp với từng vị trí trong tổ chức nhằm quản lý nhân sự hiệu quả. Dịch vụ giúp bạn: Đăng ký Báo cáo lao động (để đăng ký nhân viên với công ty); đăng ký Nội quy lao động với cơ quan chức năng địa phương; thiết lập thang bảng lương.",
+        "Đăng ký bảo hiểm xã hội ban đầu: WTP Advisory cung cấp các chứng từ thiết yếu cho việc quản lý nhân sự và bảo hiểm, bao gồm hồ sơ chứng từ, tờ khai cùng thông tin nhân viên và danh sách lao động. Dịch vụ giúp bạn: lập tờ hồ sơ chứng từ; tham gia và điều chỉnh tờ khai Bảo hiểm Xã hội, Y tế và Thất nghiệp cho từng nhân viên; lập Thông tin nhân viên và Danh sách lao động của công ty.",
+        "Công việc hàng tháng và hàng quý: WTP Advisory cung cấp các chứng từ thiết yếu cho việc quản lý nhân sự và bảo hiểm, bao gồm hồ sơ chứng từ, tờ khai cùng thông tin nhân viên và danh sách lao động. Dịch vụ giúp bạn: hàng tháng, dựa trên bảng chấm công, báo cáo nghỉ phép năm và thông tin nhân viên cơ bản của khách hàng để thực hiện tính lương hàng tháng và hoàn trả công tác phí (nếu có); gửi phiếu lương và lập lệnh chi lương; thu thập và cung cấp thông tin thuế TNCN của nhân viên khách hàng cho bộ phận kế toán; tính, khấu trừ và quyết toán thuế TNCN hàng tháng/hàng quý cho nhân viên EOR.",
+        "Dịch vụ thuê ngoài: WTP Advisory cung cấp nhiều dịch vụ giúp quản lý nhân sự liền mạch, bao gồm chuyển lương hàng tháng, xử lý tính lương dựa trên báo cáo nhân viên và hỗ trợ giải quyết tranh chấp. Dịch vụ giúp bạn: chuyển lương hàng tháng cho nhân viên từ tài khoản ngân hàng của HR Techsoft đến tài khoản ngân hàng của nhân viên, dựa trên bảng chấm công, báo cáo nghỉ phép năm và thông tin nhân viên cơ bản của khách hàng để thực hiện tính lương hàng tháng; đóng vai trò trung gian giữa nhân viên và Khách hàng để thương lượng, giải quyết tranh chấp lao động (nếu có)."
       ]
     },
     {
       "type": "richText",
-      "heading": "What to Know about Vietnam's Labor Rules",
+      "heading": "Những điều cần biết về quy định lao động của Việt Nam",
       "body": [
-        "Working Hours: Regular working hours: 8 hours/day or 48 hours/week. Employers choose daily or weekly hours, but daily not over 10. Weekly hours should not exceed 48, with a 40-hour option encouraged by the State.",
-        "National Holidays: All Employees shall be entitled to fully paid days off on the following public holidays: Gregorian Calendar New Year Holiday: 01 day (the 1st of January of the Gregorian calendar); Lunar New Year (Tet Holiday): 05 days, decided by the Prime Minister; Victory Day: 30th of April; International Labor Day: May 1st; National Day: 02 days off (the 2nd of September and the previous or next day). Foreign employees in Vietnam are additionally entitled to 01 traditional public holiday and 01 National Day of their country, in addition to the public holidays stipulated above.",
-        "Tet Holiday (Lunar New Year) Days off & Bonus: The Tet falls at the beginning of the Lunar Calendar, and most businesses take 5 days off for this holiday. The exact days are decided by the Prime Minister of Vietnam. Tet holiday can be a disruptive time for a company's workforce. This is the most important holiday of the year and often times employees will take extra days off. Furthermore, the turnover rate during this time tends to increase significantly. It is not required but it is expected to pay Vietnamese employees a special bonus for the Tet holiday, usually calculated as the 13th month's salary."
+        "Giờ làm việc: Giờ làm việc bình thường: 8 giờ/ngày hoặc 48 giờ/tuần. Người sử dụng lao động lựa chọn tính theo ngày hoặc theo tuần, nhưng không quá 10 giờ/ngày. Số giờ trong tuần không vượt quá 48 giờ, và Nhà nước khuyến khích áp dụng tuần làm việc 40 giờ.",
+        "Ngày nghỉ lễ, Tết: Tất cả người lao động được nghỉ làm việc và hưởng nguyên lương trong các ngày lễ, Tết sau đây: Tết Dương lịch: 01 ngày (ngày 01 tháng 01 dương lịch); Tết Âm lịch: 05 ngày, do Thủ tướng Chính phủ quyết định; Ngày Chiến thắng: ngày 30 tháng 4; Ngày Quốc tế Lao động: ngày 01 tháng 5; Quốc khánh: 02 ngày (ngày 02 tháng 9 và một ngày liền trước hoặc liền sau). Người lao động nước ngoài tại Việt Nam còn được nghỉ thêm 01 ngày Tết cổ truyền dân tộc và 01 ngày Quốc khánh của nước họ, ngoài các ngày nghỉ lễ nêu trên.",
+        "Ngày nghỉ và thưởng Tết (Tết Âm lịch): Tết rơi vào đầu năm Âm lịch, và hầu hết doanh nghiệp đều nghỉ 5 ngày cho dịp lễ này. Số ngày cụ thể do Thủ tướng Chính phủ Việt Nam quyết định. Dịp Tết có thể gây gián đoạn cho lực lượng lao động của doanh nghiệp. Đây là ngày lễ quan trọng nhất trong năm và người lao động thường xin nghỉ thêm. Hơn nữa, tỷ lệ nghỉ việc trong giai đoạn này có xu hướng tăng đáng kể. Tuy không bắt buộc nhưng theo thông lệ, người sử dụng lao động được kỳ vọng sẽ trả cho nhân viên Việt Nam một khoản thưởng đặc biệt dịp Tết, thường được tính bằng tháng lương thứ 13."
       ]
     },
     {
       "type": "steps",
-      "heading": "Your Success Plan in Vietnam",
+      "heading": "Kế hoạch Thành công của bạn tại Việt Nam",
       "items": [
         {
-          "title": "Submit Your Information & Needs",
-          "desc": "Tell us about your company's needs and aspirations in Vietnam"
+          "title": "Gửi thông tin & nhu cầu của bạn",
+          "desc": "Hãy cho chúng tôi biết về nhu cầu và mục tiêu của công ty bạn tại Việt Nam"
         },
         {
-          "title": "Book a Consultation With Our Experts",
-          "desc": "Go over your plan with one of our bilingual business Consultants"
+          "title": "Đặt lịch tư vấn với chuyên gia của chúng tôi",
+          "desc": "Cùng trao đổi kế hoạch của bạn với một trong các Chuyên viên tư vấn song ngữ của chúng tôi"
         },
         {
-          "title": "Verify KYC Documents",
-          "desc": "Our consultants will contact you to process the necessary paperwork and create your company dossier"
+          "title": "Xác minh hồ sơ KYC",
+          "desc": "Chuyên viên tư vấn của chúng tôi sẽ liên hệ để xử lý các giấy tờ cần thiết và lập hồ sơ công ty cho bạn"
         },
         {
-          "title": "Choose a Plan & Succeed In Vietnam",
-          "desc": "Let us simplify your business journey and make your mark in APAC's fastest-growing economy"
+          "title": "Chọn gói dịch vụ & Thành công tại Việt Nam",
+          "desc": "Hãy để chúng tôi đơn giản hóa hành trình kinh doanh và giúp bạn ghi dấu ấn tại nền kinh tế tăng trưởng nhanh nhất khu vực APAC"
         }
       ]
     },
     {
       "type": "cards",
-      "eyebrow": "Explore More",
-      "heading": "Other Services for Doing Business in Vietnam",
+      "eyebrow": "Khám phá thêm",
+      "heading": "Các dịch vụ khác cho hoạt động kinh doanh tại Việt Nam",
       "columns": 4,
       "items": [
         {
-          "title": "Incorporation",
-          "desc": "Gain a presence in the Vietnamese market through our incorporation services.",
+          "title": "Thành lập doanh nghiệp",
+          "desc": "Hiện diện trên thị trường Việt Nam thông qua dịch vụ thành lập doanh nghiệp của chúng tôi.",
           "href": "/incorporation",
           "icon": "rocket"
         },
         {
-          "title": "Accounting & Taxation",
-          "desc": "Save time and money while ensuring compliance with full-service accounting services.",
+          "title": "Kế toán & Thuế",
+          "desc": "Tiết kiệm thời gian và chi phí trong khi vẫn đảm bảo tuân thủ với dịch vụ kế toán trọn gói.",
           "href": "/accounting-taxation",
           "icon": "calculator"
         },
         {
-          "title": "Legal Advisory",
-          "desc": "Obtain all the necessary licenses and sublicenses for doing business in Vietnam.",
+          "title": "Tư vấn pháp lý",
+          "desc": "Có được tất cả giấy phép và giấy phép con cần thiết để kinh doanh tại Việt Nam.",
           "href": "/legal-advisory",
           "icon": "scale"
         },
         {
-          "title": "Immigration",
-          "desc": "Navigate visa requirements and obtain work permits, investor, and business visa.",
+          "title": "Di trú",
+          "desc": "Đáp ứng các yêu cầu về thị thực và xin giấy phép lao động, thị thực đầu tư và thị thực doanh nghiệp.",
           "href": "/immigration",
           "icon": "plane"
         }
@@ -138,52 +138,52 @@
     },
     {
       "type": "faq",
-      "eyebrow": "FAQ",
-      "heading": "Frequently Asked Questions on Employer of Record Services in Vietnam",
+      "eyebrow": "CÂU HỎI THƯỜNG GẶP",
+      "heading": "Câu hỏi thường gặp về Dịch vụ Đơn vị Tuyển dụng Đại diện tại Việt Nam",
       "items": [
         {
-          "q": "Do I need a legal entity in Vietnam to hire employees?",
-          "a": "No. You can recruit both local and foreign employees in Vietnam for your company without establishing a legal entity. Common ways to do this include using recruitment technology platforms, employer of record (EOR) providers, or direct hiring through various communication channels such as LinkedIn and Facebook."
+          "q": "Tôi có cần một pháp nhân tại Việt Nam để tuyển dụng nhân viên không?",
+          "a": "Không. Bạn có thể tuyển dụng cả nhân viên người Việt và người nước ngoài tại Việt Nam cho công ty mà không cần thành lập pháp nhân. Các cách phổ biến để thực hiện bao gồm sử dụng nền tảng công nghệ tuyển dụng, đơn vị tuyển dụng đại diện (Employer of Record - EOR), hoặc tuyển dụng trực tiếp qua nhiều kênh liên lạc như LinkedIn và Facebook."
         },
         {
-          "q": "Can I pay my employees from abroad as a foreign employer?",
-          "a": "Yes. You can set up your payroll and payroll compliance entirely remotely. As legal obligations, you have to submit all paperwork for employee registration and salary payment to relevant authorities, namely the Department or Ministry of Labour, Invalids and Social Affairs."
+          "q": "Là người sử dụng lao động nước ngoài, tôi có thể trả lương cho nhân viên từ nước ngoài không?",
+          "a": "Có. Bạn có thể thiết lập việc tính lương và tuân thủ tính lương hoàn toàn từ xa. Theo nghĩa vụ pháp lý, bạn phải nộp toàn bộ hồ sơ đăng ký lao động và chi trả lương cho các cơ quan liên quan, cụ thể là Sở hoặc Bộ Lao động - Thương binh và Xã hội."
         },
         {
-          "q": "What are all the services included in the HR outsourcing package?",
-          "a": "When applying for our comprehensive HR outsourcing services, you can choose one, some, or all of the following: initial tasks and implementation, initial labor registration, initial social insurance registration, monthly and quarterly tasks, and outsourcing service."
+          "q": "Gói thuê ngoài nhân sự bao gồm những dịch vụ nào?",
+          "a": "Khi đăng ký dịch vụ thuê ngoài nhân sự toàn diện của chúng tôi, bạn có thể chọn một, một vài hoặc tất cả các dịch vụ sau: công việc và triển khai ban đầu, đăng ký lao động ban đầu, đăng ký bảo hiểm xã hội ban đầu, công việc hàng tháng và hàng quý, cùng dịch vụ thuê ngoài."
         }
       ]
     },
     {
       "type": "stats",
       "variant": "red",
-      "heading": "Backed by WTP Advisory",
+      "heading": "Được hậu thuẫn bởi WTP Advisory",
       "items": [
         {
           "value": "30+",
-          "label": "Years of experience"
+          "label": "Năm kinh nghiệm"
         },
         {
           "value": "1,500+",
-          "label": "Professionals across APAC"
+          "label": "Chuyên gia trên khắp APAC"
         },
         {
           "value": "20,000+",
-          "label": "Clients served globally"
+          "label": "Khách hàng được phục vụ trên toàn cầu"
         },
         {
           "value": "8",
-          "label": "Markets in Asia-Pacific"
+          "label": "Thị trường tại châu Á - Thái Bình Dương"
         }
       ]
     },
     {
       "type": "cta",
-      "title": "Ready to get started in Vietnam?",
-      "subtitle": "Talk to our experts about how we can support your business.",
+      "title": "Sẵn sàng khởi đầu tại Việt Nam?",
+      "subtitle": "Hãy trao đổi với các chuyên gia của chúng tôi về cách chúng tôi có thể hỗ trợ doanh nghiệp của bạn.",
       "button": {
-        "label": "Make an Inquiry",
+        "label": "Gửi yêu cầu tư vấn",
         "href": "/make-an-inquiry"
       },
       "variant": "red"

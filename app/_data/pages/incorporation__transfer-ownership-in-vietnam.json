@@ -1,12 +1,12 @@
-﻿{
-  "title": "Transfer Ownership in Vietnam",
-  "metaDescription": "WTP Advisory provides expert transfer-of-ownership services, ensuring a smooth and legally compliant business ownership transition through official registration with relevant government authorities.",
+{
+  "title": "Chuyển nhượng Quyền Sở hữu tại Việt Nam",
+  "metaDescription": "WTP Advisory cung cấp dịch vụ chuyển nhượng quyền sở hữu chuyên nghiệp, đảm bảo quá trình chuyển giao quyền sở hữu doanh nghiệp diễn ra suôn sẻ và tuân thủ pháp luật thông qua việc đăng ký chính thức với các cơ quan nhà nước có thẩm quyền.",
   "hero": {
-    "eyebrow": "Incorporation",
-    "title": "Transfer Ownership in Vietnam",
-    "subtitle": "WTP Advisory provides expert transfer ownership services, ensuring a smooth and legally compliant business ownership transition through official registration with relevant government authorities.",
+    "eyebrow": "Thành lập doanh nghiệp",
+    "title": "Chuyển nhượng Quyền Sở hữu tại Việt Nam",
+    "subtitle": "WTP Advisory cung cấp dịch vụ chuyển nhượng quyền sở hữu chuyên nghiệp, đảm bảo quá trình chuyển giao quyền sở hữu doanh nghiệp diễn ra suôn sẻ và tuân thủ pháp luật thông qua việc đăng ký chính thức với các cơ quan nhà nước có thẩm quyền.",
     "cta": {
-      "label": "Talk to Our Experts",
+      "label": "Trao đổi với Chuyên gia",
       "href": "/make-an-inquiry"
     },
     "image": "/incorp/solutions/incorporation.webp"
@@ -14,45 +14,45 @@
   "sections": [
     {
       "type": "richText",
-      "heading": "What are the benefits of transferring a business ownership in Vietnam?",
+      "heading": "Lợi ích của việc chuyển nhượng quyền sở hữu doanh nghiệp tại Việt Nam là gì?",
       "align": "left",
       "body": [
-        "Transferring business ownership in Vietnam offers several key advantages, including a quick process with fewer bureaucratic hurdles, reduced paperwork compared to starting a new company, and no requirement to prove financial capability.",
-        "Additionally, foreign investors can gain long-term residency through investor visas or temporary residence cards, enabling stable business operations and personal settlement in Vietnam."
+        "Chuyển nhượng quyền sở hữu doanh nghiệp tại Việt Nam mang lại nhiều lợi thế quan trọng, bao gồm quy trình nhanh chóng với ít rào cản thủ tục hành chính, ít giấy tờ hơn so với thành lập công ty mới, và không yêu cầu chứng minh năng lực tài chính.",
+        "Ngoài ra, nhà đầu tư nước ngoài có thể được cấp quyền cư trú dài hạn thông qua thị thực nhà đầu tư hoặc thẻ tạm trú, tạo điều kiện cho hoạt động kinh doanh ổn định và an cư tại Việt Nam."
       ]
     },
     {
       "type": "stats",
-      "heading": "Your Experts in Company Incorporation",
+      "heading": "Chuyên gia của Bạn trong Lĩnh vực Thành lập Doanh nghiệp",
       "items": [
-        { "value": "30+", "label": "Years Track Record" },
-        { "value": "15,000+", "label": "Clients Worldwide" },
-        { "value": "100+", "label": "Companies Incorporated Yearly" },
-        { "value": "1,500+", "label": "Professionals" }
+        { "value": "30+", "label": "Năm kinh nghiệm" },
+        { "value": "15,000+", "label": "Khách hàng trên toàn cầu" },
+        { "value": "100+", "label": "Công ty được thành lập mỗi năm" },
+        { "value": "1,500+", "label": "Chuyên gia" }
       ]
     },
     {
       "type": "cards",
-      "eyebrow": "Why WTP Advisory",
-      "heading": "Benefits of transferring your company ownership with WTP Advisory",
+      "eyebrow": "Vì sao chọn WTP Advisory",
+      "heading": "Lợi ích khi chuyển nhượng quyền sở hữu công ty cùng WTP Advisory",
       "columns": 4,
       "items": [
-        { "title": "Work with Professional Bilingual Experts", "icon": "headset", "desc": "Ensure flawless cross-communication with no disruptions." },
-        { "title": "Guidance for Your Dream Business", "icon": "rocket", "desc": "Get the support you need for your specific business goals." },
-        { "title": "Complete Cost and Time Transparency", "icon": "fileCheck", "desc": "Receive clear trajectory estimates in advance with no hidden fees." },
-        { "title": "Direct and Virtual Consultations", "icon": "globe", "desc": "Flexible timing and solutions for your convenience." }
+        { "title": "Làm việc với Chuyên gia Song ngữ Chuyên nghiệp", "icon": "headset", "desc": "Đảm bảo giao tiếp xuyên suốt, không gián đoạn." },
+        { "title": "Đồng hành cùng Doanh nghiệp Mơ ước của Bạn", "icon": "rocket", "desc": "Nhận được sự hỗ trợ cần thiết cho các mục tiêu kinh doanh cụ thể của bạn." },
+        { "title": "Minh bạch Hoàn toàn về Chi phí và Thời gian", "icon": "fileCheck", "desc": "Nhận dự toán lộ trình rõ ràng từ trước, không phí ẩn." },
+        { "title": "Tư vấn Trực tiếp và Trực tuyến", "icon": "globe", "desc": "Thời gian và giải pháp linh hoạt, thuận tiện cho bạn." }
       ]
     },
     {
       "type": "team",
-      "eyebrow": "Our Team",
-      "heading": "Meet Our Experts",
+      "eyebrow": "Đội ngũ của chúng tôi",
+      "heading": "Gặp gỡ các Chuyên gia của Chúng tôi",
       "variant": "portrait",
       "columns": 3,
       "items": [
-        { "name": "Michael Tran, CPA, CA", "role": "Chief Executive Officer", "image": "/incorp/people/placeholder.svg", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" },
-        { "name": "David Pham", "role": "Head of Business", "image": "/incorp/people/placeholder.svg", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" },
-        { "name": "Linh Hoang", "role": "Head of Corporate Secretarial", "image": "/incorp/people/placeholder.svg", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" }
+        { "name": "[Tên CEO], CPA, CA", "role": "Tổng Giám đốc Điều hành", "image": "/incorp/people/placeholder.svg", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" },
+        { "name": "[Tên Trưởng Phòng Tư Vấn]", "role": "Trưởng phòng Kinh doanh", "image": "/incorp/people/placeholder.svg", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" },
+        { "name": "[Tên Trưởng Phòng Thư Ký]", "role": "Trưởng phòng Thư ký Doanh nghiệp", "image": "/incorp/people/placeholder.svg", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" }
       ]
     }
   ],

@@ -1,10 +1,10 @@
-﻿{
-  "title": "Contact Us",
-  "metaDescription": "Get in touch with WTP Advisory. Offices in Ho Chi Minh City and Hanoi. Email vietnam@incorp.asia or call +84 28 3535 0019.",
+{
+  "title": "Liên hệ",
+  "metaDescription": "Liên hệ với WTP Advisory. Văn phòng tại TP. Hồ Chí Minh và Hà Nội. Gửi email vietnam@incorp.asia hoặc gọi +84 28 3535 0019.",
   "hero": {
-    "eyebrow": "Contact Us",
-    "title": "Let's talk about your business in Vietnam",
-    "subtitle": "Reach out to our team and we'll respond within one business day."
+    "eyebrow": "Liên hệ",
+    "title": "Cùng trao đổi về hoạt động kinh doanh của bạn tại Việt Nam",
+    "subtitle": "Hãy liên hệ với đội ngũ của chúng tôi và bạn sẽ nhận được phản hồi trong vòng một ngày làm việc."
   },
   "showContactForm": true
 }

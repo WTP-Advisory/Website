@@ -1,50 +1,50 @@
-﻿{
+{
   "layout": "event",
-  "title": "Bridging Borders: Vietnam Launchpad – Move, Build, Succeed for Overseas Vietnamese",
-  "metaDescription": "Season 2 of Bridging Borders returns with practical insights for Overseas Vietnamese building businesses, careers and new lives in Vietnam.",
+  "title": "Bridging Borders: Vietnam Launchpad – Dịch chuyển, Kiến tạo, Thành công dành cho Người Việt Nam ở nước ngoài",
+  "metaDescription": "Mùa 2 của Bridging Borders trở lại với những góc nhìn thực tiễn dành cho người Việt Nam ở nước ngoài đang xây dựng doanh nghiệp, sự nghiệp và cuộc sống mới tại Việt Nam.",
   "banner": "/incorp/events/bridging-borders-launchpad.png",
   "format": "Offline",
-  "date": "May 5, 2025",
+  "date": "Ngày 5 tháng 5 năm 2025",
   "about": [
-    "Season 2 of Bridging Borders has returned with fresh perspectives and practical insights for Overseas Vietnamese looking to reimagine their personal and professional journey in Vietnam. Whether it's building a business, moving a family, or expanding creative influence through content and media, it is all about hearing real stories and connecting with like-minded people."
+    "Mùa 2 của Bridging Borders đã trở lại với những góc nhìn mới mẻ và thực tiễn dành cho người Việt Nam ở nước ngoài đang muốn định hình lại hành trình cá nhân và sự nghiệp của mình tại Việt Nam. Dù là xây dựng doanh nghiệp, chuyển cả gia đình về nước, hay mở rộng tầm ảnh hưởng sáng tạo thông qua nội dung và truyền thông, tất cả đều xoay quanh việc lắng nghe những câu chuyện thực tế và kết nối với những người cùng chí hướng."
   ],
   "matters": {
-    "heading": "Season 2 – Coming Home with Purpose: Come Back and Build Forward",
+    "heading": "Mùa 2 – Trở về với Mục đích: Quay lại và Kiến tạo Tương lai",
     "body": [
-      "Are you an Overseas Vietnamese thinking about coming back — not just to live, but to lead, build, and make an impact? Bridging Borders: Vietnam Launchpad returns after a successful first season, and this time we're diving even deeper.",
-      "This year's focus is all about startups, innovation, and marketing in Vietnam's evolving business landscape — from agile SMEs to large-scale corporates. Whether you're an entrepreneur, creative strategist, or business leader, this event is designed for those ready to drive change and shape what's next.",
-      "Of course, we're still covering the essentials — career transitions, cultural reintegration, and family relocation — but now with a sharper lens on the realities and opportunities of returning home. You'll also hear from an inspiring lineup of Overseas Vietnamese who've built standout careers and companies both here and abroad."
+      "Bạn là người Việt Nam ở nước ngoài đang cân nhắc trở về — không chỉ để sinh sống, mà còn để dẫn dắt, kiến tạo và tạo ra dấu ấn? Bridging Borders: Vietnam Launchpad trở lại sau một mùa đầu tiên thành công, và lần này chúng tôi sẽ đi sâu hơn nữa.",
+      "Trọng tâm của năm nay xoay quanh khởi nghiệp, đổi mới sáng tạo và marketing trong bối cảnh kinh doanh đang không ngừng đổi thay của Việt Nam — từ các doanh nghiệp vừa và nhỏ (SME) linh hoạt đến các tập đoàn quy mô lớn. Dù bạn là doanh nhân, chiến lược gia sáng tạo hay nhà lãnh đạo doanh nghiệp, sự kiện này được thiết kế dành cho những người sẵn sàng tạo ra sự thay đổi và định hình tương lai.",
+      "Tất nhiên, chúng tôi vẫn đề cập đến những điều cốt lõi — chuyển hướng sự nghiệp, tái hòa nhập văn hóa và chuyển cả gia đình về nước — nhưng lần này với góc nhìn sắc bén hơn về những thực tế và cơ hội khi trở về quê hương. Bạn cũng sẽ được lắng nghe từ dàn diễn giả truyền cảm hứng là những người Việt Nam ở nước ngoài đã gây dựng nên những sự nghiệp và doanh nghiệp nổi bật ở cả trong nước lẫn quốc tế."
     ]
   },
   "details": [
-    { "label": "Date", "value": "Monday, 5 May 2025" },
-    { "label": "Time", "value": "6:00 PM – 8:00 PM" },
-    { "label": "Venue", "value": "Diamond Hall B, Sofitel Saigon Plaza, 17 Le Duan, Ben Nghe, Ho Chi Minh City" },
-    { "label": "Participation Fee", "value": "Prepayment 300,000 VND | At door 350,000 VND (strictly no-cash payment)" }
+    { "label": "Ngày", "value": "Thứ Hai, ngày 5 tháng 5 năm 2025" },
+    { "label": "Thời gian", "value": "18:00 – 20:00" },
+    { "label": "Địa điểm", "value": "Diamond Hall B, Sofitel Saigon Plaza, 17 Lê Duẩn, Bến Nghé, TP. Hồ Chí Minh" },
+    { "label": "Phí tham dự", "value": "Thanh toán trước 300.000 VND | Tại cửa 350.000 VND (chỉ thanh toán không dùng tiền mặt)" }
   ],
   "agenda": [
-    { "time": "17:30 – 18:00", "title": "Registration and Networking" },
-    { "time": "18:00 – 18:10", "title": "Welcome and Introduction" },
-    { "time": "18:10 – 18:20", "title": "Building business growth through inspiring content creation and media", "speaker": "Khoa Le – CEO, Vietcetera Media" },
-    { "time": "18:20 – 18:30", "title": "Unpacking the journey of launching a successful startup", "speaker": "Kevin Vo – Co-Founder, Reforged Labs" },
-    { "time": "18:30 – 18:40", "title": "Strategic differences between marketing for SMEs and corporate companies", "speaker": "Jessica Thi Nguyen – CDMO, Masan" },
-    { "time": "18:40 – 18:50", "title": "Overcoming language barriers, bridging cultures and managing a business", "speaker": "Linda Tran – COO, Premier Dental" },
-    { "time": "18:50 – 19:00", "title": "The relocation process for building a new life in Vietnam", "speaker": "Brian Hoang – CEO, Duong Business Consulting" },
-    { "time": "19:00 – 19:30", "title": "Panel Discussion and Q&A" },
-    { "time": "19:30 – 19:40", "title": "Lucky Draw" },
-    { "time": "19:40 – 20:00", "title": "Group Photo & Networking" }
+    { "time": "17:30 – 18:00", "title": "Đăng ký và Kết nối" },
+    { "time": "18:00 – 18:10", "title": "Chào mừng và Giới thiệu" },
+    { "time": "18:10 – 18:20", "title": "Thúc đẩy tăng trưởng doanh nghiệp thông qua sáng tạo nội dung và truyền thông truyền cảm hứng", "speaker": "[Tên Diễn Giả - Vietcetera] – CEO, Vietcetera Media" },
+    { "time": "18:20 – 18:30", "title": "Hé lộ hành trình khởi nghiệp thành công", "speaker": "[Tên Diễn Giả - Reforged Labs] – Co-Founder, Reforged Labs" },
+    { "time": "18:30 – 18:40", "title": "Sự khác biệt chiến lược giữa marketing cho doanh nghiệp vừa và nhỏ (SME) và tập đoàn lớn", "speaker": "[Tên Diễn Giả - Masan] – CDMO, Masan" },
+    { "time": "18:40 – 18:50", "title": "Vượt qua rào cản ngôn ngữ, kết nối văn hóa và quản lý doanh nghiệp", "speaker": "[Tên Diễn Giả - Premier Dental] – COO, Premier Dental" },
+    { "time": "18:50 – 19:00", "title": "Quy trình chuyển về nước để xây dựng cuộc sống mới tại Việt Nam", "speaker": "[Tên Diễn Giả - Duong Consulting] – CEO, Duong Business Consulting" },
+    { "time": "19:00 – 19:30", "title": "Phiên Thảo luận và Hỏi đáp" },
+    { "time": "19:30 – 19:40", "title": "Bốc thăm may mắn" },
+    { "time": "19:40 – 20:00", "title": "Chụp ảnh nhóm & Kết nối" }
   ],
   "registration": {
-    "heading": "RSVP Now",
-    "subtitle": "Secure your seat at this exclusive event and take the first step towards realizing your aspirations in Vietnam.",
-    "schedule": "5 May 2025 | 6:00 PM – 8:00 PM"
+    "heading": "Đăng ký ngay",
+    "subtitle": "Giữ chỗ tại sự kiện đặc biệt này và bước những bước đầu tiên để hiện thực hóa khát vọng của bạn tại Việt Nam.",
+    "schedule": "Ngày 5 tháng 5 năm 2025 | 18:00 – 20:00"
   },
   "prev": {
-    "title": "Is “Made in Vietnam” The New “Made in China”?",
+    "title": "Liệu “Made in Vietnam” có phải là “Made in China” mới?",
     "href": "/events/made-in-vietnam-the-new-made-in-china"
   },
   "next": {
-    "title": "From Singapore to Vietnam: Turning Strategic Ties into Smart Investments",
+    "title": "From Singapore to Vietnam: Biến Mối quan hệ Chiến lược thành Đầu tư Thông minh",
     "href": "/events/from-singapore-to-vietnam-smart-strategies-for-sme-expansion-compliance"
   }
 }

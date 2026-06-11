@@ -1,74 +1,74 @@
 {
-  "title": "Automation in Vietnam 2026: Advancing Industrial Innovation with AI",
-  "metaDescription": "How AI-driven automation is reshaping Vietnam's industry in 2026: market growth, government incentives, leading manufacturers, workforce impact, and the sectors set to benefit most.",
+  "title": "Tự động hóa tại Việt Nam 2026: Thúc đẩy đổi mới công nghiệp với AI",
+  "metaDescription": "Tự động hóa dựa trên AI đang định hình lại ngành công nghiệp Việt Nam năm 2026 như thế nào: tăng trưởng thị trường, ưu đãi của chính phủ, các nhà sản xuất dẫn đầu, tác động tới lực lượng lao động và những ngành hưởng lợi nhiều nhất.",
   "hero": {
-    "eyebrow": "News & Insights",
-    "title": "Automation in Vietnam 2026: Advancing Industrial Innovation with AI",
-    "subtitle": "A look at the policies, investments, and technologies driving Vietnam's rapid shift toward AI-powered industrial automation.",
+    "eyebrow": "Tin tức & Góc nhìn",
+    "title": "Tự động hóa tại Việt Nam 2026: Thúc đẩy đổi mới công nghiệp với AI",
+    "subtitle": "Cái nhìn về các chính sách, khoản đầu tư và công nghệ đang thúc đẩy bước chuyển nhanh chóng của Việt Nam sang tự động hóa công nghiệp vận hành bằng AI.",
     "image": "/incorp/news/automation.jpg"
   },
   "sections": [
     {
       "type": "richText",
-      "heading": "Why Automation in Vietnam Is Surging in 2026",
+      "heading": "Vì sao tự động hóa tại Việt Nam bùng nổ trong năm 2026",
       "body": [
-        "Vietnam's manufacturing sector is adopting automation at speed. The country's industrial automation market was valued at approximately USD 2.52 billion in 2024 and is projected to reach USD 4.21 billion by 2030, growing at around 8.78% annually.",
-        "This acceleration is more than a technology trend. It reflects a deliberate economic strategy to move up the value chain, strengthen export competitiveness, and offset rising labor costs through higher productivity and consistent quality."
+        "Ngành sản xuất của Việt Nam đang ứng dụng tự động hóa với tốc độ nhanh chóng. Thị trường tự động hóa công nghiệp của nước ta được định giá khoảng 2,52 tỷ USD vào năm 2024 và dự kiến đạt 4,21 tỷ USD vào năm 2030, với tốc độ tăng trưởng khoảng 8,78% mỗi năm.",
+        "Sự tăng tốc này không đơn thuần là một xu hướng công nghệ. Nó phản ánh một chiến lược kinh tế có chủ đích nhằm vươn lên trong chuỗi giá trị, củng cố năng lực cạnh tranh xuất khẩu và bù đắp chi phí lao động ngày càng tăng thông qua năng suất cao hơn cùng chất lượng ổn định."
       ]
     },
     {
       "type": "richText",
-      "heading": "Government Policies and Incentives Driving Automation",
+      "heading": "Chính sách và ưu đãi của chính phủ thúc đẩy tự động hóa",
       "body": [
-        "Public policy is a major catalyst. Vietnam enacted Law No. 90/2025, which establishes investment thresholds for automation projects, and the Ministry of Industry and Trade launched a Smart Production Programme with targets extending to 2035.",
-        "Together, these measures signal a long-term commitment to industrial modernization, encouraging both domestic firms and foreign investors to deploy advanced manufacturing technologies with greater confidence."
+        "Chính sách công là một động lực quan trọng. Việt Nam đã ban hành Luật số 90/2025, quy định các ngưỡng đầu tư đối với các dự án tự động hóa, và Bộ Công Thương đã khởi động Chương trình Sản xuất Thông minh với các mục tiêu kéo dài đến năm 2035.",
+        "Cùng nhau, những biện pháp này thể hiện cam kết dài hạn đối với hiện đại hóa công nghiệp, khuyến khích cả doanh nghiệp trong nước lẫn nhà đầu tư nước ngoài triển khai các công nghệ sản xuất tiên tiến một cách tự tin hơn."
       ]
     },
     {
       "type": "list",
-      "heading": "Industry Leadership and Market Statistics",
+      "heading": "Vị thế dẫn đầu ngành và số liệu thị trường",
       "columns": 1,
       "items": [
-        "VinFast operates facilities running over 1,200 ABB robots, achieving production rates of roughly 43 vehicles per hour.",
-        "Samsung's Smart Factory Initiative improved equipment efficiency to 95% while reducing defects by up to 75%.",
-        "The industrial robotics market reached USD 104.3 million in 2025, with projections of USD 168.3 million by 2034 at about 5.45% annual growth.",
-        "The broader industrial automation market is on track to nearly double, from USD 2.52 billion in 2024 to USD 4.21 billion by 2030."
+        "VinFast vận hành các nhà máy với hơn 1.200 robot ABB, đạt tốc độ sản xuất khoảng 43 xe mỗi giờ.",
+        "Sáng kiến Nhà máy Thông minh của Samsung đã nâng hiệu suất thiết bị lên 95% đồng thời giảm tỷ lệ lỗi tới 75%.",
+        "Thị trường robot công nghiệp đạt 104,3 triệu USD vào năm 2025, với dự báo đạt 168,3 triệu USD vào năm 2034, tăng trưởng khoảng 5,45% mỗi năm.",
+        "Thị trường tự động hóa công nghiệp nói chung đang trên đà tăng gần gấp đôi, từ 2,52 tỷ USD năm 2024 lên 4,21 tỷ USD vào năm 2030."
       ]
     },
     {
       "type": "list",
-      "heading": "Strategic Sectors for Automation Growth",
+      "heading": "Các ngành chiến lược cho tăng trưởng tự động hóa",
       "columns": 2,
       "items": [
-        "Automotive manufacturing",
-        "Electronics production",
-        "Textile modernization",
-        "Healthcare and medical robotics",
-        "Logistics and warehouse automation",
-        "Export-oriented assembly driven by foreign direct investment"
+        "Sản xuất ô tô",
+        "Sản xuất điện tử",
+        "Hiện đại hóa ngành dệt may",
+        "Y tế và robot y khoa",
+        "Logistics và tự động hóa kho bãi",
+        "Lắp ráp định hướng xuất khẩu được thúc đẩy bởi đầu tư trực tiếp nước ngoài"
       ]
     },
     {
       "type": "richText",
-      "heading": "Implications for the Vietnamese Workforce",
+      "heading": "Tác động đối với lực lượng lao động Việt Nam",
       "body": [
-        "Automation brings opportunity and anxiety in equal measure. A December 2025 UNDP report found that 61% of Vietnamese people fear losing their jobs or being unable to find work because of AI, underscoring the human dimension of the transition.",
-        "Many traditional workers lack the digital and analytical competencies that automated environments demand, creating substantial retraining needs. Employers that pair automation investment with structured upskilling programs will be best positioned to retain talent and capture productivity gains."
+        "Tự động hóa mang đến cơ hội và nỗi lo âu ở mức độ ngang nhau. Một báo cáo của UNDP công bố tháng 12 năm 2025 cho thấy 61% người Việt Nam lo ngại mất việc làm hoặc không thể tìm được việc làm do AI, qua đó nhấn mạnh khía cạnh con người của quá trình chuyển đổi này.",
+        "Nhiều lao động truyền thống còn thiếu năng lực số và năng lực phân tích mà môi trường tự động hóa đòi hỏi, tạo ra nhu cầu đào tạo lại đáng kể. Những doanh nghiệp kết hợp đầu tư tự động hóa với các chương trình nâng cao kỹ năng bài bản sẽ ở vị thế tốt nhất để giữ chân nhân tài và nắm bắt lợi ích về năng suất."
       ]
     },
     {
       "type": "richText",
-      "heading": "A Bright Future, With Challenges to Manage",
+      "heading": "Một tương lai tươi sáng, cùng những thách thức cần quản lý",
       "body": [
-        "The outlook for industrial automation in Vietnam is strong, supported by government incentives, marquee investments from global manufacturers, and rising export demand. The country is increasingly seen as a credible hub for advanced, technology-driven production within the APAC region.",
-        "Realizing that potential depends on managing the workforce transition, closing the digital skills gap, and ensuring that small and mid-sized manufacturers, not just the largest players, can access automation. Companies that plan for both the technology and the people will be the ones that benefit most."
+        "Triển vọng của tự động hóa công nghiệp tại Việt Nam rất tích cực, được hậu thuẫn bởi các ưu đãi của chính phủ, những khoản đầu tư tầm cỡ từ các nhà sản xuất toàn cầu và nhu cầu xuất khẩu ngày càng tăng. Việt Nam ngày càng được nhìn nhận là một trung tâm đáng tin cậy cho hoạt động sản xuất tiên tiến, dựa trên công nghệ trong khu vực châu Á - Thái Bình Dương.",
+        "Hiện thực hóa tiềm năng đó phụ thuộc vào việc quản lý quá trình chuyển đổi lực lượng lao động, thu hẹp khoảng cách về kỹ năng số và đảm bảo rằng các nhà sản xuất vừa và nhỏ, chứ không chỉ những doanh nghiệp lớn nhất, đều có thể tiếp cận tự động hóa. Những doanh nghiệp hoạch định cho cả công nghệ lẫn con người sẽ là những đơn vị hưởng lợi nhiều nhất."
       ]
     },
     {
       "type": "cta",
-      "title": "Need help with this in Vietnam?",
-      "subtitle": "From market entry to investment structuring for automation projects, our team can help you navigate Vietnam's industrial landscape.",
-      "button": { "label": "Make an inquiry", "href": "/make-an-inquiry" },
+      "title": "Cần hỗ trợ về vấn đề này tại Việt Nam?",
+      "subtitle": "Từ gia nhập thị trường đến cơ cấu đầu tư cho các dự án tự động hóa, đội ngũ của chúng tôi có thể giúp bạn định hướng trên bức tranh công nghiệp của Việt Nam.",
+      "button": { "label": "Gửi yêu cầu tư vấn", "href": "/make-an-inquiry" },
       "variant": "red"
     }
   ],

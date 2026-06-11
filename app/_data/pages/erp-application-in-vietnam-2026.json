@@ -1,84 +1,84 @@
 {
-  "title": "Master ERP Application in Vietnam: A Complete Guide for 2026",
-  "metaDescription": "A complete 2026 guide to ERP application in Vietnam: market trends, core benefits, cybersecurity and regulatory considerations, must-have modules for manufacturing SMEs, and a 5-step implementation strategy.",
+  "title": "Làm chủ ứng dụng ERP tại Việt Nam: Hướng dẫn toàn diện cho năm 2026",
+  "metaDescription": "Hướng dẫn toàn diện năm 2026 về ứng dụng ERP tại Việt Nam: xu hướng thị trường, lợi ích cốt lõi, các vấn đề về an ninh mạng và pháp lý, những phân hệ thiết yếu cho doanh nghiệp sản xuất vừa và nhỏ, cùng chiến lược triển khai 5 bước.",
   "hero": {
-    "eyebrow": "News & Insights",
-    "title": "Master ERP Application in Vietnam: A Complete Guide for 2026",
-    "subtitle": "How to choose and implement an Enterprise Resource Planning system that fits Vietnam's accounting standards, tax rules, and data laws.",
+    "eyebrow": "Tin tức & Góc nhìn",
+    "title": "Làm chủ ứng dụng ERP tại Việt Nam: Hướng dẫn toàn diện cho năm 2026",
+    "subtitle": "Cách lựa chọn và triển khai hệ thống Hoạch định Nguồn lực Doanh nghiệp (ERP) phù hợp với chuẩn mực kế toán, quy định thuế và luật dữ liệu của Việt Nam.",
     "image": "/incorp/news/erp-application.png"
   },
   "sections": [
     {
       "type": "richText",
-      "heading": "The Current Landscape of ERP Application in Vietnam",
+      "heading": "Bức tranh hiện tại của ứng dụng ERP tại Việt Nam",
       "body": [
-        "Enterprise Resource Planning has shifted from a back-office convenience to essential business infrastructure for companies operating in Vietnam. The local ERP market is projected to grow at a compound annual growth rate of roughly 8.5% between 2025 and 2030, reflecting both rapid digitalization and rising compliance demands.",
-        "Three dynamics define the market today. Cloud-based systems are steadily replacing on-premise solutions thanks to better scalability and lower upfront cost. AI and IoT integration is enabling predictive analytics and real-time supply chain tracking. And there is strong demand for localized solutions that handle Vietnam Accounting Standards (VAS) and local tax requirements, with surveys indicating that 89% of Vietnamese IT decision-makers prioritize accounting features when selecting an ERP system."
+        "Hoạch định Nguồn lực Doanh nghiệp (ERP) đã chuyển từ một tiện ích hậu cần văn phòng thành hạ tầng kinh doanh thiết yếu đối với các doanh nghiệp hoạt động tại Việt Nam. Thị trường ERP trong nước dự kiến tăng trưởng với tốc độ kép hằng năm khoảng 8,5% trong giai đoạn 2025 - 2030, phản ánh cả tiến trình số hóa nhanh chóng lẫn yêu cầu tuân thủ ngày càng cao.",
+        "Có ba động lực định hình thị trường hiện nay. Các hệ thống trên nền tảng đám mây đang dần thay thế giải pháp cài đặt tại chỗ nhờ khả năng mở rộng tốt hơn và chi phí ban đầu thấp hơn. Việc tích hợp AI và IoT đang mở ra khả năng phân tích dự báo và theo dõi chuỗi cung ứng theo thời gian thực. Bên cạnh đó là nhu cầu lớn đối với các giải pháp được bản địa hóa, có thể xử lý Chuẩn mực Kế toán Việt Nam (VAS) và các yêu cầu thuế trong nước, với khảo sát cho thấy 89% người ra quyết định về CNTT tại Việt Nam ưu tiên các tính năng kế toán khi lựa chọn hệ thống ERP."
       ]
     },
     {
       "type": "list",
-      "heading": "Core Benefits: Why Invest in ERP Now",
+      "heading": "Lợi ích cốt lõi: Vì sao nên đầu tư ERP ngay bây giờ",
       "columns": 2,
       "items": [
-        "Complete data centralization with real-time visibility into financial and operational performance and prebuilt KPI analytics",
-        "Reduced manual work by automating repetitive tasks such as invoice generation and account reconciliation",
-        "High scalability through modular architecture, letting you add features incrementally as you grow",
-        "Stronger risk management and compliance via built-in internal controls and audit tools that guard against fraud and unauthorized spending"
+        "Tập trung hóa dữ liệu hoàn chỉnh với khả năng nắm bắt theo thời gian thực hiệu quả tài chính và vận hành, cùng các phân tích KPI dựng sẵn",
+        "Giảm thao tác thủ công bằng cách tự động hóa các tác vụ lặp đi lặp lại như tạo hóa đơn và đối chiếu công nợ",
+        "Khả năng mở rộng cao nhờ kiến trúc theo phân hệ, cho phép bổ sung tính năng theo từng giai đoạn khi doanh nghiệp phát triển",
+        "Quản trị rủi ro và tuân thủ chặt chẽ hơn thông qua các công cụ kiểm soát nội bộ và kiểm toán tích hợp, giúp phòng ngừa gian lận và chi tiêu trái phép"
       ]
     },
     {
       "type": "richText",
-      "heading": "Overcoming Challenges and Cybersecurity Risks",
+      "heading": "Vượt qua thách thức và rủi ro an ninh mạng",
       "body": [
-        "ERP adoption is not without friction. The main operational obstacles are a high initial expense (often mitigated by choosing cloud solutions), extended implementation timelines of four to twelve months, and employee resistance that calls for a deliberate change-management strategy.",
-        "Cybersecurity deserves equal attention. Weak password protocols open the door to unauthorized access and insider threats, outdated patches leave systems exposed to malware, and insufficient backup strategies create real data-loss risk. A secure ERP rollout pairs the software deployment with hardened access controls, regular patching, and a tested backup plan."
+        "Việc ứng dụng ERP không phải không có trở ngại. Những rào cản vận hành chính là chi phí đầu tư ban đầu cao (thường được giảm bớt khi lựa chọn giải pháp đám mây), thời gian triển khai kéo dài từ bốn đến mười hai tháng, và sự e ngại của nhân viên đòi hỏi một chiến lược quản trị thay đổi bài bản.",
+        "An ninh mạng cũng cần được quan tâm tương xứng. Quy trình mật khẩu lỏng lẻo mở đường cho truy cập trái phép và các mối đe dọa từ nội bộ, các bản vá lỗi thời khiến hệ thống dễ bị mã độc tấn công, và chiến lược sao lưu thiếu sót tạo ra rủi ro mất dữ liệu thực sự. Một quá trình triển khai ERP an toàn cần đi kèm việc kiểm soát truy cập được tăng cường, vá lỗi định kỳ và một kế hoạch sao lưu đã được kiểm chứng."
       ]
     },
     {
       "type": "list",
-      "heading": "Navigating Vietnam's Strict Regulations",
+      "heading": "Định hướng giữa các quy định nghiêm ngặt của Việt Nam",
       "columns": 1,
       "items": [
-        "Cybersecurity Law (Decree 53/2022/ND-CP): mandates data localization; foreign cloud hosting may require government approval or local data storage.",
-        "Personal Data Protection Decree (13/2023/ND-CP): GDPR-equivalent rules requiring documented consent, internal procedures, and Data Protection Impact Assessments submitted to the Ministry of Public Security.",
-        "2025 Vietnam Data Law: governs the processing of 'core' and 'important' digital data and took effect on 1 July 2025.",
-        "Law on Electronic Transactions: requires certified digital signatures from state-authorized providers for legally binding documents."
+        "Luật An ninh mạng (Nghị định 53/2022/NĐ-CP): yêu cầu lưu trữ dữ liệu trong nước; việc lưu trữ đám mây ở nước ngoài có thể cần sự phê duyệt của cơ quan nhà nước hoặc phải lưu trữ dữ liệu tại Việt Nam.",
+        "Nghị định Bảo vệ Dữ liệu Cá nhân (13/2023/NĐ-CP): các quy định tương đương GDPR, yêu cầu sự đồng thuận được lập thành văn bản, quy trình nội bộ và Đánh giá Tác động Bảo vệ Dữ liệu nộp cho Bộ Công an.",
+        "Luật Dữ liệu Việt Nam 2025: điều chỉnh việc xử lý dữ liệu số 'cốt lõi' và 'quan trọng', có hiệu lực từ ngày 1 tháng 7 năm 2025.",
+        "Luật Giao dịch Điện tử: yêu cầu chữ ký số được chứng thực từ các nhà cung cấp do nhà nước cấp phép đối với các văn bản có giá trị pháp lý ràng buộc."
       ]
     },
     {
       "type": "richText",
-      "heading": "ERP Application for Manufacturing SMEs",
+      "heading": "Ứng dụng ERP cho doanh nghiệp sản xuất vừa và nhỏ",
       "body": [
-        "Manufacturing SMEs make up roughly 98% of Vietnamese businesses, and ERP delivers some of its clearest returns on the factory floor. The most valuable modules are Materials Requirement Planning (MRP) to calculate exact raw-material timing and quantities, Supply Chain Management (SCM) to synchronize vendor relationships and inventory visibility, a Production module to manage scheduling and surface bottlenecks, and Finance and Costing to sharpen cost allocation and pricing accuracy.",
-        "The impact can be substantial. One medical-equipment manufacturer reported a 20% reduction in production downtime and improved on-time deliveries after implementing Microsoft Dynamics 365, illustrating how operational visibility translates directly into competitiveness."
+        "Doanh nghiệp sản xuất vừa và nhỏ chiếm khoảng 98% số doanh nghiệp Việt Nam, và ERP mang lại một số lợi ích rõ rệt nhất ngay tại xưởng sản xuất. Những phân hệ giá trị nhất bao gồm Hoạch định Nhu cầu Vật tư (MRP) để tính toán chính xác thời điểm và số lượng nguyên vật liệu, Quản lý Chuỗi Cung ứng (SCM) để đồng bộ quan hệ với nhà cung cấp và khả năng nắm bắt tồn kho, phân hệ Sản xuất để quản lý lập kế hoạch và phát hiện điểm nghẽn, cùng phân hệ Tài chính và Tính giá thành để tinh chỉnh việc phân bổ chi phí và nâng cao độ chính xác trong định giá.",
+        "Tác động có thể rất đáng kể. Một nhà sản xuất thiết bị y tế cho biết đã giảm 20% thời gian ngừng sản xuất và cải thiện tỷ lệ giao hàng đúng hạn sau khi triển khai Microsoft Dynamics 365, minh chứng cho việc khả năng nắm bắt vận hành chuyển hóa trực tiếp thành năng lực cạnh tranh."
       ]
     },
     {
       "type": "list",
-      "heading": "A 5-Step Strategy for Successful Implementation",
+      "heading": "Chiến lược 5 bước để triển khai thành công",
       "columns": 1,
       "items": [
-        "Requirement definition and analysis (3-4 weeks): identify business goals and operational bottlenecks.",
-        "Choose an implementation partner with proven knowledge of VAS, local tax regulations, and e-invoicing compliance.",
-        "System development and data migration (6-7 weeks): configure workflows and migrate legacy data.",
-        "Key-user training and acceptance testing (2-4 weeks): run comprehensive training and real-world scenario tests.",
-        "Go-live support and phased rollout (4 weeks): provide dedicated support, including guidance through the first month-end close."
+        "Xác định và phân tích yêu cầu (3-4 tuần): nhận diện các mục tiêu kinh doanh và điểm nghẽn vận hành.",
+        "Lựa chọn đối tác triển khai có hiểu biết đã được kiểm chứng về VAS, các quy định thuế trong nước và tuân thủ hóa đơn điện tử.",
+        "Phát triển hệ thống và chuyển đổi dữ liệu (6-7 tuần): cấu hình quy trình làm việc và di chuyển dữ liệu cũ.",
+        "Đào tạo người dùng chủ chốt và kiểm thử chấp nhận (2-4 tuần): tổ chức đào tạo toàn diện và kiểm thử theo các tình huống thực tế.",
+        "Hỗ trợ vận hành chính thức và triển khai theo từng giai đoạn (4 tuần): cung cấp hỗ trợ chuyên trách, bao gồm hướng dẫn xuyên suốt kỳ khóa sổ cuối tháng đầu tiên."
       ]
     },
     {
       "type": "richText",
-      "heading": "The Bottom Line",
+      "heading": "Kết luận",
       "body": [
-        "Executing a successful ERP application is no longer an optional IT upgrade. For businesses competing in Vietnam's digital economy, it is a strategic imperative that connects operations, finance, and compliance in a single, auditable system.",
-        "The right partner makes the difference. A provider that understands both global ERP platforms and Vietnam's specific accounting, tax, and data rules can turn a complex deployment into a durable competitive advantage."
+        "Triển khai thành công một ứng dụng ERP không còn là một bước nâng cấp CNTT tùy chọn. Đối với các doanh nghiệp cạnh tranh trong nền kinh tế số của Việt Nam, đó là một yêu cầu chiến lược bắt buộc, kết nối vận hành, tài chính và tuân thủ trong một hệ thống duy nhất, có thể kiểm toán được.",
+        "Đối tác phù hợp tạo nên sự khác biệt. Một nhà cung cấp am hiểu cả các nền tảng ERP toàn cầu lẫn những quy định riêng về kế toán, thuế và dữ liệu của Việt Nam có thể biến một quá trình triển khai phức tạp thành lợi thế cạnh tranh bền vững."
       ]
     },
     {
       "type": "cta",
-      "title": "Need help with this in Vietnam?",
-      "subtitle": "We can help you select, localize, and implement an ERP system that meets Vietnam's accounting, tax, and data requirements.",
-      "button": { "label": "Make an inquiry", "href": "/make-an-inquiry" },
+      "title": "Cần hỗ trợ về vấn đề này tại Việt Nam?",
+      "subtitle": "Chúng tôi có thể giúp bạn lựa chọn, bản địa hóa và triển khai một hệ thống ERP đáp ứng các yêu cầu về kế toán, thuế và dữ liệu của Việt Nam.",
+      "button": { "label": "Gửi yêu cầu tư vấn", "href": "/make-an-inquiry" },
       "variant": "red"
     }
   ],

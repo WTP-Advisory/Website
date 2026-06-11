@@ -1,85 +1,85 @@
-﻿{
+{
   "layout": "event",
-  "title": "From Singapore to Vietnam: The 2026 Cross-Border Business & Investment Dialogue",
-  "metaDescription": "An exclusive in-person briefing with WTP Advisory and Standard Chartered on Vietnam's 2026 regulatory shifts, tax incentives and cross-border investment opportunities for Singaporean investors.",
+  "title": "From Singapore to Vietnam: Đối thoại Kinh doanh & Đầu tư Xuyên biên giới 2026",
+  "metaDescription": "Một buổi gặp gỡ trực tiếp độc quyền cùng WTP Advisory và Standard Chartered về những thay đổi pháp lý năm 2026 của Việt Nam, các ưu đãi thuế và cơ hội đầu tư xuyên biên giới dành cho nhà đầu tư Singapore.",
   "banner": "/incorp/events/sg-vn-2026-dialogue.jpeg",
   "format": "Webinar",
-  "date": "December 9, 2025",
+  "date": "Ngày 9 tháng 12 năm 2025",
   "about": [
-    "Gain first-hand insights into Vietnam's major regulatory shifts for 2026 and what they mean for Singaporean investors. This exclusive in-person briefing brings together experts from WTP Advisory and Standard Chartered to deliver critical updates on tax incentives, market outlooks, and cross-border investment opportunities.",
-    "A must-attend session for businesses planning expansion into one of Asia's fastest-growing markets."
+    "Nắm bắt những góc nhìn trực tiếp về các thay đổi pháp lý quan trọng của Việt Nam trong năm 2026 và ý nghĩa của chúng đối với nhà đầu tư Singapore. Buổi gặp gỡ trực tiếp độc quyền này quy tụ các chuyên gia từ WTP Advisory và Standard Chartered nhằm mang đến những cập nhật thiết yếu về ưu đãi thuế, triển vọng thị trường và cơ hội đầu tư xuyên biên giới.",
+    "Một phiên không thể bỏ lỡ dành cho các doanh nghiệp đang lên kế hoạch mở rộng vào một trong những thị trường tăng trưởng nhanh nhất châu Á."
   ],
   "details": [
-    { "label": "Organizer", "value": "Ascentium" },
-    { "label": "Venue", "value": "Ascentium Singapore Office, 39-06/10 Ocean Financial Centre, 10 Collyer Quay, Singapore" },
-    { "label": "Date", "value": "9 December 2025" },
-    { "label": "Time", "value": "2:00 PM – 4:00 PM (SGT)" },
-    { "label": "Format", "value": "In-person | Registration confirmation will be sent separately" },
-    { "label": "Contact", "value": "Wei Boon Lim, Associate Director – Group Commercial" },
+    { "label": "Đơn vị tổ chức", "value": "Ascentium" },
+    { "label": "Địa điểm", "value": "Văn phòng Ascentium Singapore, 39-06/10 Ocean Financial Centre, 10 Collyer Quay, Singapore" },
+    { "label": "Ngày", "value": "Ngày 9 tháng 12 năm 2025" },
+    { "label": "Thời gian", "value": "14:00 – 16:00 (giờ Singapore)" },
+    { "label": "Hình thức", "value": "Trực tiếp | Xác nhận đăng ký sẽ được gửi riêng" },
+    { "label": "Liên hệ", "value": "[Tên Diễn Giả - Ascentium], Associate Director – Group Commercial" },
     { "label": "Email", "value": "kahseng.lok@ascentium.com" },
-    { "label": "Phone", "value": "+65 8454 8107" }
+    { "label": "Điện thoại", "value": "+65 8454 8107" }
   ],
   "matters": {
-    "heading": "Why This Event Matters Now",
+    "heading": "Vì sao Sự kiện này Quan trọng vào lúc này",
     "body": [
-      "Vietnam is entering one of its most significant regulatory transitions in a decade. Major updates across tax incentives, investment licensing, e-invoicing, payroll compliance, foreign ownership rules, and enterprise registration are fundamentally reshaping what foreign investors must prepare for in 2026.",
-      "For Singaporean and regional investors, staying ahead of these changes is no longer optional. It is essential for protecting operations, reducing compliance risks, and capturing early-mover advantages in one of Asia's fastest-growing markets.",
-      "Building on the strong engagement from our previous online event for Singaporean investors, this exclusive in-person briefing — organized by Ascentium — brings together senior representatives from WTP Advisory, Standard Chartered Vietnam, and Standard Chartered Singapore. This session will deliver the latest Vietnam market and FDI updates, with a deeper focus on newly announced tax incentives and policy developments that will directly impact investment decisions in 2026."
+      "Việt Nam đang bước vào một trong những giai đoạn chuyển đổi pháp lý quan trọng nhất trong một thập kỷ. Những cập nhật lớn về ưu đãi thuế, cấp phép đầu tư, hóa đơn điện tử, tuân thủ tiền lương, quy định về sở hữu nước ngoài và đăng ký doanh nghiệp đang định hình lại một cách căn bản những gì nhà đầu tư nước ngoài cần chuẩn bị cho năm 2026.",
+      "Đối với nhà đầu tư Singapore và khu vực, việc đi trước những thay đổi này không còn là lựa chọn. Đó là điều thiết yếu để bảo vệ hoạt động, giảm thiểu rủi ro tuân thủ và nắm bắt lợi thế của người tiên phong tại một trong những thị trường tăng trưởng nhanh nhất châu Á.",
+      "Tiếp nối sự quan tâm mạnh mẽ từ sự kiện trực tuyến trước đó dành cho nhà đầu tư Singapore, buổi gặp gỡ trực tiếp độc quyền này — do Ascentium tổ chức — quy tụ các đại diện cấp cao từ WTP Advisory, Standard Chartered Vietnam và Standard Chartered Singapore. Phiên này sẽ mang đến những cập nhật mới nhất về thị trường và FDI tại Việt Nam, với trọng tâm sâu hơn vào các ưu đãi thuế và diễn biến chính sách vừa được công bố, những yếu tố sẽ tác động trực tiếp đến các quyết định đầu tư trong năm 2026."
     ]
   },
   "agenda": [
     {
-      "title": "Vietnam Market Update",
+      "title": "Cập nhật Thị trường Việt Nam",
       "speaker": "Standard Chartered Vietnam",
-      "desc": "Key economic indicators, sector outlooks, and cross-border investment trends heading into 2026."
+      "desc": "Các chỉ số kinh tế chủ chốt, triển vọng ngành và xu hướng đầu tư xuyên biên giới hướng tới năm 2026."
     },
     {
-      "title": "Vietnam's Investment Landscape: Challenges & Opportunities",
-      "speaker": "Michael Tran, CEO, WTP Advisory",
-      "desc": "Overview of market entry trends, regulatory hotspots, priority FDI sectors, and strategic expansion pathways."
+      "title": "Bức tranh Đầu tư của Việt Nam: Thách thức & Cơ hội",
+      "speaker": "[Tên CEO], CEO, WTP Advisory",
+      "desc": "Tổng quan về xu hướng thâm nhập thị trường, các điểm nóng pháp lý, những lĩnh vực FDI ưu tiên và các lộ trình mở rộng chiến lược."
     },
     {
-      "title": "Tax Incentives & Policy Developments 2025–2026",
-      "speaker": "Michael Tran, CEO, WTP Advisory",
-      "desc": "Essential updates on CIT rates, VAT and PIT changes, e-invoicing, UBO rules, and new government incentives."
+      "title": "Ưu đãi Thuế & Diễn biến Chính sách 2025–2026",
+      "speaker": "[Tên CEO], CEO, WTP Advisory",
+      "desc": "Những cập nhật thiết yếu về thuế suất TNDN, các thay đổi về thuế GTGT và thuế TNCN, hóa đơn điện tử, quy định về chủ sở hữu hưởng lợi (UBO) và các ưu đãi mới của Chính phủ."
     },
     {
-      "title": "SC Network: Connecting Corridors for FDI Growth",
+      "title": "Mạng lưới SC: Kết nối Hành lang cho Tăng trưởng FDI",
       "speaker": "Standard Chartered Singapore",
-      "desc": "How Standard Chartered supports cross-border financing, expansion, and Singapore–Vietnam capital flows."
+      "desc": "Cách Standard Chartered hỗ trợ tài trợ xuyên biên giới, mở rộng và các dòng vốn Singapore–Việt Nam."
     }
   ],
   "bulletSections": [
     {
-      "heading": "Who Should Attend",
-      "intro": "This session is tailored for:",
+      "heading": "Đối tượng nên tham dự",
+      "intro": "Phiên này được thiết kế dành cho:",
       "items": [
-        "Singaporean SMEs and corporates planning Vietnam expansion",
-        "Investors evaluating market entry in 2026",
-        "CFOs, founders, and legal/compliance leaders",
-        "Regional businesses seeking tax-efficient structures",
-        "Companies reviewing upcoming policy impacts on existing operations"
+        "Các doanh nghiệp vừa và nhỏ (SME) và tập đoàn Singapore đang lên kế hoạch mở rộng sang Việt Nam",
+        "Các nhà đầu tư đang đánh giá việc thâm nhập thị trường trong năm 2026",
+        "Các giám đốc tài chính (CFO), nhà sáng lập và lãnh đạo phụ trách pháp lý/tuân thủ",
+        "Các doanh nghiệp khu vực đang tìm kiếm cấu trúc tối ưu về thuế",
+        "Các công ty đang rà soát tác động của những chính sách sắp tới đối với hoạt động hiện hữu"
       ]
     },
     {
-      "heading": "Why Join This Closed-Door Session",
+      "heading": "Vì sao nên tham gia Phiên họp Kín này",
       "items": [
-        "First-hand insights from Vietnam's tax, policy, and market experts",
-        "Deep understanding of 2026 regulatory changes",
-        "Practical guidance for FDI strategy and risk mitigation",
-        "Access to Standard Chartered's regional banking corridor specialists",
-        "Networking with senior investors and cross-border operators",
-        "Seats are limited to ensure meaningful discussion and participant engagement"
+        "Những góc nhìn trực tiếp từ các chuyên gia về thuế, chính sách và thị trường Việt Nam",
+        "Thấu hiểu sâu sắc những thay đổi pháp lý của năm 2026",
+        "Hướng dẫn thực tiễn cho chiến lược FDI và giảm thiểu rủi ro",
+        "Tiếp cận các chuyên gia về hành lang ngân hàng khu vực của Standard Chartered",
+        "Kết nối với các nhà đầu tư cấp cao và những đơn vị vận hành xuyên biên giới",
+        "Số chỗ có hạn nhằm đảm bảo những cuộc thảo luận ý nghĩa và sự tham gia của người tham dự"
       ]
     }
   ],
   "registration": {
-    "heading": "Secure Your Seat",
-    "subtitle": "Participation is free but strictly limited. Register now to reserve your place at this exclusive investor briefing.",
-    "schedule": "9 December 2025 | 2:00 PM – 4:00 PM (SGT)"
+    "heading": "Giữ chỗ cho bạn",
+    "subtitle": "Tham dự miễn phí nhưng số lượng có hạn. Đăng ký ngay để giữ chỗ tại buổi gặp gỡ dành cho nhà đầu tư độc quyền này.",
+    "schedule": "Ngày 9 tháng 12 năm 2025 | 14:00 – 16:00 (giờ Singapore)"
   },
   "prev": {
-    "title": "From Singapore to Vietnam: Turning Strategic Ties into Smart Investments",
+    "title": "From Singapore to Vietnam: Biến Mối quan hệ Chiến lược thành Đầu tư Thông minh",
     "href": "/events/from-singapore-to-vietnam-smart-strategies-for-sme-expansion-compliance"
   }
 }

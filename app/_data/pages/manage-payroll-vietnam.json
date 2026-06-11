@@ -1,74 +1,74 @@
 {
-  "title": "A Guide to Payroll in Vietnam: What Employers Need to Know for 2026",
-  "metaDescription": "A 2026 payroll guide for employers in Vietnam: minimum wage by region, the new PIT brackets, statutory insurance caps, overtime rules, e-SIB digital compliance, and the in-house versus outsourcing decision.",
+  "title": "Cẩm nang Tính lương tại Việt Nam: Những điều người sử dụng lao động cần biết cho năm 2026",
+  "metaDescription": "Cẩm nang tính lương năm 2026 dành cho người sử dụng lao động tại Việt Nam: lương tối thiểu theo vùng, các bậc thuế TNCN mới, mức trần bảo hiểm bắt buộc, quy định làm thêm giờ, tuân thủ số hóa e-SIB và bài toán tự thực hiện nội bộ hay thuê ngoài.",
   "hero": {
-    "eyebrow": "News & Insights",
-    "title": "A Guide to Payroll in Vietnam: What Employers Need to Know for 2026",
-    "subtitle": "The wage, tax, insurance, and overtime changes shaping payroll compliance in Vietnam this year, and how to manage them.",
+    "eyebrow": "Tin tức & Góc nhìn",
+    "title": "Cẩm nang Tính lương tại Việt Nam: Những điều người sử dụng lao động cần biết cho năm 2026",
+    "subtitle": "Những thay đổi về lương, thuế, bảo hiểm và làm thêm giờ định hình việc tuân thủ tính lương tại Việt Nam trong năm nay, và cách quản lý chúng.",
     "image": "/incorp/news/payroll.png"
   },
   "sections": [
     {
       "type": "richText",
-      "heading": "What's Changing with Payroll in Vietnam Right Now",
+      "heading": "Những thay đổi về tính lương tại Việt Nam ngay lúc này",
       "body": [
-        "Vietnam's 2026 payroll rules deliver a rare combination: several changes increase employees' net pay without raising base salaries, while tightening enforcement on employers. Understanding the mechanics is essential to staying compliant and competitive in the labor market.",
-        "Three shifts stand out this year. The personal income tax system has been simplified and made more generous, statutory insurance caps are rising mid-year, and payroll records have gone fully digital with real-time enforcement."
+        "Các quy định tính lương năm 2026 của Việt Nam mang đến một sự kết hợp hiếm có: nhiều thay đổi làm tăng thu nhập thực nhận của người lao động mà không cần nâng lương cơ bản, đồng thời siết chặt việc thực thi đối với người sử dụng lao động. Hiểu rõ cơ chế vận hành là điều thiết yếu để duy trì tuân thủ và sức cạnh tranh trên thị trường lao động.",
+        "Có ba thay đổi nổi bật trong năm nay. Hệ thống thuế thu nhập cá nhân đã được đơn giản hóa và trở nên hào phóng hơn, mức trần bảo hiểm bắt buộc tăng vào giữa năm, và hồ sơ tính lương đã được số hóa hoàn toàn với việc thực thi theo thời gian thực."
       ]
     },
     {
       "type": "list",
-      "heading": "Minimum Wage and Tax System Overhaul",
+      "heading": "Cải tổ lương tối thiểu và hệ thống thuế",
       "columns": 1,
       "items": [
-        "The 2026 minimum wage rose 7.2% across the four regions, ranging from VND 3.7 million to VND 5.31 million per month, and sets the baseline for overtime, severance, and probationary caps.",
-        "Personal income tax was simplified from seven brackets to five.",
-        "The personal allowance increased from VND 11 million to VND 15.5 million per month, plus VND 6.2 million per dependent.",
-        "Tech professionals can qualify for a five-year full PIT exemption or a 50% tax reduction, boosting recruitment appeal without expanding the payroll budget."
+        "Lương tối thiểu năm 2026 tăng 7,2% trên cả bốn vùng, dao động từ 3,7 triệu đến 5,31 triệu VNĐ mỗi tháng, và làm cơ sở cho việc tính làm thêm giờ, trợ cấp thôi việc và mức trần lương thử việc.",
+        "Thuế thu nhập cá nhân được đơn giản hóa từ bảy bậc xuống còn năm bậc.",
+        "Mức giảm trừ gia cảnh cho bản thân tăng từ 11 triệu lên 15,5 triệu VNĐ mỗi tháng, cộng thêm 6,2 triệu VNĐ cho mỗi người phụ thuộc.",
+        "Chuyên gia công nghệ có thể đủ điều kiện được miễn toàn bộ thuế TNCN trong năm năm hoặc giảm 50% thuế, qua đó tăng sức hút tuyển dụng mà không làm tăng ngân sách lương."
       ]
     },
     {
       "type": "richText",
-      "heading": "Statutory Insurance Contributions",
+      "heading": "Các khoản đóng bảo hiểm bắt buộc",
       "body": [
-        "Employers contribute 23.5% of gross salary toward statutory insurance, calculated on employee earnings up to a cap. That cap is increasing from VND 46.8 million to VND 50.54 million on 1 July 2026.",
-        "For high-earning workers, the higher cap adds roughly VND 878,000 per month in employer contributions. Budgeting for this mid-year step-up is important for companies with senior or specialist staff above the previous threshold."
+        "Người sử dụng lao động đóng 23,5% lương gộp cho bảo hiểm bắt buộc, được tính trên thu nhập của người lao động đến một mức trần. Mức trần này sẽ tăng từ 46,8 triệu lên 50,54 triệu VNĐ kể từ ngày 1 tháng 7 năm 2026.",
+        "Đối với người lao động có thu nhập cao, mức trần cao hơn làm tăng thêm khoảng 878.000 VNĐ mỗi tháng vào phần đóng của người sử dụng lao động. Việc lập ngân sách cho bước tăng giữa năm này là quan trọng đối với các công ty có nhân sự cấp cao hoặc chuyên gia vượt ngưỡng trước đây."
       ]
     },
     {
       "type": "list",
-      "heading": "Overtime and Shift Rules",
+      "heading": "Quy định làm thêm giờ và ca làm việc",
       "columns": 2,
       "items": [
-        "Regular weekday overtime: 150% of the hourly wage",
-        "Rest day overtime: 200%",
-        "Holiday overtime: 300%, plus base pay",
-        "Night shifts (10 PM to 6 AM): an additional 30% premium",
-        "Monthly overtime capped at 40 hours",
-        "Annual overtime cap of 200 to 300 hours depending on the sector"
+        "Làm thêm giờ ngày thường: 150% tiền lương theo giờ",
+        "Làm thêm vào ngày nghỉ hằng tuần: 200%",
+        "Làm thêm vào ngày lễ, Tết: 300%, cộng với tiền lương cơ bản",
+        "Ca đêm (22 giờ đến 6 giờ): phụ cấp thêm 30%",
+        "Làm thêm giờ tối đa 40 giờ mỗi tháng",
+        "Mức trần làm thêm giờ hằng năm từ 200 đến 300 giờ tùy theo ngành"
       ]
     },
     {
       "type": "richText",
-      "heading": "Going Digital: How e-SIBs Are Changing Payroll",
+      "heading": "Chuyển đổi số: e-SIB thay đổi cách tính lương như thế nào",
       "body": [
-        "As of 1 January 2026, Electronic Social Insurance Books (e-SIBs) have fully replaced paper records. Government systems now monitor contributions in real time and automatically flag problems.",
-        "Late insurance payments accrue 0.03% daily interest, and underpayment violations can draw fines of up to VND 150 million plus required back-pay. With enforcement automated, accuracy and timeliness are no longer optional."
+        "Kể từ ngày 1 tháng 1 năm 2026, Sổ Bảo hiểm Xã hội Điện tử (e-SIB) đã thay thế hoàn toàn hồ sơ giấy. Hệ thống của cơ quan chức năng nay theo dõi các khoản đóng theo thời gian thực và tự động phát hiện vấn đề.",
+        "Việc chậm đóng bảo hiểm phát sinh lãi 0,03% mỗi ngày, và các vi phạm đóng thiếu có thể bị phạt đến 150 triệu VNĐ cùng với khoản truy đóng bắt buộc. Khi việc thực thi đã được tự động hóa, tính chính xác và đúng hạn không còn là tùy chọn."
       ]
     },
     {
       "type": "richText",
-      "heading": "Should You Keep Payroll In-House or Outsource It?",
+      "heading": "Nên tự thực hiện tính lương nội bộ hay thuê ngoài?",
       "body": [
-        "The economics increasingly favor outsourcing. Running payroll in-house for around 20 employees typically costs VND 15 to 25 million per month, while outsourcing the same workload runs roughly VND 3 to 8 million.",
-        "Beyond cost, external providers absorb legal liability and automatically update their processes for regulatory changes, such as the mid-year insurance cap increase or the new PIT brackets. For many employers, that combination of lower cost and reduced risk is decisive."
+        "Bài toán kinh tế ngày càng nghiêng về phía thuê ngoài. Tự thực hiện tính lương nội bộ cho khoảng 20 nhân viên thường tốn từ 15 đến 25 triệu VNĐ mỗi tháng, trong khi thuê ngoài cùng khối lượng công việc đó chỉ tốn khoảng 3 đến 8 triệu VNĐ.",
+        "Ngoài chi phí, các nhà cung cấp bên ngoài còn gánh chịu trách nhiệm pháp lý và tự động cập nhật quy trình theo các thay đổi quy định, chẳng hạn như việc tăng mức trần bảo hiểm giữa năm hay các bậc thuế TNCN mới. Đối với nhiều người sử dụng lao động, sự kết hợp giữa chi phí thấp hơn và rủi ro giảm bớt này là yếu tố quyết định."
       ]
     },
     {
       "type": "cta",
-      "title": "Need help with this in Vietnam?",
-      "subtitle": "Let our team handle your payroll, insurance, and PIT compliance so you can focus on running the business.",
-      "button": { "label": "Make an inquiry", "href": "/make-an-inquiry" },
+      "title": "Cần hỗ trợ về vấn đề này tại Việt Nam?",
+      "subtitle": "Hãy để đội ngũ của chúng tôi xử lý việc tính lương, bảo hiểm và tuân thủ thuế TNCN để bạn có thể tập trung điều hành doanh nghiệp.",
+      "button": { "label": "Gửi yêu cầu tư vấn", "href": "/make-an-inquiry" },
       "variant": "red"
     }
   ],

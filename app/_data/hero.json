@@ -1,35 +1,35 @@
-﻿{
+{
   "slides": [
     {
       "image": "/incorp/hero/slide-bpo.jpg",
-      "alt": "Business solutions for SMEs in Vietnam, featuring diverse professionals collaborating to boost efficiency and growth.",
+      "alt": "Giải pháp kinh doanh cho doanh nghiệp vừa và nhỏ tại Việt Nam, với đội ngũ chuyên gia đa dạng cùng hợp tác nâng cao hiệu quả và thúc đẩy tăng trưởng.",
       "href": "/business-process-outsourcing-bpo-services"
     },
     {
       "image": "/incorp/hero/slide-rebranding.png",
-      "alt": "WTP Advisory rebranding announcement banner.",
+      "alt": "Banner thông báo tái định vị thương hiệu WTP Advisory.",
       "href": "/about-us"
     },
     {
       "image": "/incorp/hero/slide-power-of-one.png",
-      "alt": "Ho Chi Minh City skyline featuring Landmark 81, symbolizing Vietnam's growing business hub potential.",
-      "heading": "Your Business Expansion Expert in Vietnam",
-      "subtitle": "Jumpstart your business in Vietnam with our one-stop company formation solutions",
-      "cta": { "label": "Get Started", "href": "/services" }
+      "alt": "Đường chân trời TP. Hồ Chí Minh với tòa nhà Landmark 81, biểu tượng cho tiềm năng phát triển của trung tâm kinh doanh đang lên tại Việt Nam.",
+      "heading": "Chuyên gia đồng hành mở rộng kinh doanh của bạn tại Việt Nam",
+      "subtitle": "Khởi động hoạt động kinh doanh tại Việt Nam cùng giải pháp thành lập doanh nghiệp trọn gói của chúng tôi",
+      "cta": { "label": "Bắt đầu ngay", "href": "/services" }
     },
     {
       "image": "/incorp/hero/slide-outsourcein.jpg",
-      "alt": "Vina OutsourceIn banner promoting Vietnam business expansion and outsourcing services with modern city illustration.",
+      "alt": "Banner Vina OutsourceIn giới thiệu dịch vụ mở rộng kinh doanh và thuê ngoài tại Việt Nam với hình minh họa thành phố hiện đại.",
       "href": "/business-process-outsourcing-bpo-services"
     },
     {
       "image": "/incorp/hero/slide-tax.jpg",
-      "alt": "Group discussing tax compliance for business growth in Vietnam, featuring logos of advisory firms.",
+      "alt": "Buổi trao đổi về tuân thủ thuế phục vụ tăng trưởng doanh nghiệp tại Việt Nam, có logo của các công ty tư vấn.",
       "href": "/tax-advisory-services"
     },
     {
       "image": "/incorp/hero/slide-hr.jpg",
-      "alt": "Business discussion on HR, payroll solutions for growth in Vietnam with logos of partner companies and a team at work.",
+      "alt": "Buổi thảo luận về giải pháp nhân sự và tính lương phục vụ tăng trưởng tại Việt Nam, với logo các công ty đối tác và đội ngũ đang làm việc.",
       "href": "/hr-payroll-services"
     }
   ]

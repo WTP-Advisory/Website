@@ -1,12 +1,12 @@
-﻿{
-  "title": "Local Partner & Distributor Selection Services with WTP Advisory",
-  "metaDescription": "WTP Advisory helps businesses enter Vietnam by identifying reliable partners, conducting due diligence, and negotiating favorable terms for growth.",
+{
+  "title": "Dịch vụ lựa chọn đối tác/nhà phân phối nội địa cùng WTP Advisory",
+  "metaDescription": "WTP Advisory hỗ trợ doanh nghiệp gia nhập thị trường Việt Nam bằng cách xác định các đối tác đáng tin cậy, thực hiện thẩm định và đàm phán những điều khoản thuận lợi để tăng trưởng.",
   "hero": {
-    "eyebrow": "Services",
-    "title": "Local Partner & Distributor Selection Services with WTP Advisory",
-    "subtitle": "WTP Advisory provides expert Local Partner & Distributor Selection services to help businesses navigate the complexities of entering the Vietnamese market. Our team identifies reliable and strategically aligned partners, conducts due diligence, and negotiates favorable terms for long-term success. With WTP Advisory, businesses can confidently build strong local connections and drive sustainable growth in Vietnam's dynamic economy.",
+    "eyebrow": "Dịch vụ",
+    "title": "Dịch vụ lựa chọn đối tác/nhà phân phối nội địa cùng WTP Advisory",
+    "subtitle": "WTP Advisory cung cấp dịch vụ chuyên nghiệp về Lựa chọn đối tác/nhà phân phối nội địa, giúp doanh nghiệp vượt qua những phức tạp khi gia nhập thị trường Việt Nam. Đội ngũ của chúng tôi xác định các đối tác đáng tin cậy và phù hợp về mặt chiến lược, thực hiện thẩm định và đàm phán những điều khoản thuận lợi cho thành công lâu dài. Cùng WTP Advisory, doanh nghiệp có thể tự tin xây dựng các mối quan hệ nội địa vững chắc và thúc đẩy tăng trưởng bền vững trong nền kinh tế năng động của Việt Nam.",
     "cta": {
-      "label": "Make an Inquiry",
+      "label": "Gửi yêu cầu tư vấn",
       "href": "/make-an-inquiry"
     },
     "image": "/incorp/solutions/incorporation.webp"
@@ -14,10 +14,10 @@
   "sections": [
     {
       "type": "richText",
-      "heading": "Why do investors need to find a trustworthy local partner and distributor in Vietnam?",
+      "heading": "Vì sao nhà đầu tư cần tìm một đối tác và nhà phân phối nội địa đáng tin cậy tại Việt Nam?",
       "body": [
-        "Finding a local partner and distributor is crucial for businesses looking to enter the Vietnamese market. Local partners offer valuable insights into consumer behavior, market trends, and regulatory requirements, which can significantly reduce the risks of entry. They help navigate the complexities of the market, ensuring smoother operations and cultural nuances, ensuring smoother operations.",
-        "A trusted distributor can also provide access to established sales channels, local contacts, and an understanding of regional demand, enabling businesses to scale more effectively and reach their target audience faster. Partnering with a local expert is key to driving long-term success in Vietnam's competitive market."
+        "Tìm được một đối tác và nhà phân phối nội địa là yếu tố then chốt đối với các doanh nghiệp muốn gia nhập thị trường Việt Nam. Các đối tác nội địa mang lại những hiểu biết giá trị về hành vi người tiêu dùng, xu hướng thị trường và các yêu cầu pháp lý, qua đó giảm đáng kể rủi ro khi gia nhập. Họ giúp doanh nghiệp vượt qua những phức tạp của thị trường và những khác biệt về văn hóa, đảm bảo vận hành thông suốt hơn.",
+        "Một nhà phân phối uy tín còn có thể mang lại quyền tiếp cận các kênh bán hàng sẵn có, mạng lưới quan hệ nội địa và sự am hiểu về nhu cầu theo từng khu vực, giúp doanh nghiệp mở rộng quy mô hiệu quả hơn và tiếp cận đối tượng mục tiêu nhanh hơn. Hợp tác với một chuyên gia nội địa chính là chìa khóa để thúc đẩy thành công lâu dài trên thị trường cạnh tranh của Việt Nam."
       ],
       "align": "left"
     },
@@ -27,37 +27,37 @@
       "items": [
         {
           "value": "30+",
-          "label": "Companies Incorporated Yearly"
+          "label": "Công ty được thành lập mỗi năm"
         },
         {
           "value": "15,000+",
-          "label": "Professionals"
+          "label": "Chuyên gia"
         }
       ]
     },
     {
       "type": "cards",
-      "heading": "Benefits of using Local Partner & Distributor Selection with WTP Advisory",
+      "heading": "Lợi ích khi sử dụng dịch vụ Lựa chọn đối tác/nhà phân phối nội địa cùng WTP Advisory",
       "columns": 4,
       "items": [
         {
-          "title": "Local Market Expertise",
-          "desc": "WTP Advisory's team provides in-depth knowledge of the local market, helping businesses identify the most suitable partners and distributors who understand regional trends, consumer behavior, and regulatory requirements.",
+          "title": "Am hiểu thị trường nội địa",
+          "desc": "Đội ngũ của WTP Advisory mang đến hiểu biết sâu sắc về thị trường nội địa, giúp doanh nghiệp xác định những đối tác và nhà phân phối phù hợp nhất, am hiểu xu hướng từng khu vực, hành vi người tiêu dùng và các yêu cầu pháp lý.",
           "icon": "users"
         },
         {
-          "title": "Risk Mitigation",
-          "desc": "By leveraging WTP Advisory's due diligence process, businesses can minimize the risks of selecting unreliable or non-compliant partners, ensuring long-term success in the Vietnamese market.",
+          "title": "Giảm thiểu rủi ro",
+          "desc": "Nhờ quy trình thẩm định của WTP Advisory, doanh nghiệp có thể giảm thiểu rủi ro lựa chọn phải những đối tác kém tin cậy hoặc không tuân thủ, đảm bảo thành công lâu dài trên thị trường Việt Nam.",
           "icon": "rocket"
         },
         {
-          "title": "Faster Market Penetration",
-          "desc": "WTP Advisory's established network and local connections enable businesses to quickly access established distribution channels, facilitating faster market entry and growth.",
+          "title": "Thâm nhập thị trường nhanh hơn",
+          "desc": "Mạng lưới sẵn có và các mối quan hệ nội địa của WTP Advisory giúp doanh nghiệp nhanh chóng tiếp cận các kênh phân phối hiện hữu, đẩy nhanh quá trình gia nhập và tăng trưởng.",
           "icon": "clipboard"
         },
         {
-          "title": "Seamless Operations",
-          "desc": "With expert support in partner and distributor negotiations, businesses can streamline their entry process, ensuring smooth collaboration and operational efficiency in a complex market environment.",
+          "title": "Vận hành liền mạch",
+          "desc": "Với sự hỗ trợ chuyên nghiệp trong đàm phán với đối tác và nhà phân phối, doanh nghiệp có thể tinh gọn quá trình gia nhập, đảm bảo hợp tác suôn sẻ và hiệu quả vận hành trong một môi trường thị trường phức tạp.",
           "icon": "globe"
         }
       ]
@@ -65,32 +65,32 @@
     {
       "type": "stats",
       "variant": "red",
-      "heading": "Backed by WTP Advisory",
+      "heading": "Được hậu thuẫn bởi WTP Advisory",
       "items": [
         {
           "value": "30+",
-          "label": "Years of experience"
+          "label": "Năm kinh nghiệm"
         },
         {
           "value": "1,500+",
-          "label": "Professionals across APAC"
+          "label": "Chuyên gia trên khắp APAC"
         },
         {
           "value": "20,000+",
-          "label": "Clients served globally"
+          "label": "Khách hàng được phục vụ trên toàn cầu"
         },
         {
           "value": "8",
-          "label": "Markets in Asia-Pacific"
+          "label": "Thị trường tại châu Á - Thái Bình Dương"
         }
       ]
     },
     {
       "type": "cta",
-      "title": "Ready to get started in Vietnam?",
-      "subtitle": "Talk to our experts about how we can support your business.",
+      "title": "Sẵn sàng khởi đầu tại Việt Nam?",
+      "subtitle": "Trao đổi với các chuyên gia của chúng tôi về cách chúng tôi có thể hỗ trợ doanh nghiệp của bạn.",
       "button": {
-        "label": "Make an Inquiry",
+        "label": "Gửi yêu cầu tư vấn",
         "href": "/make-an-inquiry"
       },
       "variant": "red"

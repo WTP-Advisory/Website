@@ -1,12 +1,12 @@
-﻿{
-  "title": "Business Intelligence Services in Vietnam",
-  "metaDescription": "Making expansion or investment decisions in Vietnam is complex, but it doesn't have to be uncertain. Simplify critical decisions with a Business Intelligence partner that provides clear, decision-grade insight at every stage",
+{
+  "title": "Dịch vụ thông tin kinh doanh (business intelligence) tại Việt Nam",
+  "metaDescription": "Việc ra quyết định mở rộng hay đầu tư tại Việt Nam vốn phức tạp, nhưng không nhất thiết phải bất định. Đơn giản hóa những quyết định trọng yếu với đối tác thông tin kinh doanh (business intelligence) mang đến hiểu biết rõ ràng, đủ cơ sở để quyết định ở mọi giai đoạn.",
   "hero": {
-    "eyebrow": "Services",
-    "title": "Business Intelligence Services in Vietnam",
-    "subtitle": "Making expansion or investment decisions in Vietnam is complex, but it doesn't have to be uncertain. Simplify critical decisions with a Business Intelligence partner that provides clear, decision-grade insight at every stage. From market entry and site selection to supply-chain diversification and regional expansion, we support leadership teams with practical analysis, on-the-ground insight, and structured benchmarking. We help you reduce risk, align stakeholders, and move confidently from evaluation to execution.",
+    "eyebrow": "Dịch vụ",
+    "title": "Dịch vụ thông tin kinh doanh (business intelligence) tại Việt Nam",
+    "subtitle": "Việc ra quyết định mở rộng hay đầu tư tại Việt Nam vốn phức tạp, nhưng không nhất thiết phải bất định. Đơn giản hóa những quyết định trọng yếu với đối tác thông tin kinh doanh (business intelligence) mang đến hiểu biết rõ ràng, đủ cơ sở để quyết định ở mọi giai đoạn. Từ gia nhập thị trường và lựa chọn địa điểm cho đến đa dạng hóa chuỗi cung ứng và mở rộng theo khu vực, chúng tôi hỗ trợ đội ngũ lãnh đạo bằng các phân tích thực tiễn, hiểu biết tại chỗ và đối sánh có cấu trúc. Chúng tôi giúp bạn giảm thiểu rủi ro, đồng thuận giữa các bên liên quan và tự tin chuyển từ đánh giá sang triển khai.",
     "cta": {
-      "label": "Make an Inquiry",
+      "label": "Gửi yêu cầu tư vấn",
       "href": "/make-an-inquiry"
     },
     "image": "/incorp/solutions/accounting-finance.jpg"
@@ -14,157 +14,157 @@
   "sections": [
     {
       "type": "richText",
-      "heading": "Make confident expansion and investment decisions in Vietnam with expert business intelligence support",
+      "heading": "Tự tin ra quyết định mở rộng và đầu tư tại Việt Nam với sự hỗ trợ chuyên môn về thông tin kinh doanh (business intelligence)",
       "body": [
-        "Expanding or investing across Vietnam requires more than data. It requires clear, decision-grade insight to navigate market complexity, regulatory risk, and competing options.",
-        "WTP Advisory's Business Intelligence team supports market entry, site selection, supply-chain diversification, and regional expansion across Vietnam and also Asia-Pacific. Combining on-the-ground insight with structured benchmarking, we help leadership teams reduce risk, align decisions, and move from evaluation to execution with confidence."
+        "Mở rộng hay đầu tư tại Việt Nam đòi hỏi nhiều hơn là dữ liệu. Nó đòi hỏi những hiểu biết rõ ràng, đủ cơ sở để quyết định nhằm vượt qua sự phức tạp của thị trường, rủi ro pháp lý và các phương án cạnh tranh nhau.",
+        "Đội ngũ thông tin kinh doanh (business intelligence) của WTP Advisory hỗ trợ gia nhập thị trường, lựa chọn địa điểm, đa dạng hóa chuỗi cung ứng và mở rộng theo khu vực tại Việt Nam cũng như khắp châu Á - Thái Bình Dương. Kết hợp hiểu biết tại chỗ với đối sánh có cấu trúc, chúng tôi giúp đội ngũ lãnh đạo giảm thiểu rủi ro, thống nhất quyết định và tự tin chuyển từ đánh giá sang triển khai."
       ],
       "align": "left"
     },
     {
       "type": "cards",
-      "heading": "Benefits to Expect from Our Business Intelligence Services",
+      "heading": "Những lợi ích bạn nhận được từ dịch vụ thông tin kinh doanh (business intelligence) của chúng tôi",
       "columns": 3,
       "items": [
         {
-          "title": "Proven regional experience",
-          "desc": "27 markets across Asia-Pacific. 55 cities with active local presence.",
+          "title": "Kinh nghiệm khu vực đã được kiểm chứng",
+          "desc": "27 thị trường trên khắp châu Á - Thái Bình Dương. 55 thành phố có hiện diện nội địa.",
           "icon": "globe"
         },
         {
-          "title": "Scale you can rely on",
-          "desc": "2,800+ professionals supporting 63,000+ client entities.",
+          "title": "Quy mô đáng tin cậy",
+          "desc": "Hơn 2.800 chuyên gia hỗ trợ hơn 63.000 pháp nhân khách hàng.",
           "icon": "users"
         },
         {
-          "title": "Decision support at every stage",
-          "desc": "Market entry, site selection, and expansion assessments delivered annually.",
+          "title": "Hỗ trợ ra quyết định ở mọi giai đoạn",
+          "desc": "Đánh giá gia nhập thị trường, lựa chọn địa điểm và mở rộng được thực hiện hằng năm.",
           "icon": "target"
         },
         {
-          "title": "Faster decisions, lower risk",
-          "desc": "Early identification of regulatory, commercial, and supply-chain risks.",
+          "title": "Quyết định nhanh hơn, rủi ro thấp hơn",
+          "desc": "Nhận diện sớm các rủi ro pháp lý, thương mại và chuỗi cung ứng.",
           "icon": "clock"
         },
         {
-          "title": "Intelligence connected to execution",
-          "desc": "From strategy to market entry, compliance, and operations.",
+          "title": "Thông tin gắn liền với triển khai",
+          "desc": "Từ chiến lược đến gia nhập thị trường, tuân thủ và vận hành.",
           "icon": "network"
         },
         {
-          "title": "Tech-enabled, insight-driven",
-          "desc": "Proprietary data, local networks, and technology-enabled delivery.",
+          "title": "Dựa trên công nghệ, dẫn dắt bởi hiểu biết",
+          "desc": "Dữ liệu độc quyền, mạng lưới nội địa và triển khai ứng dụng công nghệ.",
           "icon": "lightbulb"
         }
       ]
     },
     {
       "type": "cards",
-      "heading": "How We Help to Reduce Market Entry Risk",
+      "heading": "Cách chúng tôi giúp giảm thiểu rủi ro gia nhập thị trường",
       "columns": 3,
       "items": [
         {
-          "title": "Commercial Intelligence",
-          "desc": "Market entry and expansion assessment, sector and industry trend tracking, market and competitor overview, demand and customer analysis, and ongoing market and competitor intelligence briefs.",
+          "title": "Thông tin thương mại",
+          "desc": "Đánh giá gia nhập và mở rộng thị trường, theo dõi xu hướng ngành và lĩnh vực, tổng quan thị trường và đối thủ cạnh tranh, phân tích nhu cầu và khách hàng, cùng các bản tin thường kỳ về thị trường và đối thủ cạnh tranh.",
           "icon": "chart"
         },
         {
-          "title": "Location Intelligence",
-          "desc": "Multi-country location benchmarking and country shortlists, in-country benchmarking across provinces and economic zones, site feasibility and readiness assessment (labor, utilities, timeline, constraints), and final site recommendation with industrial park matching.",
+          "title": "Thông tin địa điểm",
+          "desc": "Đối sánh địa điểm đa quốc gia và danh sách quốc gia rút gọn, đối sánh nội địa giữa các tỉnh thành và khu kinh tế, đánh giá tính khả thi và mức độ sẵn sàng của địa điểm (lao động, tiện ích, tiến độ, các ràng buộc), cùng khuyến nghị địa điểm cuối cùng kèm theo gợi ý khu công nghiệp phù hợp.",
           "icon": "building"
         },
         {
-          "title": "Supply Chain Intelligence",
-          "desc": "Supplier ecosystem reality check, supplier search and screening, supplier longlists and shortlists, and tariff and trade exposure analysis.",
+          "title": "Thông tin chuỗi cung ứng",
+          "desc": "Đánh giá thực trạng hệ sinh thái nhà cung cấp, tìm kiếm và sàng lọc nhà cung cấp, lập danh sách dài và danh sách rút gọn nhà cung cấp, cùng phân tích mức độ chịu ảnh hưởng từ thuế quan và thương mại.",
           "icon": "layers"
         },
         {
-          "title": "Compliance Intelligence",
-          "desc": "Early identification of regulatory and licensing requirements, compliance risk assessment, and monitoring of regulatory changes affecting your entry and operations.",
+          "title": "Thông tin tuân thủ",
+          "desc": "Nhận diện sớm các yêu cầu pháp lý và cấp phép, đánh giá rủi ro tuân thủ, và theo dõi những thay đổi pháp lý ảnh hưởng đến việc gia nhập và vận hành của bạn.",
           "icon": "shield"
         },
         {
-          "title": "Stakeholder Intelligence",
-          "desc": "Structured screening and risk checks on suppliers, partners, and acquisition targets covering commercial capability, operational capacity, regulatory exposure, and reputational risk.",
+          "title": "Thông tin về các bên liên quan",
+          "desc": "Sàng lọc có cấu trúc và rà soát rủi ro đối với nhà cung cấp, đối tác và mục tiêu thâu tóm, bao quát năng lực thương mại, năng lực vận hành, mức độ phơi nhiễm pháp lý và rủi ro uy tín.",
           "icon": "handshake"
         },
         {
-          "title": "Govt & EDO Support",
-          "desc": "Support for governments and economic development organizations with investor targeting, investment promotion, and market positioning insight.",
+          "title": "Hỗ trợ chính phủ & tổ chức xúc tiến đầu tư (EDO)",
+          "desc": "Hỗ trợ các chính phủ và tổ chức phát triển kinh tế trong việc nhắm mục tiêu nhà đầu tư, xúc tiến đầu tư và định vị thị trường.",
           "icon": "landmark"
         }
       ]
     },
     {
       "type": "faq",
-      "heading": "Frequently Asked Questions on Business Intelligence Services",
+      "heading": "Câu hỏi thường gặp về dịch vụ thông tin kinh doanh (business intelligence)",
       "items": [
         {
-          "q": "What is business intelligence and how can it support my expansion in Vietnam and Asia?",
-          "a": "Business intelligence provides decision-grade insights to help companies evaluate markets, locations, suppliers, and partners. It supports informed expansion, investment and restructuring decisions across complex Vietnam and Asian markets."
+          "q": "Thông tin kinh doanh (business intelligence) là gì và có thể hỗ trợ việc mở rộng của tôi tại Việt Nam và châu Á như thế nào?",
+          "a": "Thông tin kinh doanh (business intelligence) mang đến những hiểu biết đủ cơ sở để quyết định, giúp doanh nghiệp đánh giá thị trường, địa điểm, nhà cung cấp và đối tác. Nó hỗ trợ các quyết định mở rộng, đầu tư và tái cấu trúc trên những thị trường phức tạp tại Việt Nam và châu Á."
         },
         {
-          "q": "When should a company engage business intelligence services?",
-          "a": "Business intelligence is most valuable before major decisions such as market entry, site selection, supply-chain diversification, partner selection, or regional expansion, when risks and costs are still manageable."
+          "q": "Khi nào doanh nghiệp nên sử dụng dịch vụ thông tin kinh doanh (business intelligence)?",
+          "a": "Thông tin kinh doanh (business intelligence) hữu ích nhất trước những quyết định trọng yếu như gia nhập thị trường, lựa chọn địa điểm, đa dạng hóa chuỗi cung ứng, lựa chọn đối tác hay mở rộng theo khu vực, khi rủi ro và chi phí vẫn còn trong tầm kiểm soát."
         },
         {
-          "q": "What types of decisions can business intelligence support?",
-          "a": "Our services support decisions related to market entry strategy, country and site selection, supplier and partner evaluation, investment planning, and multi-country expansion across Vietnam and Asia-Pacific."
+          "q": "Thông tin kinh doanh (business intelligence) có thể hỗ trợ những loại quyết định nào?",
+          "a": "Dịch vụ của chúng tôi hỗ trợ các quyết định liên quan đến chiến lược gia nhập thị trường, lựa chọn quốc gia và địa điểm, đánh giá nhà cung cấp và đối tác, hoạch định đầu tư, cùng việc mở rộng đa quốc gia trên khắp Việt Nam và châu Á - Thái Bình Dương."
         },
         {
-          "q": "How is business intelligence different from market research or consulting?",
-          "a": "Business intelligence focuses on practical, decision-ready outputs such as benchmarks, shortlists, and risk assessments. It goes beyond descriptive research by directly supporting real-world business decisions."
+          "q": "Thông tin kinh doanh (business intelligence) khác gì so với nghiên cứu thị trường hay tư vấn?",
+          "a": "Thông tin kinh doanh (business intelligence) tập trung vào những kết quả thực tiễn, sẵn sàng để ra quyết định như các chỉ số đối sánh, danh sách rút gọn và đánh giá rủi ro. Nó vượt xa nghiên cứu mang tính mô tả bằng cách trực tiếp hỗ trợ các quyết định kinh doanh trong thực tế."
         },
         {
-          "q": "Do you provide country-specific or multi-country intelligence?",
-          "a": "We provide both. Our team delivers in-depth country intelligence as well as structured multi-country benchmarking to support regional and Asia-wide decision-making."
+          "q": "Các bạn có cung cấp thông tin theo từng quốc gia hay đa quốc gia không?",
+          "a": "Chúng tôi cung cấp cả hai. Đội ngũ của chúng tôi mang đến thông tin chuyên sâu theo từng quốc gia cũng như đối sánh đa quốc gia có cấu trúc để hỗ trợ ra quyết định ở cấp khu vực và toàn châu Á."
         },
         {
-          "q": "Can business intelligence help with site selection and location decisions?",
-          "a": "Yes. We support country, provincial, and site-level selection through location benchmarking, industrial park comparison, and site feasibility and readiness assessments."
+          "q": "Thông tin kinh doanh (business intelligence) có thể hỗ trợ lựa chọn địa điểm và các quyết định về vị trí không?",
+          "a": "Có. Chúng tôi hỗ trợ lựa chọn ở cấp quốc gia, cấp tỉnh và cấp địa điểm thông qua đối sánh địa điểm, so sánh khu công nghiệp, cùng đánh giá tính khả thi và mức độ sẵn sàng của địa điểm."
         },
         {
-          "q": "How do you assess suppliers, partners, or acquisition targets?",
-          "a": "We conduct structured screening and risk checks covering commercial capability, operational capacity, regulatory exposure, and reputational risk to support confident partner or supplier selection."
+          "q": "Các bạn đánh giá nhà cung cấp, đối tác hay mục tiêu thâu tóm như thế nào?",
+          "a": "Chúng tôi thực hiện sàng lọc có cấu trúc và rà soát rủi ro, bao quát năng lực thương mại, năng lực vận hành, mức độ phơi nhiễm pháp lý và rủi ro uy tín nhằm hỗ trợ lựa chọn đối tác hoặc nhà cung cấp một cách tự tin."
         },
         {
-          "q": "What industries do you support through your business intelligence services?",
-          "a": "We support a wide range of industries, including manufacturing, consumer goods, technology, logistics, and institutional and investment-driven sectors."
+          "q": "Các bạn hỗ trợ những ngành nào thông qua dịch vụ thông tin kinh doanh (business intelligence)?",
+          "a": "Chúng tôi hỗ trợ nhiều ngành đa dạng, bao gồm sản xuất, hàng tiêu dùng, công nghệ, logistics, cùng các lĩnh vực mang tính tổ chức và dẫn dắt bởi đầu tư."
         },
         {
-          "q": "Can business intelligence support execution after the analysis phase?",
-          "a": "Yes. Our intelligence work is connected to execution: from strategy through market entry, compliance, and operations, insights translate directly into incorporation, licensing, and on-the-ground operational support."
+          "q": "Thông tin kinh doanh (business intelligence) có thể hỗ trợ triển khai sau giai đoạn phân tích không?",
+          "a": "Có. Công tác thông tin của chúng tôi gắn liền với triển khai: từ chiến lược đến gia nhập thị trường, tuân thủ và vận hành, các hiểu biết được chuyển hóa trực tiếp thành hỗ trợ thành lập công ty, cấp phép và vận hành tại chỗ."
         }
       ]
     },
     {
       "type": "stats",
-      "heading": "Your Experts in Company Incorporation",
+      "heading": "Chuyên gia của bạn về thành lập công ty",
       "items": [
-        { "value": "30+", "label": "Years Track Record" },
-        { "value": "15,000+", "label": "Clients Worldwide" },
-        { "value": "100+", "label": "Companies Incorporated Yearly" },
-        { "value": "1,500+", "label": "Professionals" }
+        { "value": "30+", "label": "Năm bề dày kinh nghiệm" },
+        { "value": "15,000+", "label": "Khách hàng trên toàn thế giới" },
+        { "value": "100+", "label": "Công ty được thành lập mỗi năm" },
+        { "value": "1,500+", "label": "Chuyên gia" }
       ]
     },
     {
       "type": "team",
-      "eyebrow": "Our Team",
-      "heading": "Meet Our Experts",
+      "eyebrow": "Đội ngũ của chúng tôi",
+      "heading": "Gặp gỡ các chuyên gia của chúng tôi",
       "variant": "portrait",
       "columns": 3,
       "items": [
-        { "name": "Michael Tran, CPA, CA", "role": "Chief Executive Officer", "image": "/incorp/people/placeholder.svg", "profileHref": "/our-people", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" },
-        { "name": "David Pham", "role": "Head of Business Advisory", "image": "/incorp/people/placeholder.svg", "profileHref": "/our-people", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" },
-        { "name": "Linh Hoang", "role": "Head of Corporate Secretarial and Advisory Services", "image": "/incorp/people/placeholder.svg", "profileHref": "/our-people", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" }
+        { "name": "[Tên CEO], CPA, CA", "role": "Tổng Giám đốc", "image": "/incorp/people/placeholder.svg", "profileHref": "/our-people", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" },
+        { "name": "[Tên Trưởng Phòng Tư Vấn]", "role": "Trưởng phòng Tư vấn Doanh nghiệp", "image": "/incorp/people/placeholder.svg", "profileHref": "/our-people", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" },
+        { "name": "[Tên Trưởng Phòng Thư Ký]", "role": "Trưởng phòng Dịch vụ Thư ký & Tư vấn Doanh nghiệp", "image": "/incorp/people/placeholder.svg", "profileHref": "/our-people", "linkedin": "https://www.linkedin.com/company/incorp-vietnam/", "email": "vietnam@incorp.asia" }
       ]
     },
     {
       "type": "cta",
-      "title": "Ready to get started in Vietnam?",
-      "subtitle": "Talk to our experts about how we can support your business.",
+      "title": "Sẵn sàng khởi đầu tại Việt Nam?",
+      "subtitle": "Trao đổi với các chuyên gia của chúng tôi về cách chúng tôi có thể hỗ trợ doanh nghiệp của bạn.",
       "button": {
-        "label": "Make an Inquiry",
+        "label": "Gửi yêu cầu tư vấn",
         "href": "/make-an-inquiry"
       },
       "variant": "red"

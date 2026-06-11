@@ -1,12 +1,12 @@
-﻿{
-  "title": "HR and Payroll Outsourcing Services in Vietnam",
-  "metaDescription": "Simplify and maintain compliance with HR and payroll outsourcing in Vietnam, including recruitment, payroll, insurance, and personal income tax.",
+{
+  "title": "Dịch vụ Thuê ngoài Nhân sự và Tính lương tại Việt Nam",
+  "metaDescription": "Đơn giản hóa và duy trì tuân thủ với dịch vụ thuê ngoài nhân sự và tính lương tại Việt Nam, bao gồm tuyển dụng, tính lương, bảo hiểm và thuế thu nhập cá nhân.",
   "hero": {
-    "eyebrow": "Services",
-    "title": "HR and Payroll Outsourcing Services in Vietnam",
-    "subtitle": "WTP Advisory offers HR and Payroll Services, simplifying and ensuring compliance in all HR aspects in Vietnam, including recruitment, payroll, insurance, and personal income taxes. Overcome workforce management challenges with a trusted partner who puts your needs first.",
+    "eyebrow": "Dịch vụ",
+    "title": "Dịch vụ Thuê ngoài Nhân sự và Tính lương tại Việt Nam",
+    "subtitle": "WTP Advisory cung cấp Dịch vụ Nhân sự và Tính lương, giúp đơn giản hóa và đảm bảo tuân thủ trong mọi khía cạnh nhân sự tại Việt Nam, bao gồm tuyển dụng, tính lương, bảo hiểm và thuế thu nhập cá nhân. Vượt qua những thách thức trong quản lý nguồn nhân lực cùng một đối tác đáng tin cậy luôn đặt nhu cầu của bạn lên hàng đầu.",
     "cta": {
-      "label": "Make an Inquiry",
+      "label": "Gửi yêu cầu tư vấn",
       "href": "/make-an-inquiry"
     },
     "image": "/incorp/solutions/hr-payroll.jpg"
@@ -14,306 +14,306 @@
   "sections": [
     {
       "type": "cards",
-      "heading": "Benefits of Outsourcing your HR & Payroll with WTP Advisory",
+      "heading": "Lợi ích khi Thuê ngoài Nhân sự & Tính lương với WTP Advisory",
       "columns": 4,
       "items": [
         {
-          "title": "Maintain Constant Compliance",
-          "desc": "Cut costs, ensure compliance, and ease your HR concerns.",
+          "title": "Duy trì tuân thủ liên tục",
+          "desc": "Cắt giảm chi phí, đảm bảo tuân thủ và giải tỏa các mối lo về nhân sự.",
           "icon": "shield"
         },
         {
-          "title": "Partner with HR Experts for Collaboration",
-          "desc": "Engage with a global team capable of addressing your challenges.",
+          "title": "Hợp tác cùng các chuyên gia nhân sự",
+          "desc": "Làm việc với đội ngũ toàn cầu đủ năng lực giải quyết mọi thách thức của bạn.",
           "icon": "users"
         },
         {
-          "title": "Get Accurate and On-time Service Reports",
-          "desc": "Manage insurance, payroll, taxes, and more, always compliant.",
+          "title": "Nhận báo cáo dịch vụ chính xác và đúng hạn",
+          "desc": "Quản lý bảo hiểm, tính lương, thuế và nhiều hơn nữa, luôn tuân thủ quy định.",
           "icon": "clock"
         },
         {
-          "title": "Enhanced Accuracy and Scalability for Business",
-          "desc": "Ensure accuracy with adaptable, error-free seasonal support.",
+          "title": "Nâng cao độ chính xác và khả năng mở rộng cho doanh nghiệp",
+          "desc": "Đảm bảo chính xác với sự hỗ trợ linh hoạt, không sai sót theo mùa cao điểm.",
           "icon": "trending"
         }
       ]
     },
     {
       "type": "table",
-      "heading": "Types of Vietnam Increased Insurance Payment Caps",
-      "columns": ["Insurance Type", "Employee Contribution", "Employer Contribution"],
+      "heading": "Các loại mức trần đóng bảo hiểm được điều chỉnh tăng tại Việt Nam",
+      "columns": ["Loại bảo hiểm", "Phần đóng của người lao động", "Phần đóng của người sử dụng lao động"],
       "rows": [
         {
-          "label": "Maximum cap of Social Insurance",
-          "cells": ["1,800,000 * 20 * 8% = VND 2,880,000 per month", "1,800,000 * 20 * 17% = VND 6,120,000 per month"]
+          "label": "Mức trần đóng Bảo hiểm Xã hội",
+          "cells": ["1.800.000 * 20 * 8% = 2.880.000 VNĐ mỗi tháng", "1.800.000 * 20 * 17% = 6.120.000 VNĐ mỗi tháng"]
         },
         {
-          "label": "Maximum cap of Health Insurance",
-          "cells": ["1,800,000 * 20 * 1.5% = VND 540,000 per month", "1,800,000 * 20 * 3% = VND 1,080,000 per month"]
+          "label": "Mức trần đóng Bảo hiểm Y tế",
+          "cells": ["1.800.000 * 20 * 1,5% = 540.000 VNĐ mỗi tháng", "1.800.000 * 20 * 3% = 1.080.000 VNĐ mỗi tháng"]
         },
         {
-          "label": "Maximum cap of Accident & Occupational Disease Insurance",
-          "cells": ["N/A", "1,800,000 * 20 * 0.5% = VND 180,000 per month"]
+          "label": "Mức trần đóng Bảo hiểm Tai nạn & Bệnh nghề nghiệp",
+          "cells": ["Không áp dụng", "1.800.000 * 20 * 0,5% = 180.000 VNĐ mỗi tháng"]
         },
         {
-          "label": "Eligibility for 100% coverage of medical expenses (after paying 5 consecutive years of health insurance)",
-          "cells": ["Co-insurance amount VND 10,800,000", "N/A"]
+          "label": "Đủ điều kiện hưởng 100% chi phí khám chữa bệnh (sau khi đóng bảo hiểm y tế 5 năm liên tục)",
+          "cells": ["Mức cùng chi trả 10.800.000 VNĐ", "Không áp dụng"]
         }
       ]
     },
     {
       "type": "richText",
-      "eyebrow": "STEP 1 — One time Service",
-      "heading": "HR Initial Establishment Package",
+      "eyebrow": "BƯỚC 1 — Dịch vụ một lần",
+      "heading": "Gói Thiết lập Nhân sự Ban đầu",
       "align": "center",
       "body": [
-        "Get set up correctly from day one. Our HR Initial Establishment Package covers the foundational labor and social insurance declarations your company needs to operate compliantly in Vietnam."
+        "Thiết lập đúng đắn ngay từ ngày đầu tiên. Gói Thiết lập Nhân sự Ban đầu của chúng tôi bao quát các thủ tục khai trình lao động và bảo hiểm xã hội nền tảng mà công ty bạn cần để vận hành tuân thủ tại Việt Nam."
       ]
     },
     {
       "type": "richText",
-      "heading": "Initial Labor Declaration",
+      "heading": "Khai trình lao động ban đầu",
       "body": [
-        "Streamline employee onboarding and ensure adherence to labor regulations. Develop fair and appealing salary structures to attract and retain talent with salary scaling strategies."
+        "Tinh gọn quy trình tiếp nhận nhân viên và đảm bảo tuân thủ các quy định về lao động. Xây dựng cơ cấu lương công bằng và hấp dẫn nhằm thu hút và giữ chân nhân tài thông qua các chiến lược thang lương."
       ]
     },
     {
       "type": "list",
-      "subtitle": "Initial Labor Declaration will help your business with:",
+      "subtitle": "Khai trình lao động ban đầu sẽ hỗ trợ doanh nghiệp của bạn với:",
       "columns": 1,
       "items": [
-        "Initial Labor Report submission (required for every company with employees)",
-        "Company Regulation registered with the local authorities if the total employees are 10 or above registered at your company",
-        "Salary scale set up (detailed information for each position and level)"
+        "Nộp Báo cáo khai trình lao động ban đầu (bắt buộc đối với mọi công ty có người lao động)",
+        "Đăng ký Nội quy lao động với cơ quan chức năng địa phương nếu tổng số lao động đăng ký tại công ty bạn từ 10 người trở lên",
+        "Thiết lập thang bảng lương (thông tin chi tiết cho từng vị trí và cấp bậc)"
       ]
     },
     {
       "type": "richText",
-      "heading": "Initial Social Insurance Declaration",
+      "heading": "Khai trình bảo hiểm xã hội ban đầu",
       "body": [
-        "We streamline document management, ensure precise insurance handling, maintain comprehensive employee records, and efficiently monitor your workforce."
+        "Chúng tôi tinh gọn việc quản lý hồ sơ, đảm bảo xử lý bảo hiểm chính xác, duy trì hồ sơ nhân viên đầy đủ và theo dõi hiệu quả lực lượng lao động của bạn."
       ]
     },
     {
       "type": "list",
-      "subtitle": "Initial Social Insurance Declaration will help your business with:",
+      "subtitle": "Khai trình bảo hiểm xã hội ban đầu sẽ hỗ trợ doanh nghiệp của bạn với:",
       "columns": 1,
       "items": [
-        "Delivering documents sheet (list out the details of the company and related people)",
-        "Participating and Adjusting Declaration sheet on Social, Health and Unemployment Insurance for each employee",
-        "Creating a list of Employee Information and Company Labor List"
+        "Lập tờ hồ sơ chứng từ (liệt kê thông tin chi tiết của công ty và các đối tượng liên quan)",
+        "Tham gia và điều chỉnh tờ khai Bảo hiểm Xã hội, Y tế và Thất nghiệp cho từng nhân viên",
+        "Lập Thông tin nhân viên và Danh sách lao động của công ty"
       ]
     },
     {
       "type": "richText",
-      "eyebrow": "STEP 2 — Recurring Service",
-      "heading": "HR, Payroll, Insurance and PIT Processing & Reporting",
+      "eyebrow": "BƯỚC 2 — Dịch vụ định kỳ",
+      "heading": "Xử lý & Báo cáo Nhân sự, Tính lương, Bảo hiểm và Thuế TNCN",
       "align": "center",
       "body": [
-        "Keep your operations running month after month. Our recurring service covers labor data, payroll calculations, SHUI compliance, personal income tax and ongoing HR operation support."
+        "Duy trì hoạt động vận hành trơn tru tháng này qua tháng khác. Dịch vụ định kỳ của chúng tôi bao quát dữ liệu lao động, tính lương, tuân thủ BHXH-YT-TN, thuế thu nhập cá nhân và hỗ trợ vận hành nhân sự liên tục."
       ]
     },
     {
       "type": "richText",
-      "heading": "Initial Labor",
+      "heading": "Lao động ban đầu",
       "body": [
-        "Whether you're an HR-registered client or not, we collect vital data, including contracts and employee information, and prepare essential payroll documents to streamline your operations."
+        "Dù bạn đã đăng ký dịch vụ nhân sự với chúng tôi hay chưa, chúng tôi đều thu thập các dữ liệu thiết yếu, bao gồm hợp đồng và thông tin nhân viên, đồng thời chuẩn bị các chứng từ tính lương cần thiết để tinh gọn hoạt động của bạn."
       ]
     },
     {
       "type": "list",
-      "subtitle": "If you used HR Initial Establishment services, Initial Setup includes:",
+      "subtitle": "Nếu bạn đã sử dụng dịch vụ Thiết lập Nhân sự Ban đầu, phần Thiết lập ban đầu bao gồm:",
       "columns": 1,
       "items": [
-        "Collect copies of employee contracts from your business",
-        "Collect employee information from your business",
-        "Prepare payroll document template"
+        "Thu thập bản sao hợp đồng lao động của nhân viên từ doanh nghiệp của bạn",
+        "Thu thập thông tin nhân viên từ doanh nghiệp của bạn",
+        "Chuẩn bị biểu mẫu chứng từ tính lương"
       ]
     },
     {
       "type": "list",
-      "subtitle": "If you haven't used our HR Initial Establishment services, Initial Setup includes:",
+      "subtitle": "Nếu bạn chưa sử dụng dịch vụ Thiết lập Nhân sự Ban đầu của chúng tôi, phần Thiết lập ban đầu bao gồm:",
       "columns": 1,
       "items": [
-        "Collect company information include: (1) Labor Department information and current status for all mandatory reports, (2) SHUI current status, (3) PIT current status, (4) Trade Union current status",
-        "Collect employee contracts from your business",
-        "Collect employee information from your business",
-        "Prepare payroll document template"
+        "Thu thập thông tin công ty bao gồm: (1) thông tin tại Cơ quan Lao động và tình trạng hiện tại của tất cả các báo cáo bắt buộc, (2) tình trạng hiện tại của BHXH-YT-TN, (3) tình trạng hiện tại của thuế TNCN, (4) tình trạng hiện tại của Công đoàn",
+        "Thu thập hợp đồng lao động của nhân viên từ doanh nghiệp của bạn",
+        "Thu thập thông tin nhân viên từ doanh nghiệp của bạn",
+        "Chuẩn bị biểu mẫu chứng từ tính lương"
       ]
     },
     {
       "type": "richText",
-      "heading": "Payroll Tasks",
+      "heading": "Công việc tính lương",
       "body": [
-        "We handle comprehensive payroll calculations, covering Gross to Net/Net to Gross, Personal Income Tax, insurance, severance allowances, and bonuses, while also generating the required monthly reports."
+        "Chúng tôi thực hiện toàn diện việc tính lương, bao gồm Gross sang Net/Net sang Gross, Thuế thu nhập cá nhân, bảo hiểm, trợ cấp thôi việc và thưởng, đồng thời lập các báo cáo hàng tháng cần thiết."
       ]
     },
     {
       "type": "list",
-      "subtitle": "Payroll outsourcing will help you to:",
+      "subtitle": "Thuê ngoài dịch vụ tính lương sẽ giúp bạn:",
       "columns": 1,
       "items": [
-        "Calculate payroll based on your timesheet, annual leave and basic employee information reports to do monthly payroll including: Gross to Net/Net to Gross, Personal Income Tax, Social, Health and Unemployment Insurance, severance allowance (if any), bonus/incentive accuracy (if any), final payments for resigned staffs"
+        "Tính lương dựa trên bảng chấm công, báo cáo nghỉ phép năm và thông tin nhân viên cơ bản của bạn để thực hiện tính lương hàng tháng, bao gồm: Gross sang Net/Net sang Gross, Thuế thu nhập cá nhân, Bảo hiểm Xã hội, Y tế và Thất nghiệp, trợ cấp thôi việc (nếu có), tính chính xác thưởng/khuyến khích (nếu có), thanh toán cuối cùng cho nhân viên đã nghỉ việc"
       ]
     },
     {
       "type": "richText",
-      "heading": "Social, Health & Unemployment Insurance (SHUI)",
+      "heading": "Bảo hiểm Xã hội, Y tế & Thất nghiệp (BHXH-YT-TN)",
       "body": [
-        "WTP Advisory handle a wide range of SHUI Authority compliance tasks, from monthly reports, maternity and sick leave claims, to labor accidents. We also manage health insurance cards and payment requests for seamless operations."
+        "WTP Advisory xử lý nhiều công việc tuân thủ với Cơ quan BHXH-YT-TN, từ báo cáo hàng tháng, hồ sơ thai sản và nghỉ ốm cho đến tai nạn lao động. Chúng tôi cũng quản lý thẻ bảo hiểm y tế và đề nghị thanh toán để vận hành liền mạch."
       ]
     },
     {
       "type": "list",
-      "subtitle": "Social, Health & Unemployment Insurance (SHUI) service from WTP Advisory can help you:",
+      "subtitle": "Dịch vụ Bảo hiểm Xã hội, Y tế & Thất nghiệp (BHXH-YT-TN) từ WTP Advisory có thể giúp bạn:",
       "columns": 1,
       "items": [
-        "Complete the monthly/one-off report to SHUI Authority per SI law",
-        "Increase/Decrease/Changes report before 20th day of month",
-        "Maternity claim / sick leave claim (if any)",
-        "Labor accident/occupational disease (if any) by hard copy",
-        "Issue/renew Hi card",
-        "SI book closing",
-        "Salary, information update for social insurance book",
-        "Reconciling the SHUI contribution recording of SI Authority, comparison with payroll data",
-        "Obtaining health insurance cards for employees",
-        "Make payment requests and send them to the accountant for payment before the last day of the month"
+        "Hoàn thành báo cáo hàng tháng/phát sinh gửi Cơ quan BHXH-YT-TN theo luật BHXH",
+        "Báo cáo tăng/giảm/thay đổi trước ngày 20 hàng tháng",
+        "Hồ sơ hưởng thai sản / hồ sơ nghỉ ốm (nếu có)",
+        "Tai nạn lao động/bệnh nghề nghiệp (nếu có) bằng bản giấy",
+        "Cấp/gia hạn thẻ Bảo hiểm Y tế",
+        "Chốt sổ Bảo hiểm Xã hội",
+        "Cập nhật lương, thông tin cho sổ bảo hiểm xã hội",
+        "Đối chiếu việc ghi nhận đóng BHXH-YT-TN của Cơ quan BHXH với dữ liệu tính lương",
+        "Nhận thẻ bảo hiểm y tế cho nhân viên",
+        "Lập đề nghị thanh toán và gửi cho kế toán để chi trả trước ngày cuối cùng của tháng"
       ]
     },
     {
       "type": "richText",
-      "heading": "Personal Income Tax (PIT)",
+      "heading": "Thuế thu nhập cá nhân (TNCN)",
       "body": [
-        "We will efficiently prepare and submit monthly/quarterly personal income tax declarations, both online and in hard copy, based on accurate payroll data. WTP Advisory also handle the lodgement of PIT reports with the Tax Department."
+        "Chúng tôi sẽ chuẩn bị và nộp tờ khai thuế thu nhập cá nhân hàng tháng/hàng quý một cách hiệu quả, cả trực tuyến lẫn bản giấy, dựa trên dữ liệu tính lương chính xác. WTP Advisory cũng thực hiện việc nộp các báo cáo thuế TNCN cho Cơ quan Thuế."
       ]
     },
     {
       "type": "list",
-      "subtitle": "This Personal Income Tax (PIT) service will help you to:",
+      "subtitle": "Dịch vụ Thuế thu nhập cá nhân (TNCN) này sẽ giúp bạn:",
       "columns": 1,
       "items": [
-        "Prepare and submit the monthly/quarterly personal income tax declaration based on the monthly payroll reports (both online submission and hard copy submission)",
-        "Lodge the PIT reports to the Tax Department based on the payroll"
+        "Chuẩn bị và nộp tờ khai thuế thu nhập cá nhân hàng tháng/hàng quý dựa trên báo cáo tính lương hàng tháng (cả nộp trực tuyến và nộp bản giấy)",
+        "Nộp các báo cáo thuế TNCN cho Cơ quan Thuế dựa trên bảng lương"
       ]
     },
     {
       "type": "richText",
-      "heading": "Year-end PIT Tax Finalization & Book",
+      "heading": "Quyết toán thuế TNCN cuối năm & lập sổ",
       "body": [
-        "Yearly PIT Finalization is for your business with employees working a full calendar year with one income source. WTP Advisory issue income confirmations and tax receipts."
+        "Quyết toán thuế TNCN hàng năm dành cho doanh nghiệp của bạn có nhân viên làm việc trọn một năm dương lịch với một nguồn thu nhập. WTP Advisory cấp xác nhận thu nhập và chứng từ khấu trừ thuế."
       ]
     },
     {
       "type": "list",
-      "subtitle": "This Year-end PIT Tax Finalization & Book service will help you with:",
+      "subtitle": "Dịch vụ Quyết toán thuế TNCN cuối năm & lập sổ này sẽ giúp bạn với:",
       "columns": 1,
       "items": [
-        "Yearly PIT Finalization is only applicable when your employees work a full calendar year with you. Those employees only have one source of income from the company.",
-        "Issue Income confirmation and Tax receipt issuance."
+        "Quyết toán thuế TNCN hàng năm chỉ áp dụng khi nhân viên của bạn làm việc trọn một năm dương lịch với bạn. Những nhân viên này chỉ có một nguồn thu nhập từ công ty.",
+        "Cấp xác nhận thu nhập và cấp chứng từ khấu trừ thuế."
       ]
     },
     {
       "type": "richText",
-      "heading": "Register the Personal Income Tax Code for New Hire (Local) or Dependants",
+      "heading": "Đăng ký Mã số thuế TNCN cho nhân viên mới (người Việt) hoặc người phụ thuộc",
       "body": [
-        "Our team will register personal income tax codes for new local hires and dependents, provide consultation on required documents, and submit dependent declarations online."
+        "Đội ngũ của chúng tôi sẽ đăng ký mã số thuế thu nhập cá nhân cho nhân viên mới người Việt và người phụ thuộc, tư vấn về các chứng từ cần thiết và nộp tờ khai người phụ thuộc trực tuyến."
       ]
     },
     {
       "type": "list",
-      "subtitle": "This Register the personal income tax code for new hire (local) or dependants service will help you with:",
+      "subtitle": "Dịch vụ Đăng ký mã số thuế TNCN cho nhân viên mới (người Việt) hoặc người phụ thuộc này sẽ giúp bạn với:",
       "columns": 1,
       "items": [
-        "Consult the supporting documents",
-        "Submit the dependent declaration (online submission)"
+        "Tư vấn về các chứng từ hỗ trợ",
+        "Nộp tờ khai người phụ thuộc (nộp trực tuyến)"
       ]
     },
     {
       "type": "richText",
-      "heading": "HR Operation Supporting",
+      "heading": "Hỗ trợ vận hành nhân sự",
       "body": [
-        "Discover our HR Operation Support services, simplifying compliance and documentation, so you can focus on your business while we manage HR operations."
+        "Khám phá dịch vụ Hỗ trợ vận hành nhân sự của chúng tôi, giúp đơn giản hóa việc tuân thủ và hồ sơ chứng từ, để bạn có thể tập trung vào kinh doanh trong khi chúng tôi quản lý hoạt động nhân sự."
       ]
     },
     {
       "type": "list",
-      "subtitle": "This HR Operation Supporting service will help you to:",
+      "subtitle": "Dịch vụ Hỗ trợ vận hành nhân sự này sẽ giúp bạn:",
       "columns": 1,
       "items": [
-        "Consult, prepare the checklist, collect, fill the employee recording documents per labor law",
-        "Prepare, collect, filing the offer letter, labor contract, decisions, filling for employees",
-        "Collect, filling the dependant's documentation and supporting documents"
+        "Tư vấn, chuẩn bị danh mục kiểm tra, thu thập, điền các chứng từ ghi nhận thông tin nhân viên theo quy định pháp luật lao động",
+        "Chuẩn bị, thu thập, lưu trữ thư mời nhận việc, hợp đồng lao động, các quyết định và hồ sơ của nhân viên",
+        "Thu thập, lưu trữ hồ sơ người phụ thuộc và các chứng từ hỗ trợ"
       ]
     },
     {
       "type": "steps",
-      "heading": "Your Success Plan in Vietnam",
+      "heading": "Kế hoạch Thành công của bạn tại Việt Nam",
       "items": [
         {
-          "title": "Submit Your Information & Needs",
-          "desc": "Tell us about your company's needs and aspirations in Vietnam"
+          "title": "Gửi thông tin & nhu cầu của bạn",
+          "desc": "Hãy cho chúng tôi biết về nhu cầu và mục tiêu của công ty bạn tại Việt Nam"
         },
         {
-          "title": "Book a Consultation With Our Experts",
-          "desc": "Go over your plan with one of our bilingual business Consultants"
+          "title": "Đặt lịch tư vấn với chuyên gia của chúng tôi",
+          "desc": "Cùng trao đổi kế hoạch của bạn với một trong các Chuyên viên tư vấn song ngữ của chúng tôi"
         },
         {
-          "title": "Verify KYC Documents",
-          "desc": "Our consultants will contact you to process the necessary paperwork and create your company dossier"
+          "title": "Xác minh hồ sơ KYC",
+          "desc": "Chuyên viên tư vấn của chúng tôi sẽ liên hệ để xử lý các giấy tờ cần thiết và lập hồ sơ công ty cho bạn"
         },
         {
-          "title": "Choose a Plan & Succeed In Vietnam",
-          "desc": "Let us simplify your business journey and make your mark in APAC's fastest-growing economy"
+          "title": "Chọn gói dịch vụ & Thành công tại Việt Nam",
+          "desc": "Hãy để chúng tôi đơn giản hóa hành trình kinh doanh và giúp bạn ghi dấu ấn tại nền kinh tế tăng trưởng nhanh nhất khu vực APAC"
         }
       ]
     },
     {
       "type": "faq",
-      "eyebrow": "FAQ",
-      "heading": "Frequently Asked Questions on HR and Payroll Outsourcing",
+      "eyebrow": "CÂU HỎI THƯỜNG GẶP",
+      "heading": "Câu hỏi thường gặp về Thuê ngoài Nhân sự và Tính lương",
       "items": [
         {
-          "q": "Do I need a legal entity in Vietnam to hire employees?",
-          "a": "You can recruit both local and foreign employees in Vietnam for your company without establishing a legal entity. Common ways to do this include using recruitment technology platforms, employer of record (EOR) providers, or direct hiring through various communication channels (LinkedIn, Facebook, and so on)."
+          "q": "Tôi có cần một pháp nhân tại Việt Nam để tuyển dụng nhân viên không?",
+          "a": "Bạn có thể tuyển dụng cả nhân viên người Việt và người nước ngoài tại Việt Nam cho công ty mà không cần thành lập pháp nhân. Các cách phổ biến để thực hiện bao gồm sử dụng nền tảng công nghệ tuyển dụng, đơn vị tuyển dụng đại diện (Employer of Record - EOR), hoặc tuyển dụng trực tiếp qua nhiều kênh liên lạc (LinkedIn, Facebook, v.v.)."
         },
         {
-          "q": "Can I pay my employees from abroad as a foreign employer?",
-          "a": "You can set up your payroll and payroll compliance entirely remotely. As legal obligations, you have to submit all paperwork for employee declaration and salary payment to relevant authorities (namely the Department or Ministry of Labour, Invalids and Social Affairs)."
+          "q": "Là người sử dụng lao động nước ngoài, tôi có thể trả lương cho nhân viên từ nước ngoài không?",
+          "a": "Bạn có thể thiết lập việc tính lương và tuân thủ tính lương hoàn toàn từ xa. Theo nghĩa vụ pháp lý, bạn phải nộp toàn bộ hồ sơ khai trình lao động và chi trả lương cho các cơ quan liên quan (cụ thể là Sở hoặc Bộ Lao động - Thương binh và Xã hội)."
         },
         {
-          "q": "What are all the services included in the HR and payroll outsourcing package?",
-          "a": "When applying for our comprehensive HR outsourcing services, you have the option of choosing one of, some of, or all of the following: HR initial establishment (labor and social insurance declaration), payroll processing, SHUI compliance, personal income tax declaration and finalization, PIT code registration, and HR operation support."
+          "q": "Gói thuê ngoài nhân sự và tính lương bao gồm những dịch vụ nào?",
+          "a": "Khi đăng ký dịch vụ thuê ngoài nhân sự toàn diện của chúng tôi, bạn có thể chọn một, một vài hoặc tất cả các dịch vụ sau: thiết lập nhân sự ban đầu (khai trình lao động và bảo hiểm xã hội), xử lý tính lương, tuân thủ BHXH-YT-TN, khai và quyết toán thuế thu nhập cá nhân, đăng ký mã số thuế TNCN và hỗ trợ vận hành nhân sự."
         }
       ]
     },
     {
       "type": "cards",
-      "eyebrow": "Explore More",
-      "heading": "Other Services You Might Need",
+      "eyebrow": "Khám phá thêm",
+      "heading": "Các dịch vụ khác bạn có thể cần",
       "columns": 4,
       "items": [
         {
-          "title": "Incorporation",
-          "desc": "Gain a presence in the Vietnamese market through our incorporation services.",
+          "title": "Thành lập doanh nghiệp",
+          "desc": "Hiện diện trên thị trường Việt Nam thông qua dịch vụ thành lập doanh nghiệp của chúng tôi.",
           "href": "/incorporation",
           "icon": "rocket"
         },
         {
-          "title": "Accounting & Taxation",
-          "desc": "Save time and money while ensuring compliance with full-service accounting services.",
+          "title": "Kế toán & Thuế",
+          "desc": "Tiết kiệm thời gian và chi phí trong khi vẫn đảm bảo tuân thủ với dịch vụ kế toán trọn gói.",
           "href": "/accounting-taxation",
           "icon": "coins"
         },
         {
-          "title": "Legal Advisory",
-          "desc": "Obtain all the necessary licenses and sublicenses for doing business in Vietnam.",
+          "title": "Tư vấn pháp lý",
+          "desc": "Có được tất cả giấy phép và giấy phép con cần thiết để kinh doanh tại Việt Nam.",
           "href": "/legal-advisory",
           "icon": "calculator"
         },
         {
-          "title": "Immigration",
-          "desc": "Navigate entry requirements and obtain permits for investors, businesses, and residence.",
+          "title": "Di trú",
+          "desc": "Đáp ứng các yêu cầu nhập cảnh và xin các loại giấy phép cho nhà đầu tư, doanh nghiệp và cư trú.",
           "href": "/immigration",
           "icon": "globe"
         }
@@ -322,32 +322,32 @@
     {
       "type": "stats",
       "variant": "red",
-      "heading": "Backed by WTP Advisory",
+      "heading": "Được hậu thuẫn bởi WTP Advisory",
       "items": [
         {
           "value": "30+",
-          "label": "Years of experience"
+          "label": "Năm kinh nghiệm"
         },
         {
           "value": "1,500+",
-          "label": "Professionals across APAC"
+          "label": "Chuyên gia trên khắp APAC"
         },
         {
           "value": "20,000+",
-          "label": "Clients served globally"
+          "label": "Khách hàng được phục vụ trên toàn cầu"
         },
         {
           "value": "8",
-          "label": "Markets in Asia-Pacific"
+          "label": "Thị trường tại châu Á - Thái Bình Dương"
         }
       ]
     },
     {
       "type": "cta",
-      "title": "Ready to get started in Vietnam?",
-      "subtitle": "Talk to our experts about how we can support your business.",
+      "title": "Sẵn sàng khởi đầu tại Việt Nam?",
+      "subtitle": "Hãy trao đổi với các chuyên gia của chúng tôi về cách chúng tôi có thể hỗ trợ doanh nghiệp của bạn.",
       "button": {
-        "label": "Make an Inquiry",
+        "label": "Gửi yêu cầu tư vấn",
         "href": "/make-an-inquiry"
       },
       "variant": "red"

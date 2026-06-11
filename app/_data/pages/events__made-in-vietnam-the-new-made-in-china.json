@@ -1,47 +1,47 @@
-﻿{
+{
   "layout": "event",
-  "title": "Is “Made in Vietnam” The New “Made in China”?",
-  "metaDescription": "A webinar exploring Vietnam's manufacturing trends and what they mean for foreign investors and businesses, led by WTP Advisory with FiinGroup.",
+  "title": "Liệu “Sản xuất tại Việt Nam” có trở thành “Sản xuất tại Trung Quốc” mới?",
+  "metaDescription": "Hội thảo trực tuyến khám phá các xu hướng sản xuất của Việt Nam và ý nghĩa của chúng đối với nhà đầu tư và doanh nghiệp nước ngoài, do WTP Advisory phối hợp cùng FiinGroup tổ chức.",
   "banner": "/incorp/events/made-in-vietnam.png",
   "format": "Webinar",
-  "date": "March 20, 2025",
+  "date": "Ngày 20 tháng 3 năm 2025",
   "about": [
-    "Join us for an insightful event designed for foreign individuals and businesses operating in Vietnam, led by WTP Advisory's experts in collaboration with FiinGroup.",
-    "Vietnam is rapidly gaining recognition as a top destination for foreign investment, thanks to its skilled workforce, competitive production costs, expanding trade agreements, and strategic location in Southeast Asia. As global supply chains continue to evolve, businesses are increasingly looking to Vietnam for manufacturing, sourcing, and market expansion opportunities.",
-    "This event brings together industry experts to provide critical insights into Vietnam's growing role in global trade and investment."
+    "Hãy tham gia cùng chúng tôi trong một sự kiện đầy giá trị được thiết kế dành cho các cá nhân và doanh nghiệp nước ngoài đang hoạt động tại Việt Nam, do đội ngũ chuyên gia của WTP Advisory phối hợp cùng FiinGroup dẫn dắt.",
+    "Việt Nam đang nhanh chóng được công nhận là một trong những điểm đến hàng đầu cho đầu tư nước ngoài, nhờ lực lượng lao động lành nghề, chi phí sản xuất cạnh tranh, mạng lưới hiệp định thương mại ngày càng mở rộng và vị trí chiến lược tại khu vực Đông Nam Á. Khi chuỗi cung ứng toàn cầu tiếp tục chuyển dịch, các doanh nghiệp ngày càng hướng tới Việt Nam như một điểm đến cho hoạt động sản xuất, tìm nguồn cung ứng và mở rộng thị trường.",
+    "Sự kiện này quy tụ các chuyên gia hàng đầu trong ngành nhằm mang đến những góc nhìn quan trọng về vai trò ngày càng lớn của Việt Nam trong thương mại và đầu tư toàn cầu."
   ],
   "details": [
-    { "label": "Date", "value": "March 20, 2025" },
-    { "label": "Time", "value": "14:00 – 15:00 (GMT+7)" },
-    { "label": "Format", "value": "Online webinar — joining link provided upon registration" }
+    { "label": "Ngày", "value": "Ngày 20 tháng 3 năm 2025" },
+    { "label": "Thời gian", "value": "14:00 – 15:00 (GMT+7)" },
+    { "label": "Hình thức", "value": "Hội thảo trực tuyến — đường link tham dự được cung cấp sau khi đăng ký" }
   ],
   "bulletSections": [
     {
-      "heading": "What You'll Learn",
+      "heading": "Những điều bạn sẽ học được",
       "items": [
-        "Vietnam's Competitive Edge — why companies are choosing Vietnam for manufacturing and business expansion",
-        "Investment & Regulatory Updates — essential legal and policy changes for foreign investors in 2024",
-        "Emerging Sectors & Market Trends — where the biggest growth opportunities lie",
-        "Business Entry Strategies — step-by-step guidance on setting up operations in Vietnam",
-        "Challenges & Risk Management — navigating Vietnam's business landscape for long-term success"
+        "Lợi thế cạnh tranh của Việt Nam — vì sao các doanh nghiệp lựa chọn Việt Nam cho hoạt động sản xuất và mở rộng kinh doanh",
+        "Cập nhật về đầu tư và pháp lý — những thay đổi thiết yếu về luật pháp và chính sách dành cho nhà đầu tư nước ngoài trong năm 2024",
+        "Các ngành mới nổi và xu hướng thị trường — đâu là những cơ hội tăng trưởng lớn nhất",
+        "Chiến lược gia nhập thị trường — hướng dẫn từng bước thiết lập hoạt động kinh doanh tại Việt Nam",
+        "Thách thức và quản trị rủi ro — định hướng trên bức tranh kinh doanh Việt Nam để thành công lâu dài"
       ]
     },
     {
-      "heading": "Who Should Attend",
+      "heading": "Đối tượng nên tham dự",
       "items": [
-        "Investors & entrepreneurs exploring Vietnam's growing market",
-        "Manufacturers & supply chain leaders looking to expand operations in Asia",
-        "Business executives & trade professionals seeking insights into Vietnam's economic growth"
+        "Nhà đầu tư và doanh nhân đang tìm hiểu thị trường đang phát triển của Việt Nam",
+        "Nhà sản xuất và lãnh đạo chuỗi cung ứng mong muốn mở rộng hoạt động tại châu Á",
+        "Lãnh đạo doanh nghiệp và chuyên gia thương mại tìm kiếm góc nhìn về tăng trưởng kinh tế của Việt Nam"
       ]
     }
   ],
   "registration": {
-    "heading": "Save Your Seat",
-    "subtitle": "Tune in to our exclusive webinar for the latest updates.",
-    "schedule": "March 20, 2025 | 14:00 – 15:00 (GMT+7)"
+    "heading": "Giữ chỗ ngay",
+    "subtitle": "Đón xem hội thảo trực tuyến độc quyền của chúng tôi để cập nhật những thông tin mới nhất.",
+    "schedule": "Ngày 20 tháng 3 năm 2025 | 14:00 – 15:00 (GMT+7)"
   },
   "prev": {
-    "title": "Tax Compliance Risks for Foreigners in Vietnam",
+    "title": "Rủi ro tuân thủ thuế đối với người nước ngoài tại Việt Nam",
     "href": "/events/webinar-tax-compliance-risks"
   },
   "next": {

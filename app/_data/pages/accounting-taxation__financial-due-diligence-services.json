@@ -1,12 +1,12 @@
-﻿{
-  "title": "Financial Due Diligence Services in Vietnam",
-  "metaDescription": "Our financial due diligence offers in-depth analysis and insights to support confident investment and strategic decisions.",
+{
+  "title": "Dịch vụ Thẩm định tài chính tại Việt Nam",
+  "metaDescription": "Dịch vụ thẩm định tài chính của chúng tôi cung cấp phân tích chuyên sâu và những góc nhìn giá trị để hỗ trợ quyết định đầu tư và chiến lược một cách tự tin.",
   "hero": {
-    "eyebrow": "Services",
-    "title": "Financial Due Diligence Services in Vietnam",
-    "subtitle": "Our financial due diligence services provide in-depth analysis and expert insights into a company's financial standing, helping businesses make confident investment and strategic decisions.",
+    "eyebrow": "Dịch vụ",
+    "title": "Dịch vụ Thẩm định tài chính tại Việt Nam",
+    "subtitle": "Dịch vụ thẩm định tài chính của chúng tôi cung cấp phân tích chuyên sâu và góc nhìn chuyên môn về tình hình tài chính của doanh nghiệp, giúp các doanh nghiệp đưa ra quyết định đầu tư và chiến lược một cách tự tin.",
     "cta": {
-      "label": "Make an Inquiry",
+      "label": "Gửi yêu cầu tư vấn",
       "href": "/make-an-inquiry"
     },
     "image": "/incorp/solutions/accounting-finance.jpg"
@@ -14,113 +14,113 @@
   "sections": [
     {
       "type": "richText",
-      "heading": "The importance of Financial Due Diligence at enterprise?",
+      "heading": "Tầm quan trọng của thẩm định tài chính đối với doanh nghiệp?",
       "body": [
-        "The primary purpose of Financial Due Diligence (FDD) is to provide clients with a comprehensive analysis of a target company's financial condition, including asset quality, hidden liabilities, tax risks, profit sustainability, and any specific financial concerns raised by the client. The service delivers a detailed report outlining key findings and explanations for each component of the target's financial statements. This report equips clients with essential insights to decide whether to proceed with the investment or adopt suitable investment strategies.",
-        "At WTP Advisory, our Financial Due Diligence services provide comprehensive evaluations of target companies' financial health, helping clients make well-informed investment decisions with confidence."
+        "Mục đích chính của Thẩm định tài chính (FDD) là cung cấp cho khách hàng một phân tích toàn diện về tình hình tài chính của doanh nghiệp mục tiêu, bao gồm chất lượng tài sản, các khoản nợ tiềm ẩn, rủi ro về thuế, tính bền vững của lợi nhuận và bất kỳ mối quan ngại tài chính cụ thể nào mà khách hàng đặt ra. Dịch vụ này cung cấp một báo cáo chi tiết nêu rõ các phát hiện chính và giải thích cho từng thành phần trong báo cáo tài chính của doanh nghiệp mục tiêu. Báo cáo này trang bị cho khách hàng những hiểu biết thiết yếu để quyết định có nên tiến hành đầu tư hay áp dụng các chiến lược đầu tư phù hợp.",
+        "Tại WTP Advisory, dịch vụ thẩm định tài chính của chúng tôi cung cấp đánh giá toàn diện về sức khỏe tài chính của doanh nghiệp mục tiêu, giúp khách hàng đưa ra quyết định đầu tư sáng suốt một cách tự tin."
       ],
       "align": "left"
     },
     {
       "type": "stats",
-      "heading": "Your trusted accounting services provider",
+      "heading": "Nhà cung cấp dịch vụ kế toán đáng tin cậy của bạn",
       "items": [
         {
           "value": "30+",
-          "label": "Years Track Record"
+          "label": "Năm hoạt động"
         },
         {
           "value": "15,000+",
-          "label": "Clients Worldwide"
+          "label": "Khách hàng trên toàn thế giới"
         },
         {
           "value": "120+",
-          "label": "Accounting & Tax Clients"
+          "label": "Khách hàng kế toán & thuế"
         }
       ]
     },
     {
       "type": "cards",
-      "heading": "The Delivery of Financial Due Diligence Services at WTP Advisory",
+      "heading": "Quy trình triển khai dịch vụ thẩm định tài chính tại WTP Advisory",
       "columns": 2,
       "items": [
         {
-          "title": "Kick-off Meeting",
-          "desc": "We align with clients and targets on the scope of work, specific requests, timelines, contacts, cooperation mechanisms, and required documents.",
+          "title": "Họp khởi động",
+          "desc": "Chúng tôi thống nhất với khách hàng và doanh nghiệp mục tiêu về phạm vi công việc, các yêu cầu cụ thể, tiến độ, đầu mối liên hệ, cơ chế phối hợp và các tài liệu cần thiết.",
           "icon": "handshake"
         },
         {
-          "title": "Planning",
-          "desc": "We assess the client's business environment and internal controls to design an effective and efficient approach.",
+          "title": "Lập kế hoạch",
+          "desc": "Chúng tôi đánh giá môi trường kinh doanh và hệ thống kiểm soát nội bộ của khách hàng để xây dựng phương pháp tiếp cận hiệu quả và tối ưu.",
           "icon": "clipboard"
         },
         {
-          "title": "Fieldwork",
-          "desc": "At the target's office, we review financial data, reconcile documents, analyze transactions, interview key personnel, and consult industry experts. Additional procedures like inventory observation and stakeholder confirmations are performed as needed.",
+          "title": "Thực hiện tại hiện trường",
+          "desc": "Tại văn phòng của doanh nghiệp mục tiêu, chúng tôi rà soát dữ liệu tài chính, đối chiếu chứng từ, phân tích giao dịch, phỏng vấn nhân sự chủ chốt và tham vấn chuyên gia ngành. Các thủ tục bổ sung như quan sát kiểm kê hàng tồn kho và xác nhận với các bên liên quan được thực hiện khi cần thiết.",
           "icon": "eye"
         },
         {
-          "title": "Reporting",
-          "desc": "We deliver comprehensive reports, followed by direct presentations if required.",
+          "title": "Báo cáo",
+          "desc": "Chúng tôi cung cấp báo cáo toàn diện, kèm theo phần trình bày trực tiếp nếu được yêu cầu.",
           "icon": "fileCheck"
         }
       ]
     },
     {
       "type": "cards",
-      "heading": "Benefits of Financial Due Diligence Services with WTP Advisory",
+      "heading": "Lợi ích của dịch vụ thẩm định tài chính cùng WTP Advisory",
       "columns": 4,
       "items": [
         {
-          "title": "Expert Consultation",
-          "desc": "Our accounting experts offer insights into financial best practices and regulations to help you optimize your business operations.",
+          "title": "Tư vấn chuyên môn",
+          "desc": "Các chuyên gia kế toán của chúng tôi mang đến hiểu biết sâu sắc về các thông lệ tài chính tốt nhất và quy định pháp luật để giúp bạn tối ưu hóa hoạt động kinh doanh.",
           "icon": "globe"
         },
         {
-          "title": "Comprehensive Support",
-          "desc": "We offer a full suite of accounting services, from bookkeeping to tax compliance, ensuring seamless financial management.",
+          "title": "Hỗ trợ toàn diện",
+          "desc": "Chúng tôi cung cấp trọn bộ dịch vụ kế toán, từ ghi sổ kế toán đến tuân thủ thuế, đảm bảo quản lý tài chính liền mạch.",
           "icon": "handshake"
         },
         {
-          "title": "Simplified Process",
-          "desc": "We handle the time-consuming tasks of financial record-keeping and reporting, allowing you to focus on your core business activities.",
+          "title": "Quy trình đơn giản",
+          "desc": "Chúng tôi đảm nhận những công việc tốn thời gian trong việc lưu giữ hồ sơ và báo cáo tài chính, cho phép bạn tập trung vào các hoạt động kinh doanh cốt lõi.",
           "icon": "rocket"
         },
         {
-          "title": "Focus on Core Business",
-          "desc": "With our accounting expertise, you can focus on achieving your business goals while ensuring financial accuracy and compliance.",
+          "title": "Tập trung vào hoạt động cốt lõi",
+          "desc": "Với chuyên môn kế toán của chúng tôi, bạn có thể tập trung đạt được mục tiêu kinh doanh trong khi vẫn đảm bảo sự chính xác và tuân thủ về tài chính.",
           "icon": "network"
         }
       ]
     },
     {
       "type": "cards",
-      "heading": "Meet Our Experts",
+      "heading": "Gặp gỡ đội ngũ chuyên gia của chúng tôi",
       "columns": 3,
       "items": [
         {
-          "title": "Michael Tran, CPA, CA",
-          "desc": "Chief Executive Officer",
+          "title": "[Tên CEO], CPA, CA",
+          "desc": "Tổng Giám đốc",
           "icon": "userCheck"
         },
         {
-          "title": "David Pham",
-          "desc": "Head of Business Advisory",
+          "title": "[Tên Trưởng Phòng Tư Vấn]",
+          "desc": "Trưởng phòng Tư vấn doanh nghiệp",
           "icon": "user"
         },
         {
-          "title": "Linh Hoang",
-          "desc": "Head of Corporate Secretarial and Advisory Services",
+          "title": "[Tên Trưởng Phòng Thư Ký]",
+          "desc": "Trưởng phòng Dịch vụ Thư ký doanh nghiệp và Tư vấn",
           "icon": "users"
         }
       ]
     },
     {
       "type": "cta",
-      "title": "Ready to get started in Vietnam?",
-      "subtitle": "Talk to our experts about how we can support your business.",
+      "title": "Sẵn sàng khởi đầu tại Việt Nam?",
+      "subtitle": "Hãy trao đổi với các chuyên gia của chúng tôi về cách chúng tôi có thể hỗ trợ doanh nghiệp của bạn.",
       "button": {
-        "label": "Make an Inquiry",
+        "label": "Gửi yêu cầu tư vấn",
         "href": "/make-an-inquiry"
       },
       "variant": "red"
