@@ -27,12 +27,17 @@ function MegaPanel({ groups }: { groups: Group[] }) {
   const cards =
     current?.items && current.items.length > 0
       ? current.items
-      : [{ title: `Browse ${current?.title ?? ""}`, href: current?.href ?? "#" }];
+      : [
+          {
+            title: `Browse ${current?.title ?? ""}`,
+            href: current?.href ?? "#",
+          },
+        ];
 
   return (
-    <div className="absolute left-0 right-0 top-full hidden max-h-[calc(100vh-70px)] overflow-y-auto overflow-x-hidden border-t border-stone-100 bg-footer-light shadow-lg group-hover:block">
+    <div className="absolute left-0 right-0 top-full hidden overflow-x-hidden border-t border-stone-100 bg-footer-light shadow-lg group-hover:block">
       <Container className="relative">
-        <div className="relative flex min-h-60">
+        <div className="relative flex max-h-[60vh] min-h-60">
           {/* red accent — right edge meets the category list, bleeds off-screen left at any width */}
           <div className="pointer-events-none absolute right-full top-0 h-full w-screen bg-brand-600" />
           {/* faded city image — left edge starts past the cards, bleeds off-screen right */}
@@ -43,7 +48,7 @@ function MegaPanel({ groups }: { groups: Group[] }) {
             className="pointer-events-none absolute left-full top-0 hidden h-full w-[40vw] object-cover opacity-20 lg:block"
           />
           {/* left: category list */}
-          <ul className="w-[30%] shrink-0 border-r border-stone-300 py-4">
+          <ul className="scrollbar-brand w-[30%] min-h-0 shrink-0 overflow-y-auto border-r border-stone-300 py-4">
             {groups.map((group, i) => (
               <li key={group.title}>
                 <Link
@@ -51,10 +56,12 @@ function MegaPanel({ groups }: { groups: Group[] }) {
                   onMouseEnter={() => setActive(i)}
                   onFocus={() => setActive(i)}
                   className={`flex items-center justify-between gap-2 px-5 py-1.5 text-[15px] font-medium transition-colors ${
-                    i === active ? "text-brand-600" : "text-ink hover:text-brand-600"
+                    i === active
+                      ? "text-brand-600"
+                      : "text-ink hover:text-brand-600"
                   }`}
                 >
-                  {group.title}
+                  <span className="line-clamp-2">{group.title}</span>
                   <ChevronRight className="h-4 w-4 shrink-0 text-brand-600" />
                 </Link>
               </li>
@@ -62,7 +69,7 @@ function MegaPanel({ groups }: { groups: Group[] }) {
           </ul>
 
           {/* right: cards for the active category */}
-          <div className="grid flex-1 auto-rows-min grid-cols-2 gap-3 p-4 lg:grid-cols-3">
+          <div className="scrollbar-brand grid flex-1 auto-rows-min grid-cols-2 gap-3 overflow-y-auto p-4 lg:grid-cols-3">
             {cards.map((item) => (
               <Link
                 key={item.href}
@@ -140,7 +147,11 @@ export function Header() {
   return (
     <header className="sticky top-0 z-50 border-b border-stone-100 bg-white shadow-sm">
       <Container className="flex h-[70px] items-center justify-between gap-4">
-        <Link href={site.homeUrl} aria-label={`${site.name} - Home`} className="shrink-0">
+        <Link
+          href={site.homeUrl}
+          aria-label={`${site.name} - Home`}
+          className="shrink-0"
+        >
           <Logo />
         </Link>
 
@@ -196,7 +207,7 @@ export function Header() {
 
       {/* Mobile drawer */}
       {open && (
-        <div className="max-h-[calc(100vh-70px)] overflow-y-auto border-t border-stone-100 bg-white lg:hidden">
+        <div className="scrollbar-brand max-h-[calc(100vh-70px)] overflow-y-auto border-t border-stone-100 bg-white lg:hidden">
           <Container className="flex flex-col gap-1 py-4">
             {links.map((link) => {
               const groups = megamenuFor(link);
