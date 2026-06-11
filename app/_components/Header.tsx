@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import Link from "next/link";
-import { ChevronDown, ChevronRight, Menu, Search, X } from "lucide-react";
+import { ChevronDown, ChevronRight, Menu, X } from "lucide-react";
 import { Container } from "./ui/Container";
 import { Logo } from "./ui/Logo";
 import nav from "../_data/nav.json";
@@ -150,13 +150,6 @@ export function Header() {
           >
             {nav.cta.label}
           </Link>
-          <button
-            type="button"
-            aria-label="Search"
-            className="ml-1 text-ink-soft transition-colors hover:text-brand-600"
-          >
-            <Search className="h-5 w-5" />
-          </button>
         </nav>
 
         {/* Mobile toggle */}

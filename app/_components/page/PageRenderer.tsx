@@ -3,7 +3,6 @@ import { Mail, MapPin, Phone } from "lucide-react";
 import { TopBar } from "../TopBar";
 import { Header } from "../Header";
 import { Footer } from "../Footer";
-import { WhatsAppButton } from "../WhatsAppButton";
 import { Container } from "../ui/Container";
 import { SectionRenderer, type Section, type CtaData } from "./Sections";
 import { ContactForm } from "./ContactForm";
@@ -154,7 +153,6 @@ export function PageRenderer({ data }: { data: PageData }) {
         {data.showContactForm && <ContactBlock />}
       </main>
       <Footer />
-      <WhatsAppButton />
     </>
   );
 }

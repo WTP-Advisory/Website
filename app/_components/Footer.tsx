@@ -90,18 +90,12 @@ export function Footer() {
 
           {/* Newsletter */}
           <div>
-            <h3 className="text-lg font-bold text-ink">
-              {footer.newsletter.heading}
-            </h3>
-            <p className="mt-4 text-sm text-ink-soft">
-              {footer.newsletter.body}
-            </p>
-            <div className="mt-5">
-              <JarvisFormEmbed
-                formId="form_OfLQZmv3dfyAjr"
-                title="Newsletter Form (Footer)"
-              />
-            </div>
+            <JarvisFormEmbed
+              formId="form_OfLQZmv3dfyAjr"
+              title="Newsletter Form (Footer)"
+              minHeight={360}
+              maxHeight={440}
+            />
           </div>
         </Container>
       </div>

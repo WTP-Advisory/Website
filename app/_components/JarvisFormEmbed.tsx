@@ -10,10 +10,14 @@ export function JarvisFormEmbed({
   formId,
   title = "Jarvis Form",
   className,
+  minHeight = 480,
+  maxHeight,
 }: {
   formId: string;
   title?: string;
   className?: string;
+  minHeight?: number;
+  maxHeight?: number;
 }) {
   const iframeRef = useRef<HTMLIFrameElement>(null);
 
@@ -40,7 +44,11 @@ export function JarvisFormEmbed({
       if (!e.data) return;
       if (e.data.type === "jarvis-form-resize") {
         const f = iframeRef.current;
-        if (f) f.style.height = `${e.data.height}px`;
+        if (f) {
+          let h = Math.max(e.data.height, minHeight);
+          if (maxHeight) h = Math.min(h, maxHeight);
+          f.style.height = `${h}px`;
+        }
       }
       if (e.data.type === "jarvis-form-request-style") sendHostStyle();
     }
@@ -63,7 +71,7 @@ export function JarvisFormEmbed({
       title={title}
       loading="lazy"
       className={className}
-      style={{ width: "100%", border: 0, minHeight: 480 }}
+      style={{ width: "100%", border: 0, minHeight }}
     />
   );
 }

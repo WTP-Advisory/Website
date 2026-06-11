@@ -1,16 +1,24 @@
 import Link from "next/link";
-import { ArrowLeft, ArrowRight, Calendar, Check } from "lucide-react";
+import { ArrowLeft, ArrowRight, Check } from "lucide-react";
 import { TopBar } from "../TopBar";
 import { Header } from "../Header";
 import { Footer } from "../Footer";
-import { WhatsAppButton } from "../WhatsAppButton";
 import { Container } from "../ui/Container";
 import { EventRegistrationForm } from "./EventRegistrationForm";
 
 export type EventSpeaker = { name: string; role?: string; image?: string };
 export type EventDetailItem = { label: string; value: string };
-export type EventAgendaItem = { time?: string; title: string; speaker?: string; desc?: string };
-export type EventBulletSection = { heading: string; intro?: string; items: string[] };
+export type EventAgendaItem = {
+  time?: string;
+  title: string;
+  speaker?: string;
+  desc?: string;
+};
+export type EventBulletSection = {
+  heading: string;
+  intro?: string;
+  items: string[];
+};
 export type EventLink = { title: string; href: string };
 
 export type EventData = {
@@ -26,7 +34,12 @@ export type EventData = {
   matters?: { heading?: string; body: string[] };
   agenda?: EventAgendaItem[];
   bulletSections?: EventBulletSection[];
-  registration?: { heading?: string; subtitle?: string; schedule?: string };
+  registration?: {
+    heading?: string;
+    subtitle?: string;
+    schedule?: string;
+    formId?: string;
+  };
   prev?: EventLink;
   next?: EventLink;
 };
@@ -77,7 +90,11 @@ export function EventRenderer({ data }: { data: EventData }) {
             />
           )}
 
-          <div className="mt-12 grid grid-cols-1 gap-12 lg:grid-cols-[1fr_380px]">
+          <div
+            className={`mt-12 grid grid-cols-1 gap-12 ${
+              data.registration?.formId ? "lg:grid-cols-[1fr_380px]" : ""
+            }`}
+          >
             {/* Main content */}
             <div className="min-w-0">
               {data.about && data.about.length > 0 && (
@@ -98,7 +115,10 @@ export function EventRenderer({ data }: { data: EventData }) {
                   <SectionHeading>Webinar Details</SectionHeading>
                   <dl className="mt-4 space-y-2 text-ink-soft">
                     {data.details.map((d, i) => (
-                      <div key={i} className="flex flex-col gap-0.5 sm:flex-row sm:gap-2">
+                      <div
+                        key={i}
+                        className="flex flex-col gap-0.5 sm:flex-row sm:gap-2"
+                      >
                         <dt className="font-semibold text-ink">{d.label}:</dt>
                         <dd>{d.value}</dd>
                       </div>
@@ -146,7 +166,9 @@ export function EventRenderer({ data }: { data: EventData }) {
                         )}
                         <div>
                           <p className="font-bold text-ink">{s.name}</p>
-                          {s.role && <p className="text-sm text-ink-soft">{s.role}</p>}
+                          {s.role && (
+                            <p className="text-sm text-ink-soft">{s.role}</p>
+                          )}
                         </div>
                       </div>
                     ))}
@@ -171,7 +193,9 @@ export function EventRenderer({ data }: { data: EventData }) {
                           )}
                           <p className="font-bold text-ink">{a.title}</p>
                           {a.speaker && (
-                            <p className="text-sm font-medium text-ink-soft">{a.speaker}</p>
+                            <p className="text-sm font-medium text-ink-soft">
+                              {a.speaker}
+                            </p>
                           )}
                           {a.desc && (
                             <p className="mt-1 text-sm leading-relaxed text-ink-soft">
@@ -202,26 +226,13 @@ export function EventRenderer({ data }: { data: EventData }) {
             </div>
 
             {/* Registration sidebar */}
-            <aside className="lg:sticky lg:top-24 lg:self-start">
-              <div className="rounded-xl border border-stone-200 bg-surface-2 p-6 shadow-sm">
-                <h2 className="text-xl font-bold text-ink">
-                  {data.registration?.heading ?? "Secure Your Seat"}
-                </h2>
-                <p className="mt-2 text-sm text-ink-soft">
-                  {data.registration?.subtitle ??
-                    "Register for our exclusive event and save your seat."}
-                </p>
-                {data.registration?.schedule && (
-                  <p className="mt-3 flex items-center gap-2 text-sm font-semibold text-brand-600">
-                    <Calendar className="h-4 w-4 shrink-0" />
-                    {data.registration.schedule}
-                  </p>
-                )}
-                <div className="mt-6">
-                  <EventRegistrationForm />
+            {data.registration?.formId && (
+              <aside className="lg:sticky lg:top-24 lg:self-start">
+                <div>
+                  <EventRegistrationForm formId={data.registration.formId} />
                 </div>
-              </div>
-            </aside>
+              </aside>
+            )}
           </div>
 
           {/* More events nav */}
@@ -268,7 +279,6 @@ export function EventRenderer({ data }: { data: EventData }) {
         </Container>
       </main>
       <Footer />
-      <WhatsAppButton />
     </>
   );
 }

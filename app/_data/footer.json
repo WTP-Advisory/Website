@@ -56,7 +56,7 @@
     {
       "heading": "Tài nguyên",
       "links": [
-        { "label": "Tin tức", "href": "/news" },
+        { "label": "Tài nguyên", "href": "/blog" },
         { "label": "Sự kiện", "href": "/events" }
       ]
     }

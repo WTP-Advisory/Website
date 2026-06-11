@@ -4,7 +4,6 @@ import path from "path";
 import { TopBar } from "../_components/TopBar";
 import { Header } from "../_components/Header";
 import { Footer } from "../_components/Footer";
-import { WhatsAppButton } from "../_components/WhatsAppButton";
 import { Container } from "../_components/ui/Container";
 import { PageRenderer, type PageData } from "../_components/page/PageRenderer";
 import { EventRenderer, type EventData } from "../_components/page/EventRenderer";
@@ -111,7 +110,6 @@ export default async function CatchAllPage({
         </section>
       </main>
       <Footer />
-      <WhatsAppButton />
     </>
   );
 }

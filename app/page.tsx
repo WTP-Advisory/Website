@@ -6,7 +6,6 @@ import { StatsBand } from "./_components/StatsBand";
 import { News } from "./_components/News";
 import { BrochureCta } from "./_components/BrochureCta";
 import { Footer } from "./_components/Footer";
-import { WhatsAppButton } from "./_components/WhatsAppButton";
 
 export default function Home() {
   return (
@@ -21,7 +20,6 @@ export default function Home() {
         <BrochureCta />
       </main>
       <Footer />
-      <WhatsAppButton />
     </>
   );
 }

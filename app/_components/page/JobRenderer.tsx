@@ -2,7 +2,6 @@
 import { TopBar } from "../TopBar";
 import { Header } from "../Header";
 import { Footer } from "../Footer";
-import { WhatsAppButton } from "../WhatsAppButton";
 import { Container } from "../ui/Container";
 import careers from "../../_data/pages/careers.json";
 
@@ -139,7 +138,6 @@ export function JobRenderer({ data }: { data: JobData }) {
         )}
       </main>
       <Footer />
-      <WhatsAppButton />
     </>
   );
 }

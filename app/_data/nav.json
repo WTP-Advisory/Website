@@ -97,49 +97,7 @@
     },
     {
       "label": "Tài nguyên",
-      "href": "/news",
-      "megamenu": [
-        {
-          "title": "Tin tức",
-          "href": "/news",
-          "items": [
-            { "title": "Công bố chủ sở hữu hưởng lợi cuối cùng", "desc": "", "href": "/ultimate-beneficial-owner" },
-            { "title": "Cẩm nang thiết yếu: Các cập nhật quan trọng về hóa đơn điện tử", "desc": "", "href": "/vietnams-e-invoice-regulations-update" },
-            { "title": "Đăng ký định danh điện tử doanh nghiệp", "desc": "", "href": "/company-e-id-now-mandatory" }
-          ]
-        },
-        {
-          "title": "Góc nhìn",
-          "href": "/news",
-          "items": [
-            { "title": "Luật Các tổ chức tín dụng mới năm 2024", "desc": "", "href": "/new-2024-law-on-credit-institutions" },
-            { "title": "Thành lập công ty con tại Việt Nam", "desc": "", "href": "/subsidiary-company-in-vietnam" },
-            { "title": "Nghị định về bảo vệ dữ liệu cá nhân của Việt Nam", "desc": "", "href": "/personal-data-protection-vietnam" }
-          ]
-        },
-        {
-          "title": "Sách điện tử",
-          "href": "/guides",
-          "items": [
-            { "title": "Cẩm nang chuyển đổi từ VAS sang IFRS", "desc": "", "href": "/business-guides/vas-to-ifrs-conversion-guide" },
-            { "title": "Cẩm nang Nhân sự & Tính lương tại Việt Nam", "desc": "", "href": "/business-guides/hr-and-payroll-guide" },
-            { "title": "Yêu cầu về bảo vệ dữ liệu cá nhân", "desc": "", "href": "/business-guides/personal-data-protection-in-vietnam-demo" }
-          ]
-        },
-        {
-          "title": "Đồ họa thông tin",
-          "href": "/infographics",
-          "items": []
-        },
-        {
-          "title": "VINA OutsourceIn",
-          "href": "/category/vina-outsourcein",
-          "items": [
-            { "title": "Cẩm nang thị thực Việt Nam", "desc": "Tổng quan thực tiễn cho công tác và du lịch", "href": "/visas-in-vietnam" },
-            { "title": "Tính lương tại Việt Nam", "desc": "Những điều doanh nghiệp cần biết cho năm 2026", "href": "/manage-payroll-vietnam" }
-          ]
-        }
-      ]
+      "href": "/blog"
     },
     {
       "label": "Sự kiện",

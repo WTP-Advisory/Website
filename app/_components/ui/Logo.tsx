@@ -7,7 +7,7 @@ const configs: Record<LogoVariant, { src: string; width: number; height: number;
     src: "/wtp-advisory-horizontal.png",
     width: 495,
     height: 56,
-    className: "h-9 w-auto object-contain",
+    className: "h-6 w-auto object-contain sm:h-9",
   },
   vertical: {
     src: "/wtp-advisory-vertical.png",
