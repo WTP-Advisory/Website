@@ -1,41 +1,41 @@
-﻿{
+{
   "layout": "event",
-  "title": "Bridging Borders: Navigating Opportunities and Challenges for Overseas Vietnamese in Vietnam",
-  "metaDescription": "An evening of discussion on the opportunities and challenges facing Overseas Vietnamese returning to live, work and do business in Vietnam.",
+  "title": "Bridging Borders: Nắm bắt Cơ hội và Vượt qua Thách thức dành cho Người Việt Nam ở nước ngoài tại Việt Nam",
+  "metaDescription": "Một buổi tối thảo luận về những cơ hội và thách thức mà người Việt Nam ở nước ngoài phải đối mặt khi trở về sinh sống, làm việc và kinh doanh tại Việt Nam.",
   "banner": "/incorp/events/bridging-borders-overseas.png",
   "format": "Offline",
-  "date": "May 6, 2024",
+  "date": "Ngày 6 tháng 5 năm 2024",
   "about": [
-    "Embark on a transformative journey with us at “Bridging Borders: Navigating Opportunities and Challenges for Overseas Vietnamese in Vietnam.” Are you an Overseas Vietnamese planning to relocate to Vietnam to make a career transition, explore business opportunities, or contribute to Vietnam's dynamic landscape? Join us for an evening of insightful discussions, inspiring stories, and meaningful connections."
+    "Hãy cùng chúng tôi bắt đầu một hành trình đầy ý nghĩa tại sự kiện “Bridging Borders: Nắm bắt Cơ hội và Vượt qua Thách thức dành cho Người Việt Nam ở nước ngoài tại Việt Nam.” Bạn là người Việt Nam ở nước ngoài đang dự định trở về Việt Nam để chuyển hướng sự nghiệp, khám phá cơ hội kinh doanh hay đóng góp cho sự phát triển năng động của Việt Nam? Hãy tham gia cùng chúng tôi trong một buổi tối với những cuộc thảo luận sâu sắc, những câu chuyện truyền cảm hứng và những kết nối ý nghĩa."
   ],
   "matters": {
-    "heading": "Why Attend",
+    "heading": "Lý do nên tham dự",
     "body": [
-      "In today's interconnected world, the opportunities for Overseas Vietnamese in Vietnam are boundless. Whether you're a seasoned entrepreneur, a budding professional, or simply curious about the evolving socio-economic landscape of Vietnam, this event is designed to empower you with the knowledge, insights, and networks you need to thrive."
+      "Trong một thế giới kết nối như ngày nay, cơ hội dành cho người Việt Nam ở nước ngoài tại Việt Nam là vô hạn. Dù bạn là một doanh nhân giàu kinh nghiệm, một chuyên gia trẻ đầy triển vọng, hay đơn giản là tò mò về bức tranh kinh tế - xã hội đang không ngừng đổi thay của Việt Nam, sự kiện này được thiết kế để trang bị cho bạn kiến thức, góc nhìn và mạng lưới quan hệ cần thiết để phát triển."
     ]
   },
   "details": [
-    { "label": "Date", "value": "May 6, 2024" },
-    { "label": "Time", "value": "From 17:30 (GMT+7)" },
-    { "label": "Participation Fee", "value": "At door: VND 250,000" }
+    { "label": "Ngày", "value": "Ngày 6 tháng 5 năm 2024" },
+    { "label": "Thời gian", "value": "Từ 17:30 (GMT+7)" },
+    { "label": "Phí tham dự", "value": "Tại cửa: 250.000 VND" }
   ],
   "agenda": [
-    { "time": "17:30 – 18:00", "title": "Registration and Networking" },
-    { "time": "18:00 – 18:05", "title": "Welcome Guest Speakers" },
-    { "time": "18:05 – 18:10", "title": "Vietnam's Economic Journey: Looking Back at 2023 and Ahead to 2024", "speaker": "Michael Tran, CPA, CA – CEO, WTP Advisory" },
-    { "time": "18:10 – 18:20", "title": "Sharing success stories of Overseas Vietnamese in Vietnam", "speaker": "Michael Tran, CPA, CA – CEO, WTP Advisory" },
-    { "time": "18:20 – 18:30", "title": "Strategic approaches to attract high-quality FDI to Vietnam", "speaker": "Brian D. Hoang, Esq., MBA – CEO, Duong Business Consulting" },
-    { "time": "18:30 – 18:40", "title": "Overseas Vietnamese Reintegration Roadmap: Breaking language barriers, bridging cultures and beyond", "speaker": "AnHa (Annie) Vo – COO, Premier Dental" },
-    { "time": "18:40 – 19:10", "title": "Panel Discussion", "speaker": "Duy Nguyen (Founder, Overseas Vietnamese), Hung Le (Co-Founder & General Partner, Ascend Vietnam Ventures) and AnHa (Annie) Vo (COO, Premier Dental)" },
-    { "time": "19:10 – 20:00", "title": "Networking" }
+    { "time": "17:30 – 18:00", "title": "Đăng ký và Kết nối" },
+    { "time": "18:00 – 18:05", "title": "Chào đón các Diễn giả khách mời" },
+    { "time": "18:05 – 18:10", "title": "Hành trình Kinh tế của Việt Nam: Nhìn lại 2023 và Hướng tới 2024", "speaker": "[Tên CEO], CPA, CA – CEO, WTP Advisory" },
+    { "time": "18:10 – 18:20", "title": "Chia sẻ những câu chuyện thành công của người Việt Nam ở nước ngoài tại Việt Nam", "speaker": "[Tên CEO], CPA, CA – CEO, WTP Advisory" },
+    { "time": "18:20 – 18:30", "title": "Các phương pháp chiến lược để thu hút nguồn vốn FDI chất lượng cao vào Việt Nam", "speaker": "[Tên Diễn Giả - Duong Consulting], Esq., MBA – CEO, Duong Business Consulting" },
+    { "time": "18:30 – 18:40", "title": "Lộ trình Tái hòa nhập cho Người Việt Nam ở nước ngoài: Vượt rào cản ngôn ngữ, kết nối văn hóa và hơn thế nữa", "speaker": "AnHa (Annie) Vo – COO, Premier Dental" },
+    { "time": "18:40 – 19:10", "title": "Phiên Thảo luận", "speaker": "[Tên Diễn Giả - Overseas Vietnamese] (Founder, Overseas Vietnamese), [Tên Diễn Giả - Ascend Vietnam] (Co-Founder & General Partner, Ascend Vietnam Ventures) và AnHa (Annie) Vo (COO, Premier Dental)" },
+    { "time": "19:10 – 20:00", "title": "Kết nối" }
   ],
   "registration": {
-    "heading": "RSVP Now",
-    "subtitle": "Register for our exclusive event and save your seat. Bridging Borders is your gateway to success in the land of endless opportunities.",
-    "schedule": "May 6, 2024 | From 17:30 (GMT+7)"
+    "heading": "Đăng ký ngay",
+    "subtitle": "Đăng ký tham dự sự kiện đặc biệt của chúng tôi và giữ chỗ cho mình. Bridging Borders là cánh cửa dẫn bạn đến thành công tại miền đất của những cơ hội vô tận.",
+    "schedule": "Ngày 6 tháng 5 năm 2024 | Từ 17:30 (GMT+7)"
   },
   "next": {
-    "title": "One WTP Advisory, Eight Markets: Expand Your Horizons Series – Vietnam Market Insights in Hong Kong",
+    "title": "One WTP Advisory, Eight Markets: Chuỗi sự kiện Mở rộng Tầm nhìn – Góc nhìn Thị trường Việt Nam tại Hồng Kông",
     "href": "/events/one-incorp-eight-markets-vietnam-market-insights-in-hongkong"
   }
 }

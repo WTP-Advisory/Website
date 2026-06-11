@@ -1,110 +1,110 @@
-﻿{
-  "title": "Events",
-  "metaDescription": "Join WTP Advisory at our upcoming webinars, seminars and networking events on doing business in Vietnam.",
+{
+  "title": "Sự kiện",
+  "metaDescription": "Tham gia cùng WTP Advisory tại các hội thảo trực tuyến, hội thảo chuyên đề và sự kiện kết nối sắp tới về kinh doanh tại Việt Nam.",
   "hero": {
-    "eyebrow": "Events",
-    "title": "Our Events",
-    "subtitle": "Take part in WTP Advisory's events, webinars and networking opportunities and maximize your network with our partners to grow your business and career."
+    "eyebrow": "Sự kiện",
+    "title": "Sự kiện của chúng tôi",
+    "subtitle": "Tham gia các sự kiện, hội thảo trực tuyến và cơ hội kết nối của WTP Advisory để mở rộng mạng lưới quan hệ với các đối tác, từ đó phát triển doanh nghiệp và sự nghiệp của bạn."
   },
   "sections": [
     {
       "type": "events",
-      "heading": "WTP Advisory's Schedule of Events",
-      "subtitle": "Looking for additional insights? Join one of our upcoming virtual events or watch a recording from anywhere.",
+      "heading": "Lịch sự kiện của WTP Advisory",
+      "subtitle": "Bạn đang tìm kiếm thêm những góc nhìn chuyên sâu? Hãy tham gia một trong các sự kiện trực tuyến sắp tới của chúng tôi hoặc xem lại bản ghi từ bất cứ đâu.",
       "items": [
         {
-          "title": "From Singapore to Vietnam: The 2026 Cross-Border Business & Investment Dialogue",
+          "title": "From Singapore to Vietnam: Đối thoại Kinh doanh & Đầu tư Xuyên biên giới 2026",
           "format": "Webinar",
-          "date": "December 9, 2025",
-          "desc": "Gain first-hand insights into Vietnam's major regulatory shifts for 2026 and what they mean for cross-border investors.",
+          "date": "Ngày 9 tháng 12 năm 2025",
+          "desc": "Nắm bắt những góc nhìn trực tiếp về các thay đổi pháp lý quan trọng của Việt Nam trong năm 2026 và ý nghĩa của chúng đối với nhà đầu tư xuyên biên giới.",
           "image": "/incorp/events/sg-vn-2026-dialogue.jpeg",
           "href": "/events/from-singapore-to-vietnam-the-2026-cross-border-business-investment-dialogue"
         },
         {
-          "title": "From Singapore to Vietnam: Turning Strategic Ties into Smart Investments",
+          "title": "From Singapore to Vietnam: Biến Mối quan hệ Chiến lược thành Đầu tư Thông minh",
           "format": "Webinar",
-          "date": "May 29, 2025",
-          "desc": "An insightful session designed for Singapore-based business owners, SME leaders and startups expanding into Vietnam.",
+          "date": "Ngày 29 tháng 5 năm 2025",
+          "desc": "Một phiên thảo luận chuyên sâu dành cho các chủ doanh nghiệp, lãnh đạo doanh nghiệp vừa và nhỏ (SME) và startup tại Singapore đang mở rộng sang Việt Nam.",
           "image": "/incorp/events/sg-to-vn-smart-investments.png",
           "href": "/events/from-singapore-to-vietnam-smart-strategies-for-sme-expansion-compliance"
         },
         {
-          "title": "Is “Made in Vietnam” The New “Made in China”?",
+          "title": "Liệu “Made in Vietnam” có phải là “Made in China” mới?",
           "format": "Webinar",
-          "date": "March 20, 2025",
-          "desc": "Exploring Vietnam's manufacturing trends and what they mean for foreign investors and businesses.",
+          "date": "Ngày 20 tháng 3 năm 2025",
+          "desc": "Khám phá các xu hướng sản xuất của Việt Nam và ý nghĩa của chúng đối với nhà đầu tư và doanh nghiệp nước ngoài.",
           "image": "/incorp/events/made-in-vietnam.png",
           "href": "/events/made-in-vietnam-the-new-made-in-china"
         },
         {
-          "title": "Tax Compliance Risks for Foreigners in Vietnam",
+          "title": "Rủi ro tuân thủ thuế đối với người nước ngoài tại Việt Nam",
           "format": "Webinar",
-          "date": "November 7, 2024",
-          "desc": "A practical webinar for foreign individuals and businesses on avoiding common tax compliance pitfalls in Vietnam.",
+          "date": "Ngày 7 tháng 11 năm 2024",
+          "desc": "Một hội thảo trực tuyến (webinar) thực tiễn dành cho cá nhân và doanh nghiệp nước ngoài nhằm tránh những sai sót thường gặp trong tuân thủ thuế tại Việt Nam.",
           "image": "/incorp/events/tax-compliance-risks.png",
           "href": "/events/webinar-tax-compliance-risks"
         },
         {
-          "title": "WTP Advisory x FLI: How can sales strategic management boost your sales? – Hanoi",
+          "title": "WTP Advisory x FLI: Quản trị bán hàng chiến lược có thể thúc đẩy doanh số của bạn như thế nào? – Hà Nội",
           "format": "Offline",
-          "date": "September 19, 2024",
-          "desc": "FDI enterprise solutions seminar on strategic sales management for businesses in northern Vietnam.",
+          "date": "Ngày 19 tháng 9 năm 2024",
+          "desc": "Hội thảo chuyên đề về giải pháp cho doanh nghiệp FDI với chủ đề quản trị bán hàng chiến lược dành cho các doanh nghiệp tại khu vực miền Bắc Việt Nam.",
           "image": "/incorp/events/fdi-fli.jpg",
           "href": "/events/fdi-enterprise-solutions-fli-vietnam"
         },
         {
-          "title": "Vietnam Economic Outlook: Half-Year Review and Future Prospects for H2 2024 and Beyond",
+          "title": "Triển vọng Kinh tế Việt Nam: Đánh giá Nửa năm và Triển vọng cho Nửa cuối năm 2024 và Xa hơn",
           "format": "Offline",
-          "date": "September 4, 2024",
-          "desc": "A mid-year review of Vietnam's economy and what lies ahead, hosted with CanCham.",
+          "date": "Ngày 4 tháng 9 năm 2024",
+          "desc": "Đánh giá giữa năm về nền kinh tế Việt Nam và những gì đang chờ phía trước, được tổ chức cùng CanCham.",
           "image": "/incorp/events/economic-outlook.png",
           "href": "/events/economic-outlook-half-year-review-future-prospects-h2-2024"
         },
         {
-          "title": "[Savills x WTP Advisory] Gateway to Growth 2024: Ha Noi and Northern Vietnam's Investment Landscape",
+          "title": "[Savills x WTP Advisory] Gateway to Growth 2024: Bức tranh Đầu tư tại Hà Nội và Miền Bắc Việt Nam",
           "format": "Offline",
-          "date": "August 15, 2024",
-          "desc": "Exploring investment opportunities across Hanoi and northern Vietnam, co-hosted with Savills.",
+          "date": "Ngày 15 tháng 8 năm 2024",
+          "desc": "Khám phá các cơ hội đầu tư trên khắp Hà Nội và miền Bắc Việt Nam, đồng tổ chức cùng Savills.",
           "image": "/incorp/events/gateway-to-growth.png",
           "href": "/events/gateway-to-growth-hanoi-and-northern-investment"
         },
         {
-          "title": "Representative Offices in Vietnam: 5 Key Legal Exemptions for Businesses to Keep in Mind",
+          "title": "Văn phòng đại diện tại Việt Nam: 5 Miễn trừ Pháp lý Quan trọng mà Doanh nghiệp cần lưu ý",
           "format": "Webinar",
-          "date": "August 1, 2024",
-          "desc": "Understand the key legal exemptions and obligations when running a representative office in Vietnam.",
+          "date": "Ngày 1 tháng 8 năm 2024",
+          "desc": "Tìm hiểu những miễn trừ pháp lý và nghĩa vụ quan trọng khi vận hành văn phòng đại diện tại Việt Nam.",
           "image": "/incorp/events/representative-offices.png",
           "href": "/events/webinar-representative-office-setup"
         },
         {
-          "title": "Mastering Chief Accountant Compliance in Vietnam: Essential Guidelines for 2024",
+          "title": "Làm chủ Tuân thủ về Kế toán trưởng tại Việt Nam: Những Hướng dẫn Thiết yếu cho năm 2024",
           "format": "Webinar",
-          "date": "June 13, 2024",
-          "desc": "Essential guidance on the chief accountant requirement and accounting compliance in Vietnam.",
+          "date": "Ngày 13 tháng 6 năm 2024",
+          "desc": "Hướng dẫn thiết yếu về yêu cầu kế toán trưởng và tuân thủ kế toán tại Việt Nam.",
           "image": "/incorp/events/chief-accountant.jpg",
           "href": "/events/webinar-chief-accountant-requirements"
         },
         {
-          "title": "One WTP Advisory, Eight Markets: Expand Your Horizons Series – Vietnam Market Insights in Hong Kong",
+          "title": "One WTP Advisory, Eight Markets: Chuỗi sự kiện Mở rộng Tầm nhìn – Góc nhìn Thị trường Việt Nam tại Hồng Kông",
           "format": "Offline",
-          "date": "May 29, 2024",
-          "desc": "Vietnam market insights for Hong Kong-based investors as part of the One WTP Advisory, Eight Markets series.",
+          "date": "Ngày 29 tháng 5 năm 2024",
+          "desc": "Góc nhìn thị trường Việt Nam dành cho nhà đầu tư tại Hồng Kông, trong khuôn khổ chuỗi sự kiện One WTP Advisory, Eight Markets.",
           "image": "/incorp/events/eight-markets-hongkong.png",
           "href": "/events/one-incorp-eight-markets-vietnam-market-insights-in-hongkong"
         },
         {
-          "title": "Bridging Borders: Vietnam Launchpad – Move, Build, Succeed for Overseas Vietnamese",
+          "title": "Bridging Borders: Vietnam Launchpad – Dịch chuyển, Kiến tạo, Thành công dành cho Người Việt Nam ở nước ngoài",
           "format": "Offline",
-          "date": "May 5, 2024",
-          "desc": "Season 2 of Bridging Borders returns with practical insights for Overseas Vietnamese building in Vietnam.",
+          "date": "Ngày 5 tháng 5 năm 2024",
+          "desc": "Mùa 2 của Bridging Borders trở lại với những góc nhìn thực tiễn dành cho người Việt Nam ở nước ngoài đang xây dựng sự nghiệp tại Việt Nam.",
           "image": "/incorp/events/bridging-borders-launchpad.png",
           "href": "/events/bridging-borders-vietnam-launchpad"
         },
         {
-          "title": "Bridging Borders: Navigating Opportunities and Challenges for Overseas Vietnamese in Vietnam",
+          "title": "Bridging Borders: Nắm bắt Cơ hội và Vượt qua Thách thức dành cho Người Việt Nam ở nước ngoài tại Việt Nam",
           "format": "Offline",
-          "date": "May 6, 2024",
-          "desc": "A discussion of the opportunities and challenges facing Overseas Vietnamese returning to do business in Vietnam.",
+          "date": "Ngày 6 tháng 5 năm 2024",
+          "desc": "Cuộc thảo luận về những cơ hội và thách thức mà người Việt Nam ở nước ngoài phải đối mặt khi trở về kinh doanh tại Việt Nam.",
           "image": "/incorp/events/bridging-borders-overseas.png",
           "href": "/events/bridging-borders-overseas-vietnamese"
         }
@@ -112,9 +112,9 @@
     },
     {
       "type": "cta",
-      "title": "Want to be notified of upcoming events?",
-      "subtitle": "Subscribe and never miss an WTP Advisory event.",
-      "button": { "label": "Make an Inquiry", "href": "/make-an-inquiry" },
+      "title": "Bạn muốn được thông báo về các sự kiện sắp tới?",
+      "subtitle": "Đăng ký để không bỏ lỡ bất kỳ sự kiện nào của WTP Advisory.",
+      "button": { "label": "Gửi yêu cầu tư vấn", "href": "/make-an-inquiry" },
       "variant": "blue"
     }
   ]

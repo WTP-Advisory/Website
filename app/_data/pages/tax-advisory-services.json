@@ -1,12 +1,12 @@
-﻿{
-  "title": "Tax Advisory Services in Vietnam",
-  "metaDescription": "WTP Advisory provides expert tax advisory services to ensure compliance, optimize tax positions, minimize risks, and support business growth.",
+{
+  "title": "Dịch vụ Tư vấn Thuế tại Việt Nam",
+  "metaDescription": "WTP Advisory cung cấp dịch vụ tư vấn thuế chuyên sâu nhằm đảm bảo tuân thủ, tối ưu hóa nghĩa vụ thuế, giảm thiểu rủi ro và hỗ trợ doanh nghiệp phát triển.",
   "hero": {
-    "eyebrow": "Services",
-    "title": "Tax Advisory Services in Vietnam",
-    "subtitle": "WTP Advisory offers expert tax advisory services to help your business navigate Vietnam's tax system. We ensure compliance, optimize tax positions, and minimize risks with tailored solutions for tax planning, incentives, and audits, supporting your business growth.",
+    "eyebrow": "Dịch vụ",
+    "title": "Dịch vụ Tư vấn Thuế tại Việt Nam",
+    "subtitle": "WTP Advisory cung cấp dịch vụ tư vấn thuế chuyên sâu, giúp doanh nghiệp của bạn vững vàng trước hệ thống thuế tại Việt Nam. Chúng tôi đảm bảo sự tuân thủ, tối ưu hóa nghĩa vụ thuế và giảm thiểu rủi ro thông qua các giải pháp được thiết kế riêng cho hoạch định thuế, ưu đãi thuế và kiểm toán thuế, đồng hành cùng sự phát triển của doanh nghiệp bạn.",
     "cta": {
-      "label": "Make an Inquiry",
+      "label": "Gửi yêu cầu tư vấn",
       "href": "/make-an-inquiry"
     },
     "image": "/incorp/solutions/tax-services.jpg"
@@ -14,100 +14,100 @@
   "sections": [
     {
       "type": "richText",
-      "heading": "The importance of tax compliance in Vietnam",
+      "heading": "Tầm quan trọng của việc tuân thủ thuế tại Việt Nam",
       "body": [
-        "Vietnam's tax system is complex and constantly evolving, making it essential for businesses to stay informed and compliant. With a range of taxes, including corporate income tax, value-added tax, and personal income tax, navigating these regulations can be challenging, especially for foreign companies.",
-        "At WTP Advisory, we offer comprehensive tax advisory services to help businesses understand and comply with Vietnamese tax laws. Our team of experts provides tailored solutions for tax planning, compliance, incentives, and audits, ensuring that your business minimizes risks and optimizes its tax position while focusing on growth and success in Vietnam."
+        "Hệ thống thuế tại Việt Nam phức tạp và liên tục thay đổi, đòi hỏi doanh nghiệp phải luôn cập nhật và tuân thủ. Với nhiều sắc thuế khác nhau như thuế thu nhập doanh nghiệp, thuế giá trị gia tăng và thuế thu nhập cá nhân, việc nắm bắt các quy định này có thể là một thách thức, đặc biệt đối với các doanh nghiệp nước ngoài.",
+        "Tại WTP Advisory, chúng tôi cung cấp dịch vụ tư vấn thuế toàn diện, giúp doanh nghiệp hiểu rõ và tuân thủ pháp luật thuế Việt Nam. Đội ngũ chuyên gia của chúng tôi mang đến các giải pháp được thiết kế riêng cho hoạch định thuế, tuân thủ thuế, ưu đãi thuế và kiểm toán thuế, đảm bảo doanh nghiệp của bạn giảm thiểu rủi ro và tối ưu hóa nghĩa vụ thuế, đồng thời tập trung vào tăng trưởng và thành công tại Việt Nam."
       ],
       "align": "left"
     },
     {
       "type": "stats",
       "variant": "red",
-      "heading": "Your trusted accounting services provider",
+      "heading": "Đối tác dịch vụ kế toán đáng tin cậy của bạn",
       "items": [
         {
           "value": "30+",
-          "label": "Years Track Record"
+          "label": "Năm kinh nghiệm hoạt động"
         },
         {
           "value": "15,000+",
-          "label": "Clients Worldwide"
+          "label": "Khách hàng trên toàn cầu"
         },
         {
           "value": "120+",
-          "label": "In-house Experts"
+          "label": "Chuyên gia nội bộ"
         }
       ]
     },
     {
       "type": "cards",
-      "heading": "Strategic Tax Advisory Services",
+      "heading": "Dịch vụ Tư vấn Thuế Chiến lược",
       "columns": 4,
       "items": [
         {
-          "title": "Personal Income Tax Advisory",
+          "title": "Tư vấn Thuế Thu nhập Cá nhân",
           "icon": "wallet"
         },
         {
-          "title": "Corporate Income Tax Advisory",
+          "title": "Tư vấn Thuế Thu nhập Doanh nghiệp",
           "icon": "receipt"
         },
         {
-          "title": "Foreign Contractor Tax",
+          "title": "Thuế Nhà thầu Nước ngoài",
           "icon": "banknote"
         },
         {
-          "title": "VAT Refund Advisory",
+          "title": "Tư vấn Hoàn thuế GTGT",
           "icon": "percent"
         }
       ]
     },
     {
       "type": "cards",
-      "heading": "Seamless Tax Management with Vietnam WTP Advisory",
+      "heading": "Quản lý Thuế Liền mạch cùng WTP Advisory Việt Nam",
       "columns": 4,
       "items": [
         {
-          "title": "Expert Consultation",
-          "desc": "Our tax specialists provide insights into regulations and best practices, helping you navigate Vietnam's tax landscape with confidence.",
+          "title": "Tư vấn Chuyên sâu",
+          "desc": "Các chuyên gia thuế của chúng tôi cung cấp những phân tích sâu sắc về quy định và thực tiễn tốt nhất, giúp bạn tự tin làm chủ bối cảnh thuế tại Việt Nam.",
           "icon": "globe"
         },
         {
-          "title": "Comprehensive Support",
-          "desc": "We offer a full suite of tax services, from reporting to compliance, ensuring every aspect of your tax obligations is covered.",
+          "title": "Hỗ trợ Toàn diện",
+          "desc": "Chúng tôi cung cấp trọn bộ dịch vụ thuế, từ báo cáo đến tuân thủ, đảm bảo bao quát mọi khía cạnh trong nghĩa vụ thuế của bạn.",
           "icon": "handshake"
         },
         {
-          "title": "Simplified Process",
-          "desc": "We handle the time-consuming tasks of tax reporting and compliance, allowing you to focus on running your business.",
+          "title": "Quy trình Tinh gọn",
+          "desc": "Chúng tôi đảm nhận những công việc tốn nhiều thời gian như báo cáo thuế và tuân thủ thuế, để bạn có thể tập trung điều hành doanh nghiệp.",
           "icon": "rocket"
         },
         {
-          "title": "Focus on Core Business",
-          "desc": "With our tax expertise, you can concentrate on achieving your business goals while ensuring full tax compliance.",
+          "title": "Tập trung vào Hoạt động Cốt lõi",
+          "desc": "Với chuyên môn về thuế của chúng tôi, bạn có thể dồn sức cho các mục tiêu kinh doanh trong khi vẫn đảm bảo tuân thủ thuế đầy đủ.",
           "icon": "target"
         }
       ]
     },
     {
       "type": "cards",
-      "heading": "Meet Our Experts",
+      "heading": "Gặp gỡ Đội ngũ Chuyên gia",
       "columns": 3,
       "items": [
         {
-          "title": "Michael Tran, CPA, CA",
-          "desc": "Chief Executive Officer",
+          "title": "[Tên CEO], CPA, CA",
+          "desc": "Tổng Giám đốc Điều hành",
           "icon": "user"
         },
         {
-          "title": "David Pham",
-          "desc": "Head of Business Advisory",
+          "title": "[Tên Trưởng Phòng Tư Vấn]",
+          "desc": "Trưởng phòng Tư vấn Doanh nghiệp",
           "icon": "userCheck"
         },
         {
-          "title": "Linh Hoang",
-          "desc": "Head of Corporate Secretarial and Advisory Services",
+          "title": "[Tên Trưởng Phòng Thư Ký]",
+          "desc": "Trưởng phòng Dịch vụ Thư ký và Tư vấn Doanh nghiệp",
           "icon": "briefcase"
         }
       ]
@@ -115,32 +115,32 @@
     {
       "type": "stats",
       "variant": "red",
-      "heading": "Backed by WTP Advisory",
+      "heading": "Được hậu thuẫn bởi WTP Advisory",
       "items": [
         {
           "value": "30+",
-          "label": "Years of experience"
+          "label": "Năm kinh nghiệm"
         },
         {
           "value": "1,500+",
-          "label": "Professionals across APAC"
+          "label": "Chuyên gia trên khắp Châu Á - Thái Bình Dương"
         },
         {
           "value": "20,000+",
-          "label": "Clients served globally"
+          "label": "Khách hàng được phục vụ trên toàn cầu"
         },
         {
           "value": "8",
-          "label": "Markets in Asia-Pacific"
+          "label": "Thị trường tại Châu Á - Thái Bình Dương"
         }
       ]
     },
     {
       "type": "cta",
-      "title": "Ready to get started in Vietnam?",
-      "subtitle": "Talk to our experts about how we can support your business.",
+      "title": "Sẵn sàng khởi đầu tại Việt Nam?",
+      "subtitle": "Hãy trao đổi với các chuyên gia của chúng tôi về cách chúng tôi có thể hỗ trợ doanh nghiệp của bạn.",
       "button": {
-        "label": "Make an Inquiry",
+        "label": "Gửi yêu cầu tư vấn",
         "href": "/make-an-inquiry"
       },
       "variant": "red"

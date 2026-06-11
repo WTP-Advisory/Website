@@ -1,103 +1,103 @@
 {
-  "title": "Electronic Labor Contracts in Vietnam 2026: Latest Regulations and Practical Insights",
-  "metaDescription": "A practical 2026 guide to electronic labor contracts in Vietnam: the legal basis, Decree 337/2025 requirements, the National E-Labor Contract Platform, and how foreign-invested enterprises can stay compliant.",
+  "title": "Hợp đồng lao động điện tử tại Việt Nam 2026: Quy định mới nhất và góc nhìn thực tiễn",
+  "metaDescription": "Hướng dẫn thực tiễn năm 2026 về hợp đồng lao động điện tử tại Việt Nam: cơ sở pháp lý, các yêu cầu của Nghị định 337/2025, Nền tảng Hợp đồng Lao động Điện tử Quốc gia, và cách doanh nghiệp có vốn đầu tư nước ngoài duy trì tuân thủ.",
   "hero": {
-    "eyebrow": "News & Insights",
-    "title": "Electronic Labor Contracts in Vietnam 2026: Latest Regulations and Practical Insights",
-    "subtitle": "Everything employers need to know about issuing legally valid electronic labor contracts in Vietnam under the 2026 regulatory framework.",
+    "eyebrow": "Tin tức & Góc nhìn",
+    "title": "Hợp đồng lao động điện tử tại Việt Nam 2026: Quy định mới nhất và góc nhìn thực tiễn",
+    "subtitle": "Tất cả những gì người sử dụng lao động cần biết để ký kết hợp đồng lao động điện tử có giá trị pháp lý tại Việt Nam theo khung pháp lý năm 2026.",
     "image": "/incorp/news/electronic-labor-contracts.png"
   },
   "sections": [
     {
       "type": "richText",
-      "heading": "The Legal Basis for Electronic Labor Contracts in Vietnam",
+      "heading": "Cơ sở pháp lý của hợp đồng lao động điện tử tại Việt Nam",
       "body": [
-        "Electronic labor contracts have carried the same legal standing as their paper equivalents under Vietnam's Labor Code for several years, provided they are executed through a secure electronic system. The 2026 framework removes any remaining ambiguity and gives employers a clear, standardized path to digital hiring.",
-        "The decisive change comes from Decree 337/2025/ND-CP, which mandates compliance with a structured set of technical and procedural standards starting 1 July 2026. From that date, e-labor contracts are not simply permitted, they are governed by a single national framework that every employer must follow."
+        "Hợp đồng lao động điện tử đã có giá trị pháp lý tương đương với hợp đồng giấy theo Bộ luật Lao động của Việt Nam từ nhiều năm nay, với điều kiện chúng được giao kết thông qua một hệ thống điện tử an toàn. Khung pháp lý năm 2026 xóa bỏ mọi điểm chưa rõ ràng còn sót lại và mang đến cho người sử dụng lao động một lộ trình tuyển dụng số rõ ràng, được chuẩn hóa.",
+        "Thay đổi mang tính quyết định đến từ Nghị định 337/2025/NĐ-CP, quy định bắt buộc tuân thủ một bộ tiêu chuẩn kỹ thuật và quy trình có cấu trúc kể từ ngày 1 tháng 7 năm 2026. Kể từ thời điểm đó, hợp đồng lao động điện tử không chỉ đơn thuần được phép sử dụng, mà còn được điều chỉnh bởi một khung pháp lý quốc gia thống nhất mà mọi người sử dụng lao động đều phải tuân theo."
       ]
     },
     {
       "type": "list",
-      "heading": "Key Requirements Under Decree 337/2025",
+      "heading": "Những yêu cầu chính theo Nghị định 337/2025",
       "columns": 1,
       "items": [
-        "Digital signatures with timestamps: Systems must use legally compliant digital signatures. Scanned signature images or simple click-to-accept buttons are not sufficient.",
-        "Mutual consent: Both the employer and the worker must agree to use the electronic method, and each party must receive an accessible copy of the completed agreement.",
-        "Platform registration within 24 hours: Every contract must be submitted to the national registry within 24 hours of signing and will receive a unique identification code.",
-        "Identity authentication: The system must verify each signatory using citizen credentials, passports, or VNeID accounts.",
-        "Approved service providers: E-contract platforms must satisfy strict technical, security, and compliance specifications before they can be used."
+        "Chữ ký số kèm dấu thời gian: Hệ thống phải sử dụng chữ ký số hợp pháp. Hình ảnh chữ ký được quét hoặc nút bấm chấp nhận đơn giản đều không đủ điều kiện.",
+        "Sự đồng thuận của hai bên: Cả người sử dụng lao động và người lao động đều phải đồng ý sử dụng phương thức điện tử, và mỗi bên phải nhận được một bản hợp đồng đã hoàn tất có thể truy cập được.",
+        "Đăng ký lên nền tảng trong vòng 24 giờ: Mỗi hợp đồng phải được gửi lên hệ thống đăng ký quốc gia trong vòng 24 giờ kể từ khi ký và sẽ được cấp một mã định danh duy nhất.",
+        "Xác thực danh tính: Hệ thống phải xác minh từng người ký bằng căn cước công dân, hộ chiếu hoặc tài khoản VNeID.",
+        "Nhà cung cấp dịch vụ được phê duyệt: Các nền tảng hợp đồng điện tử phải đáp ứng những tiêu chuẩn nghiêm ngặt về kỹ thuật, an ninh và tuân thủ trước khi được đưa vào sử dụng."
       ]
     },
     {
       "type": "richText",
-      "heading": "The National Electronic Labor Contract Platform",
+      "heading": "Nền tảng Hợp đồng Lao động Điện tử Quốc gia",
       "body": [
-        "At the center of the new regime is the National Electronic Labor Contract Platform, a centralized registry that manages all e-contracts. Once a contract is signed, it must be uploaded to the platform within 24 hours, where it is assigned a unique identification code that links the agreement to verified identities and a tamper-evident audit trail.",
-        "This centralization gives authorities real-time visibility into employment relationships and gives employers a single, authoritative record of every contract. It also raises the stakes for process discipline: a missed upload window or a registration failure is now a traceable compliance gap rather than an internal oversight."
+        "Trung tâm của khung pháp lý mới là Nền tảng Hợp đồng Lao động Điện tử Quốc gia, một hệ thống đăng ký tập trung quản lý toàn bộ hợp đồng điện tử. Sau khi một hợp đồng được ký, nó phải được tải lên nền tảng trong vòng 24 giờ, nơi nó được cấp một mã định danh duy nhất liên kết hợp đồng với danh tính đã được xác minh cùng một nhật ký kiểm toán có khả năng phát hiện gian lận.",
+        "Việc tập trung hóa này mang lại cho cơ quan quản lý khả năng giám sát quan hệ lao động theo thời gian thực, đồng thời cung cấp cho người sử dụng lao động một bản ghi duy nhất, có giá trị xác thực đối với mọi hợp đồng. Nó cũng nâng cao yêu cầu về kỷ luật quy trình: việc bỏ lỡ thời hạn tải lên hay đăng ký thất bại giờ đây trở thành một lỗ hổng tuân thủ có thể truy vết, thay vì chỉ là một sơ suất nội bộ."
       ]
     },
     {
       "type": "richText",
-      "heading": "Treatment of Foreign Employees and Expatriates",
+      "heading": "Xử lý đối với người lao động nước ngoài và chuyên gia nước ngoài",
       "body": [
-        "Foreign employees and expatriates may use electronic labor contracts, provided they can be properly identified within the system. Passports and VNeID accounts are the primary means of authentication, and employers should confirm that their chosen platform can validate non-Vietnamese identity documents before onboarding international hires.",
-        "Inadequate verification of foreign workers is one of the more common compliance pitfalls, so foreign-invested enterprises should treat expatriate identity authentication as a distinct step in their rollout rather than an afterthought."
+        "Người lao động nước ngoài và chuyên gia nước ngoài có thể sử dụng hợp đồng lao động điện tử, với điều kiện họ được định danh đúng cách trong hệ thống. Hộ chiếu và tài khoản VNeID là phương thức xác thực chính, và người sử dụng lao động cần xác nhận rằng nền tảng họ lựa chọn có thể xác minh các giấy tờ tùy thân không phải của Việt Nam trước khi tiếp nhận nhân sự quốc tế.",
+        "Việc xác minh không đầy đủ đối với người lao động nước ngoài là một trong những sai sót tuân thủ phổ biến hơn cả, vì vậy các doanh nghiệp có vốn đầu tư nước ngoài nên xem việc xác thực danh tính chuyên gia nước ngoài là một bước riêng biệt trong quá trình triển khai, thay vì coi đó là điều thứ yếu."
       ]
     },
     {
       "type": "list",
-      "heading": "Advantages of Adopting the Electronic Format",
+      "heading": "Lợi ích của việc áp dụng hình thức điện tử",
       "columns": 2,
       "items": [
-        "Faster onboarding with contracts signed remotely and instantly",
-        "A single, searchable repository of all employment agreements",
-        "Stronger authenticity through verified identities and timestamps",
-        "Built-in audit trails that simplify inspections and disputes",
-        "Reduced printing, storage, and document-handling costs",
-        "Easier management of a distributed or multi-site workforce"
+        "Tiếp nhận nhân sự nhanh hơn nhờ hợp đồng được ký từ xa và ngay lập tức",
+        "Một kho lưu trữ duy nhất, có thể tìm kiếm cho toàn bộ hợp đồng lao động",
+        "Tính xác thực cao hơn nhờ danh tính được xác minh và dấu thời gian",
+        "Nhật ký kiểm toán tích hợp sẵn giúp đơn giản hóa việc thanh tra và giải quyết tranh chấp",
+        "Giảm chi phí in ấn, lưu trữ và xử lý giấy tờ",
+        "Quản lý dễ dàng hơn lực lượng lao động phân tán hoặc làm việc tại nhiều địa điểm"
       ]
     },
     {
       "type": "list",
-      "heading": "Implementation Roadmap for Foreign-Invested Enterprises",
+      "heading": "Lộ trình triển khai dành cho doanh nghiệp có vốn đầu tư nước ngoài",
       "columns": 1,
       "items": [
-        "Audit current hiring and contracting processes against the new requirements.",
-        "Obtain compliant digital signatures for the company and authorized signatories.",
-        "Select an approved e-contract service provider that meets the technical standards.",
-        "Integrate the platform with existing HR and payroll systems to avoid duplicate data entry.",
-        "Establish VNeID accounts and verify identity-validation flows for both local and foreign staff.",
-        "Create internal protocols covering consent, the 24-hour upload window, and data protection.",
-        "Train HR personnel and run a pilot program before full rollout."
+        "Rà soát các quy trình tuyển dụng và ký kết hợp đồng hiện tại đối chiếu với những yêu cầu mới.",
+        "Trang bị chữ ký số hợp lệ cho công ty và những người được ủy quyền ký.",
+        "Lựa chọn một nhà cung cấp dịch vụ hợp đồng điện tử được phê duyệt, đáp ứng các tiêu chuẩn kỹ thuật.",
+        "Tích hợp nền tảng với các hệ thống nhân sự và tính lương hiện có để tránh nhập liệu trùng lặp.",
+        "Thiết lập tài khoản VNeID và kiểm tra quy trình xác thực danh tính cho cả nhân sự trong nước lẫn nước ngoài.",
+        "Xây dựng quy trình nội bộ bao gồm việc lấy đồng thuận, thời hạn tải lên 24 giờ và bảo vệ dữ liệu.",
+        "Đào tạo nhân sự nhân sự (HR) và chạy chương trình thí điểm trước khi triển khai toàn diện."
       ]
     },
     {
       "type": "faq",
-      "heading": "Common Implementation Mistakes",
+      "heading": "Những sai lầm thường gặp khi triển khai",
       "items": [
         {
-          "q": "Is a scanned signature image enough to sign an e-labor contract?",
-          "a": "No. Relying on scanned signature images or click-to-accept methods does not meet the standard. Contracts must use legally compliant digital signatures paired with timestamps."
+          "q": "Hình ảnh chữ ký được quét có đủ để ký hợp đồng lao động điện tử không?",
+          "a": "Không. Việc dựa vào hình ảnh chữ ký được quét hoặc các phương thức bấm nút chấp nhận không đáp ứng tiêu chuẩn. Hợp đồng phải sử dụng chữ ký số hợp pháp kèm theo dấu thời gian."
         },
         {
-          "q": "What happens if we miss the 24-hour upload window?",
-          "a": "Failing to register a contract on the National Platform within 24 hours is a traceable compliance gap. Build the upload into your signing workflow so it happens automatically rather than as a manual follow-up."
+          "q": "Điều gì xảy ra nếu chúng tôi bỏ lỡ thời hạn tải lên 24 giờ?",
+          "a": "Việc không đăng ký hợp đồng trên Nền tảng Quốc gia trong vòng 24 giờ là một lỗ hổng tuân thủ có thể truy vết. Hãy tích hợp bước tải lên vào quy trình ký kết để nó diễn ra tự động, thay vì như một thao tác thủ công cần xử lý sau."
         },
         {
-          "q": "How should we handle identity verification for foreign workers?",
-          "a": "Foreign employees must be authenticated through passports or VNeID accounts. Confirm in advance that your platform can validate non-Vietnamese documents, as inadequate verification is a frequent source of non-compliance."
+          "q": "Chúng tôi nên xử lý việc xác minh danh tính người lao động nước ngoài như thế nào?",
+          "a": "Người lao động nước ngoài phải được xác thực thông qua hộ chiếu hoặc tài khoản VNeID. Hãy xác nhận trước rằng nền tảng của bạn có thể xác minh giấy tờ không phải của Việt Nam, bởi việc xác minh không đầy đủ là một nguyên nhân thường gặp dẫn đến không tuân thủ."
         },
         {
-          "q": "Do we still need to protect the contract data?",
-          "a": "Yes. Insufficient data security and missing audit-trail documentation are common errors. Maintain strong data protection measures and complete audit records for every contract."
+          "q": "Chúng tôi có còn phải bảo vệ dữ liệu hợp đồng không?",
+          "a": "Có. An ninh dữ liệu chưa đầy đủ và thiếu hồ sơ nhật ký kiểm toán là những lỗi phổ biến. Hãy duy trì các biện pháp bảo vệ dữ liệu chặt chẽ và lưu trữ đầy đủ hồ sơ kiểm toán cho mọi hợp đồng."
         }
       ]
     },
     {
       "type": "cta",
-      "title": "Need help with this in Vietnam?",
-      "subtitle": "Our team can help you implement compliant electronic labor contracts and stay ahead of the 2026 requirements.",
-      "button": { "label": "Make an inquiry", "href": "/make-an-inquiry" },
+      "title": "Cần hỗ trợ về vấn đề này tại Việt Nam?",
+      "subtitle": "Đội ngũ của chúng tôi có thể giúp bạn triển khai hợp đồng lao động điện tử tuân thủ và luôn đi trước những yêu cầu của năm 2026.",
+      "button": { "label": "Gửi yêu cầu tư vấn", "href": "/make-an-inquiry" },
       "variant": "red"
     }
   ],

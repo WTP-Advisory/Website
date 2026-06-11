@@ -1,12 +1,12 @@
-﻿{
-  "title": "Virtual Office in Ho Chi Minh City",
-  "metaDescription": "A virtual office in Ho Chi Minh City provides a prestigious address, mail handling, and meeting room access, backed by our professional experts.",
+{
+  "title": "Văn phòng Ảo tại TP. Hồ Chí Minh",
+  "metaDescription": "Văn phòng ảo tại TP. Hồ Chí Minh mang đến địa chỉ uy tín, dịch vụ xử lý thư từ và quyền sử dụng phòng họp, với sự hỗ trợ từ đội ngũ chuyên gia của chúng tôi.",
   "hero": {
-    "eyebrow": "Services",
-    "title": "Virtual Office in Ho Chi Minh City",
-    "subtitle": "Establish your business presence in Vietnam with a prestigious Ho Chi Minh City address. Virtual office services guarantee legal compliance and cost savings. Contact us for a free consultation for more details.",
+    "eyebrow": "Dịch vụ",
+    "title": "Văn phòng Ảo tại TP. Hồ Chí Minh",
+    "subtitle": "Thiết lập sự hiện diện kinh doanh tại Việt Nam với một địa chỉ uy tín ở TP. Hồ Chí Minh. Dịch vụ văn phòng ảo đảm bảo tuân thủ pháp luật và tiết kiệm chi phí. Liên hệ với chúng tôi để được tư vấn miễn phí và biết thêm chi tiết.",
     "cta": {
-      "label": "Make an Inquiry",
+      "label": "Gửi Yêu cầu Tư vấn",
       "href": "/make-an-inquiry"
     },
     "image": "/incorp/solutions/incorporation.webp"
@@ -14,158 +14,158 @@
   "sections": [
     {
       "type": "richText",
-      "heading": "Why Choose a Virtual Office in Ho Chi Minh City?",
+      "heading": "Vì sao nên Chọn Văn phòng Ảo tại TP. Hồ Chí Minh?",
       "body": [
-        "A virtual office with WTP Advisory offers businesses a cost-effective and flexible solution to establish a professional presence in Ho Chi Minh City without the need for physical office space. This service is ideal for corporates and SMEs looking to expand into new markets while managing operations remotely.",
-        "With features like a registered business address, mail handling, and legal support, WTP Advisory's virtual office seamlessly enables businesses to stay connected and productive in today's dynamic environment."
+        "Văn phòng ảo của WTP Advisory mang đến cho doanh nghiệp một giải pháp tiết kiệm chi phí và linh hoạt để thiết lập sự hiện diện chuyên nghiệp tại TP. Hồ Chí Minh mà không cần không gian văn phòng vật lý. Dịch vụ này lý tưởng cho các tập đoàn và doanh nghiệp vừa và nhỏ (SME) muốn mở rộng sang thị trường mới trong khi vẫn quản lý hoạt động từ xa.",
+        "Với các tiện ích như địa chỉ đăng ký kinh doanh, dịch vụ xử lý thư từ và hỗ trợ pháp lý, văn phòng ảo của WTP Advisory giúp doanh nghiệp luôn kết nối và hiệu quả trong môi trường năng động ngày nay một cách liền mạch."
       ],
       "align": "left"
     },
     {
       "type": "list",
-      "heading": "Virtual Office in Ho Chi Minh City with WTP Advisory",
+      "heading": "Văn phòng Ảo tại TP. Hồ Chí Minh cùng WTP Advisory",
       "columns": 2,
       "items": [
-        "Address on ERC, IRC",
-        "Virtual Office Lease Agreement",
-        "Display Company Plate",
-        "Mailbox",
-        "Visitors (Guests)",
-        "Government Inspection",
-        "Amenities",
-        "Meeting Room",
-        "Service Validity",
-        "Amending Address on ERC",
-        "Amending Address on IRC/ RO License"
+        "Địa chỉ trên Giấy chứng nhận ĐKDN (ERC), Giấy chứng nhận Đăng ký Đầu tư (IRC)",
+        "Hợp đồng thuê văn phòng ảo",
+        "Treo biển hiệu công ty",
+        "Hộp thư",
+        "Khách đến (Khách mời)",
+        "Thanh tra của cơ quan nhà nước",
+        "Tiện ích",
+        "Phòng họp",
+        "Thời hạn hiệu lực dịch vụ",
+        "Điều chỉnh địa chỉ trên Giấy chứng nhận ĐKDN (ERC)",
+        "Điều chỉnh địa chỉ trên Giấy chứng nhận Đăng ký Đầu tư (IRC)/ Giấy phép Văn phòng Đại diện (RO)"
       ]
     },
     {
       "type": "cards",
-      "heading": "Benefits of Virtual Office in Ho Chi Minh City",
+      "heading": "Lợi ích của Văn phòng Ảo tại TP. Hồ Chí Minh",
       "columns": 3,
       "items": [
         {
-          "title": "Experts Who Understand Your Needs",
-          "desc": "Our bilingual experts provide comprehensive support to ensure your business meets all legal compliance requirements.",
+          "title": "Chuyên gia Thấu hiểu Nhu cầu của Bạn",
+          "desc": "Đội ngũ chuyên gia song ngữ của chúng tôi hỗ trợ toàn diện để đảm bảo doanh nghiệp bạn đáp ứng mọi yêu cầu tuân thủ pháp luật.",
           "icon": "users"
         },
         {
-          "title": "Cost Savings with a Prestigious Address",
-          "desc": "Benefit from a prestigious Ho Chi Minh City address while keeping your overhead costs low.",
+          "title": "Tiết kiệm Chi phí với Địa chỉ Uy tín",
+          "desc": "Tận hưởng một địa chỉ uy tín tại TP. Hồ Chí Minh trong khi vẫn giữ chi phí vận hành ở mức thấp.",
           "icon": "badge"
         },
         {
-          "title": "Timely and Accurate Reporting",
-          "desc": "We ensure accurate reports are submitted on time, keeping your business compliant and stress-free.",
+          "title": "Báo cáo Kịp thời và Chính xác",
+          "desc": "Chúng tôi đảm bảo các báo cáo chính xác được nộp đúng hạn, giúp doanh nghiệp bạn tuân thủ và an tâm.",
           "icon": "fileCheck"
         },
         {
-          "title": "Quick Market Entry with Scalability Options",
-          "desc": "Enjoy flexible, scalable solutions that allow for swift market entry, tailored to your business needs.",
+          "title": "Gia nhập Thị trường Nhanh chóng với Khả năng Mở rộng",
+          "desc": "Tận hưởng các giải pháp linh hoạt, có thể mở rộng, cho phép gia nhập thị trường nhanh chóng, phù hợp với nhu cầu kinh doanh của bạn.",
           "icon": "rocket"
         },
         {
-          "title": "Global Recognition",
-          "desc": "Maintain a professional image with a virtual office, allowing you to work remotely without sacrificing international prestige.",
+          "title": "Được Công nhận Toàn cầu",
+          "desc": "Duy trì hình ảnh chuyên nghiệp với văn phòng ảo, cho phép bạn làm việc từ xa mà không đánh đổi uy tín quốc tế.",
           "icon": "globe"
         },
         {
-          "title": "Transparent Pricing, No Hidden Fees",
-          "desc": "Receive clear cost estimates upfront, with no surprises or hidden fees along the way.",
+          "title": "Giá cả Minh bạch, Không Phí ẩn",
+          "desc": "Nhận dự toán chi phí rõ ràng ngay từ đầu, không bất ngờ hay phí ẩn nào trong suốt quá trình.",
           "icon": "wallet"
         }
       ]
     },
     {
       "type": "steps",
-      "heading": "Your Success Plan in Vietnam",
+      "heading": "Lộ trình Thành công của Bạn tại Việt Nam",
       "items": [
         {
-          "title": "Submit Your Information & Needs",
-          "desc": "Tell us about your company's needs and aspirations in Vietnam"
+          "title": "Gửi Thông tin & Nhu cầu của Bạn",
+          "desc": "Chia sẻ với chúng tôi về nhu cầu và mục tiêu của công ty bạn tại Việt Nam"
         },
         {
-          "title": "Book a Consultation With Our Experts",
-          "desc": "Go over your plan with one of our bilingual business Consultants"
+          "title": "Đặt lịch Tư vấn với Chuyên gia",
+          "desc": "Trao đổi kế hoạch của bạn cùng một chuyên gia tư vấn kinh doanh song ngữ của chúng tôi"
         },
         {
-          "title": "Verify KYC Documents",
-          "desc": "Our consultants will contact you to process the necessary paperwork and create your company dossier"
+          "title": "Xác minh Hồ sơ KYC",
+          "desc": "Các chuyên gia tư vấn sẽ liên hệ với bạn để xử lý các thủ tục giấy tờ cần thiết và lập hồ sơ công ty của bạn"
         },
         {
-          "title": "Choose a Plan & Succeed In Vietnam",
-          "desc": "Let us simplify your business journey and make your mark in APAC's fastest-growing economy"
+          "title": "Chọn Gói Dịch vụ & Thành công tại Việt Nam",
+          "desc": "Hãy để chúng tôi đơn giản hóa hành trình kinh doanh và giúp bạn ghi dấu ấn tại nền kinh tế phát triển nhanh nhất khu vực APAC"
         }
       ]
     },
     {
       "type": "faq",
-      "eyebrow": "FAQ",
-      "heading": "Frequently Asked Questions on Virtual Office in Ho Chi Minh City",
+      "eyebrow": "Câu hỏi thường gặp",
+      "heading": "Các Câu hỏi Thường gặp về Văn phòng Ảo tại TP. Hồ Chí Minh",
       "items": [
         {
-          "q": "Can I set up a company in Vietnam as a foreigner?",
-          "a": "Yes, foreign investors who want to expand to Vietnam can set up a foreign-owned company in the country. The most common type of company setup for foreign ownership is an LLC (Limited Liability Company) due to its simple business structure and faster setup timeline. Depending on the type of business…"
+          "q": "Người nước ngoài có thể thành lập công ty tại Việt Nam không?",
+          "a": "Có. Nhà đầu tư nước ngoài muốn mở rộng sang Việt Nam có thể thành lập công ty có vốn nước ngoài tại đây. Loại hình phổ biến nhất cho sở hữu nước ngoài là Công ty TNHH (LLC) nhờ cơ cấu kinh doanh đơn giản và thời gian thành lập nhanh hơn. Tùy theo loại hình kinh doanh…"
         },
         {
-          "q": "What are the company types available in Vietnam?",
-          "a": "There are four types of entities: Limited Liability Company (LLC), Joint-stock Company (JSC), Branch Office and Representative Office."
+          "q": "Có những loại hình công ty nào tại Việt Nam?",
+          "a": "Có bốn loại hình pháp nhân: Công ty TNHH (LLC), Công ty Cổ phần (JSC), Chi nhánh và Văn phòng Đại diện."
         },
         {
-          "q": "Is there any minimum capital required prior to company registration in Vietnam?",
-          "a": "Although local laws don't stipulate any minimum capital, 25-30,000 USD is commonly considered as the minimum capital investors should register to ensure smooth incorporation and business activities."
+          "q": "Có yêu cầu vốn tối thiểu trước khi đăng ký thành lập công ty tại Việt Nam không?",
+          "a": "Mặc dù pháp luật trong nước không quy định mức vốn tối thiểu, mức 25.000-30.000 USD thường được xem là vốn tối thiểu mà nhà đầu tư nên đăng ký để đảm bảo việc thành lập và hoạt động kinh doanh diễn ra thuận lợi."
         },
         {
-          "q": "Will I be able to hold 100-percent ownership of a foreign-owned company?",
-          "a": "Yes. The Vietnamese law enables foreigners to open 100% foreign-owned companies in most business sectors. There are a few business sectors that you are restricted from, namely the following:"
+          "q": "Tôi có thể sở hữu 100% công ty có vốn nước ngoài không?",
+          "a": "Có. Pháp luật Việt Nam cho phép người nước ngoài mở công ty 100% vốn nước ngoài trong hầu hết các lĩnh vực kinh doanh. Có một số ít lĩnh vực bị hạn chế, cụ thể như sau:"
         },
         {
-          "q": "Is there any option to expand my business without incorporating a company in Vietnam?",
-          "a": "Yes, there are several options suitable for investors who wish to expand without forming a legal entity."
+          "q": "Có cách nào mở rộng kinh doanh mà không cần thành lập công ty tại Việt Nam không?",
+          "a": "Có, có một số phương án phù hợp với nhà đầu tư muốn mở rộng mà không cần thành lập pháp nhân."
         },
         {
-          "q": "I want to set up a company as soon as possible, is there a way to speed up the company registration process?",
-          "a": "The process of starting an LLC or JSC in Vietnam takes approximately 40-60 days. If you want to start operating a business as soon as possible, we recommend purchasing a shelf company. With this method, WTP Advisory can transfer the management control to you within a few working days."
+          "q": "Tôi muốn thành lập công ty càng sớm càng tốt, có cách nào đẩy nhanh quy trình đăng ký doanh nghiệp không?",
+          "a": "Quy trình thành lập Công ty TNHH hoặc Công ty Cổ phần tại Việt Nam mất khoảng 40-60 ngày. Nếu bạn muốn bắt đầu hoạt động kinh doanh càng sớm càng tốt, chúng tôi khuyến nghị mua lại công ty có sẵn (shelf company). Với phương án này, WTP Advisory có thể chuyển giao quyền quản lý cho bạn chỉ trong vài ngày làm việc."
         },
         {
-          "q": "What are the benefits of a local nominee company and a shelf company?",
-          "a": "Both local nominee companies and shelf companies are fast ways to incorporate business entities and penetrate the Vietnamese market successfully. A local nominee company is established through a nominee agreement with a trustworthy local partner such as WTP Advisory. In this case, the company is…"
+          "q": "Lợi ích của công ty có cổ đông danh nghĩa trong nước (local nominee) và công ty có sẵn (shelf company) là gì?",
+          "a": "Cả công ty có cổ đông danh nghĩa trong nước và công ty có sẵn đều là những cách nhanh chóng để thành lập pháp nhân và thâm nhập thành công thị trường Việt Nam. Công ty có cổ đông danh nghĩa trong nước được thiết lập thông qua thỏa thuận với một đối tác địa phương đáng tin cậy như WTP Advisory. Trong trường hợp này, công ty…"
         },
         {
-          "q": "I would like to set up a joint venture local company, but I do not have a reliable local partner to act as a shareholder. What should I do?",
-          "a": "Underestimating the role of a business partner or local nominee are one of the common business mistakes in Vietnam. Choosing a reliable local partner for your company is key to success in the country while reducing the potential risks. WTP Advisory offers local nominee services without any interventions…"
+          "q": "Tôi muốn thành lập công ty liên doanh trong nước nhưng chưa có đối tác địa phương đáng tin cậy làm cổ đông. Tôi nên làm gì?",
+          "a": "Đánh giá thấp vai trò của đối tác kinh doanh hay cổ đông danh nghĩa trong nước là một trong những sai lầm phổ biến khi kinh doanh tại Việt Nam. Lựa chọn một đối tác địa phương đáng tin cậy cho công ty của bạn là yếu tố then chốt cho thành công tại đây, đồng thời giảm thiểu các rủi ro tiềm ẩn. WTP Advisory cung cấp dịch vụ cổ đông danh nghĩa trong nước mà không can thiệp…"
         }
       ]
     },
     {
       "type": "stats",
       "variant": "red",
-      "heading": "Backed by WTP Advisory",
+      "heading": "Được Hậu thuẫn bởi WTP Advisory",
       "items": [
         {
           "value": "30+",
-          "label": "Years of experience"
+          "label": "Năm kinh nghiệm"
         },
         {
           "value": "1,500+",
-          "label": "Professionals across APAC"
+          "label": "Chuyên gia trên khắp APAC"
         },
         {
           "value": "20,000+",
-          "label": "Clients served globally"
+          "label": "Khách hàng được phục vụ trên toàn cầu"
         },
         {
           "value": "8",
-          "label": "Markets in Asia-Pacific"
+          "label": "Thị trường tại Châu Á - Thái Bình Dương"
         }
       ]
     },
     {
       "type": "cta",
-      "title": "Ready to get started in Vietnam?",
-      "subtitle": "Talk to our experts about how we can support your business.",
+      "title": "Sẵn sàng khởi đầu tại Việt Nam?",
+      "subtitle": "Trao đổi với các chuyên gia của chúng tôi về cách chúng tôi có thể hỗ trợ doanh nghiệp của bạn.",
       "button": {
-        "label": "Make an Inquiry",
+        "label": "Gửi Yêu cầu Tư vấn",
         "href": "/make-an-inquiry"
       },
       "variant": "red"

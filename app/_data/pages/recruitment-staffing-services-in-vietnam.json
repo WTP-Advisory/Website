@@ -1,12 +1,12 @@
-﻿{
-  "title": "Recruitment & Staffing Services in Vietnam",
-  "metaDescription": "WTP Advisory's Recruitment & Staffing services help companies build strong teams through two focused solutions: Executive Search and Mass Recruitment",
+{
+  "title": "Dịch vụ Tuyển dụng & Cung ứng Nhân sự tại Việt Nam",
+  "metaDescription": "Dịch vụ Tuyển dụng & Cung ứng Nhân sự của WTP Advisory giúp doanh nghiệp xây dựng đội ngũ vững mạnh thông qua hai giải pháp trọng tâm: Tuyển dụng Nhân sự Cấp cao và Tuyển dụng Số lượng lớn",
   "hero": {
-    "eyebrow": "Services",
-    "title": "Recruitment & Staffing Services in Vietnam",
-    "subtitle": "Scale your business with the right people at the right time through tailored to Vietnam's talent market. From leadership hiring to high volume workforce expansion, WTP Advisory helps businesses identify, attract and secure the talent they need to grow efficiently in Vietnam.",
+    "eyebrow": "Dịch vụ",
+    "title": "Dịch vụ Tuyển dụng & Cung ứng Nhân sự tại Việt Nam",
+    "subtitle": "Mở rộng quy mô doanh nghiệp với đúng người vào đúng thời điểm, được thiết kế riêng cho thị trường nhân tài Việt Nam. Từ tuyển dụng lãnh đạo đến mở rộng lực lượng lao động số lượng lớn, WTP Advisory giúp doanh nghiệp nhận diện, thu hút và đảm bảo nguồn nhân tài cần thiết để phát triển hiệu quả tại Việt Nam.",
     "cta": {
-      "label": "Make an Inquiry",
+      "label": "Gửi yêu cầu tư vấn",
       "href": "/make-an-inquiry"
     },
     "image": "/incorp/solutions/hr-payroll.jpg"
@@ -14,231 +14,231 @@
   "sections": [
     {
       "type": "cards",
-      "eyebrow": "Benefits",
-      "heading": "Benefits to expect from our Recruitment & Staffing services",
-      "subtitle": "Vietnam's labor market is evolving quickly. Companies today face growing pressure to hire faster, compete for quality talent and build teams that can support expansion",
+      "eyebrow": "Lợi ích",
+      "heading": "Những lợi ích bạn có thể kỳ vọng từ dịch vụ Tuyển dụng & Cung ứng Nhân sự của chúng tôi",
+      "subtitle": "Thị trường lao động Việt Nam đang biến chuyển nhanh chóng. Ngày nay, doanh nghiệp đối mặt với áp lực ngày càng lớn trong việc tuyển dụng nhanh hơn, cạnh tranh nhân tài chất lượng và xây dựng đội ngũ đủ sức hỗ trợ mở rộng",
       "columns": 3,
       "items": [
         {
-          "title": "Specialized Hiring Support",
-          "desc": "From senior leadership to high volume operational roles",
+          "title": "Hỗ trợ tuyển dụng chuyên biệt",
+          "desc": "Từ lãnh đạo cấp cao đến các vị trí vận hành số lượng lớn",
           "icon": "headset"
         },
         {
-          "title": "Faster Access To Qualified Talent",
-          "desc": "Leverage targeted sourcing and local market networks",
+          "title": "Tiếp cận nhân tài chất lượng nhanh hơn",
+          "desc": "Tận dụng nguồn ứng viên có mục tiêu và mạng lưới thị trường địa phương",
           "icon": "users"
         },
         {
-          "title": "Better Hiring Accuracy",
-          "desc": "Shortlists built around skills, experience and business fit",
+          "title": "Độ chính xác cao hơn trong tuyển dụng",
+          "desc": "Danh sách ứng viên rút gọn được xây dựng quanh kỹ năng, kinh nghiệm và sự phù hợp với doanh nghiệp",
           "icon": "fileCheck"
         },
         {
-          "title": "Scalable Workforce Solutions",
-          "desc": "Support for both strategic hires and rapid team expansion",
+          "title": "Giải pháp nhân sự linh hoạt theo quy mô",
+          "desc": "Hỗ trợ cả tuyển dụng chiến lược lẫn mở rộng đội ngũ nhanh chóng",
           "icon": "trending"
         },
         {
-          "title": "Reduced Hiring Pressure",
-          "desc": "A trusted partner to manage sourcing, screening, and coordination",
+          "title": "Giảm áp lực tuyển dụng",
+          "desc": "Một đối tác đáng tin cậy để quản lý việc tìm nguồn, sàng lọc và điều phối",
           "icon": "handshake"
         },
         {
-          "title": "Market Insight That Improves Decisions",
-          "desc": "Guidance on talent availability, hiring challenges and candidate expectations",
+          "title": "Hiểu biết thị trường giúp ra quyết định tốt hơn",
+          "desc": "Tư vấn về nguồn nhân tài sẵn có, thách thức tuyển dụng và kỳ vọng của ứng viên",
           "icon": "lightbulb"
         }
       ]
     },
     {
       "type": "richText",
-      "heading": "How We Support Your Hiring Needs in Vietnam",
+      "heading": "Cách chúng tôi hỗ trợ nhu cầu tuyển dụng của bạn tại Việt Nam",
       "align": "center",
       "body": [
-        "WTP Advisory's Recruitment & Staffing team supports businesses with practical hiring solutions aligned with business goals, role requirements and market realities. We combine market understanding, targeted search and structured screening to help companies reduce hiring risk and improve talent outcomes."
+        "Đội ngũ Tuyển dụng & Cung ứng Nhân sự của WTP Advisory hỗ trợ doanh nghiệp bằng các giải pháp tuyển dụng thiết thực, phù hợp với mục tiêu kinh doanh, yêu cầu công việc và thực tế thị trường. Chúng tôi kết hợp sự am hiểu thị trường, tìm kiếm có mục tiêu và quy trình sàng lọc bài bản để giúp doanh nghiệp giảm rủi ro tuyển dụng và cải thiện kết quả về nhân tài."
       ]
     },
     {
       "type": "richText",
-      "heading": "Executive Search",
+      "heading": "Tuyển dụng Nhân sự Cấp cao",
       "align": "left",
       "body": [
-        "For companies hiring senior leaders, functional heads and highly specialized professionals. We identify candidates who bring the right leadership capability, technical expertise, and long term fit."
+        "Dành cho các doanh nghiệp tuyển dụng lãnh đạo cấp cao, trưởng bộ phận chức năng và các chuyên gia chuyên môn cao. Chúng tôi nhận diện những ứng viên hội tụ năng lực lãnh đạo phù hợp, chuyên môn kỹ thuật và sự gắn bó lâu dài."
       ]
     },
     {
       "type": "list",
       "columns": 1,
       "items": [
-        "C suite and senior leadership hiring",
-        "Department heads and country management roles",
-        "Specialized roles requiring niche market knowledge",
-        "Confidential replacement and succession hiring",
-        "Candidate assessment and shortlist development",
-        "Support through offer stage and hiring coordination"
+        "Tuyển dụng cấp lãnh đạo điều hành (C-suite) và lãnh đạo cấp cao",
+        "Các vị trí trưởng bộ phận và quản lý cấp quốc gia",
+        "Các vị trí chuyên biệt đòi hỏi kiến thức thị trường ngách",
+        "Tuyển dụng thay thế bảo mật và kế nhiệm",
+        "Đánh giá ứng viên và xây dựng danh sách rút gọn",
+        "Hỗ trợ trong giai đoạn đề nghị tuyển dụng và điều phối tuyển dụng"
       ]
     },
     {
       "type": "richText",
-      "heading": "Staffing Services",
+      "heading": "Dịch vụ Cung ứng Nhân sự",
       "align": "left",
       "body": [
-        "For companies that require flexible workforce solutions across temporary, project-based, and full-time positions. We manage candidate sourcing, screening, interview coordination, and preparation and administration of labor contracts in legal compliance, along with payroll processing, including salary calculation, statutory deductions, PIT handling, social insurance reporting, and monthly payslip issuance, ensuring accuracy, confidentiality and timely delivery."
+        "Dành cho các doanh nghiệp cần giải pháp nhân sự linh hoạt cho các vị trí thời vụ, theo dự án và toàn thời gian. Chúng tôi quản lý việc tìm nguồn ứng viên, sàng lọc, điều phối phỏng vấn, cùng việc chuẩn bị và quản lý hợp đồng lao động tuân thủ pháp luật, song song với việc tính lương, bao gồm tính lương, các khoản khấu trừ bắt buộc, xử lý thuế TNCN, báo cáo bảo hiểm xã hội và phát hành phiếu lương hàng tháng, đảm bảo tính chính xác, bảo mật và giao đúng hạn."
       ]
     },
     {
       "type": "list",
       "columns": 1,
       "items": [
-        "Temporary, project-based, and contract staffing",
-        "Rapid workforce deployment for operational needs",
-        "Candidate sourcing, screening and interview coordination",
-        "Preparation and administration of labor contracts in legal compliance",
-        "Payroll processing including salary calculation, statutory deductions, PIT and social insurance reporting",
-        "Payslip issuance and workforce administration support"
+        "Cung ứng nhân sự thời vụ, theo dự án và theo hợp đồng",
+        "Triển khai nhân sự nhanh chóng cho nhu cầu vận hành",
+        "Tìm nguồn, sàng lọc ứng viên và điều phối phỏng vấn",
+        "Chuẩn bị và quản lý hợp đồng lao động tuân thủ pháp luật",
+        "Tính lương bao gồm tính lương, các khoản khấu trừ bắt buộc, thuế TNCN và báo cáo bảo hiểm xã hội",
+        "Phát hành phiếu lương và hỗ trợ quản lý nhân sự"
       ]
     },
     {
       "type": "steps",
-      "heading": "Our Recruitment Approach",
+      "heading": "Phương pháp Tuyển dụng của chúng tôi",
       "items": [
         {
-          "title": "Understand Your Hiring Needs",
-          "desc": "We align on business goals, role scope, hiring urgency, and candidate requirements.",
+          "title": "Thấu hiểu nhu cầu tuyển dụng của bạn",
+          "desc": "Chúng tôi thống nhất về mục tiêu kinh doanh, phạm vi công việc, mức độ cấp thiết và yêu cầu đối với ứng viên.",
           "icon": "target"
         },
         {
-          "title": "Build the Right Search Strategy",
-          "desc": "We define the sourcing plan, candidate profile, and recruitment timeline based on your market and hiring goals.",
+          "title": "Xây dựng chiến lược tìm kiếm phù hợp",
+          "desc": "Chúng tôi xác định kế hoạch tìm nguồn, hồ sơ ứng viên và lộ trình tuyển dụng dựa trên thị trường và mục tiêu tuyển dụng của bạn.",
           "icon": "clipboard"
         },
         {
-          "title": "Source and Screen Candidates",
-          "desc": "We identify suitable candidates through targeted channels and conduct structured screening before shortlist submission.",
+          "title": "Tìm nguồn và sàng lọc ứng viên",
+          "desc": "Chúng tôi nhận diện ứng viên phù hợp qua các kênh có mục tiêu và thực hiện sàng lọc bài bản trước khi trình danh sách rút gọn.",
           "icon": "users"
         },
         {
-          "title": "Coordinate Interviews & Selection",
-          "desc": "We support the interview process, candidate communication, and feedback alignment.",
+          "title": "Điều phối phỏng vấn & tuyển chọn",
+          "desc": "Chúng tôi hỗ trợ quy trình phỏng vấn, trao đổi với ứng viên và thống nhất phản hồi.",
           "icon": "handshake"
         },
         {
-          "title": "Support Offer & Hiring Closure",
-          "desc": "We help clients move from selection to offer stage with better speed and candidate experience.",
+          "title": "Hỗ trợ đề nghị & hoàn tất tuyển dụng",
+          "desc": "Chúng tôi giúp khách hàng chuyển từ giai đoạn tuyển chọn sang giai đoạn đề nghị với tốc độ nhanh hơn và trải nghiệm ứng viên tốt hơn.",
           "icon": "badge"
         }
       ]
     },
     {
       "type": "cards",
-      "heading": "Why businesses choose WTP Advisory for Recruitment & Staffing Services",
+      "heading": "Vì sao doanh nghiệp chọn WTP Advisory cho Dịch vụ Tuyển dụng & Cung ứng Nhân sự",
       "columns": 4,
       "items": [
         {
-          "title": "Business minded hiring support",
-          "desc": "We understand that recruitment is not only an HR activity. It is a business priority tied to growth, continuity and performance",
+          "title": "Hỗ trợ tuyển dụng theo tư duy kinh doanh",
+          "desc": "Chúng tôi hiểu rằng tuyển dụng không chỉ là hoạt động nhân sự. Đó là ưu tiên kinh doanh gắn liền với tăng trưởng, tính liên tục và hiệu suất",
           "icon": "briefcase"
         },
         {
-          "title": "Local Market Understanding",
-          "desc": "Our team brings practical knowledge of Vietnam's talent market, hiring dynamics and workforce challenges across industries",
+          "title": "Am hiểu thị trường địa phương",
+          "desc": "Đội ngũ của chúng tôi mang đến kiến thức thực tiễn về thị trường nhân tài, động lực tuyển dụng và thách thức nhân sự trên nhiều ngành tại Việt Nam",
           "icon": "globe"
         },
         {
-          "title": "Flexible Support Model",
-          "desc": "We support both strategic executive hiring and large scale recruitment needs, depending on where your business is in its growth journey",
+          "title": "Mô hình hỗ trợ linh hoạt",
+          "desc": "Chúng tôi hỗ trợ cả tuyển dụng lãnh đạo chiến lược lẫn nhu cầu tuyển dụng quy mô lớn, tùy theo giai đoạn phát triển của doanh nghiệp bạn",
           "icon": "layers"
         },
         {
-          "title": "Broader Business Services Platform",
-          "desc": "As part of WTP Advisory's wider capabilities, our recruitment support can work alongside payroll, HR, employer of record, immigration and compliance solutions",
+          "title": "Nền tảng dịch vụ doanh nghiệp rộng khắp",
+          "desc": "Là một phần trong năng lực rộng lớn hơn của WTP Advisory, dịch vụ tuyển dụng của chúng tôi có thể phối hợp cùng các giải pháp tính lương, nhân sự, đơn vị tuyển dụng đại diện, di trú và tuân thủ",
           "icon": "network"
         }
       ]
     },
     {
       "type": "list",
-      "heading": "Who We Support",
-      "subtitle": "We support a wide range of businesses, including:",
+      "heading": "Đối tượng chúng tôi hỗ trợ",
+      "subtitle": "Chúng tôi hỗ trợ nhiều loại hình doanh nghiệp, bao gồm:",
       "columns": 1,
       "items": [
-        "Foreign invested companies entering or expanding in Vietnam",
-        "Companies building leadership teams in new markets",
-        "Manufacturers and operators scaling workforce capacity",
-        "Service businesses with urgent or high volume hiring needs",
-        "Businesses seeking a more reliable hiring partner in Vietnam"
+        "Doanh nghiệp có vốn đầu tư nước ngoài gia nhập hoặc mở rộng tại Việt Nam",
+        "Doanh nghiệp xây dựng đội ngũ lãnh đạo tại các thị trường mới",
+        "Nhà sản xuất và đơn vị vận hành mở rộng năng lực nhân sự",
+        "Doanh nghiệp dịch vụ có nhu cầu tuyển dụng gấp hoặc số lượng lớn",
+        "Doanh nghiệp tìm kiếm một đối tác tuyển dụng đáng tin cậy hơn tại Việt Nam"
       ]
     },
     {
       "type": "richText",
-      "heading": "Meet Our Expert",
+      "heading": "Gặp gỡ chuyên gia của chúng tôi",
       "align": "left",
       "body": [
-        "Nam Le — Head of Recruitment & Staffing",
-        "With over 15 years of experience in HR solutions, talent acquisition and workforce outsourcing across multinational and regional organizations, Ken leads the development of WTP Advisory's Recruitment & Staffing services – helping foreign-invested enterprises and growing businesses access qualified talent and scale their workforce efficiently."
+        "[Tên Trưởng Phòng Tuyển Dụng] — Trưởng phòng Tuyển dụng & Cung ứng Nhân sự",
+        "Với hơn 15 năm kinh nghiệm trong lĩnh vực giải pháp nhân sự, thu hút nhân tài và thuê ngoài nhân sự tại các tổ chức đa quốc gia và khu vực, Ken dẫn dắt việc phát triển dịch vụ Tuyển dụng & Cung ứng Nhân sự của WTP Advisory – giúp các doanh nghiệp có vốn đầu tư nước ngoài và các doanh nghiệp đang phát triển tiếp cận nguồn nhân tài chất lượng và mở rộng lực lượng lao động một cách hiệu quả."
       ]
     },
     {
       "type": "faq",
-      "eyebrow": "FAQ",
-      "heading": "Frequently Asked Questions",
+      "eyebrow": "CÂU HỎI THƯỜNG GẶP",
+      "heading": "Câu hỏi thường gặp",
       "items": [
         {
-          "q": "What is the difference between Executive Search and Mass Recruitment?",
-          "a": "Executive Search focuses on senior, strategic, or highly specialized roles where a targeted search process is needed. Mass Recruitment focuses on hiring larger volumes of employees efficiently for operational or expansion needs."
+          "q": "Sự khác biệt giữa Tuyển dụng Nhân sự Cấp cao và Tuyển dụng Số lượng lớn là gì?",
+          "a": "Tuyển dụng Nhân sự Cấp cao tập trung vào các vị trí cấp cao, chiến lược hoặc chuyên môn cao, nơi cần một quy trình tìm kiếm có mục tiêu. Tuyển dụng Số lượng lớn tập trung vào việc tuyển dụng số lượng lớn nhân viên một cách hiệu quả cho nhu cầu vận hành hoặc mở rộng."
         },
         {
-          "q": "Can you support foreign companies hiring in Vietnam?",
-          "a": "Yes. We support foreign invested companies and international businesses that need local hiring support, market insight, and practical recruitment coordination in Vietnam."
+          "q": "Các bạn có hỗ trợ doanh nghiệp nước ngoài tuyển dụng tại Việt Nam không?",
+          "a": "Có. Chúng tôi hỗ trợ các doanh nghiệp có vốn đầu tư nước ngoài và doanh nghiệp quốc tế cần hỗ trợ tuyển dụng tại địa phương, hiểu biết thị trường và điều phối tuyển dụng thực tiễn tại Việt Nam."
         },
         {
-          "q": "What industries do you support?",
-          "a": "We support hiring across a wide range of sectors depending on role type, business model and workforce needs."
+          "q": "Các bạn hỗ trợ những ngành nghề nào?",
+          "a": "Chúng tôi hỗ trợ tuyển dụng trên nhiều lĩnh vực tùy theo loại vị trí, mô hình kinh doanh và nhu cầu nhân sự."
         },
         {
-          "q": "Can you help us hire both leadership and operational teams?",
-          "a": "Yes. Our Recruitment & Staffing practice is designed to support both senior level hiring and broader workforce expansion."
+          "q": "Các bạn có thể giúp chúng tôi tuyển dụng cả đội ngũ lãnh đạo lẫn đội ngũ vận hành không?",
+          "a": "Có. Bộ phận Tuyển dụng & Cung ứng Nhân sự của chúng tôi được thiết kế để hỗ trợ cả tuyển dụng cấp cao lẫn mở rộng lực lượng lao động trên diện rộng."
         },
         {
-          "q": "How long does a recruitment project take?",
-          "a": "Timelines depend on the role, hiring volume, market conditions, and urgency. We align the hiring plan with your business timeline and talent requirements."
+          "q": "Một dự án tuyển dụng mất bao lâu?",
+          "a": "Tiến độ phụ thuộc vào vị trí, số lượng tuyển dụng, điều kiện thị trường và mức độ cấp thiết. Chúng tôi điều chỉnh kế hoạch tuyển dụng phù hợp với lộ trình kinh doanh và yêu cầu nhân tài của bạn."
         },
         {
-          "q": "Can your team support hiring during market entry or business expansion?",
-          "a": "Yes. We support recruitment for market entry, new site launches, team build outs and growth stage hiring in Vietnam."
+          "q": "Đội ngũ của các bạn có thể hỗ trợ tuyển dụng trong giai đoạn gia nhập thị trường hoặc mở rộng kinh doanh không?",
+          "a": "Có. Chúng tôi hỗ trợ tuyển dụng cho việc gia nhập thị trường, ra mắt cơ sở mới, xây dựng đội ngũ và tuyển dụng giai đoạn tăng trưởng tại Việt Nam."
         }
       ]
     },
     {
       "type": "stats",
       "variant": "red",
-      "heading": "Backed by WTP Advisory",
+      "heading": "Được hậu thuẫn bởi WTP Advisory",
       "items": [
         {
           "value": "30+",
-          "label": "Years of experience"
+          "label": "Năm kinh nghiệm"
         },
         {
           "value": "1,500+",
-          "label": "Professionals across APAC"
+          "label": "Chuyên gia trên khắp APAC"
         },
         {
           "value": "20,000+",
-          "label": "Clients served globally"
+          "label": "Khách hàng được phục vụ trên toàn cầu"
         },
         {
           "value": "8",
-          "label": "Markets in Asia-Pacific"
+          "label": "Thị trường tại châu Á - Thái Bình Dương"
         }
       ]
     },
     {
       "type": "cta",
-      "title": "Ready to get started in Vietnam?",
-      "subtitle": "Talk to our experts about how we can support your business.",
+      "title": "Sẵn sàng khởi đầu tại Việt Nam?",
+      "subtitle": "Hãy trao đổi với các chuyên gia của chúng tôi về cách chúng tôi có thể hỗ trợ doanh nghiệp của bạn.",
       "button": {
-        "label": "Make an Inquiry",
+        "label": "Gửi yêu cầu tư vấn",
         "href": "/make-an-inquiry"
       },
       "variant": "red"

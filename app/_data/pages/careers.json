@@ -1,92 +1,92 @@
-﻿{
-  "title": "Careers",
-  "metaDescription": "Make the next step in your career at WTP Advisory. Join a diverse, inclusive culture that promotes growth, with sector-specific projects across accounting, tax, corporate secretarial, and advisory services.",
+{
+  "title": "Cơ hội nghề nghiệp",
+  "metaDescription": "Tiến bước tiếp theo trong sự nghiệp của bạn tại WTP Advisory. Gia nhập một văn hóa đa dạng, hòa nhập, thúc đẩy sự phát triển, với các dự án chuyên ngành về kế toán, thuế, thư ký doanh nghiệp và dịch vụ tư vấn.",
   "hero": {
-    "eyebrow": "Careers",
-    "title": "Make the Next Step in Your Career",
-    "subtitle": "At WTP Advisory, we foster a diverse, inclusive working culture promoting growth and development. Join our team to gain valuable experience in sector-specific projects, enhancing your skills and knowledge."
+    "eyebrow": "Cơ hội nghề nghiệp",
+    "title": "Tiến bước tiếp theo trong sự nghiệp của bạn",
+    "subtitle": "Tại WTP Advisory, chúng tôi nuôi dưỡng một văn hóa làm việc đa dạng, hòa nhập, thúc đẩy sự phát triển và trưởng thành. Hãy gia nhập đội ngũ của chúng tôi để tích lũy kinh nghiệm quý giá trong các dự án chuyên ngành, nâng cao kỹ năng và kiến thức của bạn."
   },
   "sections": [
     {
       "type": "jobBoard",
-      "heading": "Explore Our Teams",
-      "subtitle": "Discover how WTP Advisory is committed to your professional growth and success. Explore our teams and find your ideal role to kickstart your dream career and beyond.",
-      "keywordPlaceholder": "Job Title, Keyword",
-      "buttonLabel": "Find Job",
+      "heading": "Khám phá các đội ngũ của chúng tôi",
+      "subtitle": "Khám phá cách WTP Advisory cam kết với sự phát triển và thành công nghề nghiệp của bạn. Tìm hiểu các đội ngũ của chúng tôi và tìm vị trí lý tưởng để khởi đầu sự nghiệp mơ ước và xa hơn nữa.",
+      "keywordPlaceholder": "Chức danh, từ khóa",
+      "buttonLabel": "Tìm việc làm",
       "columns": 3,
       "items": [
-        { "title": "Accounts Associate", "location": "Singapore", "href": "/careers/accounts-associate", "desc": "Join our rapidly expanding team. We are looking for an experienced Associate – Accounts to join our Outsourcing Department in Singapore." },
-        { "title": "Assistant Manager – Corporate Secretarial", "location": "Singapore", "href": "/careers/assistant-manager-corporate-secretarial", "desc": "Join our rapidly expanding team. We are looking for an experienced Assistant Manager to join our Corporate Secretarial Department in Singapore." },
-        { "title": "Assistant Manager – Tax", "location": "Singapore", "href": "/careers/assistant-manager-tax", "desc": "Join our rapidly expanding team. We are looking for an experienced Assistant Manager to join our Tax Team in Singapore." },
-        { "title": "Associate – Corporate Secretarial", "location": "Singapore", "href": "/careers/associate-corporate-secretarial", "desc": "Join our rapidly expanding team. We are looking for an experienced Associate to join our Corporate Secretarial Department in Singapore." },
-        { "title": "Associate – Transfer Pricing", "location": "Singapore", "href": "/careers/associate-transfer-pricing", "desc": "Join our rapidly expanding team. We are looking for an experienced Associate – Transfer Pricing to join our team in Singapore." },
-        { "title": "Business Analyst", "location": "Singapore", "href": "/careers/business-analyst", "desc": "Join our rapidly expanding team. We are looking for an experienced Business Analyst to join our team in Singapore." },
-        { "title": "Chief Financial Officer", "location": "Vietnam", "href": "/careers/chief-financial-officer", "desc": "Join our rapidly expanding team. We are looking for an experienced Chief Financial Officer to join our team in SEA (Vietnam)." },
-        { "title": "Executive – Compliance", "location": "Singapore", "href": "/careers/executive-compliance", "desc": "Join our rapidly expanding team. We are looking for an Executive – Compliance to join our COO team in Singapore." },
-        { "title": "Finance Manager", "location": "Singapore", "href": "/careers/finance-manager", "desc": "Join our rapidly expanding team. We are looking for an experienced Finance Manager to join our team in Singapore." },
-        { "title": "Manager – Business Development", "location": "Singapore", "href": "/careers/manager-business-development", "desc": "Join our rapidly expanding team. We are looking for a Manager to join our Business Development team in Singapore." },
-        { "title": "Manager – Compliance Relationship", "location": "Singapore", "href": "/careers/manager-compliance-relationship", "desc": "Join our rapidly expanding team. We are looking for a Compliance Relationship Manager to join our Compliance team in Singapore." },
-        { "title": "Manager – Corporate Secretarial", "location": "Singapore", "href": "/careers/manager-corporate-secretarial", "desc": "You will advise the Board, manage client portfolios, and ensure legal compliance in meeting records." },
-        { "title": "Senior Associate – Accounting & Finance", "location": "Singapore", "href": "/careers/senior-associate-accounting-finance", "desc": "Join our rapidly expanding team. We are looking for an experienced Senior Associate to join our Accounting & Finance Team in Singapore." },
-        { "title": "Senior Associate – Corporate Secretarial", "location": "Singapore", "href": "/careers/senior-associate-corporate-secretarial", "desc": "Join our rapidly expanding team. We are looking for an experienced Senior Associate to join our Corporate Secretarial Department in Singapore." },
-        { "title": "Senior Associate – Tax", "location": "Singapore", "href": "/careers/senior-associate-tax", "desc": "Join our rapidly expanding team. We are looking for Senior Associates – Tax to join our Tax team in Singapore." },
-        { "title": "Senior Associate / Associate – Risk Assurance", "location": "Vietnam", "href": "/careers/senior-associate-risk-assurance", "desc": "Join our Risk Assurance team to work with top clients and gain expertise in audits, sustainability, and risk management." }
+        { "title": "Chuyên viên Kế toán", "location": "Singapore", "href": "/careers/accounts-associate", "desc": "Gia nhập đội ngũ đang phát triển nhanh chóng của chúng tôi. Chúng tôi đang tìm kiếm một Chuyên viên Kế toán giàu kinh nghiệm cho Bộ phận Thuê ngoài tại Singapore." },
+        { "title": "Phó phòng – Thư ký Doanh nghiệp", "location": "Singapore", "href": "/careers/assistant-manager-corporate-secretarial", "desc": "Gia nhập đội ngũ đang phát triển nhanh chóng của chúng tôi. Chúng tôi đang tìm kiếm một Phó phòng giàu kinh nghiệm cho Bộ phận Thư ký Doanh nghiệp tại Singapore." },
+        { "title": "Phó phòng – Thuế", "location": "Singapore", "href": "/careers/assistant-manager-tax", "desc": "Gia nhập đội ngũ đang phát triển nhanh chóng của chúng tôi. Chúng tôi đang tìm kiếm một Phó phòng giàu kinh nghiệm cho Đội ngũ Thuế tại Singapore." },
+        { "title": "Chuyên viên – Thư ký Doanh nghiệp", "location": "Singapore", "href": "/careers/associate-corporate-secretarial", "desc": "Gia nhập đội ngũ đang phát triển nhanh chóng của chúng tôi. Chúng tôi đang tìm kiếm một Chuyên viên giàu kinh nghiệm cho Bộ phận Thư ký Doanh nghiệp tại Singapore." },
+        { "title": "Chuyên viên – Chuyển giá", "location": "Singapore", "href": "/careers/associate-transfer-pricing", "desc": "Gia nhập đội ngũ đang phát triển nhanh chóng của chúng tôi. Chúng tôi đang tìm kiếm một Chuyên viên Chuyển giá giàu kinh nghiệm cho đội ngũ của chúng tôi tại Singapore." },
+        { "title": "Chuyên viên Phân tích Kinh doanh", "location": "Singapore", "href": "/careers/business-analyst", "desc": "Gia nhập đội ngũ đang phát triển nhanh chóng của chúng tôi. Chúng tôi đang tìm kiếm một Chuyên viên Phân tích Kinh doanh giàu kinh nghiệm cho đội ngũ của chúng tôi tại Singapore." },
+        { "title": "Giám đốc Tài chính", "location": "Việt Nam", "href": "/careers/chief-financial-officer", "desc": "Gia nhập đội ngũ đang phát triển nhanh chóng của chúng tôi. Chúng tôi đang tìm kiếm một Giám đốc Tài chính giàu kinh nghiệm cho đội ngũ của chúng tôi tại Đông Nam Á (Việt Nam)." },
+        { "title": "Chuyên viên Điều hành – Tuân thủ", "location": "Singapore", "href": "/careers/executive-compliance", "desc": "Gia nhập đội ngũ đang phát triển nhanh chóng của chúng tôi. Chúng tôi đang tìm kiếm một Chuyên viên Điều hành Tuân thủ cho đội ngũ COO của chúng tôi tại Singapore." },
+        { "title": "Trưởng phòng Tài chính", "location": "Singapore", "href": "/careers/finance-manager", "desc": "Gia nhập đội ngũ đang phát triển nhanh chóng của chúng tôi. Chúng tôi đang tìm kiếm một Trưởng phòng Tài chính giàu kinh nghiệm cho đội ngũ của chúng tôi tại Singapore." },
+        { "title": "Trưởng phòng – Phát triển Kinh doanh", "location": "Singapore", "href": "/careers/manager-business-development", "desc": "Gia nhập đội ngũ đang phát triển nhanh chóng của chúng tôi. Chúng tôi đang tìm kiếm một Trưởng phòng cho đội ngũ Phát triển Kinh doanh tại Singapore." },
+        { "title": "Trưởng phòng – Quan hệ Tuân thủ", "location": "Singapore", "href": "/careers/manager-compliance-relationship", "desc": "Gia nhập đội ngũ đang phát triển nhanh chóng của chúng tôi. Chúng tôi đang tìm kiếm một Trưởng phòng Quan hệ Tuân thủ cho đội ngũ Tuân thủ tại Singapore." },
+        { "title": "Trưởng phòng – Thư ký Doanh nghiệp", "location": "Singapore", "href": "/careers/manager-corporate-secretarial", "desc": "Bạn sẽ tư vấn cho Hội đồng Quản trị, quản lý danh mục khách hàng và đảm bảo tuân thủ pháp lý trong việc lưu trữ biên bản họp." },
+        { "title": "Chuyên viên Cao cấp – Kế toán & Tài chính", "location": "Singapore", "href": "/careers/senior-associate-accounting-finance", "desc": "Gia nhập đội ngũ đang phát triển nhanh chóng của chúng tôi. Chúng tôi đang tìm kiếm một Chuyên viên Cao cấp giàu kinh nghiệm cho Đội ngũ Kế toán & Tài chính tại Singapore." },
+        { "title": "Chuyên viên Cao cấp – Thư ký Doanh nghiệp", "location": "Singapore", "href": "/careers/senior-associate-corporate-secretarial", "desc": "Gia nhập đội ngũ đang phát triển nhanh chóng của chúng tôi. Chúng tôi đang tìm kiếm một Chuyên viên Cao cấp giàu kinh nghiệm cho Bộ phận Thư ký Doanh nghiệp tại Singapore." },
+        { "title": "Chuyên viên Cao cấp – Thuế", "location": "Singapore", "href": "/careers/senior-associate-tax", "desc": "Gia nhập đội ngũ đang phát triển nhanh chóng của chúng tôi. Chúng tôi đang tìm kiếm các Chuyên viên Cao cấp Thuế cho đội ngũ Thuế tại Singapore." },
+        { "title": "Chuyên viên Cao cấp / Chuyên viên – Đảm bảo Rủi ro", "location": "Việt Nam", "href": "/careers/senior-associate-risk-assurance", "desc": "Gia nhập đội ngũ Đảm bảo Rủi ro của chúng tôi để làm việc với những khách hàng hàng đầu và tích lũy chuyên môn về kiểm toán, phát triển bền vững và quản trị rủi ro." }
       ]
     },
     {
       "type": "richText",
-      "eyebrow": "Working at WTP Advisory",
-      "heading": "Grow with us",
+      "eyebrow": "Làm việc tại WTP Advisory",
+      "heading": "Phát triển cùng chúng tôi",
       "align": "center",
       "body": [
-        "Our people are at the heart of everything we do. We invest in our teams, encouraging every individual to develop and thrive, and our objective is to be a go-to destination for local talent in Vietnam.",
-        "Working at WTP Advisory means collaborating across departments — from accounting and tax advisory to corporate secretarial services and risk assurance — on meaningful projects for clients ranging from global multinationals to ambitious local enterprises."
+        "Con người là trung tâm của mọi điều chúng tôi làm. Chúng tôi đầu tư vào các đội ngũ của mình, khuyến khích mỗi cá nhân phát triển và thăng tiến, với mục tiêu trở thành điểm đến hàng đầu cho nhân tài bản địa tại Việt Nam.",
+        "Làm việc tại WTP Advisory đồng nghĩa với việc hợp tác xuyên suốt các phòng ban — từ kế toán và tư vấn thuế đến dịch vụ thư ký doanh nghiệp và đảm bảo rủi ro — trong những dự án ý nghĩa cho các khách hàng từ tập đoàn đa quốc gia toàn cầu đến những doanh nghiệp bản địa đầy tham vọng."
       ]
     },
     {
       "type": "cards",
-      "eyebrow": "Why Join Us",
-      "heading": "What we offer",
+      "eyebrow": "Vì sao gia nhập chúng tôi",
+      "heading": "Những gì chúng tôi mang lại",
       "columns": 3,
       "items": [
-        { "title": "Professional growth", "desc": "Hands-on experience and clear pathways to develop your career and expertise." },
-        { "title": "Diverse & inclusive", "desc": "A welcoming culture where every voice is valued and supported." },
-        { "title": "Sector-specific work", "desc": "Exposure to varied industries and complex, real-world client projects." },
-        { "title": "Expert mentorship", "desc": "Learn from an experienced leadership team committed to your success." },
-        { "title": "Regional reach", "desc": "Be part of WTP Advisory with 1,500 professionals across Asia-Pacific." },
-        { "title": "Multiple locations", "desc": "Opportunities in Ho Chi Minh City, Hanoi, and Danang." }
+        { "title": "Phát triển nghề nghiệp", "desc": "Kinh nghiệm thực tiễn và lộ trình rõ ràng để phát triển sự nghiệp và chuyên môn của bạn." },
+        { "title": "Đa dạng & hòa nhập", "desc": "Một văn hóa cởi mở, nơi mọi tiếng nói đều được trân trọng và hỗ trợ." },
+        { "title": "Công việc chuyên ngành", "desc": "Tiếp xúc với nhiều ngành nghề đa dạng và các dự án khách hàng phức tạp, thực tiễn." },
+        { "title": "Cố vấn chuyên môn", "desc": "Học hỏi từ một đội ngũ lãnh đạo giàu kinh nghiệm, tận tâm với thành công của bạn." },
+        { "title": "Tầm vóc khu vực", "desc": "Trở thành một phần của WTP Advisory với 1.500 chuyên gia trên khắp châu Á - Thái Bình Dương." },
+        { "title": "Nhiều địa điểm làm việc", "desc": "Cơ hội tại TP. Hồ Chí Minh, Hà Nội và Đà Nẵng." }
       ]
     },
     {
       "type": "list",
-      "eyebrow": "Open Roles",
-      "heading": "Areas we're hiring across",
+      "eyebrow": "Vị trí đang tuyển",
+      "heading": "Các lĩnh vực chúng tôi đang tuyển dụng",
       "columns": 2,
       "items": [
-        "Accounting & Finance",
-        "Tax Advisory",
-        "Corporate Secretarial",
-        "Compliance",
-        "Business Development",
-        "Risk Assurance"
+        "Kế toán & Tài chính",
+        "Tư vấn Thuế",
+        "Thư ký Doanh nghiệp",
+        "Tuân thủ",
+        "Phát triển Kinh doanh",
+        "Đảm bảo Rủi ro"
       ]
     },
     {
       "type": "steps",
-      "eyebrow": "How to Apply",
-      "heading": "Joining our team",
+      "eyebrow": "Cách ứng tuyển",
+      "heading": "Gia nhập đội ngũ của chúng tôi",
       "items": [
-        { "title": "Explore opportunities", "desc": "Review our open roles by location across Danang, Hanoi, and Ho Chi Minh City." },
-        { "title": "Submit your application", "desc": "Send us your CV and tell us why you'd be a great fit for WTP Advisory." },
-        { "title": "Meet the team", "desc": "Interview with our hiring managers and learn more about life at WTP Advisory." },
-        { "title": "Start your journey", "desc": "Join us and begin developing your career on impactful client projects." }
+        { "title": "Khám phá cơ hội", "desc": "Xem các vị trí đang tuyển theo địa điểm tại Đà Nẵng, Hà Nội và TP. Hồ Chí Minh." },
+        { "title": "Nộp hồ sơ ứng tuyển", "desc": "Gửi cho chúng tôi CV của bạn và cho chúng tôi biết vì sao bạn sẽ là một ứng viên phù hợp với WTP Advisory." },
+        { "title": "Gặp gỡ đội ngũ", "desc": "Phỏng vấn với các nhà tuyển dụng của chúng tôi và tìm hiểu thêm về cuộc sống tại WTP Advisory." },
+        { "title": "Bắt đầu hành trình của bạn", "desc": "Gia nhập cùng chúng tôi và bắt đầu phát triển sự nghiệp trên những dự án khách hàng đầy ý nghĩa." }
       ]
     },
     {
       "type": "cta",
-      "title": "Ready to take the next step?",
-      "subtitle": "Get in touch to learn more about careers at WTP Advisory.",
-      "button": { "label": "Apply Now", "href": "/make-an-inquiry" },
+      "title": "Sẵn sàng tiến bước tiếp theo?",
+      "subtitle": "Hãy liên hệ để tìm hiểu thêm về cơ hội nghề nghiệp tại WTP Advisory.",
+      "button": { "label": "Ứng tuyển ngay", "href": "/make-an-inquiry" },
       "variant": "blue"
     }
   ],

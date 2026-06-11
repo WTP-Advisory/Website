@@ -1,12 +1,12 @@
-﻿{
-  "title": "Other Tax Services",
-  "metaDescription": "WTP Advisory offers tailored tax solutions for compliance, audits, and optimization, minimizing risks and ensuring full compliance in Vietnam's dynamic tax landscape.",
+{
+  "title": "Các Dịch vụ Thuế Khác",
+  "metaDescription": "WTP Advisory cung cấp các giải pháp thuế được thiết kế riêng cho việc tuân thủ, kiểm toán và tối ưu hóa thuế, giảm thiểu rủi ro và đảm bảo tuân thủ đầy đủ trong bối cảnh thuế đầy biến động tại Việt Nam.",
   "hero": {
-    "eyebrow": "Services",
-    "title": "Other Tax Services",
-    "subtitle": "WTP Advisory specializes in managing the complexities of Vietnam's tax system, offering tailored solutions for compliance, audits, and tax optimization. We help minimize risks and ensure your business stays fully compliant in a dynamic tax landscape.",
+    "eyebrow": "Dịch vụ",
+    "title": "Các Dịch vụ Thuế Khác",
+    "subtitle": "WTP Advisory chuyên xử lý sự phức tạp của hệ thống thuế tại Việt Nam, mang đến các giải pháp được thiết kế riêng cho việc tuân thủ, kiểm toán và tối ưu hóa thuế. Chúng tôi giúp giảm thiểu rủi ro và đảm bảo doanh nghiệp của bạn luôn tuân thủ đầy đủ trong một bối cảnh thuế đầy biến động.",
     "cta": {
-      "label": "Make an Inquiry",
+      "label": "Gửi yêu cầu tư vấn",
       "href": "/make-an-inquiry"
     },
     "image": "/incorp/solutions/tax-services.jpg"
@@ -14,113 +14,113 @@
   "sections": [
     {
       "type": "richText",
-      "heading": "Navigating the Complexities of Tax Compliance in Vietnam",
+      "heading": "Làm chủ sự phức tạp của việc tuân thủ thuế tại Việt Nam",
       "body": [
-        "Navigating Vietnam's tax system can be challenging, especially when it comes to specialized areas like transfer pricing, personal income tax finalization, and tax audits. Without the right support, businesses may face costly penalties or miss opportunities to optimize their tax positions. Issues like improper transfer pricing compliance, failure to finalize PIT correctly, or lack of due diligence could result in significant risks, while neglecting regular tax health checks can leave businesses vulnerable to last-minute disputes.",
-        "At WTP Advisory, we provide tailored services to help you manage these complexities, ensuring compliance and minimizing risks so you can focus on growing your business."
+        "Việc nắm bắt hệ thống thuế tại Việt Nam có thể là một thách thức, đặc biệt ở những lĩnh vực chuyên biệt như chuyển giá, quyết toán thuế thu nhập cá nhân và kiểm toán thuế. Nếu không có sự hỗ trợ phù hợp, doanh nghiệp có thể đối mặt với các khoản phạt tốn kém hoặc bỏ lỡ cơ hội tối ưu hóa nghĩa vụ thuế. Những vấn đề như tuân thủ chuyển giá không đúng quy định, quyết toán thuế TNCN không chính xác hoặc thiếu thẩm định cần thiết đều có thể dẫn đến rủi ro đáng kể, trong khi việc bỏ qua các đợt rà soát sức khỏe thuế định kỳ có thể khiến doanh nghiệp dễ vướng vào những tranh chấp phát sinh vào phút chót.",
+        "Tại WTP Advisory, chúng tôi cung cấp các dịch vụ được thiết kế riêng giúp bạn quản lý những vấn đề phức tạp này, đảm bảo tuân thủ và giảm thiểu rủi ro để bạn có thể tập trung phát triển doanh nghiệp."
       ]
     },
     {
       "type": "stats",
       "variant": "red",
-      "heading": "Your trusted accounting services provider",
+      "heading": "Đối tác dịch vụ kế toán đáng tin cậy của bạn",
       "items": [
         {
           "value": "30+",
-          "label": "Years Track Record"
+          "label": "Năm kinh nghiệm hoạt động"
         },
         {
           "value": "15,000+",
-          "label": "Clients Worldwide"
+          "label": "Khách hàng trên toàn cầu"
         },
         {
           "value": "120+",
-          "label": "Professionals"
+          "label": "Chuyên gia"
         }
       ]
     },
     {
       "type": "cards",
-      "heading": "Other Tax Services",
+      "heading": "Các Dịch vụ Thuế Khác",
       "columns": 3,
       "items": [
         {
-          "title": "Transfer Pricing Compliance",
+          "title": "Tuân thủ Chuyển giá",
           "icon": "scale"
         },
         {
-          "title": "PIT Finalization",
+          "title": "Quyết toán Thuế TNCN",
           "icon": "wallet"
         },
         {
-          "title": "Tax Due Diligence",
+          "title": "Thẩm định Thuế",
           "icon": "receipt"
         },
         {
-          "title": "Tax Health Check",
+          "title": "Rà soát Sức khỏe Thuế",
           "icon": "fileCheck"
         },
         {
-          "title": "Tax Audit Support",
+          "title": "Hỗ trợ Kiểm toán Thuế",
           "icon": "percent"
         }
       ]
     },
     {
       "type": "cards",
-      "heading": "Seamless Tax Management with Vietnam WTP Advisory",
+      "heading": "Quản lý Thuế Liền mạch cùng WTP Advisory Việt Nam",
       "columns": 4,
       "items": [
         {
-          "title": "Expert Consultation",
-          "desc": "Our tax specialists provide insights into regulations and best practices, helping you optimize your tax strategy.",
+          "title": "Tư vấn Chuyên sâu",
+          "desc": "Các chuyên gia thuế của chúng tôi cung cấp những phân tích sâu sắc về quy định và thực tiễn tốt nhất, giúp bạn tối ưu hóa chiến lược thuế của mình.",
           "icon": "globe"
         },
         {
-          "title": "Comprehensive Support",
-          "desc": "We offer a full suite of tax services, from reporting to compliance, ensuring streamlined and accurate tax management.",
+          "title": "Hỗ trợ Toàn diện",
+          "desc": "Chúng tôi cung cấp trọn bộ dịch vụ thuế, từ báo cáo đến tuân thủ, đảm bảo quản lý thuế tinh gọn và chính xác.",
           "icon": "handshake"
         },
         {
-          "title": "Simplified Process",
-          "desc": "We handle the time-consuming tasks of tax reporting and compliance, allowing you to focus on what matters most.",
+          "title": "Quy trình Tinh gọn",
+          "desc": "Chúng tôi đảm nhận những công việc tốn nhiều thời gian như báo cáo thuế và tuân thủ thuế, để bạn có thể tập trung vào những điều quan trọng nhất.",
           "icon": "rocket"
         },
         {
-          "title": "Focus on Core Business",
-          "desc": "With our tax expertise, you can concentrate on achieving your business goals while ensuring full compliance.",
+          "title": "Tập trung vào Hoạt động Cốt lõi",
+          "desc": "Với chuyên môn về thuế của chúng tôi, bạn có thể dồn sức cho các mục tiêu kinh doanh trong khi vẫn đảm bảo tuân thủ đầy đủ.",
           "icon": "network"
         }
       ]
     },
     {
       "type": "cards",
-      "heading": "Meet Our Experts",
+      "heading": "Gặp gỡ Đội ngũ Chuyên gia",
       "columns": 3,
       "items": [
         {
-          "title": "Michael Tran, CPA, CA",
-          "desc": "Chief Executive Officer",
+          "title": "[Tên CEO], CPA, CA",
+          "desc": "Tổng Giám đốc Điều hành",
           "icon": "user"
         },
         {
-          "title": "David Pham",
-          "desc": "Head of Business Advisory",
+          "title": "[Tên Trưởng Phòng Tư Vấn]",
+          "desc": "Trưởng phòng Tư vấn Doanh nghiệp",
           "icon": "userCheck"
         },
         {
-          "title": "Linh Hoang",
-          "desc": "Head of Corporate Secretarial and Advisory Services",
+          "title": "[Tên Trưởng Phòng Thư Ký]",
+          "desc": "Trưởng phòng Dịch vụ Thư ký và Tư vấn Doanh nghiệp",
           "icon": "briefcase"
         }
       ]
     },
     {
       "type": "cta",
-      "title": "Ready to get started in Vietnam?",
-      "subtitle": "Talk to our experts about how we can support your business.",
+      "title": "Sẵn sàng khởi đầu tại Việt Nam?",
+      "subtitle": "Hãy trao đổi với các chuyên gia của chúng tôi về cách chúng tôi có thể hỗ trợ doanh nghiệp của bạn.",
       "button": {
-        "label": "Make an Inquiry",
+        "label": "Gửi yêu cầu tư vấn",
         "href": "/make-an-inquiry"
       },
       "variant": "red"

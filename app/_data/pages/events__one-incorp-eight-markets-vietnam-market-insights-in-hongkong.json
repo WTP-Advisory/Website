@@ -1,41 +1,41 @@
-﻿{
+{
   "layout": "event",
-  "title": "One WTP Advisory, Eight Markets: Expand Your Horizons Series – Vietnam Market Insights in Hong Kong",
-  "metaDescription": "An in-person session sharing Vietnam market insights with Hong Kong-based investors, part of WTP Advisory's One WTP Advisory, Eight Markets series.",
+  "title": "One WTP Advisory, Eight Markets: Chuỗi sự kiện Mở Rộng Tầm Nhìn – Góc nhìn thị trường Việt Nam tại Hồng Kông",
+  "metaDescription": "Buổi gặp gỡ trực tiếp chia sẻ góc nhìn thị trường Việt Nam với các nhà đầu tư tại Hồng Kông, nằm trong chuỗi One WTP Advisory, Eight Markets của WTP Advisory.",
   "banner": "/incorp/events/eight-markets-hongkong.png",
   "format": "Offline",
-  "date": "May 29, 2024",
+  "date": "Ngày 29 tháng 5 năm 2024",
   "about": [
-    "Ready to take your business to Vietnam? In this unique multi-country series tailored for business professionals, we invite you to join our Vietnamese expert teams for an in-person experience.",
-    "Dive into insightful discussions about expanding your business across our Vietnam market in the Asia-Pacific region. Gain valuable knowledge on strategies and opportunities that will enable you to make well-informed decisions, fostering growth and success in this diverse and dynamic market.",
-    "This series is an exceptional opportunity to network, learn, and explore pathways for your business's expansion in the Vietnam business landscape."
+    "Sẵn sàng đưa doanh nghiệp của bạn đến Việt Nam? Trong chuỗi sự kiện đa quốc gia độc đáo được thiết kế riêng cho giới chuyên gia kinh doanh này, chúng tôi trân trọng mời bạn gặp gỡ trực tiếp đội ngũ chuyên gia Việt Nam của chúng tôi.",
+    "Cùng tham gia những cuộc thảo luận sâu sắc về việc mở rộng kinh doanh trên thị trường Việt Nam tại khu vực châu Á - Thái Bình Dương. Bạn sẽ thu nhận những kiến thức giá trị về các chiến lược và cơ hội giúp đưa ra những quyết định sáng suốt, từ đó thúc đẩy tăng trưởng và thành công trên thị trường đa dạng và đầy năng động này.",
+    "Đây là cơ hội đặc biệt để kết nối, học hỏi và khám phá những con đường mở rộng cho doanh nghiệp của bạn trong bức tranh kinh doanh Việt Nam."
   ],
   "details": [
-    { "label": "Date", "value": "May 29, 2024" },
-    { "label": "Time", "value": "10:00 AM – 12:00 PM (Vietnam Time)" },
-    { "label": "Venue", "value": "Unit 1307A, 13/F, Two Harbourfront, 22 Tak Fung St, Hung Hom, Hong Kong" }
+    { "label": "Ngày", "value": "Ngày 29 tháng 5 năm 2024" },
+    { "label": "Thời gian", "value": "10:00 – 12:00 (Giờ Việt Nam)" },
+    { "label": "Địa điểm", "value": "Unit 1307A, 13/F, Two Harbourfront, 22 Tak Fung St, Hung Hom, Hồng Kông" }
   ],
   "bulletSections": [
     {
-      "heading": "Who Should Attend",
+      "heading": "Đối tượng nên tham dự",
       "items": [
-        "Companies of all sizes interested in business expansion in Vietnam",
-        "Business leaders and decision-makers",
-        "Investors exploring the Vietnam market"
+        "Doanh nghiệp ở mọi quy mô quan tâm đến việc mở rộng kinh doanh tại Việt Nam",
+        "Lãnh đạo doanh nghiệp và những người ra quyết định",
+        "Nhà đầu tư đang tìm hiểu thị trường Việt Nam"
       ]
     }
   ],
   "registration": {
-    "heading": "Register Now",
-    "subtitle": "View our Vietnam market insights sessions and reserve your place at this in-person event.",
-    "schedule": "May 29, 2024 | 10:00 AM – 12:00 PM (Vietnam Time)"
+    "heading": "Đăng ký ngay",
+    "subtitle": "Tham khảo các buổi chia sẻ góc nhìn thị trường Việt Nam của chúng tôi và giữ chỗ tại sự kiện gặp gỡ trực tiếp này.",
+    "schedule": "Ngày 29 tháng 5 năm 2024 | 10:00 – 12:00 (Giờ Việt Nam)"
   },
   "prev": {
-    "title": "Bridging Borders: Navigating Opportunities and Challenges for Overseas Vietnamese in Vietnam",
+    "title": "Bridging Borders: Nắm bắt cơ hội và vượt qua thách thức dành cho người Việt Nam ở nước ngoài",
     "href": "/events/bridging-borders-overseas-vietnamese"
   },
   "next": {
-    "title": "Mastering Chief Accountant Compliance in Vietnam: Essential Guidelines for 2024",
+    "title": "Làm chủ tuân thủ Kế toán trưởng tại Việt Nam: Hướng dẫn thiết yếu cho năm 2024",
     "href": "/events/webinar-chief-accountant-requirements"
   }
 }

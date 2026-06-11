@@ -1,12 +1,12 @@
-﻿{
-  "title": "Conditional Business License Services in Vietnam",
-  "metaDescription": "Starting a business in Vietnam with a conditional license? WTP Advisory offers end-to-end support for efficient, compliant licensing.",
+{
+  "title": "Dịch vụ Giấy phép Kinh doanh Có điều kiện tại Việt Nam",
+  "metaDescription": "Khởi đầu kinh doanh tại Việt Nam với giấy phép có điều kiện? WTP Advisory cung cấp hỗ trợ trọn gói để cấp phép hiệu quả và tuân thủ.",
   "hero": {
-    "eyebrow": "Services",
-    "title": "Conditional Business License Services in Vietnam",
-    "subtitle": "Planning to establish a business in Vietnam that requires a conditional business license? The regulatory process can be challenging, but WTP Advisory is here to make it effortless. Our experienced team offers end-to-end assistance, ensuring you secure the required licenses efficiently and in full compliance with local laws.",
+    "eyebrow": "Dịch vụ",
+    "title": "Dịch vụ Giấy phép Kinh doanh Có điều kiện tại Việt Nam",
+    "subtitle": "Bạn đang dự định thành lập một doanh nghiệp tại Việt Nam yêu cầu giấy phép kinh doanh có điều kiện? Quy trình pháp lý có thể đầy thử thách, nhưng WTP Advisory ở đây để giúp mọi việc trở nên dễ dàng. Đội ngũ giàu kinh nghiệm của chúng tôi cung cấp hỗ trợ trọn gói, đảm bảo bạn có được các giấy phép cần thiết một cách hiệu quả và tuân thủ đầy đủ luật pháp địa phương.",
     "cta": {
-      "label": "Make an Inquiry",
+      "label": "Gửi yêu cầu tư vấn",
       "href": "/make-an-inquiry"
     },
     "image": "/incorp/solutions/legal-advisory.jpg"
@@ -14,62 +14,62 @@
   "sections": [
     {
       "type": "richText",
-      "heading": "Are you looking to set up a business in Vietnam that requires a conditional business license?",
+      "heading": "Bạn đang muốn thành lập một doanh nghiệp tại Việt Nam yêu cầu giấy phép kinh doanh có điều kiện?",
       "body": [
-        "Navigating the country's regulatory landscape can be complex, but WTP Advisory is here to simplify the process for you. Our team of experts provides comprehensive support to ensure you obtain the necessary licenses quickly and compliantly."
+        "Việc vượt qua bối cảnh pháp lý của quốc gia có thể phức tạp, nhưng WTP Advisory ở đây để đơn giản hóa quy trình cho bạn. Đội ngũ chuyên gia của chúng tôi cung cấp hỗ trợ toàn diện nhằm đảm bảo bạn có được các giấy phép cần thiết một cách nhanh chóng và tuân thủ."
       ]
     },
     {
       "type": "cards",
-      "heading": "Why Choose WTP Advisory?",
+      "heading": "Vì sao chọn WTP Advisory?",
       "columns": 3,
       "items": [
         {
-          "title": "Expert Regulatory Guidance",
-          "desc": "Our specialists have extensive knowledge of Vietnam's licensing regulations and keep up with the latest legal updates.",
+          "title": "Hướng dẫn pháp lý chuyên sâu",
+          "desc": "Các chuyên gia của chúng tôi am hiểu sâu sắc về quy định cấp phép của Việt Nam và luôn cập nhật những thay đổi pháp lý mới nhất.",
           "icon": "scale"
         },
         {
-          "title": "End-to-End Support",
-          "desc": "From document preparation to submission and follow-up, we handle the entire licensing process for you.",
+          "title": "Hỗ trợ trọn gói",
+          "desc": "Từ chuẩn bị hồ sơ đến nộp và theo dõi, chúng tôi xử lý toàn bộ quy trình cấp phép cho bạn.",
           "icon": "headset"
         },
         {
-          "title": "Tailored Solutions",
-          "desc": "We provide customized licensing strategies based on your business model and industry requirements.",
+          "title": "Giải pháp được thiết kế riêng",
+          "desc": "Chúng tôi cung cấp các chiến lược cấp phép được tùy chỉnh dựa trên mô hình kinh doanh và yêu cầu ngành nghề của bạn.",
           "icon": "badge"
         },
         {
-          "title": "Fast-Track Processing",
-          "desc": "With our established networks and local expertise, we help you secure your license in the shortest possible time.",
+          "title": "Xử lý nhanh chóng",
+          "desc": "Với mạng lưới quan hệ vững chắc và chuyên môn địa phương, chúng tôi giúp bạn có được giấy phép trong thời gian ngắn nhất có thể.",
           "icon": "clock"
         },
         {
-          "title": "Compliance Assurance",
-          "desc": "We ensure that your business remains compliant with all Vietnamese laws and regulations, avoiding potential risks and penalties.",
+          "title": "Đảm bảo tuân thủ",
+          "desc": "Chúng tôi đảm bảo doanh nghiệp của bạn luôn tuân thủ mọi luật và quy định của Việt Nam, tránh các rủi ro và chế tài xử phạt tiềm ẩn.",
           "icon": "shield"
         }
       ]
     },
     {
       "type": "cards",
-      "heading": "Benefits of conditional business license services with WTP Advisory",
+      "heading": "Lợi ích của dịch vụ giấy phép kinh doanh có điều kiện cùng WTP Advisory",
       "columns": 4,
       "items": [
         {
-          "title": "Meet the International Team of Experts",
+          "title": "Tiếp cận đội ngũ chuyên gia quốc tế",
           "icon": "globe"
         },
         {
-          "title": "Full Transparency for the Entire Process",
+          "title": "Minh bạch hoàn toàn trong suốt quá trình",
           "icon": "headset"
         },
         {
-          "title": "Both Remote and Direct Communication",
+          "title": "Trao đổi linh hoạt từ xa và trực tiếp",
           "icon": "chart"
         },
         {
-          "title": "Enhances Scalability and Adaptability",
+          "title": "Nâng cao khả năng mở rộng và thích ứng",
           "icon": "fileCheck"
         }
       ]
@@ -77,32 +77,32 @@
     {
       "type": "stats",
       "variant": "red",
-      "heading": "Your Experts in Company Incorporation",
+      "heading": "Chuyên gia của bạn trong lĩnh vực thành lập doanh nghiệp",
       "items": [
         {
           "value": "30+",
-          "label": "Years Track Record"
+          "label": "Năm kinh nghiệm"
         },
         {
           "value": "15,000+",
-          "label": "Clients Worldwide"
+          "label": "Khách hàng trên toàn cầu"
         },
         {
           "value": "100+",
-          "label": "Companies Incorporated Yearly"
+          "label": "Doanh nghiệp được thành lập mỗi năm"
         },
         {
           "value": "1,500+",
-          "label": "Professionals"
+          "label": "Chuyên gia"
         }
       ]
     },
     {
       "type": "cta",
-      "title": "Ready to get started in Vietnam?",
-      "subtitle": "Talk to our experts about how we can support your business.",
+      "title": "Sẵn sàng khởi đầu tại Việt Nam?",
+      "subtitle": "Trao đổi với các chuyên gia của chúng tôi về cách chúng tôi có thể hỗ trợ doanh nghiệp của bạn.",
       "button": {
-        "label": "Make an Inquiry",
+        "label": "Gửi yêu cầu tư vấn",
         "href": "/make-an-inquiry"
       },
       "variant": "red"

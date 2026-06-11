@@ -1,25 +1,25 @@
-﻿{
+{
   "about": {
-    "heading": "About WTP Advisory",
-    "body": "WTP Advisory is a leading market entry & corporate services firm in Vietnam. As part of WTP Advisory, we focus on providing transparent and reliable services to overseas clients in Vietnam and Asia-Pacific. With 30+ years of experience and 1,500 professionals, WTP Advisory has assisted 20,000 clients in elevating their businesses."
+    "heading": "Về WTP Advisory",
+    "body": "WTP Advisory là công ty hàng đầu về dịch vụ thâm nhập thị trường & dịch vụ doanh nghiệp tại Việt Nam. Là một thành viên của WTP Advisory, chúng tôi tập trung cung cấp dịch vụ minh bạch và đáng tin cậy cho khách hàng nước ngoài tại Việt Nam và khu vực châu Á - Thái Bình Dương. Với hơn 30 năm kinh nghiệm và 1.500 chuyên gia, WTP Advisory đã đồng hành cùng 20.000 khách hàng nâng tầm hoạt động kinh doanh của họ."
   },
   "contact": {
-    "heading": "Contact Us",
+    "heading": "Liên hệ",
     "offices": [
       {
-        "name": "HCMC Office",
+        "name": "Văn phòng TP. Hồ Chí Minh",
         "lines": [
-          "The Galleria Office Building",
-          "258 Nam Ky Khoi Nghia St., Xuan Hoa Ward,",
-          "Ho Chi Minh City, Vietnam"
+          "Tòa nhà The Galleria Office Building",
+          "258 Nam Kỳ Khởi Nghĩa, Phường Xuân Hòa,",
+          "TP. Hồ Chí Minh, Việt Nam"
         ]
       },
       {
-        "name": "Hanoi Office",
+        "name": "Văn phòng Hà Nội",
         "lines": [
-          "Prime Centre Building",
-          "17th floor, 53 Quang Trung St.,",
-          "Hai Ba Trung Ward, Hanoi, Vietnam"
+          "Tòa nhà Prime Centre",
+          "Tầng 17, 53 Quang Trung,",
+          "Phường Hai Bà Trưng, Hà Nội, Việt Nam"
         ]
       }
     ],
@@ -29,43 +29,43 @@
     "emailHref": "mailto:vietnam@incorp.asia"
   },
   "newsletter": {
-    "heading": "Stay in the Know",
-    "body": "Subscribe and get our exclusive Vietnam Business Setup Checklist",
-    "namePlaceholder": "Name",
+    "heading": "Luôn cập nhật thông tin",
+    "body": "Đăng ký để nhận Danh mục kiểm tra thành lập doanh nghiệp tại Việt Nam độc quyền của chúng tôi",
+    "namePlaceholder": "Họ và tên",
     "emailPlaceholder": "Email",
-    "submitLabel": "Subscribe"
+    "submitLabel": "Đăng ký"
   },
   "columns": [
     {
-      "heading": "Services",
+      "heading": "Dịch vụ",
       "links": [
-        { "label": "Company Formation", "href": "/incorporation/company-formation" },
-        { "label": "Legal Advisory", "href": "/legal-advisory" },
-        { "label": "Accounting & Taxation", "href": "/accounting-taxation" },
-        { "label": "HR & Payroll", "href": "/hr-payroll-services" }
+        { "label": "Thành lập công ty", "href": "/incorporation/company-formation" },
+        { "label": "Tư vấn pháp lý", "href": "/legal-advisory" },
+        { "label": "Kế toán & Thuế", "href": "/accounting-taxation" },
+        { "label": "Nhân sự & Tính lương", "href": "/hr-payroll-services" }
       ]
     },
     {
-      "heading": "Quick Links",
+      "heading": "Liên kết nhanh",
       "links": [
-        { "label": "About Us", "href": "/about-us" },
-        { "label": "Our Partners", "href": "/our-partners" },
-        { "label": "Our Experts", "href": "/our-people" }
+        { "label": "Về chúng tôi", "href": "/about-us" },
+        { "label": "Đối tác của chúng tôi", "href": "/our-partners" },
+        { "label": "Chuyên gia của chúng tôi", "href": "/our-people" }
       ]
     },
     {
-      "heading": "Resources",
+      "heading": "Tài nguyên",
       "links": [
-        { "label": "News", "href": "/news" },
-        { "label": "Events", "href": "/events" }
+        { "label": "Tin tức", "href": "/news" },
+        { "label": "Sự kiện", "href": "/events" }
       ]
     }
   ],
   "bottom": {
-    "copyright": "© 2026 WTP Advisory (formerly Cekindo), all rights reserved.",
+    "copyright": "© 2026 WTP Advisory (tiền thân là Cekindo), bảo lưu mọi quyền.",
     "legalLinks": [
-      { "label": "Privacy Policy", "href": "/privacy" },
-      { "label": "Terms & Conditions", "href": "/terms" }
+      { "label": "Chính sách bảo mật", "href": "/privacy" },
+      { "label": "Điều khoản & Điều kiện", "href": "/terms" }
     ],
     "social": [
       { "label": "Facebook", "icon": "facebook", "href": "https://www.facebook.com/InCorpVietnam" },

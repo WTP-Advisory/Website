@@ -1,42 +1,42 @@
 {
-  "heading": "News & insights",
-  "readMoreLabel": "Read more",
+  "heading": "Tin tức & góc nhìn",
+  "readMoreLabel": "Xem thêm",
   "articles": [
     {
-      "title": "Electronic Labor Contracts in Vietnam 2026: Latest Regulations and Practical Insights",
+      "title": "Hợp đồng lao động điện tử tại Việt Nam 2026: Quy định mới nhất và góc nhìn thực tiễn",
       "href": "/electronic-labor-contracts-in-vietnam",
       "image": "/incorp/news/electronic-labor-contracts.png",
-      "alt": "electronic labor contracts"
+      "alt": "hợp đồng lao động điện tử"
     },
     {
-      "title": "Master ERP Application in Vietnam: A Complete Guide for 2026",
+      "title": "Làm chủ ứng dụng ERP tại Việt Nam: Cẩm nang toàn diện cho năm 2026",
       "href": "/erp-application-in-vietnam-2026",
       "image": "/incorp/news/erp-application.png",
-      "alt": "erp application in vietnam"
+      "alt": "ứng dụng erp tại việt nam"
     },
     {
-      "title": "Automation in Vietnam 2026: Advancing Industrial Innovation and Industrialization with Artificial Intelligence Automation",
+      "title": "Tự động hóa tại Việt Nam 2026: Thúc đẩy đổi mới và công nghiệp hóa với tự động hóa bằng trí tuệ nhân tạo",
       "href": "/automation-in-vietnam",
       "image": "/incorp/news/automation.jpg",
-      "alt": "Automation in Vietnam"
+      "alt": "Tự động hóa tại Việt Nam"
     },
     {
-      "title": "Top Firms for Tax and Compliance Services in Vietnam: The 2026 Corporate Guide",
+      "title": "Những công ty hàng đầu về dịch vụ thuế và tuân thủ tại Việt Nam: Cẩm nang doanh nghiệp 2026",
       "href": "/tax-and-compliance-services-in-vietnam",
       "image": "/incorp/news/tax-compliance.png",
-      "alt": "tax and compliance services"
+      "alt": "dịch vụ thuế và tuân thủ"
     },
     {
-      "title": "A Guide to Payroll in Vietnam: What Employers Need to Know for 2026",
+      "title": "Cẩm nang tính lương tại Việt Nam: Những điều doanh nghiệp cần biết cho năm 2026",
       "href": "/manage-payroll-vietnam",
       "image": "/incorp/news/payroll.png",
-      "alt": "payroll in vietnam"
+      "alt": "tính lương tại việt nam"
     },
     {
-      "title": "Beyond the Ledger: The 2026 Guide to Finance and Accounting Outsourcing Services in Vietnam",
+      "title": "Vượt ra ngoài sổ sách: Cẩm nang 2026 về dịch vụ thuê ngoài tài chính và kế toán tại Việt Nam",
       "href": "/finance-and-accounting-outsourcing-services",
       "image": "/incorp/news/finance-accounting.png",
-      "alt": "finance and accounting outsourcing services"
+      "alt": "dịch vụ thuê ngoài tài chính và kế toán"
     }
   ]
 }

@@ -1,12 +1,12 @@
-﻿{
-  "title": "Trademark Application in Vietnam",
-  "metaDescription": "Trademark registration is essential to protecting your company's rights while doing business in Vietnam. Here's how we help simplify the process.",
+{
+  "title": "Đăng ký Nhãn hiệu tại Việt Nam",
+  "metaDescription": "Đăng ký nhãn hiệu là điều thiết yếu để bảo vệ quyền lợi của công ty bạn khi kinh doanh tại Việt Nam. Dưới đây là cách chúng tôi giúp đơn giản hóa quy trình.",
   "hero": {
-    "eyebrow": "Services",
-    "title": "Trademark Application in Vietnam",
-    "subtitle": "Constantly changing regulations, protecting your assets, including your intellectual property, can seem daunting for a foreign-owned company in Vietnam. Our experienced bilingual legal team makes trademark licensing and international trademark registration easy and affordable. From day one, we'll provide affordable trademark registration, so you can focus on doing business without any worries.",
+    "eyebrow": "Dịch vụ",
+    "title": "Đăng ký Nhãn hiệu tại Việt Nam",
+    "subtitle": "Trước các quy định không ngừng thay đổi, việc bảo vệ tài sản, bao gồm cả tài sản trí tuệ, có thể là thách thức lớn đối với một công ty có vốn nước ngoài tại Việt Nam. Đội ngũ pháp lý song ngữ giàu kinh nghiệm của chúng tôi giúp việc cấp phép nhãn hiệu và đăng ký nhãn hiệu quốc tế trở nên dễ dàng và hợp lý về chi phí. Ngay từ ngày đầu, chúng tôi sẽ cung cấp dịch vụ đăng ký nhãn hiệu với chi phí phải chăng, để bạn an tâm tập trung vào kinh doanh.",
     "cta": {
-      "label": "Make an Inquiry",
+      "label": "Gửi yêu cầu tư vấn",
       "href": "/make-an-inquiry"
     },
     "image": "/incorp/solutions/legal-advisory.jpg"
@@ -14,195 +14,195 @@
   "sections": [
     {
       "type": "cards",
-      "heading": "Benefits of Trademark Licensing in Vietnam",
+      "heading": "Lợi ích của việc Cấp phép Nhãn hiệu tại Việt Nam",
       "columns": 4,
       "items": [
         {
-          "title": "Exclusive Rights and Preventing Unauthorized Use",
-          "desc": "Get exclusive rights to your trademark, stopping others from using it without permission.",
+          "title": "Quyền độc quyền và Ngăn chặn sử dụng trái phép",
+          "desc": "Có được quyền độc quyền đối với nhãn hiệu của bạn, ngăn chặn người khác sử dụng mà không được phép.",
           "icon": "rocket"
         },
         {
-          "title": "Protect Identity and Deter infringement",
-          "desc": "Keep your brand safe from misuse and avoid confusion with similar marks.",
+          "title": "Bảo vệ nhận diện và Ngăn ngừa xâm phạm",
+          "desc": "Giữ cho thương hiệu của bạn an toàn khỏi việc sử dụng sai mục đích và tránh nhầm lẫn với các nhãn hiệu tương tự.",
           "icon": "shield"
         },
         {
-          "title": "Priority Recognition and Safeguard Ownership",
-          "desc": "Secure priority recognition, gain national recognition, and defend your ownership claims.",
+          "title": "Quyền ưu tiên và Bảo vệ quyền sở hữu",
+          "desc": "Đảm bảo quyền ưu tiên, đạt được sự công nhận trên toàn quốc và bảo vệ các quyền sở hữu của bạn.",
           "icon": "fileCheck"
         },
         {
-          "title": "Enhance Asset Value and Loan Collateral",
-          "desc": "Boost your trademark's value, making it easier to get loans and improving your business reputation.",
+          "title": "Nâng cao giá trị tài sản và Tài sản thế chấp vay vốn",
+          "desc": "Gia tăng giá trị nhãn hiệu của bạn, giúp việc vay vốn dễ dàng hơn và nâng cao uy tín doanh nghiệp.",
           "icon": "globe"
         }
       ]
     },
     {
       "type": "table",
-      "heading": "Required Documents for Trademark Application in Vietnam",
-      "columns": ["No.", "Name of Documents", "Notes"],
+      "heading": "Hồ sơ Cần thiết để Đăng ký Nhãn hiệu tại Việt Nam",
+      "columns": ["STT", "Tên tài liệu", "Ghi chú"],
       "rows": [
         {
           "label": "1",
-          "cells": ["Declaration for licensing", "According to the form of State Agencies"]
+          "cells": ["Tờ khai đăng ký nhãn hiệu", "Theo mẫu của cơ quan nhà nước"]
         },
         {
           "label": "2",
-          "cells": ["Samples of trademarks attached", "If trading on stock market, minimum 10 billion VND"]
+          "cells": ["Mẫu nhãn hiệu đính kèm", "Nếu giao dịch trên thị trường chứng khoán, tối thiểu 10 tỷ VND"]
         },
         {
           "label": "3",
-          "cells": ["Proof of payment of fees and charges to State Agencies", "Application fee: 150,000 VND. Application publication fee: 120,000 VND. Searching fee for content examination: 180,000 VND/group of products and services. Searching fee for the 7th+ product or service: 30,000 VND/product or service"]
+          "cells": ["Chứng từ nộp phí và lệ phí cho cơ quan nhà nước", "Phí nộp đơn: 150.000 VND. Phí công bố đơn: 120.000 VND. Phí tra cứu phục vụ thẩm định nội dung: 180.000 VND/nhóm sản phẩm và dịch vụ. Phí tra cứu cho sản phẩm hoặc dịch vụ thứ 7 trở đi: 30.000 VND/sản phẩm hoặc dịch vụ"]
         },
         {
           "label": "4",
-          "cells": ["Power of Attorney", "In case of applying through a representative"]
+          "cells": ["Giấy ủy quyền", "Trong trường hợp nộp đơn thông qua người đại diện"]
         },
         {
           "label": "5",
-          "cells": ["Documents certifying the permission to use special signs", "In case the trademark required to protect contains symbols, flags, badges of domestic and international agencies or organizations, etc."]
+          "cells": ["Tài liệu xác nhận được phép sử dụng các dấu hiệu đặc biệt", "Trong trường hợp nhãn hiệu cần bảo hộ có chứa biểu tượng, cờ, huy hiệu của các cơ quan, tổ chức trong nước và quốc tế, v.v."]
         },
         {
           "label": "6",
-          "cells": ["Documents proving the right to register", "In case such right is acquired by the applicant from another party"]
+          "cells": ["Tài liệu chứng minh quyền đăng ký", "Trong trường hợp người nộp đơn thụ hưởng quyền đó từ bên khác"]
         },
         {
           "label": "7",
-          "cells": ["Documents evidencing the priority right", "If the application has the requirement for priority right"]
+          "cells": ["Tài liệu chứng minh quyền ưu tiên", "Nếu đơn có yêu cầu quyền ưu tiên"]
         }
       ]
     },
     {
       "type": "richText",
-      "heading": "Trademark Application Procedure in Vietnam",
+      "heading": "Thủ tục Đăng ký Nhãn hiệu tại Việt Nam",
       "body": [
-        "Navigating the procedure for trademark registration in Vietnam can be complex, but understanding the timeline and steps involved makes it easier. Here's what to expect once the National Office of Intellectual Property of Vietnam (NOIP) receives your trademark application:",
-        "Form examination: 1 month",
-        "Application publication: Your application will be published within 2 months after NOIP accepts it as valid",
-        "Content examination: Not exceeding 9 months from the date of application publication",
-        "However, the entire procedure to register a trademark can sometimes extend to 18-24 months due to backlog and other factors."
+        "Việc xử lý thủ tục đăng ký nhãn hiệu tại Việt Nam có thể phức tạp, nhưng việc nắm rõ tiến trình thời gian và các bước liên quan sẽ giúp mọi việc dễ dàng hơn. Dưới đây là những gì bạn có thể kỳ vọng sau khi Cục Sở hữu Trí tuệ Việt Nam (NOIP) tiếp nhận đơn đăng ký nhãn hiệu của bạn:",
+        "Thẩm định hình thức: 1 tháng",
+        "Công bố đơn: Đơn của bạn sẽ được công bố trong vòng 2 tháng sau khi NOIP chấp nhận đơn hợp lệ",
+        "Thẩm định nội dung: Không quá 9 tháng kể từ ngày công bố đơn",
+        "Tuy nhiên, toàn bộ thủ tục đăng ký nhãn hiệu đôi khi có thể kéo dài đến 18-24 tháng do tồn đọng hồ sơ và các yếu tố khác."
       ]
     },
     {
       "type": "richText",
-      "heading": "How to apply",
+      "heading": "Cách thức nộp đơn",
       "body": [
-        "Submit Directly: You can send your application directly or by post to NOIP's registered office.",
-        "Submit Online: Alternatively, use NOIP's Online Public Service Portal for submission.",
-        "Validity: The certificate for your trademark is valid for 10 years from the date of issuance. It can be renewed indefinitely, in 10-year increments."
+        "Nộp trực tiếp: Bạn có thể gửi đơn trực tiếp hoặc qua đường bưu điện đến trụ sở đã đăng ký của NOIP.",
+        "Nộp trực tuyến: Hoặc bạn có thể sử dụng Cổng Dịch vụ Công Trực tuyến của NOIP để nộp đơn.",
+        "Hiệu lực: Giấy chứng nhận đăng ký nhãn hiệu của bạn có hiệu lực 10 năm kể từ ngày cấp. Giấy chứng nhận có thể được gia hạn không giới hạn, mỗi lần 10 năm."
       ]
     },
     {
       "type": "richText",
-      "heading": "Trademark Application Service with WTP Advisory",
+      "heading": "Dịch vụ Đăng ký Nhãn hiệu cùng WTP Advisory",
       "body": [
-        "Looking to protect your brand in Vietnam? Our trademark registration service has got you covered. From start to finish, we make the trademark registration process smooth and hassle-free.",
-        "Our comprehensive Trademark Application services include:",
-        "Examination of Trademark application",
-        "Consulting on the requirements and legal implications",
-        "Reviewing client application and business licenses in accordance with the law in Vietnam",
-        "Advising on the application and representation",
-        "Following up the application result for the work"
+        "Muốn bảo vệ thương hiệu của bạn tại Việt Nam? Dịch vụ đăng ký nhãn hiệu của chúng tôi sẽ lo trọn cho bạn. Từ đầu đến cuối, chúng tôi giúp quy trình đăng ký nhãn hiệu diễn ra suôn sẻ và không gặp trở ngại.",
+        "Dịch vụ Đăng ký Nhãn hiệu toàn diện của chúng tôi bao gồm:",
+        "Thẩm tra đơn đăng ký nhãn hiệu",
+        "Tư vấn về các yêu cầu và hệ quả pháp lý",
+        "Rà soát đơn đăng ký và giấy phép kinh doanh của khách hàng theo quy định pháp luật Việt Nam",
+        "Tư vấn về đơn đăng ký và đại diện",
+        "Theo dõi kết quả đơn đăng ký cho công việc"
       ]
     },
     {
       "type": "richText",
-      "heading": "Trademark Announcement",
+      "heading": "Thông báo Nhãn hiệu",
       "body": [
-        "WTP Advisory guarantees the swift delivery of official trademark documents and timely updates, expertly managing all communication related to your registered trademark in Vietnam.",
-        "This Trademark Announcement services will help you:",
-        "Send you the official documents for registered trademark",
-        "Provide updates and official announcements on the Vietnam Government portal of Trademark"
+        "WTP Advisory đảm bảo chuyển giao nhanh chóng các tài liệu chính thức về nhãn hiệu cùng những cập nhật kịp thời, quản lý chuyên nghiệp mọi liên lạc liên quan đến nhãn hiệu đã đăng ký của bạn tại Việt Nam.",
+        "Dịch vụ Thông báo Nhãn hiệu này sẽ giúp bạn:",
+        "Gửi cho bạn các tài liệu chính thức về nhãn hiệu đã đăng ký",
+        "Cung cấp các cập nhật và thông báo chính thức trên cổng thông tin về Nhãn hiệu của Chính phủ Việt Nam"
       ]
     },
     {
       "type": "steps",
-      "heading": "Your Success Plan in Vietnam",
+      "heading": "Lộ trình thành công của bạn tại Việt Nam",
       "items": [
         {
-          "title": "Submit Your Information & Needs",
-          "desc": "Tell us about your company's needs and aspirations for trademark licensing in Vietnam."
+          "title": "Gửi thông tin & nhu cầu của bạn",
+          "desc": "Hãy cho chúng tôi biết về nhu cầu và mục tiêu của công ty bạn đối với việc cấp phép nhãn hiệu tại Việt Nam."
         },
         {
-          "title": "Book a Consultation With Our Experts",
-          "desc": "Go over your plan with one of our bilingual business consultants who specialize in international trademark registration in Vietnam."
+          "title": "Đặt lịch tư vấn với chuyên gia của chúng tôi",
+          "desc": "Cùng trao đổi kế hoạch của bạn với một trong những chuyên gia tư vấn kinh doanh song ngữ của chúng tôi, những người chuyên về đăng ký nhãn hiệu quốc tế tại Việt Nam."
         },
         {
-          "title": "Verify KYC Documents",
-          "desc": "Our trademark registration attorney will contact you to process the necessary paperwork and create your company dossier."
+          "title": "Xác minh hồ sơ KYC",
+          "desc": "Luật sư đăng ký nhãn hiệu của chúng tôi sẽ liên hệ với bạn để xử lý các giấy tờ cần thiết và hoàn thiện hồ sơ công ty."
         },
         {
-          "title": "Choose a Plan & Succeed In Vietnam",
-          "desc": "Simplify your business journey with WTP Advisory's licensed trademark attorney and make your mark in APAC's fastest-growing economy."
+          "title": "Chọn gói dịch vụ & thành công tại Việt Nam",
+          "desc": "Đơn giản hóa hành trình kinh doanh của bạn cùng luật sư nhãn hiệu được cấp phép của WTP Advisory và ghi dấu ấn tại nền kinh tế tăng trưởng nhanh nhất khu vực Châu Á - Thái Bình Dương."
         }
       ]
     },
     {
       "type": "faq",
-      "eyebrow": "FAQ",
-      "heading": "Frequently Asked Questions on Trademark Licensing in Vietnam",
+      "eyebrow": "Câu hỏi thường gặp",
+      "heading": "Các câu hỏi thường gặp về Cấp phép Nhãn hiệu tại Việt Nam",
       "items": [
         {
-          "q": "Why is trademark registration important for foreign investors in Vietnam?",
-          "a": "Trademark registration is essential for protecting your brand against copyright infringements, establishing ownership, and preventing competitors from using your brand name or logo. It also enhances legal defense and helps maintain customer trust."
+          "q": "Vì sao đăng ký nhãn hiệu lại quan trọng đối với nhà đầu tư nước ngoài tại Việt Nam?",
+          "a": "Đăng ký nhãn hiệu là điều thiết yếu để bảo vệ thương hiệu của bạn khỏi các hành vi xâm phạm bản quyền, xác lập quyền sở hữu và ngăn đối thủ sử dụng tên thương hiệu hoặc logo của bạn. Việc này cũng tăng cường khả năng phòng vệ pháp lý và giúp duy trì lòng tin của khách hàng."
         },
         {
-          "q": "What are the different types of trademarks recognized in Vietnam?",
-          "a": "Vietnam recognizes several types of trademarks, including word marks, figurative marks, combined marks, collective marks, and certification marks."
+          "q": "Có những loại nhãn hiệu nào được công nhận tại Việt Nam?",
+          "a": "Việt Nam công nhận nhiều loại nhãn hiệu, bao gồm nhãn hiệu chữ, nhãn hiệu hình, nhãn hiệu kết hợp, nhãn hiệu tập thể và nhãn hiệu chứng nhận."
         },
         {
-          "q": "What advantages does trademark registration provide under Vietnamese law?",
-          "a": "Trademark registration grants exclusive rights to use the trademark nationwide, legal authority to prevent unauthorized use, and the ability to take legal action against infringers. It also serves as a strong proof of ownership in legal contexts."
+          "q": "Đăng ký nhãn hiệu mang lại những lợi thế gì theo pháp luật Việt Nam?",
+          "a": "Đăng ký nhãn hiệu trao quyền độc quyền sử dụng nhãn hiệu trên toàn quốc, thẩm quyền pháp lý để ngăn chặn việc sử dụng trái phép và khả năng khởi kiện đối với bên xâm phạm. Việc này cũng là bằng chứng vững chắc về quyền sở hữu trong bối cảnh pháp lý."
         },
         {
-          "q": "What steps are involved in the trademark registration process?",
-          "a": "The process involves filing the application with the National Office of Intellectual Property (NOIP), a form examination, publication of the application, and a content examination before the certificate is granted. The entire procedure can take 18-24 months depending on backlog."
+          "q": "Quy trình đăng ký nhãn hiệu gồm những bước nào?",
+          "a": "Quy trình bao gồm nộp đơn tại Cục Sở hữu Trí tuệ (NOIP), thẩm định hình thức, công bố đơn và thẩm định nội dung trước khi được cấp giấy chứng nhận. Toàn bộ thủ tục có thể mất 18-24 tháng tùy thuộc vào tình trạng tồn đọng hồ sơ."
         },
         {
-          "q": "What is the duration of trademark protection in Vietnam?",
-          "a": "A registered trademark in Vietnam is protected for 10 years, with the option for renewal upon expiration."
+          "q": "Thời hạn bảo hộ nhãn hiệu tại Việt Nam là bao lâu?",
+          "a": "Nhãn hiệu đã đăng ký tại Việt Nam được bảo hộ trong 10 năm, với tùy chọn gia hạn khi hết hạn."
         },
         {
-          "q": "Can trademarks be registered for both local and international protection?",
-          "a": "Yes, businesses can register trademarks for local protection within Vietnam or pursue international protection if they operate or plan to operate beyond Vietnam's borders."
+          "q": "Nhãn hiệu có thể được đăng ký để bảo hộ cả trong nước và quốc tế không?",
+          "a": "Có, doanh nghiệp có thể đăng ký nhãn hiệu để bảo hộ trong phạm vi Việt Nam hoặc theo đuổi bảo hộ quốc tế nếu hoạt động hoặc dự định hoạt động ngoài lãnh thổ Việt Nam."
         },
         {
-          "q": "What are the fees associated with trademark registration in Vietnam?",
-          "a": "Fees vary based on the number of classes and goods/services. The minimum filing fee for a single class starts at approximately US$190.00. Additional fees include examination fees, publication fees, and usage fees."
+          "q": "Các khoản phí liên quan đến đăng ký nhãn hiệu tại Việt Nam là gì?",
+          "a": "Phí thay đổi tùy theo số lượng nhóm và hàng hóa/dịch vụ. Phí nộp đơn tối thiểu cho một nhóm bắt đầu từ khoảng 190,00 USD. Các khoản phí bổ sung bao gồm phí thẩm định, phí công bố và phí sử dụng."
         }
       ]
     },
     {
       "type": "stats",
       "variant": "red",
-      "heading": "Backed by WTP Advisory",
+      "heading": "Được hậu thuẫn bởi WTP Advisory",
       "items": [
         {
           "value": "30+",
-          "label": "Years of experience"
+          "label": "Năm kinh nghiệm"
         },
         {
           "value": "1,500+",
-          "label": "Professionals across APAC"
+          "label": "Chuyên gia trên khắp Châu Á - Thái Bình Dương"
         },
         {
           "value": "20,000+",
-          "label": "Clients served globally"
+          "label": "Khách hàng được phục vụ trên toàn cầu"
         },
         {
           "value": "8",
-          "label": "Markets in Asia-Pacific"
+          "label": "Thị trường tại Châu Á - Thái Bình Dương"
         }
       ]
     },
     {
       "type": "cta",
-      "title": "Ready to get started in Vietnam?",
-      "subtitle": "Talk to our experts about how we can support your business.",
+      "title": "Sẵn sàng khởi đầu tại Việt Nam?",
+      "subtitle": "Trao đổi với các chuyên gia của chúng tôi về cách chúng tôi có thể hỗ trợ doanh nghiệp của bạn.",
       "button": {
-        "label": "Make an Inquiry",
+        "label": "Gửi yêu cầu tư vấn",
         "href": "/make-an-inquiry"
       },
       "variant": "red"

@@ -1,12 +1,12 @@
-﻿{
-  "title": "Personal Data Protection Service for Companies in Vietnam",
-  "metaDescription": "Vietnam tightens data regulations, meaning you'll need more audits, procedures, and awareness. Partner with an expert to get a headstart.",
+{
+  "title": "Dịch vụ Bảo vệ Dữ liệu Cá nhân cho Doanh nghiệp tại Việt Nam",
+  "metaDescription": "Việt Nam siết chặt quy định về dữ liệu, đồng nghĩa với việc bạn cần nhiều hơn các cuộc kiểm toán, quy trình và nhận thức. Hợp tác cùng chuyên gia để đi trước một bước.",
   "hero": {
-    "eyebrow": "Services",
-    "title": "Personal Data Protection Service for Companies in Vietnam",
-    "subtitle": "In response to the Vietnamese government's increased focus on Personal Data Protection (PDP), businesses are facing new challenges in complying with stringent legal requirements. At WTP Advisory, we recognize the complexities of these regulations and the critical importance of safeguarding personal data.",
+    "eyebrow": "Dịch vụ",
+    "title": "Dịch vụ Bảo vệ Dữ liệu Cá nhân cho Doanh nghiệp tại Việt Nam",
+    "subtitle": "Trước sự quan tâm ngày càng tăng của Chính phủ Việt Nam đối với việc Bảo vệ Dữ liệu Cá nhân (PDP), các doanh nghiệp đang đối mặt với những thách thức mới trong việc tuân thủ các yêu cầu pháp lý nghiêm ngặt. Tại WTP Advisory, chúng tôi nhận thức rõ sự phức tạp của những quy định này cũng như tầm quan trọng thiết yếu của việc bảo vệ dữ liệu cá nhân.",
     "cta": {
-      "label": "Make an Inquiry",
+      "label": "Gửi yêu cầu tư vấn",
       "href": "/make-an-inquiry"
     },
     "image": "/incorp/solutions/legal-advisory.jpg"
@@ -14,118 +14,118 @@
   "sections": [
     {
       "type": "cards",
-      "heading": "Benefits to Expect from Our Personal Data Protection Service",
+      "heading": "Những lợi ích từ dịch vụ Bảo vệ Dữ liệu Cá nhân của chúng tôi",
       "columns": 4,
       "items": [
         {
-          "title": "Comprehensive Regulatory Expertise",
-          "desc": "WTP Advisory provides in-depth knowledge of Vietnamese PDP regulations, ensuring businesses are fully equipped to meet complex legal requirements.",
+          "title": "Chuyên môn pháp lý toàn diện",
+          "desc": "WTP Advisory mang đến kiến thức chuyên sâu về các quy định bảo vệ dữ liệu cá nhân của Việt Nam, đảm bảo doanh nghiệp được trang bị đầy đủ để đáp ứng các yêu cầu pháp lý phức tạp.",
           "icon": "scale"
         },
         {
-          "title": "Tailored Compliance Solutions",
-          "desc": "We offer customized solutions based on your business needs, from policy development to compliance inspections and data breach response planning.",
+          "title": "Giải pháp tuân thủ được thiết kế riêng",
+          "desc": "Chúng tôi cung cấp các giải pháp tùy chỉnh dựa trên nhu cầu doanh nghiệp của bạn, từ xây dựng chính sách đến kiểm tra tuân thủ và lập kế hoạch ứng phó với sự cố rò rỉ dữ liệu.",
           "icon": "rocket"
         },
         {
-          "title": "Proactive Risk Management",
-          "desc": "Our team helps identify potential risks early, providing strategic guidance to mitigate data protection risks and ensure long-term compliance.",
+          "title": "Quản trị rủi ro chủ động",
+          "desc": "Đội ngũ của chúng tôi giúp nhận diện sớm các rủi ro tiềm ẩn, đưa ra hướng dẫn chiến lược để giảm thiểu rủi ro về bảo vệ dữ liệu và đảm bảo tuân thủ lâu dài.",
           "icon": "clipboard"
         },
         {
-          "title": "Seamless Integration",
-          "desc": "With our dedicated support, businesses can integrate PDP compliance seamlessly into their operations without disrupting their workflows, ensuring smooth and efficient protection of personal data.",
+          "title": "Tích hợp liền mạch",
+          "desc": "Với sự hỗ trợ tận tâm của chúng tôi, doanh nghiệp có thể tích hợp việc tuân thủ bảo vệ dữ liệu cá nhân một cách liền mạch vào hoạt động mà không làm gián đoạn quy trình làm việc, đảm bảo bảo vệ dữ liệu cá nhân một cách suôn sẻ và hiệu quả.",
           "icon": "network"
         }
       ]
     },
     {
       "type": "cards",
-      "heading": "What is Included in Personal Data Protection Services?",
-      "subtitle": "WTP Advisory offers a comprehensive range of services to help businesses comply with Vietnam's PDP regulations.",
+      "heading": "Dịch vụ Bảo vệ Dữ liệu Cá nhân bao gồm những gì?",
+      "subtitle": "WTP Advisory cung cấp loạt dịch vụ toàn diện để giúp doanh nghiệp tuân thủ các quy định bảo vệ dữ liệu cá nhân của Việt Nam.",
       "columns": 3,
       "items": [
         {
-          "title": "Personal Data Inventory and Mapping",
-          "desc": "We assist businesses in identifying and mapping the flow of personal data within their organization to ensure all data handling complies with legal requirements.",
+          "title": "Kiểm kê và Lập bản đồ Dữ liệu Cá nhân",
+          "desc": "Chúng tôi hỗ trợ doanh nghiệp nhận diện và lập bản đồ luồng dữ liệu cá nhân trong tổ chức nhằm đảm bảo toàn bộ việc xử lý dữ liệu tuân thủ các yêu cầu pháp lý.",
           "icon": "eye"
         },
         {
-          "title": "Gap Analysis and Compliance Roadmap",
-          "desc": "Our experts conduct a thorough gap analysis of your current data protection practices, helping identify areas for improvement and providing a clear roadmap to achieve full PDP compliance.",
+          "title": "Phân tích khoảng cách và Lộ trình tuân thủ",
+          "desc": "Các chuyên gia của chúng tôi tiến hành phân tích kỹ lưỡng khoảng cách trong thực tiễn bảo vệ dữ liệu hiện tại của bạn, giúp xác định các điểm cần cải thiện và cung cấp lộ trình rõ ràng để đạt được sự tuân thủ đầy đủ về bảo vệ dữ liệu cá nhân.",
           "icon": "target"
         },
         {
-          "title": "Policy Development and Implementation",
-          "desc": "We help draft and implement comprehensive personal data protection policies that align with both local and international standards, ensuring your business is fully protected.",
+          "title": "Xây dựng và Triển khai Chính sách",
+          "desc": "Chúng tôi giúp soạn thảo và triển khai các chính sách bảo vệ dữ liệu cá nhân toàn diện phù hợp với cả tiêu chuẩn trong nước và quốc tế, đảm bảo doanh nghiệp của bạn được bảo vệ đầy đủ.",
           "icon": "fileCheck"
         },
         {
-          "title": "Data Breach Response Planning",
-          "desc": "WTP Advisory supports your business in developing and executing effective response plans for potential data breaches, ensuring quick action to mitigate damage and comply with legal reporting requirements.",
+          "title": "Lập kế hoạch Ứng phó Sự cố Rò rỉ Dữ liệu",
+          "desc": "WTP Advisory hỗ trợ doanh nghiệp của bạn xây dựng và triển khai các kế hoạch ứng phó hiệu quả với những sự cố rò rỉ dữ liệu tiềm ẩn, đảm bảo hành động nhanh chóng để giảm thiểu thiệt hại và tuân thủ các yêu cầu báo cáo pháp lý.",
           "icon": "shield"
         },
         {
-          "title": "Employee Training and Awareness",
-          "desc": "We offer tailored training programs to educate your staff on PDP compliance, ensuring everyone in your organization understands their role in safeguarding personal data.",
+          "title": "Đào tạo và Nâng cao Nhận thức cho Nhân viên",
+          "desc": "Chúng tôi cung cấp các chương trình đào tạo được thiết kế riêng để trang bị cho nhân viên kiến thức về tuân thủ bảo vệ dữ liệu cá nhân, đảm bảo mọi thành viên trong tổ chức hiểu rõ vai trò của mình trong việc bảo vệ dữ liệu cá nhân.",
           "icon": "users"
         },
         {
-          "title": "PDP Audits and Compliance Monitoring",
-          "desc": "Our team conducts regular audits and monitors compliance to ensure your business remains up to date with the latest PDP regulations and practices.",
+          "title": "Kiểm toán và Giám sát Tuân thủ về Bảo vệ Dữ liệu Cá nhân",
+          "desc": "Đội ngũ của chúng tôi tiến hành kiểm toán định kỳ và giám sát việc tuân thủ để đảm bảo doanh nghiệp của bạn luôn cập nhật các quy định và thực tiễn mới nhất về bảo vệ dữ liệu cá nhân.",
           "icon": "clipboard"
         }
       ]
     },
     {
       "type": "steps",
-      "heading": "Your Success Plan in Vietnam",
+      "heading": "Lộ trình thành công của bạn tại Việt Nam",
       "items": [
         {
-          "title": "Submit Your Information & Needs",
-          "desc": "Tell us about your company's needs and aspirations in Vietnam"
+          "title": "Gửi thông tin & nhu cầu của bạn",
+          "desc": "Hãy cho chúng tôi biết về nhu cầu và mục tiêu của công ty bạn tại Việt Nam"
         },
         {
-          "title": "Book a Consultation With Our Experts",
-          "desc": "Go over your plan with one of our bilingual business Consultants"
+          "title": "Đặt lịch tư vấn với chuyên gia của chúng tôi",
+          "desc": "Cùng trao đổi kế hoạch của bạn với một trong những chuyên gia tư vấn kinh doanh song ngữ của chúng tôi"
         },
         {
-          "title": "Verify KYC Documents",
-          "desc": "Our consultants will contact you to process the necessary paperwork and create your company dossier"
+          "title": "Xác minh hồ sơ KYC",
+          "desc": "Các chuyên gia tư vấn của chúng tôi sẽ liên hệ với bạn để xử lý các giấy tờ cần thiết và hoàn thiện hồ sơ công ty"
         },
         {
-          "title": "Choose a Plan & Succeed In Vietnam",
-          "desc": "Let us simplify your business journey and make your mark in APAC’s fastest-growing economy"
+          "title": "Chọn gói dịch vụ & thành công tại Việt Nam",
+          "desc": "Hãy để chúng tôi đơn giản hóa hành trình kinh doanh và giúp bạn ghi dấu ấn tại nền kinh tế tăng trưởng nhanh nhất khu vực Châu Á - Thái Bình Dương"
         }
       ]
     },
     {
       "type": "cards",
-      "eyebrow": "Explore More",
-      "heading": "Other Services for Businesses in Vietnam",
+      "eyebrow": "Khám phá thêm",
+      "heading": "Các dịch vụ khác cho doanh nghiệp tại Việt Nam",
       "columns": 4,
       "items": [
         {
-          "title": "Incorporation",
-          "desc": "Gain a presence in the Vietnamese market through our incorporation services.",
+          "title": "Thành lập doanh nghiệp",
+          "desc": "Hiện diện tại thị trường Việt Nam thông qua dịch vụ thành lập doanh nghiệp của chúng tôi.",
           "href": "/incorporation",
           "icon": "rocket"
         },
         {
-          "title": "Accounting & Taxation",
-          "desc": "Save time and money while ensuring compliance with full-service accounting services.",
+          "title": "Kế toán & Thuế",
+          "desc": "Tiết kiệm thời gian và chi phí trong khi đảm bảo tuân thủ với dịch vụ kế toán trọn gói.",
           "href": "/accounting-taxation",
           "icon": "coins"
         },
         {
-          "title": "HR & Payroll",
-          "desc": "Comprehensive outsourcing services for recruitment, payroll, insurance, and taxes.",
+          "title": "Nhân sự & Tính lương",
+          "desc": "Dịch vụ thuê ngoài toàn diện cho tuyển dụng, tính lương, bảo hiểm và thuế.",
           "href": "/hr-payroll-services",
           "icon": "users"
         },
         {
-          "title": "Immigration",
-          "desc": "Navigate visa requirements and obtain work permits, investor, and business visa.",
+          "title": "Di trú",
+          "desc": "Xử lý các yêu cầu về thị thực và xin giấy phép lao động, thị thực nhà đầu tư và thị thực doanh nghiệp.",
           "href": "/immigration",
           "icon": "globe"
         }
@@ -134,32 +134,32 @@
     {
       "type": "stats",
       "variant": "red",
-      "heading": "Backed by WTP Advisory",
+      "heading": "Được hậu thuẫn bởi WTP Advisory",
       "items": [
         {
           "value": "30+",
-          "label": "Years of experience"
+          "label": "Năm kinh nghiệm"
         },
         {
           "value": "1,500+",
-          "label": "Professionals across APAC"
+          "label": "Chuyên gia trên khắp Châu Á - Thái Bình Dương"
         },
         {
           "value": "20,000+",
-          "label": "Clients served globally"
+          "label": "Khách hàng được phục vụ trên toàn cầu"
         },
         {
           "value": "8",
-          "label": "Markets in Asia-Pacific"
+          "label": "Thị trường tại Châu Á - Thái Bình Dương"
         }
       ]
     },
     {
       "type": "cta",
-      "title": "Ready to get started in Vietnam?",
-      "subtitle": "Talk to our experts about how we can support your business.",
+      "title": "Sẵn sàng khởi đầu tại Việt Nam?",
+      "subtitle": "Trao đổi với các chuyên gia của chúng tôi về cách chúng tôi có thể hỗ trợ doanh nghiệp của bạn.",
       "button": {
-        "label": "Make an Inquiry",
+        "label": "Gửi yêu cầu tư vấn",
         "href": "/make-an-inquiry"
       },
       "variant": "red"

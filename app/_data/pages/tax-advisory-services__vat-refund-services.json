@@ -1,12 +1,12 @@
-﻿{
-  "title": "VAT Refund Services at WTP Advisory",
-  "metaDescription": "WTP Advisory offers expert VAT refund services designed to simplify the process, ensure compliance, and maximize your eligible refunds.",
+{
+  "title": "Dịch vụ Hoàn thuế GTGT tại WTP Advisory",
+  "metaDescription": "WTP Advisory cung cấp dịch vụ hoàn thuế GTGT chuyên sâu, được thiết kế để đơn giản hóa quy trình, đảm bảo tuân thủ và tối đa hóa số tiền thuế được hoàn của bạn.",
   "hero": {
-    "eyebrow": "Services",
-    "title": "VAT Refund Services at WTP Advisory",
-    "subtitle": "WTP Advisory offers expert VAT refund services designed to simplify the process, ensure compliance, and maximize your eligible refunds.",
+    "eyebrow": "Dịch vụ",
+    "title": "Dịch vụ Hoàn thuế GTGT tại WTP Advisory",
+    "subtitle": "WTP Advisory cung cấp dịch vụ hoàn thuế GTGT chuyên sâu, được thiết kế để đơn giản hóa quy trình, đảm bảo tuân thủ và tối đa hóa số tiền thuế được hoàn của bạn.",
     "cta": {
-      "label": "Make an Inquiry",
+      "label": "Gửi yêu cầu tư vấn",
       "href": "/make-an-inquiry"
     },
     "image": "/incorp/solutions/tax-services.jpg"
@@ -14,62 +14,62 @@
   "sections": [
     {
       "type": "richText",
-      "heading": "Why choose VAT Refund services at WTP Advisory?",
+      "heading": "Vì sao nên chọn dịch vụ Hoàn thuế GTGT tại WTP Advisory?",
       "body": [
-        "Value-Added Tax (VAT) is a critical aspect of doing business in Vietnam. Delays or errors in VAT refund claims can disrupt cash flow, increase financial strain, and expose businesses to compliance risks. Understanding and meeting the regulatory requirements can be time-consuming and complicated without professional assistance.",
-        "WTP Advisory offers expert VAT refund services designed to simplify the process, ensure compliance, and maximize your eligible refunds."
+        "Thuế Giá trị Gia tăng (GTGT) là một khía cạnh trọng yếu khi kinh doanh tại Việt Nam. Sự chậm trễ hoặc sai sót trong hồ sơ hoàn thuế GTGT có thể làm gián đoạn dòng tiền, gia tăng áp lực tài chính và khiến doanh nghiệp đối mặt với rủi ro tuân thủ. Việc hiểu rõ và đáp ứng các yêu cầu pháp lý có thể tốn nhiều thời gian và phức tạp nếu không có sự hỗ trợ chuyên nghiệp.",
+        "WTP Advisory cung cấp dịch vụ hoàn thuế GTGT chuyên sâu, được thiết kế để đơn giản hóa quy trình, đảm bảo tuân thủ và tối đa hóa số tiền thuế được hoàn của bạn."
       ]
     },
     {
       "type": "cards",
-      "heading": "Comprehensive VAT Refund Services",
+      "heading": "Dịch vụ Hoàn thuế GTGT Toàn diện",
       "columns": 3,
       "items": [
         {
-          "title": "Eligibility Assessment",
+          "title": "Đánh giá Điều kiện Hoàn thuế",
           "icon": "clipboard"
         },
         {
-          "title": "Documentation Support",
+          "title": "Hỗ trợ Hồ sơ Chứng từ",
           "icon": "file"
         },
         {
-          "title": "Filing and Submission",
+          "title": "Lập và Nộp Hồ sơ",
           "icon": "fileCheck"
         },
         {
-          "title": "Compliance Assurance",
+          "title": "Đảm bảo Tuân thủ",
           "icon": "shield"
         },
         {
-          "title": "Audit Assistance",
+          "title": "Hỗ trợ Kiểm toán",
           "icon": "percent"
         }
       ]
     },
     {
       "type": "cards",
-      "heading": "Benefits of VAT Refund Services with WTP Advisory",
+      "heading": "Lợi ích từ Dịch vụ Hoàn thuế GTGT cùng WTP Advisory",
       "columns": 4,
       "items": [
         {
-          "title": "Expert Consultation",
-          "desc": "Our accounting experts offer insights into financial best practices and regulations to help you optimize your business operations.",
+          "title": "Tư vấn Chuyên sâu",
+          "desc": "Các chuyên gia kế toán của chúng tôi cung cấp những phân tích sâu sắc về thực tiễn tài chính tốt nhất và quy định pháp luật, giúp bạn tối ưu hóa hoạt động kinh doanh.",
           "icon": "globe"
         },
         {
-          "title": "Comprehensive Support",
-          "desc": "We offer a full suite of accounting services, from bookkeeping to tax compliance, ensuring seamless financial management.",
+          "title": "Hỗ trợ Toàn diện",
+          "desc": "Chúng tôi cung cấp trọn bộ dịch vụ kế toán, từ ghi sổ kế toán đến tuân thủ thuế, đảm bảo quản lý tài chính liền mạch.",
           "icon": "handshake"
         },
         {
-          "title": "Simplified Process",
-          "desc": "We handle the time-consuming tasks of financial record-keeping and reporting, allowing you to focus on your core business activities.",
+          "title": "Quy trình Tinh gọn",
+          "desc": "Chúng tôi đảm nhận những công việc tốn nhiều thời gian như lưu trữ sổ sách và lập báo cáo tài chính, để bạn có thể tập trung vào các hoạt động kinh doanh cốt lõi.",
           "icon": "rocket"
         },
         {
-          "title": "Focus on Core Business",
-          "desc": "With our accounting expertise, you can focus on achieving your business goals while ensuring financial accuracy and compliance.",
+          "title": "Tập trung vào Hoạt động Cốt lõi",
+          "desc": "Với chuyên môn kế toán của chúng tôi, bạn có thể tập trung vào các mục tiêu kinh doanh trong khi vẫn đảm bảo sự chính xác về tài chính và tuân thủ.",
           "icon": "network"
         }
       ]
@@ -77,32 +77,32 @@
     {
       "type": "stats",
       "variant": "red",
-      "heading": "Backed by WTP Advisory",
+      "heading": "Được hậu thuẫn bởi WTP Advisory",
       "items": [
         {
           "value": "30+",
-          "label": "Years of experience"
+          "label": "Năm kinh nghiệm"
         },
         {
           "value": "1,500+",
-          "label": "Professionals across APAC"
+          "label": "Chuyên gia trên khắp Châu Á - Thái Bình Dương"
         },
         {
           "value": "20,000+",
-          "label": "Clients served globally"
+          "label": "Khách hàng được phục vụ trên toàn cầu"
         },
         {
           "value": "8",
-          "label": "Markets in Asia-Pacific"
+          "label": "Thị trường tại Châu Á - Thái Bình Dương"
         }
       ]
     },
     {
       "type": "cta",
-      "title": "Ready to get started in Vietnam?",
-      "subtitle": "Talk to our experts about how we can support your business.",
+      "title": "Sẵn sàng khởi đầu tại Việt Nam?",
+      "subtitle": "Hãy trao đổi với các chuyên gia của chúng tôi về cách chúng tôi có thể hỗ trợ doanh nghiệp của bạn.",
       "button": {
-        "label": "Make an Inquiry",
+        "label": "Gửi yêu cầu tư vấn",
         "href": "/make-an-inquiry"
       },
       "variant": "red"

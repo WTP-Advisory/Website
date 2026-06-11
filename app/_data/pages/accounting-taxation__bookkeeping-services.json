@@ -1,12 +1,12 @@
-﻿{
-  "title": "Bookkeeping Services in Vietnam",
-  "metaDescription": "WTP Advisory provides expert bookkeeping for accurate records, compliance, and streamlined finances.",
+{
+  "title": "Dịch vụ Ghi sổ kế toán tại Việt Nam",
+  "metaDescription": "WTP Advisory cung cấp dịch vụ ghi sổ kế toán chuyên nghiệp để đảm bảo sổ sách chính xác, tuân thủ và quản lý tài chính tinh gọn.",
   "hero": {
-    "eyebrow": "Services",
-    "title": "Bookkeeping Services in Vietnam",
-    "subtitle": "WTP Advisory offers expert bookkeeping services to ensure accurate and timely financial record-keeping, helping your business maintain compliance and streamline its financial operations.",
+    "eyebrow": "Dịch vụ",
+    "title": "Dịch vụ Ghi sổ kế toán tại Việt Nam",
+    "subtitle": "WTP Advisory cung cấp dịch vụ ghi sổ kế toán chuyên nghiệp nhằm đảm bảo việc lưu giữ hồ sơ tài chính chính xác và kịp thời, giúp doanh nghiệp của bạn duy trì tuân thủ và tinh gọn các hoạt động tài chính.",
     "cta": {
-      "label": "Make an Inquiry",
+      "label": "Gửi yêu cầu tư vấn",
       "href": "/make-an-inquiry"
     },
     "image": "/incorp/solutions/accounting-finance.jpg"
@@ -14,140 +14,140 @@
   "sections": [
     {
       "type": "richText",
-      "heading": "Why choose bookkeeping services at WTP Advisory?",
+      "heading": "Vì sao nên chọn dịch vụ ghi sổ kế toán tại WTP Advisory?",
       "body": [
-        "At WTP Advisory, we offer comprehensive bookkeeping services at competitive rates. Many national and international clients have benefited from our tailored bookkeeping solutions. As a professional firm providing bookkeeping services in Vietnam, WTP Advisory ensures that your accounts are accurately maintained, saving you time and boosting the productivity of your business. Our consistent and reliable services allow you to focus on your company's core activities while we handle the complexities of financial management."
+        "Tại WTP Advisory, chúng tôi cung cấp dịch vụ ghi sổ kế toán toàn diện với mức phí cạnh tranh. Nhiều khách hàng trong và ngoài nước đã hưởng lợi từ các giải pháp ghi sổ kế toán được thiết kế riêng của chúng tôi. Là một công ty chuyên cung cấp dịch vụ ghi sổ kế toán tại Việt Nam, WTP Advisory đảm bảo sổ sách của bạn được duy trì chính xác, tiết kiệm thời gian và nâng cao hiệu suất cho doanh nghiệp. Dịch vụ ổn định và đáng tin cậy của chúng tôi cho phép bạn tập trung vào các hoạt động cốt lõi của công ty trong khi chúng tôi xử lý những phần phức tạp của công tác quản lý tài chính."
       ],
       "align": "left"
     },
     {
       "type": "stats",
-      "heading": "Your trusted accounting services provider",
+      "heading": "Nhà cung cấp dịch vụ kế toán đáng tin cậy của bạn",
       "items": [
         {
           "value": "30+",
-          "label": "Years Track Record"
+          "label": "Năm hoạt động"
         },
         {
           "value": "15,000+",
-          "label": "Clients Worldwide"
+          "label": "Khách hàng trên toàn thế giới"
         },
         {
           "value": "120+",
-          "label": "Accounting & Tax Clients"
+          "label": "Khách hàng kế toán & thuế"
         }
       ]
     },
     {
       "type": "cards",
-      "heading": "Comprehensive Bookkeeping Services",
+      "heading": "Dịch vụ ghi sổ kế toán toàn diện",
       "columns": 4,
       "items": [
         {
-          "title": "Daily Transaction Recording",
+          "title": "Ghi nhận giao dịch hằng ngày",
           "icon": "file"
         },
         {
-          "title": "Accounts Payable & Receivable Management",
+          "title": "Quản lý công nợ phải trả & phải thu",
           "icon": "coins"
         },
         {
-          "title": "General Ledger Maintenance",
+          "title": "Duy trì sổ cái",
           "icon": "book"
         },
         {
-          "title": "Bank Reconciliation",
+          "title": "Đối chiếu ngân hàng",
           "icon": "landmark"
         },
         {
-          "title": "Payroll Processing & Management",
+          "title": "Xử lý & quản lý tiền lương",
           "icon": "banknote"
         },
         {
-          "title": "Financial Statement Preparation",
+          "title": "Lập báo cáo tài chính",
           "icon": "fileCheck"
         },
         {
-          "title": "Tax Filing Support",
+          "title": "Hỗ trợ kê khai thuế",
           "icon": "receipt"
         },
         {
-          "title": "Inventory Management",
+          "title": "Quản lý hàng tồn kho",
           "icon": "layers"
         },
         {
-          "title": "Cost Allocation and Expense Tracking",
+          "title": "Phân bổ chi phí và theo dõi chi tiêu",
           "icon": "wallet"
         },
         {
-          "title": "Financial Reporting & Analysis",
+          "title": "Báo cáo & phân tích tài chính",
           "icon": "chart"
         },
         {
-          "title": "VAT Reporting & VAT Refund",
+          "title": "Báo cáo VAT & hoàn thuế VAT",
           "icon": "percent"
         },
         {
-          "title": "Compliance with Local Regulations",
+          "title": "Tuân thủ các quy định trong nước",
           "icon": "shield"
         }
       ]
     },
     {
       "type": "cards",
-      "heading": "Bookkeeping Services with WTP Advisory",
+      "heading": "Dịch vụ ghi sổ kế toán cùng WTP Advisory",
       "columns": 4,
       "items": [
         {
-          "title": "Expert Consultation",
-          "desc": "Our accounting experts offer insights into financial best practices and regulations to help you optimize your business operations.",
+          "title": "Tư vấn chuyên môn",
+          "desc": "Các chuyên gia kế toán của chúng tôi mang đến hiểu biết sâu sắc về các thông lệ tài chính tốt nhất và quy định pháp luật để giúp bạn tối ưu hóa hoạt động kinh doanh.",
           "icon": "users"
         },
         {
-          "title": "Comprehensive Support",
-          "desc": "We offer a full suite of accounting services, from bookkeeping to tax compliance, ensuring seamless financial management.",
+          "title": "Hỗ trợ toàn diện",
+          "desc": "Chúng tôi cung cấp trọn bộ dịch vụ kế toán, từ ghi sổ kế toán đến tuân thủ thuế, đảm bảo quản lý tài chính liền mạch.",
           "icon": "handshake"
         },
         {
-          "title": "Simplified Process",
-          "desc": "We handle the time-consuming tasks of financial record-keeping and reporting, allowing you to focus on your core business activities.",
+          "title": "Quy trình đơn giản",
+          "desc": "Chúng tôi đảm nhận những công việc tốn thời gian trong việc lưu giữ hồ sơ và báo cáo tài chính, cho phép bạn tập trung vào các hoạt động kinh doanh cốt lõi.",
           "icon": "rocket"
         },
         {
-          "title": "Focus on Core Business",
-          "desc": "With our accounting expertise, you can focus on achieving your business goals while ensuring financial accuracy and compliance.",
+          "title": "Tập trung vào hoạt động cốt lõi",
+          "desc": "Với chuyên môn kế toán của chúng tôi, bạn có thể tập trung đạt được mục tiêu kinh doanh trong khi vẫn đảm bảo sự chính xác và tuân thủ về tài chính.",
           "icon": "target"
         }
       ]
     },
     {
       "type": "cards",
-      "heading": "Meet Our Experts",
+      "heading": "Gặp gỡ đội ngũ chuyên gia của chúng tôi",
       "columns": 3,
       "items": [
         {
-          "title": "Michael Tran, CPA, CA",
-          "desc": "Chief Executive Officer",
+          "title": "[Tên CEO], CPA, CA",
+          "desc": "Tổng Giám đốc",
           "icon": "user"
         },
         {
-          "title": "David Pham",
-          "desc": "Head of Business Advisory",
+          "title": "[Tên Trưởng Phòng Tư Vấn]",
+          "desc": "Trưởng phòng Tư vấn doanh nghiệp",
           "icon": "user"
         },
         {
-          "title": "Linh Hoang",
-          "desc": "Head of Corporate Secretarial and Advisory Services",
+          "title": "[Tên Trưởng Phòng Thư Ký]",
+          "desc": "Trưởng phòng Dịch vụ Thư ký doanh nghiệp và Tư vấn",
           "icon": "user"
         }
       ]
     },
     {
       "type": "cta",
-      "title": "Ready to get started in Vietnam?",
-      "subtitle": "Talk to our experts about how we can support your business.",
+      "title": "Sẵn sàng khởi đầu tại Việt Nam?",
+      "subtitle": "Hãy trao đổi với các chuyên gia của chúng tôi về cách chúng tôi có thể hỗ trợ doanh nghiệp của bạn.",
       "button": {
-        "label": "Make an Inquiry",
+        "label": "Gửi yêu cầu tư vấn",
         "href": "/make-an-inquiry"
       },
       "variant": "red"

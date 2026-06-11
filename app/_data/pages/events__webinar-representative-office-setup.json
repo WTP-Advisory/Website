@@ -1,42 +1,42 @@
-﻿{
+{
   "layout": "event",
-  "title": "Representative Offices in Vietnam: 5 Key Legal Exemptions for Businesses to Keep in Mind",
-  "metaDescription": "A webinar on the key legal exemptions and obligations when setting up and running a representative office in Vietnam.",
+  "title": "Văn phòng đại diện tại Việt Nam: 5 miễn trừ pháp lý quan trọng doanh nghiệp cần lưu ý",
+  "metaDescription": "Hội thảo trực tuyến về các miễn trừ và nghĩa vụ pháp lý quan trọng khi thành lập và vận hành văn phòng đại diện tại Việt Nam.",
   "banner": "/incorp/events/representative-offices.png",
   "format": "Webinar",
-  "date": "August 1, 2024",
+  "date": "Ngày 1 tháng 8 năm 2024",
   "about": [
-    "A representative office is the most popular model for market entry in Vietnam. As an affordable solution for newcomers to familiarize themselves with the Vietnamese market, setting up a representative office can be a preliminary step before fully committing to commercial activities and expansion."
+    "Văn phòng đại diện là mô hình gia nhập thị trường phổ biến nhất tại Việt Nam. Là một giải pháp tiết kiệm chi phí dành cho những doanh nghiệp mới làm quen với thị trường Việt Nam, việc thành lập văn phòng đại diện có thể là bước đi sơ khởi trước khi chính thức triển khai các hoạt động thương mại và mở rộng quy mô."
   ],
   "details": [
-    { "label": "Date", "value": "August 1, 2024" },
-    { "label": "Format", "value": "Online webinar — joining link provided upon registration" }
+    { "label": "Ngày", "value": "Ngày 1 tháng 8 năm 2024" },
+    { "label": "Hình thức", "value": "Hội thảo trực tuyến — đường link tham dự được cung cấp sau khi đăng ký" }
   ],
   "bulletSections": [
     {
-      "heading": "What We'll Cover",
+      "heading": "Nội dung chúng tôi sẽ chia sẻ",
       "items": [
-        "Definitions and benefits of a representative office",
-        "Legal requirements for registering a representative office",
-        "Permitted and prohibited activities",
-        "Steps required to register a representative office",
-        "Conditions to be appointed as head of a representative office",
-        "PIT compliance and reporting obligations",
-        "Advantages and disadvantages compared to other business entities"
+        "Định nghĩa và lợi ích của văn phòng đại diện",
+        "Các yêu cầu pháp lý để đăng ký văn phòng đại diện",
+        "Những hoạt động được phép và bị cấm",
+        "Các bước cần thực hiện để đăng ký văn phòng đại diện",
+        "Điều kiện để được bổ nhiệm làm trưởng văn phòng đại diện",
+        "Nghĩa vụ tuân thủ và báo cáo thuế thu nhập cá nhân (TNCN)",
+        "Ưu điểm và nhược điểm so với các loại hình doanh nghiệp khác"
       ]
     }
   ],
   "registration": {
-    "heading": "Save Your Seat",
-    "subtitle": "Tune in to our exclusive webinar for the latest updates.",
-    "schedule": "August 1, 2024"
+    "heading": "Giữ chỗ ngay",
+    "subtitle": "Đón xem hội thảo trực tuyến độc quyền của chúng tôi để cập nhật những thông tin mới nhất.",
+    "schedule": "Ngày 1 tháng 8 năm 2024"
   },
   "prev": {
-    "title": "Mastering Chief Accountant Compliance in Vietnam: Essential Guidelines for 2024",
+    "title": "Làm chủ tuân thủ Kế toán trưởng tại Việt Nam: Hướng dẫn thiết yếu cho năm 2024",
     "href": "/events/webinar-chief-accountant-requirements"
   },
   "next": {
-    "title": "[Savills x WTP Advisory] Gateway to Growth 2024: Ha Noi and Northern Vietnam's Investment Landscape",
+    "title": "[Savills x WTP Advisory] Gateway to Growth 2024: Bức tranh đầu tư Hà Nội và khu vực phía Bắc Việt Nam",
     "href": "/events/gateway-to-growth-hanoi-and-northern-investment"
   }
 }

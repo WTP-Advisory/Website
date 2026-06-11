@@ -1,12 +1,12 @@
-﻿{
-  "title": "Financial Modelling Services in Vietnam",
-  "metaDescription": "WTP Advisory provides data-driven financial models for strategic planning, investment evaluation, and better decisions.",
+{
+  "title": "Dịch vụ Mô hình tài chính tại Việt Nam",
+  "metaDescription": "WTP Advisory cung cấp các mô hình tài chính dựa trên dữ liệu phục vụ lập kế hoạch chiến lược, đánh giá đầu tư và ra quyết định tốt hơn.",
   "hero": {
-    "eyebrow": "Services",
-    "title": "Financial Modelling Services in Vietnam",
-    "subtitle": "At WTP Advisory, our Financial Modelling services provide customized, data driven models that support strategic planning, investment evaluation, and informed business decision-making.",
+    "eyebrow": "Dịch vụ",
+    "title": "Dịch vụ Mô hình tài chính tại Việt Nam",
+    "subtitle": "Tại WTP Advisory, dịch vụ mô hình tài chính của chúng tôi cung cấp các mô hình tùy chỉnh, dựa trên dữ liệu, hỗ trợ lập kế hoạch chiến lược, đánh giá đầu tư và ra quyết định kinh doanh sáng suốt.",
     "cta": {
-      "label": "Make an Inquiry",
+      "label": "Gửi yêu cầu tư vấn",
       "href": "/make-an-inquiry"
     },
     "image": "/incorp/solutions/accounting-finance.jpg"
@@ -14,10 +14,10 @@
   "sections": [
     {
       "type": "richText",
-      "heading": "Why choose Financial Modelling services at WTP Advisory?",
+      "heading": "Vì sao nên chọn dịch vụ mô hình tài chính tại WTP Advisory?",
       "body": [
-        "Financial modeling creates quantitative representations of a company's financial performance to support decision-making, forecasting, and valuation. It helps in assessing business scenarios, valuing companies, analyzing investments, and planning budgets to align with business goals.",
-        "These models also aid in risk management by simulating scenarios to identify risks and track key performance indicators (KPIs) for financial health and growth strategies. At WTP Advisory, we provide tailored financial models to analyze past performance, project future outcomes, and assess investment opportunities."
+        "Mô hình tài chính tạo ra các biểu diễn định lượng về hiệu quả tài chính của doanh nghiệp nhằm hỗ trợ ra quyết định, dự báo và định giá. Mô hình này giúp đánh giá các kịch bản kinh doanh, định giá doanh nghiệp, phân tích đầu tư và lập kế hoạch ngân sách phù hợp với mục tiêu kinh doanh.",
+        "Các mô hình này cũng hỗ trợ quản lý rủi ro bằng cách mô phỏng các kịch bản để nhận diện rủi ro và theo dõi các chỉ số hiệu suất chính (KPI) phục vụ sức khỏe tài chính và chiến lược tăng trưởng. Tại WTP Advisory, chúng tôi cung cấp các mô hình tài chính được thiết kế riêng để phân tích hiệu quả trong quá khứ, dự phóng kết quả tương lai và đánh giá các cơ hội đầu tư."
       ]
     },
     {
@@ -25,144 +25,144 @@
       "columns": 3,
       "items": [
         {
-          "title": "Informed Decision-Making",
-          "desc": "Financial models provide a structured way to assess different business scenarios, helping stakeholders make data-driven decisions.",
+          "title": "Ra quyết định sáng suốt",
+          "desc": "Mô hình tài chính cung cấp một phương thức có cấu trúc để đánh giá các kịch bản kinh doanh khác nhau, giúp các bên liên quan đưa ra quyết định dựa trên dữ liệu.",
           "icon": "lightbulb"
         },
         {
-          "title": "Investment Analysis",
-          "desc": "They are essential tools for valuing businesses, understanding investment opportunities, and analyzing mergers, acquisitions, or fundraising options.",
+          "title": "Phân tích đầu tư",
+          "desc": "Đây là công cụ thiết yếu để định giá doanh nghiệp, nắm bắt các cơ hội đầu tư và phân tích các phương án sáp nhập, mua lại hoặc huy động vốn.",
           "icon": "chart"
         },
         {
-          "title": "Strategic Planning",
-          "desc": "Financial models help companies plan budgets, set financial targets, and optimize resources to align with business goals.",
+          "title": "Lập kế hoạch chiến lược",
+          "desc": "Mô hình tài chính giúp doanh nghiệp lập kế hoạch ngân sách, đặt mục tiêu tài chính và tối ưu hóa nguồn lực phù hợp với mục tiêu kinh doanh.",
           "icon": "target"
         },
         {
-          "title": "Risk Management",
-          "desc": "By simulating various financial scenarios, financial models allow businesses to identify potential risks and take proactive measures.",
+          "title": "Quản lý rủi ro",
+          "desc": "Bằng cách mô phỏng nhiều kịch bản tài chính khác nhau, mô hình tài chính cho phép doanh nghiệp nhận diện các rủi ro tiềm ẩn và chủ động có biện pháp ứng phó.",
           "icon": "shield"
         },
         {
-          "title": "Performance Evaluation",
-          "desc": "Financial modeling allows businesses to track key performance indicators (KPIs) and assess their financial health, enabling improvements and growth strategies.",
+          "title": "Đánh giá hiệu quả",
+          "desc": "Mô hình tài chính cho phép doanh nghiệp theo dõi các chỉ số hiệu suất chính (KPI) và đánh giá sức khỏe tài chính, từ đó cải thiện và xây dựng chiến lược tăng trưởng.",
           "icon": "trending"
         }
       ]
     },
     {
       "type": "stats",
-      "heading": "Your trusted accounting services provider",
+      "heading": "Nhà cung cấp dịch vụ kế toán đáng tin cậy của bạn",
       "items": [
         {
           "value": "30+",
-          "label": "Years Track Record"
+          "label": "Năm hoạt động"
         },
         {
           "value": "15,000+",
-          "label": "Clients Worldwide"
+          "label": "Khách hàng trên toàn thế giới"
         },
         {
           "value": "120+",
-          "label": "Accounting & Tax Clients"
+          "label": "Khách hàng kế toán & thuế"
         }
       ]
     },
     {
       "type": "cards",
-      "heading": "Comprehensive Financial Modelling Services at WTP Advisory",
+      "heading": "Dịch vụ mô hình tài chính toàn diện tại WTP Advisory",
       "columns": 3,
       "items": [
         {
-          "title": "Financial Forecasting",
+          "title": "Dự báo tài chính",
           "icon": "trending"
         },
         {
-          "title": "Valuation Models",
+          "title": "Mô hình định giá",
           "icon": "gem"
         },
         {
-          "title": "Budgeting & Financial Planning",
+          "title": "Lập ngân sách & kế hoạch tài chính",
           "icon": "calculator"
         },
         {
-          "title": "Scenario & Sensitivity Analysis",
+          "title": "Phân tích kịch bản & độ nhạy",
           "icon": "layers"
         },
         {
-          "title": "M&A Analysis",
+          "title": "Phân tích M&A",
           "icon": "handshake"
         },
         {
-          "title": "Cash Flow Analysis",
+          "title": "Phân tích dòng tiền",
           "icon": "banknote"
         },
         {
-          "title": "Debt & Capital Structure Modeling",
+          "title": "Mô hình cấu trúc nợ & vốn",
           "icon": "coins"
         },
         {
-          "title": "Performance Metrics & KPIs",
+          "title": "Chỉ số hiệu quả & KPI",
           "icon": "chart"
         }
       ]
     },
     {
       "type": "cards",
-      "heading": "Seamless Accounting & Finance Management with WTP Advisory",
+      "heading": "Quản lý kế toán & tài chính liền mạch cùng WTP Advisory",
       "columns": 4,
       "items": [
         {
-          "title": "Expert Consultation",
-          "desc": "Our accounting experts offer insights into financial best practices and regulations to help you optimize your business operations.",
+          "title": "Tư vấn chuyên môn",
+          "desc": "Các chuyên gia kế toán của chúng tôi mang đến hiểu biết sâu sắc về các thông lệ tài chính tốt nhất và quy định pháp luật để giúp bạn tối ưu hóa hoạt động kinh doanh.",
           "icon": "users"
         },
         {
-          "title": "Comprehensive Support",
-          "desc": "We offer a full suite of accounting services, from bookkeeping to tax compliance, ensuring seamless financial management.",
+          "title": "Hỗ trợ toàn diện",
+          "desc": "Chúng tôi cung cấp trọn bộ dịch vụ kế toán, từ ghi sổ kế toán đến tuân thủ thuế, đảm bảo quản lý tài chính liền mạch.",
           "icon": "headset"
         },
         {
-          "title": "Simplified Process",
-          "desc": "We handle the time-consuming tasks of financial record-keeping and reporting, allowing you to focus on your core business activities.",
+          "title": "Quy trình đơn giản",
+          "desc": "Chúng tôi đảm nhận những công việc tốn thời gian trong việc lưu giữ hồ sơ và báo cáo tài chính, cho phép bạn tập trung vào các hoạt động kinh doanh cốt lõi.",
           "icon": "rocket"
         },
         {
-          "title": "Focus on Core Business",
-          "desc": "With our accounting expertise, you can focus on achieving your business goals while ensuring financial accuracy and compliance.",
+          "title": "Tập trung vào hoạt động cốt lõi",
+          "desc": "Với chuyên môn kế toán của chúng tôi, bạn có thể tập trung đạt được mục tiêu kinh doanh trong khi vẫn đảm bảo sự chính xác và tuân thủ về tài chính.",
           "icon": "network"
         }
       ]
     },
     {
       "type": "cards",
-      "heading": "Meet Our Experts",
+      "heading": "Gặp gỡ đội ngũ chuyên gia của chúng tôi",
       "columns": 3,
       "items": [
         {
-          "title": "Michael Tran, CPA, CA",
-          "desc": "Chief Executive Officer",
+          "title": "[Tên CEO], CPA, CA",
+          "desc": "Tổng Giám đốc",
           "icon": "user"
         },
         {
-          "title": "David Pham",
-          "desc": "Head of Business Advisory",
+          "title": "[Tên Trưởng Phòng Tư Vấn]",
+          "desc": "Trưởng phòng Tư vấn doanh nghiệp",
           "icon": "user"
         },
         {
-          "title": "Linh Hoang",
-          "desc": "Head of Corporate Secretarial and Advisory Services",
+          "title": "[Tên Trưởng Phòng Thư Ký]",
+          "desc": "Trưởng phòng Dịch vụ Thư ký doanh nghiệp và Tư vấn",
           "icon": "user"
         }
       ]
     },
     {
       "type": "cta",
-      "title": "Ready to get started in Vietnam?",
-      "subtitle": "Talk to our experts about how we can support your business.",
+      "title": "Sẵn sàng khởi đầu tại Việt Nam?",
+      "subtitle": "Hãy trao đổi với các chuyên gia của chúng tôi về cách chúng tôi có thể hỗ trợ doanh nghiệp của bạn.",
       "button": {
-        "label": "Make an Inquiry",
+        "label": "Gửi yêu cầu tư vấn",
         "href": "/make-an-inquiry"
       },
       "variant": "red"

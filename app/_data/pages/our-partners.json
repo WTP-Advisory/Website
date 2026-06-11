@@ -1,16 +1,16 @@
-﻿{
-  "title": "Our Partners",
-  "metaDescription": "WTP Advisory collaborates with global market-entry consulting and business process outsourcing firms, and maintains memberships such as PrimeGlobal, to deliver the best possible service to clients.",
+{
+  "title": "Đối tác",
+  "metaDescription": "WTP Advisory hợp tác với các công ty tư vấn thâm nhập thị trường và thuê ngoài quy trình kinh doanh trên toàn cầu, đồng thời là thành viên của các tổ chức như PrimeGlobal, nhằm mang đến dịch vụ tốt nhất cho khách hàng.",
   "hero": {
-    "eyebrow": "Our Partners",
-    "title": "Our Partners",
-    "subtitle": "WTP Advisory collaborates with various global market-entry consulting and business process outsourcing firms to provide our customers with the best services possible."
+    "eyebrow": "Đối tác",
+    "title": "Đối tác",
+    "subtitle": "WTP Advisory hợp tác với nhiều công ty tư vấn thâm nhập thị trường và thuê ngoài quy trình kinh doanh trên toàn cầu nhằm mang đến cho khách hàng những dịch vụ tốt nhất."
   },
   "sections": [
     {
       "type": "logos",
-      "heading": "Our Valued Partners",
-      "subtitle": "Here is a list of our partners who will deliver the best solutions and services for you.",
+      "heading": "Những đối tác đáng tin cậy của chúng tôi",
+      "subtitle": "Dưới đây là danh sách các đối tác sẽ mang đến cho bạn những giải pháp và dịch vụ tốt nhất.",
       "columns": 4,
       "items": [
         { "name": "Knoell" },
@@ -25,7 +25,7 @@
     },
     {
       "type": "logos",
-      "heading": "We Are Featured On",
+      "heading": "Báo chí nói về chúng tôi",
       "columns": 4,
       "items": [
         { "name": "BBC" },
@@ -39,9 +39,9 @@
     },
     {
       "type": "cta",
-      "title": "Let's build something together",
-      "subtitle": "Explore how our network can support your expansion.",
-      "button": { "label": "Get in Touch", "href": "/make-an-inquiry" },
+      "title": "Cùng nhau kiến tạo giá trị",
+      "subtitle": "Khám phá cách mạng lưới của chúng tôi có thể hỗ trợ quá trình mở rộng của bạn.",
+      "button": { "label": "Liên hệ", "href": "/make-an-inquiry" },
       "variant": "blue"
     }
   ],

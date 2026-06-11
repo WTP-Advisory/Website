@@ -1,12 +1,12 @@
-﻿{
-  "title": "Company Dissolution Services in Vietnam",
-  "metaDescription": "Read our complete guide to company dissolution in Vietnam and how WTP Advisory's services can simplify the process while ensuring compliance.",
+{
+  "title": "Dịch vụ Giải thể Doanh nghiệp tại Việt Nam",
+  "metaDescription": "Đọc hướng dẫn toàn diện của chúng tôi về giải thể doanh nghiệp tại Việt Nam và cách dịch vụ của WTP Advisory giúp đơn giản hóa quy trình trong khi vẫn đảm bảo tuân thủ.",
   "hero": {
-    "eyebrow": "Services",
-    "title": "Company Dissolution Services in Vietnam",
-    "subtitle": "If you choose to cease operations and close your company in Vietnam, you need to follow the necessary procedures for deregistering your company with the appropriate authorities. We are here to help you complete this process in a compliant and expedited manner.",
+    "eyebrow": "Dịch vụ",
+    "title": "Dịch vụ Giải thể Doanh nghiệp tại Việt Nam",
+    "subtitle": "Nếu bạn quyết định ngừng hoạt động và đóng cửa công ty tại Việt Nam, bạn cần thực hiện các thủ tục cần thiết để giải thể doanh nghiệp với các cơ quan có thẩm quyền phù hợp. Chúng tôi sẵn sàng hỗ trợ bạn hoàn tất quy trình này một cách tuân thủ và nhanh chóng.",
     "cta": {
-      "label": "Make an Inquiry",
+      "label": "Gửi Yêu cầu Tư vấn",
       "href": "/make-an-inquiry"
     },
     "image": "/incorp/solutions/legal-advisory.jpg"
@@ -14,92 +14,92 @@
   "sections": [
     {
       "type": "cards",
-      "heading": "Benefits of Company Dissolution Services in Vietnam",
+      "heading": "Lợi ích của Dịch vụ Giải thể Doanh nghiệp tại Việt Nam",
       "columns": 4,
       "items": [
         {
-          "title": "Expert Guidance Ensures Smooth Process Flow",
-          "desc": "Experienced pros ensure proper dissolution flow.",
+          "title": "Hướng dẫn Chuyên môn Đảm bảo Quy trình Suôn sẻ",
+          "desc": "Đội ngũ chuyên gia giàu kinh nghiệm đảm bảo quy trình giải thể đúng quy định.",
           "icon": "userCheck"
         },
         {
-          "title": "Effortless Paperwork Handling, Valuable Time Saved",
-          "desc": "Services handle paperwork, save time, ease admin burdens for businesses.",
+          "title": "Xử lý Thủ tục Giấy tờ Nhẹ nhàng, Tiết kiệm Thời gian Quý báu",
+          "desc": "Dịch vụ đảm nhận thủ tục giấy tờ, tiết kiệm thời gian và giảm gánh nặng hành chính cho doanh nghiệp.",
           "icon": "clock"
         },
         {
-          "title": "Guarantee Legal Compliance, Worry-Free and Secure",
-          "desc": "Dissolution services ensure legal compliance for a lawful closure.",
+          "title": "Đảm bảo Tuân thủ Pháp luật, An tâm và An toàn",
+          "desc": "Dịch vụ giải thể đảm bảo tuân thủ pháp luật để doanh nghiệp đóng cửa hợp pháp.",
           "icon": "shield"
         },
         {
-          "title": "Minimized Risks, Peace of Mind Achieved",
-          "desc": "Reduce risk, gain confidence, induce post-dissolution risks.",
+          "title": "Giảm thiểu Rủi ro, Mang lại Sự An tâm",
+          "desc": "Giảm thiểu rủi ro, củng cố sự tự tin và hạn chế các rủi ro sau giải thể.",
           "icon": "badge"
         }
       ]
     },
     {
       "type": "richText",
-      "heading": "Different Forms of Company Dissolution in Vietnam",
+      "heading": "Các Hình thức Giải thể Doanh nghiệp tại Việt Nam",
       "align": "center",
       "body": [
-        "Company Dissolution in Vietnam means ending a business officially. This process follows rules from the Law on Enterprises (LOE). There are two main ways it can happen:"
+        "Giải thể doanh nghiệp tại Việt Nam là việc chấm dứt hoạt động kinh doanh một cách chính thức. Quy trình này tuân theo các quy định của Luật Doanh nghiệp (LOE). Có hai hình thức chính:"
       ]
     },
     {
       "type": "richText",
-      "heading": "Voluntary Dissolution",
+      "heading": "Giải thể Tự nguyện",
       "body": [
-        "Voluntary dissolution is when owners decide to close a company, settling debts, and dividing assets among themselves for their company's best interest. Voluntary dissolution can occur in the following situations:"
+        "Giải thể tự nguyện là khi chủ sở hữu quyết định đóng cửa công ty, thanh toán các khoản nợ và phân chia tài sản giữa các bên vì lợi ích tốt nhất của công ty. Giải thể tự nguyện có thể diễn ra trong các trường hợp sau:"
       ]
     },
     {
       "type": "list",
       "columns": 1,
       "items": [
-        "When the specified operating period in the company's charter expires, and the owners choose not to extend it further.",
-        "When the owners decide to discontinue business operations due to the recognition of the company's inefficiency."
+        "Khi thời hạn hoạt động ghi trong điều lệ công ty kết thúc và chủ sở hữu không quyết định gia hạn thêm.",
+        "Khi chủ sở hữu quyết định ngừng hoạt động kinh doanh do nhận thấy công ty hoạt động không hiệu quả."
       ]
     },
     {
       "type": "richText",
-      "heading": "Compulsory Dissolution",
+      "heading": "Giải thể Bắt buộc",
       "body": [
-        "Compulsory dissolution is the termination of a business or company that is mandated or enforced by government authorities due to non-compliance with legal provisions or regulations. This occurs when:"
+        "Giải thể bắt buộc là việc chấm dứt hoạt động của một doanh nghiệp hoặc công ty theo yêu cầu hoặc cưỡng chế của cơ quan nhà nước do không tuân thủ các quy định pháp luật. Điều này xảy ra khi:"
       ]
     },
     {
       "type": "list",
       "columns": 1,
       "items": [
-        "A business violates established laws, leading to the mandatory cessation of all its business activities.",
-        "A business fails to meet the minimum requirements for members or shareholders as stipulated by regulatory agencies and is unable to rectify the deficiency within a specified period."
+        "Doanh nghiệp vi phạm các quy định pháp luật đã được thiết lập, dẫn đến buộc phải chấm dứt toàn bộ hoạt động kinh doanh.",
+        "Doanh nghiệp không đáp ứng số lượng thành viên hoặc cổ đông tối thiểu theo quy định của cơ quan quản lý và không thể khắc phục trong thời hạn quy định."
       ]
     },
     {
       "type": "cards",
-      "heading": "Requirements of Company Dissolution in Vietnam",
+      "heading": "Điều kiện Giải thể Doanh nghiệp tại Việt Nam",
       "columns": 2,
       "items": [
         {
-          "title": "Completion of Operation Term",
-          "desc": "When the charter-specified operational duration ends without an extension decision.",
+          "title": "Kết thúc Thời hạn Hoạt động",
+          "desc": "Khi thời hạn hoạt động ghi trong điều lệ kết thúc mà không có quyết định gia hạn.",
           "icon": "clock"
         },
         {
-          "title": "Resolutions and Decisions",
-          "desc": "Dissolution can occur through resolutions by business owners, Members' Council (for partnerships and LLCs), or Shareholders' Meeting (for joint-stock companies).",
+          "title": "Nghị quyết và Quyết định",
+          "desc": "Giải thể có thể diễn ra thông qua nghị quyết của chủ sở hữu doanh nghiệp, Hội đồng Thành viên (đối với công ty hợp danh và công ty TNHH), hoặc Đại hội đồng Cổ đông (đối với công ty cổ phần).",
           "icon": "clipboard"
         },
         {
-          "title": "Insufficient Membership",
-          "desc": "If the company doesn't meet the minimum member count for six consecutive months and doesn't transform its enterprise type as required by the law, dissolution becomes an option.",
+          "title": "Không Đủ Số lượng Thành viên",
+          "desc": "Nếu công ty không đáp ứng số lượng thành viên tối thiểu trong sáu tháng liên tục và không chuyển đổi loại hình doanh nghiệp theo quy định của pháp luật, thì giải thể trở thành một lựa chọn.",
           "icon": "users"
         },
         {
-          "title": "Revocation of Enterprise Registration",
-          "desc": "If the enterprise registration certificate is revoked, dissolution follows unless the Law on Tax Administration specifies otherwise.",
+          "title": "Thu hồi Giấy chứng nhận Đăng ký Doanh nghiệp",
+          "desc": "Nếu giấy chứng nhận đăng ký doanh nghiệp bị thu hồi, việc giải thể sẽ được tiến hành trừ khi Luật Quản lý Thuế có quy định khác.",
           "icon": "fileCheck"
         }
       ]
@@ -107,157 +107,157 @@
     {
       "type": "richText",
       "body": [
-        "Note: Dissolution can only happen after settling all debts and property obligations. It's not allowed during ongoing dispute resolutions. In case of certificate revocation, both the manager and the enterprise share debt responsibility."
+        "Lưu ý: Việc giải thể chỉ có thể diễn ra sau khi đã thanh toán toàn bộ các khoản nợ và nghĩa vụ tài sản. Không được phép giải thể trong khi đang có tranh chấp chưa được giải quyết. Trong trường hợp giấy chứng nhận bị thu hồi, cả người quản lý và doanh nghiệp cùng chịu trách nhiệm về các khoản nợ."
       ]
     },
     {
       "type": "steps",
-      "heading": "Company Dissolution Procedures in Vietnam",
-      "subtitle": "In general, to start implementing the process of dissolving as the resolutions and decisions on dissolutions of the company, the following steps must be taken:",
+      "heading": "Thủ tục Giải thể Doanh nghiệp tại Việt Nam",
+      "subtitle": "Nhìn chung, để bắt đầu triển khai quy trình giải thể theo nghị quyết và quyết định giải thể của công ty, cần thực hiện các bước sau:",
       "items": [
         {
-          "title": "Step 1",
-          "desc": "Send the notice of dissolution of the enterprise to the Business Registration Office, with relevant documentation, within 7 days from the date of adoption of the resolution or decision on dissolution."
+          "title": "Bước 1",
+          "desc": "Gửi thông báo giải thể doanh nghiệp đến Phòng Đăng ký Kinh doanh, kèm theo các tài liệu liên quan, trong vòng 7 ngày kể từ ngày thông qua nghị quyết hoặc quyết định giải thể."
         },
         {
-          "title": "Step 2",
-          "desc": "Within 1 working day from the date of receipt of the Notice, the Business Registration Office will post on the Portal, change the legal status of the enterprise to \"In progress of dissolution procedures\" and transfer information to Tax Authorities. Enterprises must then carry out the procedures for completing tax obligations to the Tax Authorities."
+          "title": "Bước 2",
+          "desc": "Trong vòng 1 ngày làm việc kể từ ngày nhận được Thông báo, Phòng Đăng ký Kinh doanh sẽ đăng tải lên Cổng thông tin, thay đổi tình trạng pháp lý của doanh nghiệp thành \"Đang làm thủ tục giải thể\" và chuyển thông tin sang Cơ quan Thuế. Sau đó, doanh nghiệp phải thực hiện các thủ tục hoàn thành nghĩa vụ thuế với Cơ quan Thuế."
         },
         {
-          "title": "Step 3",
-          "desc": "Enterprises liquidate debts in the following order: unpaid salaries, severance pay, social insurance, health insurance and benefits; tax debts; and other debts. Note: An enterprise may only be dissolved after all of its debts and liabilities are fully paid off and it is not involved in any dispute at local courts or arbitration."
+          "title": "Bước 3",
+          "desc": "Doanh nghiệp thanh toán các khoản nợ theo thứ tự sau: lương chưa trả, trợ cấp thôi việc, bảo hiểm xã hội, bảo hiểm y tế và các quyền lợi; nợ thuế; và các khoản nợ khác. Lưu ý: Doanh nghiệp chỉ có thể được giải thể sau khi đã thanh toán đầy đủ mọi khoản nợ và nghĩa vụ, và không liên quan đến bất kỳ tranh chấp nào tại tòa án hoặc trọng tài địa phương."
         },
         {
-          "title": "Step 4",
-          "desc": "Submit the application for business dissolution to the Business Registration Office. Note: Before proceeding, businesses must close related branches or offices at the local Business Registration Office, and return the seal and certificate to the police during dissolution if using their seal."
+          "title": "Bước 4",
+          "desc": "Nộp hồ sơ giải thể doanh nghiệp đến Phòng Đăng ký Kinh doanh. Lưu ý: Trước khi tiến hành, doanh nghiệp phải đóng các chi nhánh hoặc văn phòng liên quan tại Phòng Đăng ký Kinh doanh địa phương, và trả lại con dấu cùng giấy chứng nhận cho cơ quan công an trong quá trình giải thể nếu có sử dụng con dấu."
         },
         {
-          "title": "Step 5",
-          "desc": "After receiving the Registration, they shall send information to the Tax Authorities, which shall reply within 2 working days to confirm fulfilment of the tax payment obligation. If the Business Registration Office does not receive a refusal from the Tax Authorities, they change the legal status of the enterprise to \"Dissolved\" and issue a notice of dissolution."
+          "title": "Bước 5",
+          "desc": "Sau khi nhận hồ sơ, Phòng Đăng ký Kinh doanh sẽ gửi thông tin sang Cơ quan Thuế, và Cơ quan Thuế sẽ phản hồi trong vòng 2 ngày làm việc để xác nhận việc hoàn thành nghĩa vụ nộp thuế. Nếu Phòng Đăng ký Kinh doanh không nhận được ý kiến từ chối từ Cơ quan Thuế, họ sẽ thay đổi tình trạng pháp lý của doanh nghiệp thành \"Đã giải thể\" và ra thông báo giải thể."
         }
       ]
     },
     {
       "type": "richText",
-      "heading": "Legal Procedures of Company Dissolution",
+      "heading": "Thủ tục Pháp lý của Quy trình Giải thể Doanh nghiệp",
       "body": [
-        "Our HCMC Company Dissolution Service handles all steps, from advice to dossier submission, ensuring a seamless and efficient dissolution for your company."
+        "Dịch vụ Giải thể Doanh nghiệp tại TP. Hồ Chí Minh của chúng tôi đảm nhận tất cả các bước, từ tư vấn đến nộp hồ sơ, đảm bảo quá trình giải thể diễn ra liền mạch và hiệu quả cho công ty bạn."
       ]
     },
     {
       "type": "list",
       "columns": 1,
       "items": [
-        "Consult your business on requirements",
-        "Collect your business's information, dossiers",
-        "Draft application forms for all steps",
-        "Submit the Notice on dissolution intent to HCMC Department of Planning and Investment",
-        "Return of Corporate seal if granted by HCMC Public Security Department",
-        "Submit complete application dossier for company dissolution to HCMC Department of Planning and Investment after completion of enterprise dissolution procedure at Tax Authority"
+        "Tư vấn cho doanh nghiệp về các yêu cầu",
+        "Thu thập thông tin và hồ sơ của doanh nghiệp",
+        "Soạn thảo các mẫu đơn cho tất cả các bước",
+        "Nộp Thông báo về ý định giải thể đến Sở Kế hoạch và Đầu tư TP. Hồ Chí Minh",
+        "Trả lại con dấu doanh nghiệp nếu được cấp bởi Công an TP. Hồ Chí Minh",
+        "Nộp hồ sơ giải thể doanh nghiệp hoàn chỉnh đến Sở Kế hoạch và Đầu tư TP. Hồ Chí Minh sau khi hoàn tất thủ tục giải thể doanh nghiệp tại Cơ quan Thuế"
       ]
     },
     {
       "type": "richText",
-      "heading": "Accounting Procedures of Company Dissolution",
+      "heading": "Thủ tục Kế toán của Quy trình Giải thể Doanh nghiệp",
       "body": [
-        "WTP Advisory's Accounting Procedures for Company Dissolution ensure a seamless process, from document review to tax reconciliation, providing a hassle-free conclusion. The Accounting Procedures in Company Dissolution Service helps:"
+        "Thủ tục Kế toán cho Giải thể Doanh nghiệp của WTP Advisory đảm bảo một quy trình liền mạch, từ rà soát chứng từ đến đối chiếu thuế, mang lại sự kết thúc trọn vẹn và không phiền hà. Dịch vụ Thủ tục Kế toán trong Giải thể Doanh nghiệp giúp:"
       ]
     },
     {
       "type": "list",
       "columns": 1,
       "items": [
-        "Check and review all of the accounting supporting documents",
-        "Close accounting books and prepare the final financial statements",
-        "Support the independent audit for the final auditing",
-        "Prepare the Letter for Taxation Confirmation to confirm the tax obligation status of the Company, working with the Tax Authority to do the tax reconciliation",
-        "Prepare essential dissolution documents including liquidation notice, board minutes, company decision, and financial statements",
-        "Submit dissolution documentation to the Tax Authority and maintain regular communication to expedite their processes",
-        "Tax authorities perform tax audits, and we act as intermediaries, communicating and providing explanations to the authorities on your behalf",
-        "Work and communicate with the Tax authority for completion of tax obligations and lock tax code",
-        "Recover the stamp, ERC, and conclude the dissolution process"
+        "Kiểm tra và rà soát toàn bộ chứng từ kế toán",
+        "Khóa sổ kế toán và lập báo cáo tài chính cuối cùng",
+        "Hỗ trợ kiểm toán độc lập cho lần kiểm toán cuối cùng",
+        "Soạn Công văn Xác nhận Nghĩa vụ Thuế để xác nhận tình trạng nghĩa vụ thuế của Công ty, phối hợp với Cơ quan Thuế để thực hiện đối chiếu thuế",
+        "Chuẩn bị các tài liệu giải thể thiết yếu bao gồm thông báo thanh lý, biên bản họp hội đồng, quyết định của công ty và báo cáo tài chính",
+        "Nộp hồ sơ giải thể đến Cơ quan Thuế và duy trì liên lạc thường xuyên để đẩy nhanh quy trình của họ",
+        "Cơ quan thuế tiến hành kiểm tra thuế, và chúng tôi đóng vai trò trung gian, liên lạc và giải trình với cơ quan thay mặt bạn",
+        "Phối hợp và làm việc với Cơ quan Thuế để hoàn thành nghĩa vụ thuế và đóng mã số thuế",
+        "Thu hồi con dấu, Giấy chứng nhận ĐKDN (ERC) và hoàn tất quy trình giải thể"
       ]
     },
     {
       "type": "richText",
-      "heading": "HR Procedures of Company Dissolution",
+      "heading": "Thủ tục Nhân sự của Quy trình Giải thể Doanh nghiệp",
       "body": [
-        "HR Procedures in Company Dissolution Service from WTP Advisory simplifies the process by assisting with labor requirements, compensation agreements, data collection, financial calculations, and online reporting for a seamless dissolution. The HR Procedures in Company Dissolution Service helps:"
+        "Dịch vụ Thủ tục Nhân sự trong Giải thể Doanh nghiệp của WTP Advisory đơn giản hóa quy trình bằng cách hỗ trợ các yêu cầu về lao động, thỏa thuận bồi thường, thu thập dữ liệu, tính toán tài chính và báo cáo trực tuyến, mang lại một quá trình giải thể liền mạch. Dịch vụ Thủ tục Nhân sự trong Giải thể Doanh nghiệp giúp:"
       ]
     },
     {
       "type": "list",
       "columns": 1,
       "items": [
-        "Consult you on labor-related requirements",
-        "Meet with affected employees to get their mutual agreements on compensation",
-        "Draft mutual agreements on termination of labor contracts between you and affected employees",
-        "Gather all payroll data and employee data regarding their incurred PIT with your business",
-        "Calculate the total amount of compensation that you need to pay to affected employees",
-        "Calculate the pending PIT/SI amount that you need to pay",
-        "Produce quarterly and annual PIT reports for online submission",
-        "Issue confirmation letter of income and/or e-PIT certificate"
+        "Tư vấn cho bạn về các yêu cầu liên quan đến lao động",
+        "Gặp gỡ những nhân viên bị ảnh hưởng để đạt được thỏa thuận chung về bồi thường",
+        "Soạn thảo các thỏa thuận chấm dứt hợp đồng lao động giữa bạn và những nhân viên bị ảnh hưởng",
+        "Thu thập toàn bộ dữ liệu tiền lương và dữ liệu nhân viên liên quan đến thuế thu nhập cá nhân (TNCN) phát sinh với doanh nghiệp bạn",
+        "Tính toán tổng số tiền bồi thường mà bạn cần chi trả cho những nhân viên bị ảnh hưởng",
+        "Tính toán số tiền thuế TNCN/bảo hiểm xã hội còn tồn đọng mà bạn cần nộp",
+        "Lập báo cáo thuế TNCN theo quý và theo năm để nộp trực tuyến",
+        "Cấp công văn xác nhận thu nhập và/hoặc chứng từ thuế TNCN điện tử"
       ]
     },
     {
       "type": "cta",
-      "title": "Not sure where to start? Talk to a consultant.",
-      "subtitle": "Whether you need an employer of record service or payroll services for small business, WTP Advisory offers contractor payroll services that give your company a strategic advantage.",
+      "title": "Chưa biết bắt đầu từ đâu? Hãy trao đổi với chuyên gia tư vấn.",
+      "subtitle": "Dù bạn cần dịch vụ tổ chức làm chủ sử dụng lao động (employer of record) hay dịch vụ tính lương cho doanh nghiệp nhỏ, WTP Advisory cung cấp dịch vụ tính lương cho nhà thầu, mang lại lợi thế chiến lược cho công ty bạn.",
       "button": {
-        "label": "Make an Inquiry",
+        "label": "Gửi Yêu cầu Tư vấn",
         "href": "/make-an-inquiry"
       },
       "variant": "blue"
     },
     {
       "type": "steps",
-      "heading": "Your Success Plan in Vietnam",
+      "heading": "Lộ trình Thành công của Bạn tại Việt Nam",
       "items": [
         {
-          "title": "Submit Your Information & Needs",
-          "desc": "Tell us about your company's needs and aspirations in Vietnam"
+          "title": "Gửi Thông tin & Nhu cầu của Bạn",
+          "desc": "Chia sẻ với chúng tôi về nhu cầu và mục tiêu của công ty bạn tại Việt Nam"
         },
         {
-          "title": "Book a Consultation With Our Experts",
-          "desc": "Go over your plan with one of our bilingual business Consultants"
+          "title": "Đặt lịch Tư vấn với Chuyên gia",
+          "desc": "Trao đổi kế hoạch của bạn cùng một chuyên gia tư vấn kinh doanh song ngữ của chúng tôi"
         },
         {
-          "title": "Verify KYC Documents",
-          "desc": "Our consultants will contact you to process the necessary paperwork and create your company dossier"
+          "title": "Xác minh Hồ sơ KYC",
+          "desc": "Các chuyên gia tư vấn sẽ liên hệ với bạn để xử lý các thủ tục giấy tờ cần thiết và lập hồ sơ công ty của bạn"
         },
         {
-          "title": "Choose a Plan & Succeed In Vietnam",
-          "desc": "Let us simplify your business journey and make your mark in APAC's fastest-growing economy"
+          "title": "Chọn Gói Dịch vụ & Thành công tại Việt Nam",
+          "desc": "Hãy để chúng tôi đơn giản hóa hành trình kinh doanh và giúp bạn ghi dấu ấn tại nền kinh tế phát triển nhanh nhất khu vực APAC"
         }
       ]
     },
     {
       "type": "cards",
-      "eyebrow": "Explore More",
-      "heading": "Other Services for Businesses in Vietnam",
+      "eyebrow": "Khám phá thêm",
+      "heading": "Các Dịch vụ Khác cho Doanh nghiệp tại Việt Nam",
       "columns": 4,
       "items": [
         {
-          "title": "Incorporation",
-          "desc": "Gain a presence in the Vietnamese market through our incorporation services.",
+          "title": "Thành lập Doanh nghiệp",
+          "desc": "Hiện diện tại thị trường Việt Nam thông qua dịch vụ thành lập doanh nghiệp của chúng tôi.",
           "href": "/incorporation",
           "icon": "building"
         },
         {
-          "title": "Accounting & Taxation",
-          "desc": "Save time and money while ensuring compliance with full-service accounting services.",
+          "title": "Kế toán & Thuế",
+          "desc": "Tiết kiệm thời gian và chi phí trong khi vẫn đảm bảo tuân thủ với dịch vụ kế toán trọn gói.",
           "href": "/accounting-taxation",
           "icon": "calculator"
         },
         {
-          "title": "HR & Payroll",
-          "desc": "Comprehensive solutions for recruitment, payroll, insurance, and taxes.",
+          "title": "Nhân sự & Tính lương",
+          "desc": "Giải pháp toàn diện cho tuyển dụng, tính lương, bảo hiểm và thuế.",
           "href": "/hr-payroll-services",
           "icon": "users"
         },
         {
-          "title": "Immigration",
-          "desc": "Navigate visa requirements and obtain work permits, investor, and business visa.",
+          "title": "Di trú",
+          "desc": "Xử lý các yêu cầu về thị thực và xin giấy phép lao động, thị thực nhà đầu tư và thị thực kinh doanh.",
           "href": "/immigration",
           "icon": "plane"
         }
@@ -266,32 +266,32 @@
     {
       "type": "stats",
       "variant": "red",
-      "heading": "Backed by WTP Advisory",
+      "heading": "Được Hậu thuẫn bởi WTP Advisory",
       "items": [
         {
           "value": "30+",
-          "label": "Years of experience"
+          "label": "Năm kinh nghiệm"
         },
         {
           "value": "1,500+",
-          "label": "Professionals across APAC"
+          "label": "Chuyên gia trên khắp APAC"
         },
         {
           "value": "20,000+",
-          "label": "Clients served globally"
+          "label": "Khách hàng được phục vụ trên toàn cầu"
         },
         {
           "value": "8",
-          "label": "Markets in Asia-Pacific"
+          "label": "Thị trường tại Châu Á - Thái Bình Dương"
         }
       ]
     },
     {
       "type": "cta",
-      "title": "Ready to get started in Vietnam?",
-      "subtitle": "Talk to our experts about how we can support your business.",
+      "title": "Sẵn sàng khởi đầu tại Việt Nam?",
+      "subtitle": "Trao đổi với các chuyên gia của chúng tôi về cách chúng tôi có thể hỗ trợ doanh nghiệp của bạn.",
       "button": {
-        "label": "Make an Inquiry",
+        "label": "Gửi Yêu cầu Tư vấn",
         "href": "/make-an-inquiry"
       },
       "variant": "red"

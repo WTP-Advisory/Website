@@ -1,92 +1,92 @@
 {
-  "title": "Beyond the Ledger: The 2026 Guide to Finance and Accounting Outsourcing Services in Vietnam",
-  "metaDescription": "A 2026 guide to finance and accounting outsourcing in Vietnam: why in-house models struggle, the regulatory changes driving the shift, the integrated outsourcing approach, and a four-phase transition playbook.",
+  "title": "Vượt ra ngoài sổ sách: Cẩm nang 2026 về dịch vụ thuê ngoài tài chính - kế toán tại Việt Nam",
+  "metaDescription": "Cẩm nang 2026 về thuê ngoài tài chính - kế toán tại Việt Nam: vì sao mô hình nội bộ gặp khó khăn, những thay đổi pháp lý thúc đẩy sự dịch chuyển, cách tiếp cận thuê ngoài tích hợp, và lộ trình chuyển đổi bốn giai đoạn.",
   "hero": {
-    "eyebrow": "News & Insights",
-    "title": "Beyond the Ledger: The 2026 Guide to Finance and Accounting Outsourcing Services in Vietnam",
-    "subtitle": "Why and how foreign-invested companies are outsourcing finance and accounting in Vietnam to cut compliance risk and free up capacity for growth.",
+    "eyebrow": "Tin tức & Góc nhìn",
+    "title": "Vượt ra ngoài sổ sách: Cẩm nang 2026 về dịch vụ thuê ngoài tài chính - kế toán tại Việt Nam",
+    "subtitle": "Vì sao và bằng cách nào các doanh nghiệp có vốn đầu tư nước ngoài đang thuê ngoài tài chính - kế toán tại Việt Nam để giảm rủi ro tuân thủ và giải phóng nguồn lực cho tăng trưởng.",
     "image": "/incorp/news/finance-accounting.png"
   },
   "sections": [
     {
       "type": "list",
-      "heading": "Why In-House Models Struggle in 2026",
+      "heading": "Vì sao mô hình nội bộ gặp khó khăn trong năm 2026",
       "columns": 1,
       "items": [
-        "Chief Accountant challenge: Vietnam mandates a Chief Accountant role carrying significant legal responsibility. Qualified professionals who understand FDI structures, local tax law, and English communication command premium salaries, and a sudden departure during a tax period can trigger an operational crisis.",
-        "Software integration issues: local software optimized for VAS rarely integrates with global systems like SAP, Oracle, or Xero, forcing teams to enter data twice, once for government compliance and again for headquarters, which introduces errors and wastes time.",
-        "Strategic capacity loss: in-house teams often spend around 90% of their effort maintaining compliance rather than analyzing cash flow, reducing costs, or shaping financial strategy."
+        "Thách thức về Kế toán trưởng: Việt Nam bắt buộc phải có vị trí Kế toán trưởng, mang trách nhiệm pháp lý đáng kể. Những chuyên gia đủ năng lực, am hiểu cấu trúc FDI, luật thuế nội địa và giao tiếp tiếng Anh đòi hỏi mức lương cao, và việc nghỉ việc đột ngột trong kỳ thuế có thể gây ra khủng hoảng vận hành.",
+        "Vấn đề tích hợp phần mềm: phần mềm nội địa được tối ưu cho VAS hiếm khi tích hợp được với các hệ thống toàn cầu như SAP, Oracle hay Xero, buộc các đội ngũ phải nhập dữ liệu hai lần, một lần để tuân thủ với cơ quan nhà nước và một lần cho trụ sở chính, dẫn đến sai sót và lãng phí thời gian.",
+        "Mất năng lực chiến lược: các đội ngũ nội bộ thường dành khoảng 90% công sức để duy trì tuân thủ thay vì phân tích dòng tiền, cắt giảm chi phí hay định hình chiến lược tài chính."
       ]
     },
     {
       "type": "list",
-      "heading": "2026 Rule Changes Driving the Shift",
+      "heading": "Những thay đổi quy định năm 2026 thúc đẩy sự dịch chuyển",
       "columns": 1,
       "items": [
-        "AI-powered tax audits: the General Department of Taxation now uses AI to analyze real-time e-invoice data (mandatory under Circular 78), flagging suspicious transactions immediately.",
-        "IFRS transition requirements: as Vietnam moves from VAS toward IFRS, multinational subsidiaries increasingly need dual-reporting capabilities, a complex task for small teams.",
-        "Global Minimum Tax (GMT) rules: organizations with revenues above EUR 750 million must ensure a 15% minimum effective tax rate, where miscalculation carries substantial penalties."
+        "Thanh tra thuế ứng dụng AI: Tổng cục Thuế nay sử dụng AI để phân tích dữ liệu hóa đơn điện tử theo thời gian thực (bắt buộc theo Thông tư 78), lập tức gắn cờ những giao dịch đáng ngờ.",
+        "Yêu cầu chuyển đổi IFRS: khi Việt Nam dịch chuyển từ VAS sang IFRS, các công ty con đa quốc gia ngày càng cần năng lực lập báo cáo song song, một nhiệm vụ phức tạp đối với các đội ngũ nhỏ.",
+        "Quy định Thuế tối thiểu toàn cầu (GMT): các tổ chức có doanh thu trên 750 triệu EUR phải đảm bảo thuế suất thực tối thiểu 15%, nơi tính toán sai sót sẽ dẫn đến những khoản phạt đáng kể."
       ]
     },
     {
       "type": "richText",
-      "heading": "An Integrated Approach to Outsourcing",
+      "heading": "Cách tiếp cận tích hợp đối với thuê ngoài",
       "body": [
-        "Modern finance and accounting outsourcing emphasizes operational integration rather than a simple vendor relationship. A strong provider bridges Vietnam and headquarters by recording transactions in Vietnamese Dong under VAS for government purposes, while automatically translating the same data into USD and IFRS for management reporting.",
-        "Technology is central to this. By localizing ERP platforms such as SAP and Oracle or deploying cloud tools like Xero, providers eliminate duplicate data entry, automate e-invoice verification, digitize payroll and expense management, and deliver real-time financial dashboards."
+        "Thuê ngoài tài chính - kế toán hiện đại chú trọng tích hợp vận hành thay vì chỉ là một quan hệ nhà cung cấp đơn thuần. Một đơn vị cung cấp uy tín sẽ làm cầu nối giữa Việt Nam và trụ sở chính bằng cách ghi nhận giao dịch theo Đồng Việt Nam và VAS phục vụ cơ quan nhà nước, đồng thời tự động chuyển đổi chính dữ liệu đó sang USD và IFRS để phục vụ báo cáo quản trị.",
+        "Công nghệ đóng vai trò trung tâm trong việc này. Bằng cách bản địa hóa các nền tảng ERP như SAP và Oracle hoặc triển khai các công cụ đám mây như Xero, đơn vị cung cấp loại bỏ việc nhập trùng dữ liệu, tự động hóa kiểm tra hóa đơn điện tử, số hóa quản lý tính lương và chi phí, đồng thời cung cấp bảng điều khiển tài chính theo thời gian thực."
       ]
     },
     {
       "type": "list",
-      "heading": "What Outsourcing Delivers",
+      "heading": "Thuê ngoài mang lại điều gì",
       "columns": 2,
       "items": [
-        "Reduced compliance risk through professional, up-to-date expertise",
-        "Cost predictability versus variable in-house payroll and overhead",
-        "No recruitment or training burden when scaling up",
-        "Retained executive control over financial authorization",
-        "Audit protection, with senior tax experts representing you before authorities",
-        "Strategic insight that goes beyond routine compliance"
+        "Giảm rủi ro tuân thủ nhờ chuyên môn chuyên nghiệp và luôn cập nhật",
+        "Chi phí dễ dự đoán so với chi phí lương và vận hành nội bộ biến động",
+        "Không gánh nặng tuyển dụng hay đào tạo khi mở rộng quy mô",
+        "Giữ quyền kiểm soát của cấp lãnh đạo đối với việc phê duyệt tài chính",
+        "Bảo vệ trong thanh tra, với các chuyên gia thuế cấp cao đại diện cho bạn trước cơ quan chức năng",
+        "Hiểu biết chiến lược vượt ra ngoài tuân thủ thường nhật"
       ]
     },
     {
       "type": "list",
-      "heading": "Your Four-Phase Transition Playbook",
+      "heading": "Lộ trình chuyển đổi bốn giai đoạn của bạn",
       "columns": 1,
       "items": [
-        "Phase 1 (Weeks 1-2) - Health check: audit the current system and define roles, with no operational disruption.",
-        "Phase 2 (Weeks 3-4) - Workflow building: document approval processes, banking authorization, and reporting schedules.",
-        "Phase 3 (Month 2) - Parallel run: operate old and new systems simultaneously to validate accuracy before full transition.",
-        "Phase 4 (Month 3 onward) - Full takeover: complete the transfer of daily operations and begin quarterly strategic advisory sessions."
+        "Giai đoạn 1 (Tuần 1-2) - Rà soát tổng thể: kiểm tra hệ thống hiện tại và xác định vai trò, không gây gián đoạn vận hành.",
+        "Giai đoạn 2 (Tuần 3-4) - Xây dựng quy trình: lập hồ sơ các quy trình phê duyệt, ủy quyền giao dịch ngân hàng và lịch lập báo cáo.",
+        "Giai đoạn 3 (Tháng 2) - Vận hành song song: chạy đồng thời hệ thống cũ và mới để kiểm chứng độ chính xác trước khi chuyển đổi hoàn toàn.",
+        "Giai đoạn 4 (Từ tháng 3 trở đi) - Tiếp quản toàn bộ: hoàn tất chuyển giao hoạt động hằng ngày và bắt đầu các buổi tư vấn chiến lược hằng quý."
       ]
     },
     {
       "type": "faq",
-      "heading": "Frequently Asked Questions",
+      "heading": "Câu hỏi thường gặp",
       "items": [
         {
-          "q": "Does outsourcing satisfy Vietnam's Chief Accountant requirement?",
-          "a": "Yes. The Chief Accountant role remains a mandatory legal obligation, and a qualified outsourcing provider can fulfill it on your behalf."
+          "q": "Thuê ngoài có đáp ứng yêu cầu về Kế toán trưởng của Việt Nam không?",
+          "a": "Có. Vai trò Kế toán trưởng vẫn là nghĩa vụ pháp lý bắt buộc, và một đơn vị cung cấp dịch vụ thuê ngoài đủ năng lực có thể đảm nhận vai trò này thay cho bạn."
         },
         {
-          "q": "Do we lose control of our cash flow?",
-          "a": "No. Cash flow control stays with your company directors. The outsourcing team prepares and records transactions, but authorization remains with you."
+          "q": "Chúng tôi có mất quyền kiểm soát dòng tiền không?",
+          "a": "Không. Quyền kiểm soát dòng tiền vẫn thuộc về các giám đốc công ty của bạn. Đội ngũ thuê ngoài chuẩn bị và ghi nhận giao dịch, nhưng quyền phê duyệt vẫn thuộc về bạn."
         },
         {
-          "q": "Is outsourcing really more cost-effective than an in-house team?",
-          "a": "For most foreign-invested companies, yes. Outsourcing replaces the hidden overhead of recruiting, training, and retaining an internal department with predictable, scalable costs."
+          "q": "Thuê ngoài có thực sự tiết kiệm chi phí hơn đội ngũ nội bộ không?",
+          "a": "Đối với hầu hết doanh nghiệp có vốn đầu tư nước ngoài, câu trả lời là có. Thuê ngoài thay thế các chi phí ẩn của việc tuyển dụng, đào tạo và giữ chân một bộ phận nội bộ bằng những khoản chi phí dễ dự đoán và có khả năng mở rộng."
         },
         {
-          "q": "Who handles a tax audit?",
-          "a": "Experienced practitioners on the outsourcing team assume compliance responsibility and represent the company before the tax authorities during inspections."
+          "q": "Ai xử lý khi có thanh tra thuế?",
+          "a": "Các chuyên gia giàu kinh nghiệm trong đội ngũ thuê ngoài đảm nhận trách nhiệm tuân thủ và đại diện công ty trước cơ quan thuế trong các đợt thanh tra."
         }
       ]
     },
     {
       "type": "cta",
-      "title": "Need help with this in Vietnam?",
-      "subtitle": "Our team can take over your finance and accounting function with dual VAS and IFRS reporting and full audit support.",
-      "button": { "label": "Make an inquiry", "href": "/make-an-inquiry" },
+      "title": "Cần hỗ trợ về việc này tại Việt Nam?",
+      "subtitle": "Đội ngũ của chúng tôi có thể tiếp quản chức năng tài chính - kế toán của bạn với báo cáo song song VAS và IFRS cùng hỗ trợ thanh tra toàn diện.",
+      "button": { "label": "Gửi yêu cầu tư vấn", "href": "/make-an-inquiry" },
       "variant": "red"
     }
   ],

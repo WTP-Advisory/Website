@@ -1,16 +1,16 @@
-﻿{
-  "title": "Our Clients",
-  "metaDescription": "WTP Advisory works with a diverse range of clients across industries, delivering tailored solutions, strategic insights, and measurable success for businesses expanding into Vietnam and Asia-Pacific.",
+{
+  "title": "Khách hàng",
+  "metaDescription": "WTP Advisory đồng hành cùng đa dạng khách hàng thuộc nhiều lĩnh vực, mang đến giải pháp riêng biệt, góc nhìn chiến lược và thành công có thể đo lường cho các doanh nghiệp mở rộng vào Việt Nam và khu vực Châu Á - Thái Bình Dương.",
   "hero": {
-    "eyebrow": "Our Clients",
-    "title": "Our Clients",
-    "subtitle": "At WTP Advisory, we take pride in working with a diverse range of clients across industries. Each partnership is built on a foundation of tailored solutions, strategic insights, and measurable success. Whether it's driving brand growth or optimizing operations, we help our clients achieve their goals with confidence."
+    "eyebrow": "Khách hàng",
+    "title": "Khách hàng",
+    "subtitle": "Tại WTP Advisory, chúng tôi tự hào được đồng hành cùng đa dạng khách hàng thuộc nhiều lĩnh vực. Mỗi mối quan hệ hợp tác đều được xây dựng trên nền tảng giải pháp riêng biệt, góc nhìn chiến lược và thành công có thể đo lường. Dù là thúc đẩy tăng trưởng thương hiệu hay tối ưu hóa vận hành, chúng tôi giúp khách hàng đạt được mục tiêu một cách tự tin."
   },
   "sections": [
     {
       "type": "logos",
-      "heading": "Brands That Trust Us",
-      "subtitle": "Our clients operate in a variety of industries, from fintech and manufacturing to medical and health products. We assist businesses of all sizes to expand to Vietnam and Asia-Pacific.",
+      "heading": "Những thương hiệu tin tưởng chúng tôi",
+      "subtitle": "Khách hàng của chúng tôi hoạt động trong nhiều lĩnh vực, từ công nghệ tài chính, sản xuất đến các sản phẩm y tế và chăm sóc sức khỏe. Chúng tôi hỗ trợ doanh nghiệp ở mọi quy mô mở rộng vào Việt Nam và khu vực Châu Á - Thái Bình Dương.",
       "columns": 4,
       "items": [
         { "name": "BCG" },
@@ -29,59 +29,59 @@
     },
     {
       "type": "cards",
-      "eyebrow": "Why WTP Advisory",
-      "heading": "Why clients choose us",
+      "eyebrow": "Vì sao chọn WTP Advisory",
+      "heading": "Vì sao khách hàng chọn chúng tôi",
       "columns": 2,
       "items": [
-        { "title": "Tailored solutions", "desc": "Customized services designed around each client's structure, sector, and ambitions in Vietnam." },
-        { "title": "Strategic insights", "desc": "Local market knowledge and regulatory expertise that inform smart, well-timed decisions." },
-        { "title": "Measurable success", "desc": "A track record of demonstrated results helping clients enter and grow with confidence." },
-        { "title": "Transparent & reliable", "desc": "Honest, dependable service delivered to international standards for overseas clients." }
+        { "title": "Giải pháp riêng biệt", "desc": "Dịch vụ được thiết kế phù hợp với cơ cấu, lĩnh vực và tham vọng của từng khách hàng tại Việt Nam." },
+        { "title": "Góc nhìn chiến lược", "desc": "Hiểu biết sâu sắc về thị trường địa phương và chuyên môn pháp lý giúp đưa ra những quyết định sáng suốt, đúng thời điểm." },
+        { "title": "Thành công đo lường được", "desc": "Bề dày thành tích được chứng minh, giúp khách hàng thâm nhập và phát triển một cách tự tin." },
+        { "title": "Minh bạch & đáng tin cậy", "desc": "Dịch vụ trung thực, tin cậy, đạt chuẩn quốc tế dành cho khách hàng nước ngoài." }
       ]
     },
     {
       "type": "list",
-      "eyebrow": "Industries",
-      "heading": "Industries we serve",
-      "subtitle": "We support businesses of all sizes across a broad range of sectors.",
+      "eyebrow": "Lĩnh vực",
+      "heading": "Các lĩnh vực chúng tôi phục vụ",
+      "subtitle": "Chúng tôi hỗ trợ doanh nghiệp ở mọi quy mô trên nhiều lĩnh vực khác nhau.",
       "columns": 3,
       "items": [
-        "Fintech & financial services",
-        "Manufacturing",
-        "Medical & health products",
-        "Technology & software",
-        "Consumer & retail",
-        "Media & entertainment",
-        "Professional services",
-        "Education",
-        "Logistics & distribution"
+        "Công nghệ tài chính & dịch vụ tài chính",
+        "Sản xuất",
+        "Sản phẩm y tế & chăm sóc sức khỏe",
+        "Công nghệ & phần mềm",
+        "Tiêu dùng & bán lẻ",
+        "Truyền thông & giải trí",
+        "Dịch vụ chuyên nghiệp",
+        "Giáo dục",
+        "Logistics & phân phối"
       ]
     },
     {
       "type": "richText",
-      "eyebrow": "Track Record",
-      "heading": "Partnering with leading brands",
+      "eyebrow": "Bề dày thành tích",
+      "heading": "Đồng hành cùng những thương hiệu hàng đầu",
       "align": "center",
       "body": [
-        "WTP Advisory is trusted by globally recognised organisations and regional enterprises alike, supporting their market entry and ongoing corporate compliance needs from our offices in Ho Chi Minh City and Hanoi.",
-        "Backed by WTP Advisory's 30+ years of experience, 1,500 professionals, and 20,000 clients assisted across the Asia-Pacific region, we bring the scale and local depth to help every client succeed."
+        "WTP Advisory được tin tưởng bởi cả những tổ chức danh tiếng toàn cầu lẫn các doanh nghiệp trong khu vực, hỗ trợ nhu cầu thâm nhập thị trường và tuân thủ doanh nghiệp thường xuyên của họ từ các văn phòng tại TP. Hồ Chí Minh và Hà Nội.",
+        "Với nền tảng hơn 30 năm kinh nghiệm, 1.500 chuyên gia và 20.000 khách hàng đã được hỗ trợ trên khắp khu vực Châu Á - Thái Bình Dương của WTP Advisory, chúng tôi mang đến quy mô và chiều sâu am hiểu địa phương để giúp mỗi khách hàng thành công."
       ]
     },
     {
       "type": "stats",
-      "heading": "A partner you can count on",
+      "heading": "Đối tác bạn có thể tin cậy",
       "items": [
-        { "value": "20,000", "label": "Clients assisted globally" },
-        { "value": "1,500", "label": "Professionals across the group" },
-        { "value": "30+", "label": "Years of experience" },
-        { "value": "2", "label": "Offices in Vietnam" }
+        { "value": "20,000", "label": "Khách hàng được hỗ trợ trên toàn cầu" },
+        { "value": "1,500", "label": "Chuyên gia trên toàn tập đoàn" },
+        { "value": "30+", "label": "Năm kinh nghiệm" },
+        { "value": "2", "label": "Văn phòng tại Việt Nam" }
       ]
     },
     {
       "type": "cta",
-      "title": "Join the businesses that trust WTP Advisory",
-      "subtitle": "Let's discuss how we can support your goals in Vietnam.",
-      "button": { "label": "Start a Conversation", "href": "/make-an-inquiry" },
+      "title": "Gia nhập cộng đồng doanh nghiệp tin tưởng WTP Advisory",
+      "subtitle": "Hãy cùng trao đổi cách chúng tôi có thể hỗ trợ mục tiêu của bạn tại Việt Nam.",
+      "button": { "label": "Bắt đầu trao đổi", "href": "/make-an-inquiry" },
       "variant": "blue"
     }
   ],

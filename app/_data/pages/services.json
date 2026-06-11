@@ -1,122 +1,122 @@
-﻿{
-  "title": "Services",
-  "metaDescription": "One-stop corporate solutions for your business in Vietnam — incorporation, legal advisory, accounting, tax, HR & payroll, immigration and more.",
+{
+  "title": "Dịch vụ",
+  "metaDescription": "Giải pháp doanh nghiệp trọn gói cho hoạt động kinh doanh của bạn tại Việt Nam — thành lập công ty, tư vấn pháp lý, kế toán, thuế, nhân sự & tính lương, di trú và nhiều hơn nữa.",
   "hero": {
-    "title": "One-stop corporate solutions for your business in Vietnam",
-    "subtitle": "See how WTP Advisory services help foreign and local enterprises enter the Vietnam market.",
+    "title": "Giải pháp doanh nghiệp trọn gói cho hoạt động kinh doanh của bạn tại Việt Nam",
+    "subtitle": "Khám phá cách các dịch vụ của WTP Advisory hỗ trợ doanh nghiệp nước ngoài và trong nước gia nhập thị trường Việt Nam.",
     "image": "/incorp/solutions/incorporation.webp",
     "variant": "brand",
-    "cta": { "label": "Download free brochure", "href": "/make-an-inquiry" }
+    "cta": { "label": "Tải brochure miễn phí", "href": "/make-an-inquiry" }
   },
   "sections": [
     {
       "type": "richText",
-      "heading": "Expanding into Vietnam in the Most Seamless Ways",
+      "heading": "Mở rộng vào Việt Nam một cách liền mạch nhất",
       "align": "center",
       "body": [
-        "Expansion overseas is challenging, and Vietnam is known to have strict conduct regulations. WTP Advisory provides comprehensive support for corporate services, experienced consultants, and deep market expertise to simplify business in Vietnam."
+        "Mở rộng ra nước ngoài luôn là một thách thức, và Việt Nam vốn nổi tiếng với các quy định kinh doanh nghiêm ngặt. WTP Advisory cung cấp hỗ trợ toàn diện về dịch vụ doanh nghiệp, đội ngũ chuyên gia tư vấn giàu kinh nghiệm cùng am hiểu sâu sắc về thị trường để đơn giản hóa hoạt động kinh doanh tại Việt Nam."
       ]
     },
     {
       "type": "solutions",
-      "eyebrow": "What we do",
-      "heading": "Comprehensive corporate services",
-      "subtitle": "Service lines covering every stage of your business journey in Vietnam.",
+      "eyebrow": "Chúng tôi làm gì",
+      "heading": "Dịch vụ doanh nghiệp toàn diện",
+      "subtitle": "Các nhóm dịch vụ bao trùm mọi giai đoạn trong hành trình kinh doanh của bạn tại Việt Nam.",
       "items": [
         {
-          "title": "Incorporation",
+          "title": "Thành lập công ty",
           "href": "/incorporation",
           "image": "/incorp/solutions/incorporation.webp",
-          "alt": "Ho Chi Minh City skyline at dusk, highlighting potential for business expansion in Vietnam with modern skyscrapers.",
+          "alt": "Đường chân trời TP. Hồ Chí Minh lúc hoàng hôn, làm nổi bật tiềm năng mở rộng kinh doanh tại Việt Nam với những tòa nhà chọc trời hiện đại.",
           "icon": "incorporation",
-          "desc": "Gain a presence in the Vietnamese market through our comprehensive incorporation services.",
+          "desc": "Hiện diện trên thị trường Việt Nam thông qua dịch vụ thành lập công ty toàn diện của chúng tôi.",
           "links": [
-            { "label": "Company Formation", "href": "/incorporation/company-formation" },
-            { "label": "Virtual Office", "href": "/incorporation/virtual-office-ho-chi-minh-city" },
-            { "label": "Transferring Ownership", "href": "/incorporation/transfer-ownership-in-vietnam" },
-            { "label": "Buy A Company", "href": "/incorporation/buy-company" },
-            { "label": "Manufacturing Setup", "href": "/manufacturing-company-setup-vietnam" },
-            { "label": "Offshore Structuring", "href": "/incorporation/offshore-incorporation" }
+            { "label": "Thành lập doanh nghiệp", "href": "/incorporation/company-formation" },
+            { "label": "Văn phòng ảo", "href": "/incorporation/virtual-office-ho-chi-minh-city" },
+            { "label": "Chuyển nhượng quyền sở hữu", "href": "/incorporation/transfer-ownership-in-vietnam" },
+            { "label": "Mua lại công ty", "href": "/incorporation/buy-company" },
+            { "label": "Thành lập công ty sản xuất", "href": "/manufacturing-company-setup-vietnam" },
+            { "label": "Cấu trúc offshore", "href": "/incorporation/offshore-incorporation" }
           ]
         },
         {
-          "title": "Legal Advisory",
+          "title": "Tư vấn pháp lý",
           "href": "/legal-advisory",
           "image": "/incorp/solutions/legal-advisory.jpg",
-          "alt": "Businesspeople shaking hands over a contract, symbolizing a business expansion deal in Vietnam.",
+          "alt": "Các doanh nhân bắt tay trên hợp đồng, tượng trưng cho một thương vụ mở rộng kinh doanh tại Việt Nam.",
           "icon": "legal",
-          "desc": "Obtain all the necessary licenses and sublicenses for doing business in Vietnam.",
+          "desc": "Xin đầy đủ các giấy phép và giấy phép con cần thiết để kinh doanh tại Việt Nam.",
           "links": [
-            { "label": "All Legal Advisory Services", "href": "/legal-advisory" },
-            { "label": "Product Licensing", "href": "/legal-advisory/product-registration" },
-            { "label": "Trademark Filing", "href": "/legal-advisory/trademark-licensing" },
-            { "label": "Tax & Legal Advisory", "href": "/tax-advisory-services" },
-            { "label": "Conditional Business License", "href": "/legal-advisory/conditional-business-license" }
+            { "label": "Tất cả dịch vụ tư vấn pháp lý", "href": "/legal-advisory" },
+            { "label": "Cấp phép sản phẩm", "href": "/legal-advisory/product-registration" },
+            { "label": "Đăng ký nhãn hiệu", "href": "/legal-advisory/trademark-licensing" },
+            { "label": "Tư vấn thuế & pháp lý", "href": "/tax-advisory-services" },
+            { "label": "Giấy phép kinh doanh có điều kiện", "href": "/legal-advisory/conditional-business-license" }
           ]
         },
         {
-          "title": "Accounting & Finance",
+          "title": "Kế toán & Tài chính",
           "href": "/accounting-taxation",
           "image": "/incorp/solutions/accounting-finance.jpg",
-          "alt": "Business professionals discussing expansion strategies in Vietnam with graphs on a tablet and documents on a table.",
+          "alt": "Các chuyên gia kinh doanh thảo luận chiến lược mở rộng tại Việt Nam với biểu đồ trên máy tính bảng và tài liệu trên bàn.",
           "icon": "accounting",
-          "desc": "Keep your books accurate and fully compliant with Vietnam's regulations through end-to-end accounting and finance support.",
+          "desc": "Giữ cho sổ sách của bạn chính xác và tuân thủ đầy đủ quy định của Việt Nam thông qua hỗ trợ kế toán và tài chính trọn gói.",
           "links": [
-            { "label": "Bookkeeping Services", "href": "/accounting-taxation/bookkeeping-services" },
-            { "label": "Financial Statement Preparation", "href": "/accounting-taxation/financial-statement-preparation" },
-            { "label": "Nominee Chief Accountant", "href": "/accounting-taxation/nominee-chief-accountant" },
-            { "label": "IFRS Conversion", "href": "/accounting-taxation/ifrs-conversion-services" },
-            { "label": "Financial Due Diligence", "href": "/accounting-taxation/financial-due-diligence-services" },
-            { "label": "Valuation", "href": "/accounting-taxation/valuation-services" }
+            { "label": "Dịch vụ ghi sổ kế toán", "href": "/accounting-taxation/bookkeeping-services" },
+            { "label": "Lập báo cáo tài chính", "href": "/accounting-taxation/financial-statement-preparation" },
+            { "label": "Kế toán trưởng đại diện", "href": "/accounting-taxation/nominee-chief-accountant" },
+            { "label": "Chuyển đổi IFRS", "href": "/accounting-taxation/ifrs-conversion-services" },
+            { "label": "Thẩm định tài chính", "href": "/accounting-taxation/financial-due-diligence-services" },
+            { "label": "Định giá", "href": "/accounting-taxation/valuation-services" }
           ]
         },
         {
-          "title": "Tax Services",
+          "title": "Dịch vụ thuế",
           "href": "/tax-advisory-services",
           "image": "/incorp/solutions/tax-services.jpg",
-          "alt": "Business team analyzing graphs and data on tablet for Vietnam market expansion.",
+          "alt": "Đội ngũ kinh doanh phân tích biểu đồ và dữ liệu trên máy tính bảng phục vụ mở rộng thị trường Việt Nam.",
           "icon": "tax",
-          "desc": "Stay compliant and optimize your tax position with expert tax advisory, compliance, and reporting services.",
+          "desc": "Duy trì tuân thủ và tối ưu hóa nghĩa vụ thuế của bạn với dịch vụ tư vấn, tuân thủ và lập báo cáo thuế chuyên nghiệp.",
           "links": [
-            { "label": "Tax Advisory", "href": "/tax-advisory-services" },
-            { "label": "Tax Compliance & Reporting", "href": "/tax-advisory-services/tax-compliance-and-tax-reporting" },
-            { "label": "VAT Refund Services", "href": "/tax-advisory-services/vat-refund-services" },
-            { "label": "Other Tax Services", "href": "/tax-advisory-services/other-tax-services" }
+            { "label": "Tư vấn thuế", "href": "/tax-advisory-services" },
+            { "label": "Tuân thủ & báo cáo thuế", "href": "/tax-advisory-services/tax-compliance-and-tax-reporting" },
+            { "label": "Dịch vụ hoàn thuế GTGT", "href": "/tax-advisory-services/vat-refund-services" },
+            { "label": "Các dịch vụ thuế khác", "href": "/tax-advisory-services/other-tax-services" }
           ]
         },
         {
-          "title": "HR & Payroll",
+          "title": "Nhân sự & Tính lương",
           "href": "/hr-payroll-services",
           "image": "/incorp/solutions/hr-payroll.jpg",
-          "alt": "Handshake over financial charts, symbolizing business partnership and expansion in Vietnam.",
+          "alt": "Cái bắt tay trên các biểu đồ tài chính, tượng trưng cho quan hệ đối tác và mở rộng kinh doanh tại Việt Nam.",
           "icon": "hr",
-          "desc": "Manage your people and payroll efficiently with fully outsourced HR solutions tailored to Vietnam.",
+          "desc": "Quản lý nhân sự và tính lương hiệu quả với giải pháp nhân sự thuê ngoài trọn gói được thiết kế riêng cho Việt Nam.",
           "links": [
-            { "label": "General HR & Payroll", "href": "/hr-payroll-services" },
-            { "label": "Payroll Outsourcing", "href": "/hr-payroll/payroll-services" },
-            { "label": "Employer of Record", "href": "/hr-payroll/employer-of-record" },
-            { "label": "Recruitment & Staffing", "href": "/recruitment-staffing-services-in-vietnam" }
+            { "label": "Nhân sự & tính lương tổng quát", "href": "/hr-payroll-services" },
+            { "label": "Thuê ngoài tính lương", "href": "/hr-payroll/payroll-services" },
+            { "label": "Đơn vị sử dụng lao động chính thức (EOR)", "href": "/hr-payroll/employer-of-record" },
+            { "label": "Tuyển dụng & cung ứng nhân sự", "href": "/recruitment-staffing-services-in-vietnam" }
           ]
         },
         {
-          "title": "Immigration",
+          "title": "Di trú",
           "href": "/immigration",
           "image": "/incorp/solutions/immigration.jpg",
-          "alt": "Colleagues reviewing documents for Vietnam business expansion, with a laptop and travel brochures on a desk.",
+          "alt": "Các đồng nghiệp rà soát tài liệu cho việc mở rộng kinh doanh tại Việt Nam, với máy tính xách tay và tờ rơi du lịch trên bàn.",
           "icon": "immigration",
-          "desc": "Relocate your team and stay compliant in Vietnam with expert immigration and expat support.",
+          "desc": "Chuyển dịch đội ngũ của bạn và duy trì tuân thủ tại Việt Nam với hỗ trợ chuyên nghiệp về di trú và dịch vụ cho người nước ngoài.",
           "links": [
-            { "label": "Immigration Advisory", "href": "/immigration/immigration-advisory-services" },
-            { "label": "Expat Services", "href": "/expat-services" }
+            { "label": "Tư vấn di trú", "href": "/immigration/immigration-advisory-services" },
+            { "label": "Dịch vụ cho người nước ngoài", "href": "/expat-services" }
           ]
         }
       ]
     },
     {
       "type": "cta",
-      "title": "Are you ready to make your mark in Vietnam?",
-      "subtitle": "Let our experts map out the most seamless path for your business.",
-      "button": { "label": "Get Started", "href": "/make-an-inquiry" },
+      "title": "Bạn đã sẵn sàng ghi dấu ấn tại Việt Nam chưa?",
+      "subtitle": "Hãy để các chuyên gia của chúng tôi vạch ra lộ trình liền mạch nhất cho doanh nghiệp của bạn.",
+      "button": { "label": "Bắt đầu ngay", "href": "/make-an-inquiry" },
       "variant": "red"
     }
   ],

@@ -43,7 +43,7 @@ async function loadPage(slug: string[]): Promise<LoadedPage | null> {
   try {
     const file = path.join(PAGES_DIR, `${keyFromSlug(slug)}.json`);
     const raw = await fs.readFile(file, "utf8");
-    return JSON.parse(raw) as LoadedPage;
+    return JSON.parse(raw.replace(/^﻿/, "")) as LoadedPage;
   } catch {
     return null;
   }

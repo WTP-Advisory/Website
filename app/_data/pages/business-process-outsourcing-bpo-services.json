@@ -1,12 +1,12 @@
-﻿{
-  "title": "Business Process Outsourcing – BPO Services in Vietnam",
-  "metaDescription": "Let a dedicated expert team handle your tedious administrative processes. Our BPO services is ideal for reducing costs and boost growth.",
+{
+  "title": "Dịch vụ thuê ngoài quy trình kinh doanh (BPO) tại Việt Nam",
+  "metaDescription": "Hãy để một đội ngũ chuyên gia tận tâm xử lý những quy trình hành chính rườm rà của bạn. Dịch vụ thuê ngoài quy trình kinh doanh (BPO) của chúng tôi là lựa chọn lý tưởng để cắt giảm chi phí và thúc đẩy tăng trưởng.",
   "hero": {
-    "eyebrow": "Services",
-    "title": "Business Process Outsourcing – BPO Services in Vietnam",
-    "subtitle": "Our BPO solutions are your one-stop-shop, covering everything from incorporation, tax advisory, to payroll outsourcing. And the best part? We customize everything to fit your unique business needs, offering a flexible, tailor-made approach that enhances your efficiency and drives long-term success.",
+    "eyebrow": "Dịch vụ",
+    "title": "Dịch vụ thuê ngoài quy trình kinh doanh (BPO) tại Việt Nam",
+    "subtitle": "Giải pháp thuê ngoài quy trình kinh doanh (BPO) của chúng tôi là điểm đến trọn gói, bao quát mọi khâu từ thành lập công ty, tư vấn thuế cho đến thuê ngoài tính lương. Và điều tuyệt vời nhất? Chúng tôi tùy chỉnh mọi thứ để phù hợp với nhu cầu riêng của doanh nghiệp bạn, mang đến cách tiếp cận linh hoạt, thiết kế riêng, giúp nâng cao hiệu quả và thúc đẩy thành công lâu dài.",
     "cta": {
-      "label": "Make an Inquiry",
+      "label": "Gửi yêu cầu tư vấn",
       "href": "/make-an-inquiry"
     },
     "image": "/incorp/hero/slide-bpo.jpg"
@@ -14,125 +14,125 @@
   "sections": [
     {
       "type": "cards",
-      "heading": "Benefits to Expect from Our Business Process Outsourcing Service",
+      "heading": "Những lợi ích bạn nhận được từ dịch vụ thuê ngoài quy trình kinh doanh của chúng tôi",
       "columns": 4,
       "items": [
         {
-          "title": "Enhanced efficiency",
-          "desc": "By outsourcing your administrative tasks, you can focus on core business activities, improving operational efficiency and productivity.",
+          "title": "Nâng cao hiệu quả",
+          "desc": "Bằng cách thuê ngoài các công việc hành chính, bạn có thể tập trung vào hoạt động kinh doanh cốt lõi, cải thiện hiệu quả vận hành và năng suất.",
           "icon": "rocket"
         },
         {
-          "title": "Customized solutions",
-          "desc": "Our BPO services are tailored to fit your specific business needs, offering flexible and scalable solutions for accounting, tax, and payroll functions.",
+          "title": "Giải pháp tùy chỉnh",
+          "desc": "Dịch vụ BPO của chúng tôi được thiết kế riêng để phù hợp với nhu cầu cụ thể của doanh nghiệp bạn, mang đến giải pháp linh hoạt và có khả năng mở rộng cho các nghiệp vụ kế toán, thuế và tính lương.",
           "icon": "headset"
         },
         {
-          "title": "Cost savings",
-          "desc": "BPO allows you to reduce overhead costs by eliminating the need for full-time internal resources, while still accessing expert support.",
+          "title": "Tiết kiệm chi phí",
+          "desc": "BPO giúp bạn cắt giảm chi phí vận hành bằng cách loại bỏ nhu cầu duy trì nguồn lực nội bộ toàn thời gian, trong khi vẫn được tiếp cận sự hỗ trợ chuyên môn.",
           "icon": "coins"
         },
         {
-          "title": "Compliance and risk management",
-          "desc": "With WTP Advisory's deep local knowledge, we ensure full compliance with Vietnamese regulations, minimizing risks related to taxes, labor, and corporate governance.",
+          "title": "Tuân thủ và quản trị rủi ro",
+          "desc": "Với am hiểu sâu sắc về thị trường nội địa, WTP Advisory đảm bảo tuân thủ đầy đủ quy định của Việt Nam, giảm thiểu rủi ro liên quan đến thuế, lao động và quản trị doanh nghiệp.",
           "icon": "globe"
         }
       ]
     },
     {
       "type": "steps",
-      "heading": "Your Success Plan in Vietnam",
+      "heading": "Lộ trình thành công của bạn tại Việt Nam",
       "items": [
         {
-          "title": "Share Your Requirements",
-          "desc": "Share your vision, plan, and specific needs with us, so we can understand your business goals and challenges.",
+          "title": "Chia sẻ yêu cầu của bạn",
+          "desc": "Chia sẻ tầm nhìn, kế hoạch và nhu cầu cụ thể với chúng tôi, để chúng tôi hiểu rõ mục tiêu và thách thức kinh doanh của bạn.",
           "icon": "file"
         },
         {
-          "title": "Get Advised on an Optimal Plan",
-          "desc": "Our expert team will design the best BPO solutions to match your business requirements, ensuring a strategic fit.",
+          "title": "Được tư vấn phương án tối ưu",
+          "desc": "Đội ngũ chuyên gia của chúng tôi sẽ thiết kế giải pháp BPO tốt nhất phù hợp với yêu cầu kinh doanh của bạn, đảm bảo sự tương thích về mặt chiến lược.",
           "icon": "lightbulb"
         },
         {
-          "title": "Acquire the Perfect Talent Match",
-          "desc": "We source and onboard top professionals tailored to your needs, ensuring you have the right talent for the job.",
+          "title": "Có được nhân sự phù hợp nhất",
+          "desc": "Chúng tôi tìm kiếm và tiếp nhận những chuyên gia hàng đầu phù hợp với nhu cầu của bạn, đảm bảo bạn có đúng nhân sự cho công việc.",
           "icon": "clipboard"
         },
         {
-          "title": "Daily Reports and Communication",
-          "desc": "Stay connected with your dedicated team for consistent updates and progress reports, keeping you informed at every step.",
+          "title": "Báo cáo và trao đổi hằng ngày",
+          "desc": "Luôn kết nối với đội ngũ tận tâm của bạn để nhận cập nhật và báo cáo tiến độ thường xuyên, giúp bạn nắm bắt tình hình ở mọi bước.",
           "icon": "fileCheck"
         }
       ]
     },
     {
       "type": "faq",
-      "heading": "Frequently Asked Questions on Business Process Outsourcing",
+      "heading": "Câu hỏi thường gặp về thuê ngoài quy trình kinh doanh",
       "items": [
         {
-          "q": "What BPO services does WTP Advisory provide?",
-          "a": "WTP Advisory offers one-stop BPO solutions covering everything from incorporation and tax advisory to accounting, HR, and payroll outsourcing. Every service can be customized to fit your unique business needs."
+          "q": "WTP Advisory cung cấp những dịch vụ BPO nào?",
+          "a": "WTP Advisory cung cấp giải pháp BPO trọn gói, bao quát mọi khâu từ thành lập công ty và tư vấn thuế cho đến kế toán, nhân sự và thuê ngoài tính lương. Mọi dịch vụ đều có thể được tùy chỉnh để phù hợp với nhu cầu riêng của doanh nghiệp bạn."
         },
         {
-          "q": "What are the benefits of using BPO services from WTP Advisory?",
-          "a": "Key benefits include enhanced efficiency by freeing you to focus on core business activities, customized and scalable solutions, significant cost savings on overhead, and full compliance with Vietnamese regulations backed by our deep local knowledge."
+          "q": "Lợi ích khi sử dụng dịch vụ BPO của WTP Advisory là gì?",
+          "a": "Các lợi ích chính bao gồm nâng cao hiệu quả nhờ giúp bạn tập trung vào hoạt động kinh doanh cốt lõi, giải pháp tùy chỉnh và có khả năng mở rộng, tiết kiệm chi phí vận hành đáng kể, cùng việc tuân thủ đầy đủ quy định của Việt Nam dựa trên am hiểu sâu sắc về thị trường nội địa của chúng tôi."
         },
         {
-          "q": "How does WTP Advisory ensure the quality of outsourced services?",
-          "a": "We follow a rigorous selection process to acquire top talent and ensure that all team members are highly qualified in their respective fields. We also provide regular updates and reports to maintain transparency and track progress."
+          "q": "WTP Advisory đảm bảo chất lượng dịch vụ thuê ngoài như thế nào?",
+          "a": "Chúng tôi tuân theo quy trình tuyển chọn nghiêm ngặt để có được nhân sự hàng đầu và đảm bảo tất cả thành viên đội ngũ đều có trình độ cao trong lĩnh vực của mình. Chúng tôi cũng cung cấp cập nhật và báo cáo thường xuyên để duy trì sự minh bạch và theo dõi tiến độ."
         },
         {
-          "q": "Can BPO services be tailored to my specific business needs?",
-          "a": "Yes, our BPO solutions are completely customizable to fit the unique requirements of your business. We offer flexible packages that allow you to choose only the services that you need, ensuring that our solutions grow with your business."
+          "q": "Dịch vụ BPO có thể được điều chỉnh theo nhu cầu cụ thể của doanh nghiệp tôi không?",
+          "a": "Có, giải pháp BPO của chúng tôi hoàn toàn có thể tùy chỉnh để phù hợp với yêu cầu riêng của doanh nghiệp bạn. Chúng tôi cung cấp các gói linh hoạt cho phép bạn chỉ chọn những dịch vụ mình cần, đảm bảo giải pháp của chúng tôi phát triển cùng doanh nghiệp của bạn."
         },
         {
-          "q": "How do I communicate with my outsourced team?",
-          "a": "WTP Advisory ensures seamless communication with your team through daily reports and regular updates, keeping you informed of all progress and performance metrics."
+          "q": "Tôi trao đổi với đội ngũ thuê ngoài của mình như thế nào?",
+          "a": "WTP Advisory đảm bảo trao đổi liền mạch với đội ngũ của bạn thông qua báo cáo hằng ngày và cập nhật thường xuyên, giúp bạn nắm bắt mọi tiến độ và chỉ số hiệu suất."
         },
         {
-          "q": "What industries do you serve with your BPO services?",
-          "a": "We serve a variety of industries, including manufacturing, retail, technology, financial services, real estate, and more. Our BPO services are adaptable across sectors."
+          "q": "Các bạn phục vụ những ngành nào với dịch vụ BPO?",
+          "a": "Chúng tôi phục vụ nhiều ngành đa dạng, bao gồm sản xuất, bán lẻ, công nghệ, dịch vụ tài chính, bất động sản và nhiều hơn nữa. Dịch vụ BPO của chúng tôi thích ứng linh hoạt với mọi lĩnh vực."
         },
         {
-          "q": "How do I get started with WTP Advisory's BPO services?",
-          "a": "You can start by sharing your business requirements with us. Our team will then propose a customized plan and help you acquire the perfect talent match for your business needs."
+          "q": "Làm thế nào để bắt đầu với dịch vụ BPO của WTP Advisory?",
+          "a": "Bạn có thể bắt đầu bằng cách chia sẻ yêu cầu kinh doanh của mình với chúng tôi. Sau đó, đội ngũ của chúng tôi sẽ đề xuất một phương án tùy chỉnh và giúp bạn tìm được nhân sự phù hợp nhất với nhu cầu doanh nghiệp."
         },
         {
-          "q": "What are the costs associated with BPO services?",
-          "a": "Costs vary depending on the scope and nature of the services you require. However, we ensure that our pricing is competitive and aligned with the value we provide to your business."
+          "q": "Chi phí của dịch vụ BPO là bao nhiêu?",
+          "a": "Chi phí thay đổi tùy theo phạm vi và tính chất dịch vụ bạn cần. Tuy nhiên, chúng tôi đảm bảo mức giá cạnh tranh và tương xứng với giá trị mà chúng tôi mang lại cho doanh nghiệp của bạn."
         },
         {
-          "q": "Is it safe to outsource sensitive business processes?",
-          "a": "Yes, at WTP Advisory we prioritize data security and confidentiality. We have strict measures in place to protect your sensitive business information and ensure compliance with all applicable laws."
+          "q": "Thuê ngoài các quy trình kinh doanh nhạy cảm có an toàn không?",
+          "a": "Có, tại WTP Advisory chúng tôi ưu tiên bảo mật dữ liệu và tính bảo mật thông tin. Chúng tôi áp dụng các biện pháp nghiêm ngặt để bảo vệ thông tin kinh doanh nhạy cảm của bạn và đảm bảo tuân thủ mọi quy định pháp luật hiện hành."
         }
       ]
     },
     {
       "type": "cards",
-      "heading": "Other Services You Might Need",
+      "heading": "Các dịch vụ khác bạn có thể cần",
       "columns": 4,
       "items": [
         {
-          "title": "Legal Advisory",
-          "desc": "Ensure compliance by obtaining all necessary licenses and sublicenses for your company setup process in Vietnam.",
+          "title": "Tư vấn pháp lý",
+          "desc": "Đảm bảo tuân thủ bằng cách xin đầy đủ các giấy phép và giấy phép con cần thiết cho quá trình thành lập công ty của bạn tại Việt Nam.",
           "href": "/legal-advisory",
           "icon": "scale"
         },
         {
-          "title": "Accounting & Taxation",
-          "desc": "Save time and money with full-service accounting services that ensure compliance with Vietnam's regulations.",
+          "title": "Kế toán & Thuế",
+          "desc": "Tiết kiệm thời gian và chi phí với dịch vụ kế toán trọn gói, đảm bảo tuân thủ quy định của Việt Nam.",
           "href": "/accounting-taxation",
           "icon": "calculator"
         },
         {
-          "title": "HR & Payroll",
-          "desc": "Outsource your recruitment, payroll, insurance, and tax needs when opening a business in Vietnam.",
+          "title": "Nhân sự & Tính lương",
+          "desc": "Thuê ngoài các nhu cầu về tuyển dụng, tính lương, bảo hiểm và thuế khi mở doanh nghiệp tại Việt Nam.",
           "href": "/hr-payroll-services",
           "icon": "users"
         },
         {
-          "title": "Immigration",
-          "desc": "Navigate entry requirements and obtain permits for investors, businesses, and residence with guidance from WTP Advisory's company formation lawyer.",
+          "title": "Di trú",
+          "desc": "Vượt qua các yêu cầu nhập cảnh và xin giấy phép cho nhà đầu tư, doanh nghiệp và cư trú với sự hướng dẫn từ luật sư thành lập công ty của WTP Advisory.",
           "href": "/immigration",
           "icon": "plane"
         }
@@ -140,22 +140,22 @@
     },
     {
       "type": "cards",
-      "heading": "Meet Our Experts",
+      "heading": "Gặp gỡ các chuyên gia của chúng tôi",
       "columns": 3,
       "items": [
         {
-          "title": "Michael Tran, CPA, CA",
-          "desc": "Chief Executive Officer",
+          "title": "[Tên CEO], CPA, CA",
+          "desc": "Tổng Giám đốc",
           "icon": "userCheck"
         },
         {
-          "title": "David Pham",
-          "desc": "Head of Business Advisory",
+          "title": "[Tên Trưởng Phòng Tư Vấn]",
+          "desc": "Trưởng phòng Tư vấn Doanh nghiệp",
           "icon": "user"
         },
         {
-          "title": "Linh Hoang",
-          "desc": "Head of Corporate Secretarial and Advisory Services",
+          "title": "[Tên Trưởng Phòng Thư Ký]",
+          "desc": "Trưởng phòng Dịch vụ Thư ký & Tư vấn Doanh nghiệp",
           "icon": "users"
         }
       ]
@@ -163,32 +163,32 @@
     {
       "type": "stats",
       "variant": "red",
-      "heading": "Backed by WTP Advisory",
+      "heading": "Được hậu thuẫn bởi WTP Advisory",
       "items": [
         {
           "value": "30+",
-          "label": "Years of experience"
+          "label": "Năm kinh nghiệm"
         },
         {
           "value": "1,500+",
-          "label": "Professionals across APAC"
+          "label": "Chuyên gia trên khắp APAC"
         },
         {
           "value": "20,000+",
-          "label": "Clients served globally"
+          "label": "Khách hàng được phục vụ trên toàn cầu"
         },
         {
           "value": "8",
-          "label": "Markets in Asia-Pacific"
+          "label": "Thị trường tại châu Á - Thái Bình Dương"
         }
       ]
     },
     {
       "type": "cta",
-      "title": "Ready to get started in Vietnam?",
-      "subtitle": "Talk to our experts about how we can support your business.",
+      "title": "Sẵn sàng khởi đầu tại Việt Nam?",
+      "subtitle": "Trao đổi với các chuyên gia của chúng tôi về cách chúng tôi có thể hỗ trợ doanh nghiệp của bạn.",
       "button": {
-        "label": "Make an Inquiry",
+        "label": "Gửi yêu cầu tư vấn",
         "href": "/make-an-inquiry"
       },
       "variant": "red"
