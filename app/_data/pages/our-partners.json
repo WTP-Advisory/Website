@@ -42,7 +42,7 @@
       "title": "Cùng nhau kiến tạo giá trị",
       "subtitle": "Khám phá cách mạng lưới của chúng tôi có thể hỗ trợ quá trình mở rộng của bạn.",
       "button": { "label": "Liên hệ", "href": "/make-an-inquiry" },
-      "variant": "blue"
+      "variant": "red"
     }
   ],
   "showContactForm": false

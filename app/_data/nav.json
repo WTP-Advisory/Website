@@ -97,7 +97,8 @@
     },
     {
       "label": "Tài nguyên",
-      "href": "/blog"
+      "href": "/resources",
+      "resources": true
     },
     {
       "label": "Sự kiện",

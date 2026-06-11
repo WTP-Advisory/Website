@@ -9,24 +9,16 @@
       {
         "name": "Văn phòng TP. Hồ Chí Minh",
         "lines": [
-          "Tòa nhà The Galleria Office Building",
-          "258 Nam Kỳ Khởi Nghĩa, Phường Xuân Hòa,",
-          "TP. Hồ Chí Minh, Việt Nam"
-        ]
-      },
-      {
-        "name": "Văn phòng Hà Nội",
-        "lines": [
-          "Tòa nhà Prime Centre",
-          "Tầng 17, 53 Quang Trung,",
-          "Phường Hai Bà Trưng, Hà Nội, Việt Nam"
+          "L17-11, Tầng 17, Tòa nhà Vincom Center,",
+          "72 Lê Thánh Tôn, Phường Sài Gòn,",
+          "Thành phố Hồ Chí Minh, Việt Nam"
         ]
       }
     ],
-    "phone": "+84 28 3535 0019",
-    "phoneHref": "tel:+842835350019",
-    "email": "vietnam@incorp.asia",
-    "emailHref": "mailto:vietnam@incorp.asia"
+    "phone": "0938145600",
+    "phoneHref": "tel:0938145600",
+    "email": "linh.dang@wtp.vn",
+    "emailHref": "mailto:linh.dang@wtp.vn"
   },
   "newsletter": {
     "heading": "Luôn cập nhật thông tin",

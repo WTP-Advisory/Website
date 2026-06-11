@@ -3,34 +3,44 @@ import type { NextRequest } from 'next/server';
 
 const BLOG_ORIGIN = 'https://app.aeo.how';
 
+// The external content app serves under this real base path...
+const EXTERNAL_BASE = '/wtp-advisory/blog';
+// ...while we expose it publicly under this clean path.
+const PUBLIC_BASE = '/resources';
+
 export function middleware(request: NextRequest) {
   const { pathname } = request.nextUrl;
 
-  // The external blog app's own links use its real base path (/wtp-advisory/blog/*).
-  // Redirect those back to the clean /blog/* URL so the address bar stays tidy.
-  if (
-    pathname === '/wtp-advisory/blog' ||
-    pathname.startsWith('/wtp-advisory/blog/')
-  ) {
-    const cleanPath = pathname.replace('/wtp-advisory/blog', '/blog');
+  // /blog was renamed to /resources — redirect old URLs so existing links work.
+  if (pathname === '/blog' || pathname.startsWith('/blog/')) {
+    const cleanPath = pathname.replace('/blog', PUBLIC_BASE);
     return NextResponse.redirect(
       new URL(`${cleanPath}${request.nextUrl.search}`, request.url)
     );
   }
 
-  // Transparently proxy /blog and /blog/* to the external blog app.
-  if (pathname === '/blog' || pathname.startsWith('/blog/')) {
-    const targetPath = pathname.replace('/blog', '/wtp-advisory/blog');
+  // The external app's own links use its real base path (/wtp-advisory/blog/*).
+  // Redirect those back to the clean /resources/* URL so the address bar stays tidy.
+  if (pathname === EXTERNAL_BASE || pathname.startsWith(`${EXTERNAL_BASE}/`)) {
+    const cleanPath = pathname.replace(EXTERNAL_BASE, PUBLIC_BASE);
+    return NextResponse.redirect(
+      new URL(`${cleanPath}${request.nextUrl.search}`, request.url)
+    );
+  }
+
+  // Transparently proxy /resources and /resources/* to the external content app.
+  if (pathname === PUBLIC_BASE || pathname.startsWith(`${PUBLIC_BASE}/`)) {
+    const targetPath = pathname.replace(PUBLIC_BASE, EXTERNAL_BASE);
     return NextResponse.rewrite(
       new URL(`${BLOG_ORIGIN}${targetPath}${request.nextUrl.search}`)
     );
   }
 
-  // When a /blog page requests its own static assets, serve them from the external app.
+  // When a /resources page requests its own static assets, serve them from the external app.
   const referer = request.headers.get('referer') || '';
   if (
     (pathname.startsWith('/_next/static/') || pathname.startsWith('/static/')) &&
-    referer.includes('/blog')
+    (referer.includes(PUBLIC_BASE) || referer.includes(EXTERNAL_BASE))
   ) {
     return NextResponse.rewrite(new URL(`${BLOG_ORIGIN}${pathname}`));
   }
@@ -40,6 +50,8 @@ export const config = {
   matcher: [
     '/blog',
     '/blog/:path*',
+    '/resources',
+    '/resources/:path*',
     '/wtp-advisory/blog',
     '/wtp-advisory/blog/:path*',
     '/_next/static/:path*',

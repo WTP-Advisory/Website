@@ -87,7 +87,7 @@
       "title": "Sẵn sàng tiến bước tiếp theo?",
       "subtitle": "Hãy liên hệ để tìm hiểu thêm về cơ hội nghề nghiệp tại WTP Advisory.",
       "button": { "label": "Ứng tuyển ngay", "href": "/make-an-inquiry" },
-      "variant": "blue"
+      "variant": "red"
     }
   ],
   "showContactForm": false

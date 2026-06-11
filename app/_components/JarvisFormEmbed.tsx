@@ -20,6 +20,7 @@ export function JarvisFormEmbed({
   maxHeight?: number;
 }) {
   const iframeRef = useRef<HTMLIFrameElement>(null);
+  const appliedHeightRef = useRef(0);
 
   useEffect(() => {
     function sendHostStyle() {
@@ -45,9 +46,12 @@ export function JarvisFormEmbed({
       if (e.data.type === "jarvis-form-resize") {
         const f = iframeRef.current;
         if (f) {
-          let h = Math.max(e.data.height, minHeight);
+          let h = Math.max(Math.ceil(e.data.height), minHeight);
           if (maxHeight) h = Math.min(h, maxHeight);
-          f.style.height = `${h}px`;
+          if (Math.abs(h - appliedHeightRef.current) > 2) {
+            appliedHeightRef.current = h;
+            f.style.height = `${h}px`;
+          }
         }
       }
       if (e.data.type === "jarvis-form-request-style") sendHostStyle();

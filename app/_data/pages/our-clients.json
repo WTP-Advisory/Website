@@ -82,7 +82,7 @@
       "title": "Gia nhập cộng đồng doanh nghiệp tin tưởng WTP Advisory",
       "subtitle": "Hãy cùng trao đổi cách chúng tôi có thể hỗ trợ mục tiêu của bạn tại Việt Nam.",
       "button": { "label": "Bắt đầu trao đổi", "href": "/make-an-inquiry" },
-      "variant": "blue"
+      "variant": "red"
     }
   ],
   "showContactForm": false

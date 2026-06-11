@@ -79,7 +79,7 @@
       "title": "Hợp tác cùng những chuyên gia am hiểu Việt Nam",
       "subtitle": "Hãy trao đổi với đội ngũ của chúng tôi về mục tiêu kinh doanh của bạn.",
       "button": { "label": "Liên hệ", "href": "/make-an-inquiry" },
-      "variant": "blue"
+      "variant": "red"
     }
   ],
   "showContactForm": false

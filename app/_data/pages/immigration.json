@@ -80,7 +80,7 @@
         "label": "Gửi yêu cầu tư vấn",
         "href": "/make-an-inquiry"
       },
-      "variant": "blue"
+      "variant": "red"
     },
     {
       "type": "richText",

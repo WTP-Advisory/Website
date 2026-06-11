@@ -951,7 +951,7 @@ export function SectionRenderer({
       );
 
     case "cta": {
-      const bg = section.variant === "red" ? "bg-brand-600" : "bg-blue-cta";
+      const bg = section.variant === "blue" ? "bg-blue-cta" : "bg-brand-600";
       return (
         <section className={`${bg} py-12`}>
           <Container className="flex flex-col items-center justify-between gap-6 text-center md:flex-row md:text-left">

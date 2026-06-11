@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import Link from "next/link";
 import { ChevronDown, ChevronRight, Menu, X } from "lucide-react";
 import { Container } from "./ui/Container";
@@ -15,6 +15,8 @@ type NavLink = {
   href: string;
   megamenu?: Group[];
   dropdown?: Item[];
+  // When true, the dropdown is populated dynamically from the resources API.
+  resources?: boolean;
 };
 
 const links = nav.links as NavLink[];
@@ -30,7 +32,7 @@ function MegaPanel({ groups }: { groups: Group[] }) {
   return (
     <div className="absolute left-0 right-0 top-full hidden max-h-[calc(100vh-70px)] overflow-y-auto overflow-x-hidden border-t border-stone-100 bg-footer-light shadow-lg group-hover:block">
       <Container className="relative">
-        <div className="relative flex min-h-[340px]">
+        <div className="relative flex min-h-60">
           {/* red accent — right edge meets the category list, bleeds off-screen left at any width */}
           <div className="pointer-events-none absolute right-full top-0 h-full w-screen bg-brand-600" />
           {/* faded city image — left edge starts past the cards, bleeds off-screen right */}
@@ -41,14 +43,14 @@ function MegaPanel({ groups }: { groups: Group[] }) {
             className="pointer-events-none absolute left-full top-0 hidden h-full w-[40vw] object-cover opacity-20 lg:block"
           />
           {/* left: category list */}
-          <ul className="w-[30%] shrink-0 border-r border-stone-300 py-6">
+          <ul className="w-[30%] shrink-0 border-r border-stone-300 py-4">
             {groups.map((group, i) => (
               <li key={group.title}>
                 <Link
                   href={group.href}
                   onMouseEnter={() => setActive(i)}
                   onFocus={() => setActive(i)}
-                  className={`flex items-center justify-between gap-2 px-5 py-2.5 text-[17px] font-medium transition-colors ${
+                  className={`flex items-center justify-between gap-2 px-5 py-1.5 text-[15px] font-medium transition-colors ${
                     i === active ? "text-brand-600" : "text-ink hover:text-brand-600"
                   }`}
                 >
@@ -60,22 +62,22 @@ function MegaPanel({ groups }: { groups: Group[] }) {
           </ul>
 
           {/* right: cards for the active category */}
-          <div className="grid flex-1 auto-rows-min grid-cols-2 gap-5 p-6 lg:grid-cols-3">
+          <div className="grid flex-1 auto-rows-min grid-cols-2 gap-3 p-4 lg:grid-cols-3">
             {cards.map((item) => (
               <Link
                 key={item.href}
                 href={item.href}
-                className="group/card flex flex-col bg-white p-5 shadow-sm transition-shadow hover:shadow-md"
+                className="group/card flex flex-col bg-white p-4 shadow-sm transition-shadow hover:shadow-md"
               >
-                <span className="text-[17px] font-bold leading-snug text-brand-600">
+                <span className="text-[15px] font-bold leading-snug text-brand-600">
                   {item.title}
                 </span>
                 {item.desc && (
-                  <span className="mt-1.5 text-sm leading-snug text-ink-soft">
+                  <span className="mt-1 text-[13px] leading-snug text-ink-soft">
                     {item.desc}
                   </span>
                 )}
-                <span className="mt-4 inline-flex items-center gap-1 text-sm font-medium text-brand-600">
+                <span className="mt-3 inline-flex items-center gap-1 text-[13px] font-medium text-brand-600">
                   Learn More
                   <ChevronRight className="h-4 w-4 transition-transform group-hover/card:translate-x-0.5" />
                 </span>
@@ -113,6 +115,27 @@ function Dropdown({ items }: { items: Item[] }) {
 export function Header() {
   const [open, setOpen] = useState(false);
   const [openSub, setOpenSub] = useState<string | null>(null);
+  const [topicGroups, setTopicGroups] = useState<Group[]>([]);
+
+  // Load the resource topics for the "Tài nguyên" mega-menu from our own
+  // same-origin route (which proxies the external content API).
+  useEffect(() => {
+    let active = true;
+    fetch("/api/resources/topics")
+      .then((res) => (res.ok ? res.json() : []))
+      .then((data: Group[]) => {
+        if (active && Array.isArray(data)) setTopicGroups(data);
+      })
+      .catch(() => {});
+    return () => {
+      active = false;
+    };
+  }, []);
+
+  // The resources link is driven by the dynamically fetched topic groups; every
+  // other link uses its static config from nav.json.
+  const megamenuFor = (link: NavLink): Group[] | undefined =>
+    link.resources ? topicGroups : link.megamenu;
 
   return (
     <header className="sticky top-0 z-50 border-b border-stone-100 bg-white shadow-sm">
@@ -124,12 +147,17 @@ export function Header() {
         {/* Desktop nav */}
         <nav className="hidden items-center gap-1 lg:flex">
           {links.map((link) => {
-            const hasPanel = !!(link.megamenu || link.dropdown);
+            const groups = megamenuFor(link);
+            const wide = !!(link.megamenu || link.resources);
+            const hasPanel = !!(
+              wide ||
+              (link.dropdown && link.dropdown.length > 0)
+            );
             return (
               <div
                 key={link.label}
                 className={`group flex h-[70px] items-center ${
-                  link.megamenu ? "static" : "relative"
+                  wide ? "static" : "relative"
                 }`}
               >
                 <Link
@@ -139,8 +167,10 @@ export function Header() {
                   {link.label}
                   {hasPanel && <ChevronDown className="h-4 w-4" />}
                 </Link>
-                {link.megamenu && <MegaPanel groups={link.megamenu} />}
-                {link.dropdown && <Dropdown items={link.dropdown} />}
+                {groups && groups.length > 0 && <MegaPanel groups={groups} />}
+                {link.dropdown && link.dropdown.length > 0 && (
+                  <Dropdown items={link.dropdown} />
+                )}
               </div>
             );
           })}
@@ -169,7 +199,10 @@ export function Header() {
         <div className="max-h-[calc(100vh-70px)] overflow-y-auto border-t border-stone-100 bg-white lg:hidden">
           <Container className="flex flex-col gap-1 py-4">
             {links.map((link) => {
-              const sub = link.megamenu || link.dropdown;
+              const groups = megamenuFor(link);
+              const sub =
+                (groups && groups.length > 0) ||
+                (link.dropdown && link.dropdown.length > 0);
               const isOpen = openSub === link.label;
               if (!sub) {
                 return (
@@ -198,7 +231,7 @@ export function Header() {
                   </button>
                   {isOpen && (
                     <div className="space-y-3 pb-2 pl-4">
-                      {link.megamenu?.map((group) => (
+                      {groups?.map((group) => (
                         <div key={group.title}>
                           <Link
                             href={group.href}

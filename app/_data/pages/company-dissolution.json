@@ -207,7 +207,7 @@
         "label": "Gửi Yêu cầu Tư vấn",
         "href": "/make-an-inquiry"
       },
-      "variant": "blue"
+      "variant": "red"
     },
     {
       "type": "steps",
