@@ -1,0 +1,67 @@
+{
+  "layout": "event",
+  "title": "Tax Compliance Risks for Foreigners in Vietnam",
+  "metaDescription": "An insightful webinar for foreign individuals and businesses in Vietnam on tax compliance obligations and risk mitigation strategies, hosted by InCorp Vietnam in collaboration with Baker & McKenzie.",
+  "banner": "/incorp/events/tax-compliance-risks.png",
+  "format": "Webinar",
+  "date": "November 7, 2024",
+  "about": [
+    "Join us for an insightful webinar designed for foreign individuals and businesses operating in Vietnam, led by InCorp Vietnam's experts in collaboration with Baker & McKenzie. Gain a comprehensive understanding of Vietnam's tax landscape, learn about key tax compliance obligations, and discover strategies to mitigate risks.",
+    "This webinar is a must-attend for foreign investors, business owners, and expatriates who wish to stay compliant and reduce tax liabilities in Vietnam."
+  ],
+  "details": [
+    { "label": "Date", "value": "November 7, 2024" },
+    { "label": "Time", "value": "9:30am – 11:00am (GMT +7)" },
+    { "label": "Format", "value": "Webinar — Zoom link provided upon registration" },
+    { "label": "Fee", "value": "Free to attend" }
+  ],
+  "speakers": [
+    {
+      "name": "Ms. Jenny Nguyễn",
+      "role": "Senior Business Consultant, InCorp Vietnam",
+      "label": "MC"
+    },
+    {
+      "name": "Ms. Thanh Hoà Đào",
+      "role": "Special Counsel, Baker McKenzie Vietnam",
+      "label": "Guest Speaker"
+    },
+    {
+      "name": "Mr. Hùng Nguyễn",
+      "role": "Head of Business Development & HR & Payroll, InCorp Vietnam",
+      "label": "Speaker"
+    },
+    {
+      "name": "Ms. Phoebe Mai",
+      "role": "Accounting Services Manager, InCorp Vietnam",
+      "label": "Speaker"
+    }
+  ],
+  "bulletSections": [
+    {
+      "heading": "What We Will Cover",
+      "items": [
+        "Overview of tax compliance for foreigners in Vietnam",
+        "Common FDI tax issues",
+        "PIT and CIT obligations for foreigners and businesses",
+        "Work permit and government black list issues",
+        "Strategies for mitigating tax risks",
+        "Recent updates on tax laws and regulations"
+      ]
+    }
+  ],
+  "registration": {
+    "heading": "Reserve Your Spot",
+    "subtitle": "Join our exclusive webinar to get the latest insights on tax compliance in Vietnam.",
+    "schedule": "November 7, 2024",
+    "formId": "form_ZMVuWvXsFnw0fY"
+  },
+  "prev": {
+    "title": "Vietnam Economic Outlook: Mid-Year Review and Future Prospects for H2 2024",
+    "href": "/events/economic-outlook-half-year-review-future-prospects-h2-2024"
+  },
+  "next": {
+    "title": "Is \"Made in Vietnam\" The New \"Made in China\"?",
+    "href": "/events/made-in-vietnam-the-new-made-in-china"
+  }
+}
