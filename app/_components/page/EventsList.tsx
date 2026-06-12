@@ -14,7 +14,7 @@ export type EventItem = {
   cta?: string;
 };
 
-const PAGE_SIZE = 2;
+const PAGE_SIZE = 10;
 
 export function EventsList({ items }: { items: EventItem[] }) {
   const [page, setPage] = useState(0);

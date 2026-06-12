@@ -35,10 +35,33 @@
       ]
     }
   ],
+  "speakers": [
+    {
+      "name": "MS. NGAN NGUYEN",
+      "role": "Trưởng Chi nhánh Hà Nội, InCorp Vietnam",
+      "tag": "Điều phối viên"
+    },
+    {
+      "name": "MR. JACK NGUYEN",
+      "role": "CEO, InCorp Vietnam",
+      "tag": "Diễn giả"
+    },
+    {
+      "name": "MR. SANDEEP ROY",
+      "role": "Giám đốc Điều hành Cấp cao, Bộ phận Nghiên cứu & Tư vấn Thị trường, FiinGroup",
+      "tag": "Diễn giả"
+    },
+    {
+      "name": "MR. HIEU NGUYEN",
+      "role": "CEO, FiinGroup",
+      "tag": "Diễn giả"
+    }
+  ],
   "registration": {
     "heading": "Giữ chỗ ngay",
     "subtitle": "Đón xem hội thảo trực tuyến độc quyền của chúng tôi để cập nhật những thông tin mới nhất.",
-    "schedule": "Ngày 20 tháng 3 năm 2025 | 14:00 – 15:00 (GMT+7)"
+    "schedule": "Ngày 20 tháng 3 năm 2025 | 14:00 – 15:00 (GMT+7)",
+    "formId": "form_J2Naa2QTsQUMeg"
   },
   "prev": {
     "title": "Rủi ro tuân thủ thuế đối với người nước ngoài tại Việt Nam",
