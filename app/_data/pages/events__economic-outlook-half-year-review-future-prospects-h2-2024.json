@@ -1,43 +1,45 @@
 {
   "layout": "event",
-  "title": "Triển vọng Kinh tế Việt Nam: Đánh giá Nửa năm và Triển vọng cho Nửa cuối năm 2024 và Xa hơn",
-  "metaDescription": "Đánh giá giữa năm về nền kinh tế Việt Nam và những gì đang chờ phía trước trong nửa cuối năm 2024, do WTP Advisory trình bày cùng đối tác CanCham tại Sofitel Saigon Plaza.",
+  "title": "Vietnam Economic Outlook: Half-Year Review and Future Prospects for H2 2024 and Beyond",
+  "metaDescription": "A mid-year review of Vietnam's economy and what lies ahead in H2 2024, presented by WTP Advisory alongside CanCham at Sofitel Saigon Plaza.",
   "banner": "/incorp/events/economic-outlook.png",
   "format": "Offline",
-  "date": "Ngày 4 tháng 9 năm 2024",
+  "date": "September 4, 2024",
   "about": [
-    "Nền kinh tế Việt Nam đạt mức tăng trưởng vừa phải trong nửa đầu năm 2024, với GDP tăng khoảng 4,5%, được dẫn dắt bởi hiệu suất mạnh mẽ của khu vực dịch vụ và công nghiệp. Dù bị cản trở bởi những bất ổn của kinh tế toàn cầu, điều kiện tiền tệ thắt chặt và sự gián đoạn chuỗi cung ứng, khu vực thương mại vẫn cho thấy sức bền — đặc biệt ở các mặt hàng điện tử, dệt may và nông sản. Dòng vốn FDI duy trì ổn định ở mức 15 tỷ USD trong sáu tháng, khi các nhà đầu tư đa dạng hóa chuỗi cung ứng dịch chuyển khỏi Trung Quốc ở các lĩnh vực như sản xuất, bất động sản và công nghệ.",
-    "Hướng tới nửa cuối năm 2024, Chính phủ dự kiến tiếp tục chương trình cải cách — cải thiện môi trường kinh doanh, nâng cấp hạ tầng và thúc đẩy đổi mới sáng tạo. Các chính sách mới được kỳ vọng sẽ thúc đẩy tăng trưởng trong sản xuất, năng lượng xanh và chuyển đổi số, một ví dụ điển hình là việc tiếp tục ưu đãi thuế GTGT (giảm thuế GTGT xuống 8% đối với hàng hóa và dịch vụ đang chịu mức thuế GTGT 10%).",
-    "Hãy tham gia cùng chúng tôi tại Sofitel Saigon Plaza trong một sự kiện chuyên sâu khám phá triển vọng kinh tế của Việt Nam. Do các diễn giả chuyên nghiệp của chúng tôi trình bày, sự kiện sẽ đề cập đến những diễn biến FDI, cơ hội bất động sản, chính sách kinh tế vĩ mô và cập nhật về M&A."
+    "Vietnam's economy experienced moderate growth in H1 2024, with GDP expanding by approximately 4.5%. This growth was driven by strong performance in the services and industrial sectors. Although hindered by global economic uncertainties, tighter monetary conditions, and disruptions in the global supply chain, the trade sector showed resilience, specifically in electronics, textiles, and agricultural products. FDI inflow also remained robust at USD 15 billion over 6 months, with investors diversifying their supply chains away from China in sectors such as manufacturing, real estate, and technology.",
+    "Looking to H2 2024, the government is expected to continue its reform agenda with aims to improve the business environment, enhancing infrastructure, and fostering innovation. New policies are projected to boost growth in manufacturing, green energy, digital transformation, and more; a prime example is the continued VAT incentive (VAT is reduced to 8% for goods and services subject to 10% VAT).",
+    "Join us at Sofitel Saigon Plaza for an insightful event exploring Vietnam's economic outlook. Presented by our professional speakers, the event will cover FDI developments, real estate opportunities, macroeconomic policies, and M&A updates.",
+    "RSVP now to secure your seat at this exclusive event and take the first step towards realizing your aspirations in Vietnam! Whether you're an investor, a professional, or a dreamer with a vision, join us and realize your gateway to success in the land of endless opportunities. Don't miss out!"
   ],
   "details": [
-    { "label": "Ngày", "value": "Ngày 4 tháng 9 năm 2024" },
-    { "label": "Địa điểm", "value": "Sofitel Saigon Plaza, TP. Hồ Chí Minh" },
-    { "label": "Vé — Thành viên CanCham & Hiệp hội đồng tổ chức", "value": "250.000 VND" },
-    { "label": "Vé — Không phải Thành viên", "value": "350.000 VND" },
-    { "label": "Thanh toán", "value": "Chỉ chuyển khoản ngân hàng và thanh toán trực tuyến qua OnePay tại cửa" }
+    { "label": "Date", "value": "September 4, 2024" },
+    { "label": "Venue", "value": "Sofitel Saigon Plaza, Ho Chi Minh City" },
+    { "label": "Ticket — CanCham & Co-host Chamber Member", "value": "VND 250,000" },
+    { "label": "Ticket — Non-Member", "value": "VND 350,000" },
+    { "label": "Payment", "value": "Only bank transfer and online payment via OnePay available at the door" }
   ],
   "agenda": [
-    { "time": "08:30 – 09:00", "title": "Đón khách" },
-    { "time": "09:00 – 09:05", "title": "Phát biểu khai mạc" },
-    { "time": "09:05 – 09:20", "title": "Những diễn biến FDI chủ chốt và cập nhật thị trường lao động" },
-    { "time": "09:20 – 09:30", "title": "Nắm bắt Cơ hội và Vượt qua Thách thức trong Bức tranh Bất động sản Việt Nam" },
-    { "time": "09:30 – 09:40", "title": "Chính sách, Hiệu suất và Dự báo Kinh tế vĩ mô cho năm 2024" },
-    { "time": "09:40 – 09:50", "title": "Cập nhật về M&A" },
-    { "time": "09:50 – 10:10", "title": "Phiên Hỏi đáp" },
-    { "time": "10:10 – 10:30", "title": "Phiên Kết nối" }
+    { "time": "08:30 – 09:00", "title": "Check-in" },
+    { "time": "09:00 – 09:05", "title": "Opening Speech" },
+    { "time": "09:05 – 09:20", "title": "Key FDI Developments and Labor Market Updates" },
+    { "time": "09:20 – 09:30", "title": "Navigating Opportunities and Challenges in Vietnam's Real Estate Landscape" },
+    { "time": "09:30 – 09:40", "title": "Policies, Performance, and Projections in Macroeconomics for 2024" },
+    { "time": "09:40 – 09:50", "title": "M&A Updates" },
+    { "time": "09:50 – 10:10", "title": "Q&A Session" },
+    { "time": "10:10 – 10:30", "title": "Networking Session" }
   ],
   "registration": {
-    "heading": "Đăng ký ngay",
-    "subtitle": "Đăng ký cho cơ hội đặc biệt này để gặp gỡ các nhà lãnh đạo ngành và giữ chỗ cho mình tại sự kiện.",
-    "schedule": "Ngày 4 tháng 9 năm 2024 | Từ 08:30 (GMT+7)"
+    "heading": "Sign Up Here",
+    "subtitle": "Register for this exclusive opportunity to meet industry leaders and secure your spot at the event.",
+    "schedule": "September 4, 2024 | From 08:30 (GMT+7)",
+    "formId": "form_2DQ74xq2Xwyfu6"
   },
   "prev": {
-    "title": "WTP Advisory x FLI: Quản trị bán hàng chiến lược có thể thúc đẩy doanh số của bạn như thế nào? – Hà Nội",
+    "title": "WTP Advisory x FLI: How Strategic Sales Management Can Boost Your Revenue – Hanoi",
     "href": "/events/fdi-enterprise-solutions-fli-vietnam"
   },
   "next": {
-    "title": "Rủi ro tuân thủ thuế đối với người nước ngoài tại Việt Nam",
+    "title": "Tax Compliance Risks for Foreigners in Vietnam",
     "href": "/events/webinar-tax-compliance-risks"
   }
 }
