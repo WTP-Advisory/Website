@@ -41,18 +41,23 @@ export function JarvisFormEmbed({
       );
     }
 
+    let timerId = 0;
     function onMessage(e: MessageEvent) {
       if (!e.data) return;
       if (e.data.type === "jarvis-form-resize") {
-        const f = iframeRef.current;
-        if (f) {
-          let h = Math.max(Math.ceil(e.data.height), minHeight);
+        const incoming = e.data.height;
+        clearTimeout(timerId);
+        timerId = window.setTimeout(() => {
+          const f = iframeRef.current;
+          if (!f) return;
+          let h = Math.max(Math.ceil(incoming), minHeight);
           if (maxHeight) h = Math.min(h, maxHeight);
-          if (Math.abs(h - appliedHeightRef.current) > 2) {
+          // Only grow — never shrink. Prevents oscillation loop.
+          if (h > appliedHeightRef.current) {
             appliedHeightRef.current = h;
             f.style.height = `${h}px`;
           }
-        }
+        }, 150);
       }
       if (e.data.type === "jarvis-form-request-style") sendHostStyle();
     }
@@ -65,6 +70,7 @@ export function JarvisFormEmbed({
     return () => {
       window.removeEventListener("message", onMessage);
       window.removeEventListener("load", sendHostStyle);
+      clearTimeout(timerId);
     };
   }, []);
 
@@ -75,7 +81,7 @@ export function JarvisFormEmbed({
       title={title}
       loading="lazy"
       className={className}
-      style={{ width: "100%", border: 0, minHeight }}
+      style={{ width: "100%", border: 0, minHeight, resize: "none", overflow: "hidden" }}
     />
   );
 }
