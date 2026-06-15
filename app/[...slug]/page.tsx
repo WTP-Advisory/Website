@@ -72,7 +72,13 @@ export async function generateMetadata({
   if (data) {
     return { title: data.title, description: data.metaDescription };
   }
-  return { title: titleFromSlug(slug) || "Page" };
+  // Routes without authored content render the thin placeholder below — keep them
+  // out of the index so they don't get flagged for duplicate/empty meta
+  // descriptions. Authored pages (above) are indexed with their own unique one.
+  return {
+    title: titleFromSlug(slug) || "Page",
+    robots: { index: false, follow: true },
+  };
 }
 
 export default async function CatchAllPage({
