@@ -2,6 +2,7 @@
 import { Roboto } from "next/font/google";
 import Script from "next/script";
 import "./globals.css";
+import { BASE_URL } from "./_lib/site";
 
 const roboto = Roboto({
   variable: "--font-roboto",
@@ -11,7 +12,7 @@ const roboto = Roboto({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://vietnam.incorp.asia"),
+  metadataBase: new URL(BASE_URL),
   title: {
     default: "WTP Advisory - Leading Market Entry & Corporate Services",
     template: "%s | WTP Advisory",
@@ -39,7 +40,11 @@ export const metadata: Metadata = {
       { url: "/favicon-16.png", sizes: "16x16", type: "image/png" },
       { url: "/favicon-32.png", sizes: "32x32", type: "image/png" },
     ],
-    apple: { url: "/apple-touch-icon.png", sizes: "180x180", type: "image/png" },
+    apple: {
+      url: "/apple-touch-icon.png",
+      sizes: "180x180",
+      type: "image/png",
+    },
   },
 };
 
