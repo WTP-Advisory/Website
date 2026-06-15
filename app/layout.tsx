@@ -35,6 +35,9 @@ export const metadata: Metadata = {
     description:
       "Your business expansion expert in Vietnam — one-stop company formation and corporate services.",
   },
+  verification: {
+    google: process.env.GOOGLE_SITE_VERIFICATION,
+  },
   icons: {
     icon: [
       { url: "/favicon-16.png", sizes: "16x16", type: "image/png" },
