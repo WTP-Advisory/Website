@@ -1,10 +1,7 @@
 import type { Metadata } from "next";
 import { promises as fs } from "fs";
 import path from "path";
-import { TopBar } from "../_components/TopBar";
-import { Header } from "../_components/Header";
-import { Footer } from "../_components/Footer";
-import { Container } from "../_components/ui/Container";
+import { notFound } from "next/navigation";
 import { PageRenderer, type PageData } from "../_components/page/PageRenderer";
 import { EventRenderer, type EventData } from "../_components/page/EventRenderer";
 import { JobRenderer, type JobData } from "../_components/page/JobRenderer";
@@ -29,14 +26,6 @@ function keyFromSlug(slug: string[]): string {
   return slug.join("__");
 }
 
-function titleFromSlug(slug: string[]): string {
-  const last = slug[slug.length - 1] ?? "";
-  return last
-    .split("-")
-    .filter(Boolean)
-    .map((w) => w.charAt(0).toUpperCase() + w.slice(1))
-    .join(" ");
-}
 
 async function loadPage(slug: string[]): Promise<LoadedPage | null> {
   try {
@@ -72,13 +61,7 @@ export async function generateMetadata({
   if (data) {
     return { title: data.title, description: data.metaDescription };
   }
-  // Routes without authored content render the thin placeholder below — keep them
-  // out of the index so they don't get flagged for duplicate/empty meta
-  // descriptions. Authored pages (above) are indexed with their own unique one.
-  return {
-    title: titleFromSlug(slug) || "Page",
-    robots: { index: false, follow: true },
-  };
+  return {};
 }
 
 export default async function CatchAllPage({
@@ -89,33 +72,9 @@ export default async function CatchAllPage({
   const { slug } = await params;
   const data = await loadPage(slug);
 
-  if (data) {
-    if (isEvent(data)) return <EventRenderer data={data} />;
-    if (isJob(data)) return <JobRenderer data={data} />;
-    return <PageRenderer data={data} />;
-  }
+  if (!data) notFound();
 
-  // Fallback placeholder for routes without authored content yet.
-  const title = titleFromSlug(slug) || "Page";
-  return (
-    <>
-      <TopBar />
-      <Header />
-      <main className="flex-1">
-        <section className="bg-surface-2 py-16 lg:py-24">
-          <Container>
-            <p className="text-sm font-medium uppercase tracking-wide text-brand-600">
-              WTP Advisory
-            </p>
-            <h1 className="mt-3 text-3xl font-bold text-ink lg:text-5xl">{title}</h1>
-            <p className="mt-5 max-w-2xl text-ink-soft">
-              This page is part of the WTP Advisory clone. Detailed content for{" "}
-              <strong className="text-ink">{title}</strong> has not been authored yet.
-            </p>
-          </Container>
-        </section>
-      </main>
-      <Footer />
-    </>
-  );
+  if (isEvent(data)) return <EventRenderer data={data} />;
+  if (isJob(data)) return <JobRenderer data={data} />;
+  return <PageRenderer data={data} />;
 }
