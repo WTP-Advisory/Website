@@ -36,7 +36,10 @@ export const metadata: Metadata = {
       "Your business expansion expert in Vietnam — one-stop company formation and corporate services.",
   },
   verification: {
-    google: process.env.GOOGLE_SITE_VERIFICATION,
+    google: [
+      process.env.GOOGLE_SITE_VERIFICATION,
+      process.env.GOOGLE_SITE_VERIFICATION_2,
+    ].filter(Boolean) as string[],
   },
   icons: {
     icon: [
@@ -60,6 +63,20 @@ export default function RootLayout({
     <html lang="en" className={`${roboto.variable} h-full antialiased`}>
       <body className="min-h-full flex flex-col bg-white text-ink-soft">
         {children}
+        {process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID && (
+          <>
+            <Script
+              src={`https://www.googletagmanager.com/gtag/js?id=${process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID}`}
+              strategy="afterInteractive"
+            />
+            <Script id="google-analytics" strategy="afterInteractive">
+              {`window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', '${process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID}');`}
+            </Script>
+          </>
+        )}
         <Script id="rocketchat-livechat" strategy="afterInteractive">
           {`(function(w, d, s, u) {
     w.RocketChat = function(c) { w.RocketChat._.push(c) }; w.RocketChat._ = []; w.RocketChat.url = u;

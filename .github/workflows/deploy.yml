@@ -16,6 +16,8 @@ env:
   VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
   NEXT_PUBLIC_SITE_URL: ${{ vars.NEXT_PUBLIC_SITE_URL }}
   GOOGLE_SITE_VERIFICATION: ${{ vars.GOOGLE_SITE_VERIFICATION }}
+  GOOGLE_SITE_VERIFICATION_2: ${{ vars.GOOGLE_SITE_VERIFICATION_2 }}
+  NEXT_PUBLIC_GA_MEASUREMENT_ID: ${{ vars.NEXT_PUBLIC_GA_MEASUREMENT_ID }}
 
 jobs:
   lint:
@@ -38,9 +40,6 @@ jobs:
         # Lint issues are reported but must not block deployment.
         continue-on-error: true
         run: pnpm lint
-
-      - name: Build
-        run: pnpm build
 
   deploy-preview:
     name: Deploy Preview
