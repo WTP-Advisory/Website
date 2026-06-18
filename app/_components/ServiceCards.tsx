@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import {
   Building2,
@@ -47,13 +48,15 @@ export function ServiceCards({ items }: { items: ServiceItem[] }) {
               href={item.href}
               className="group relative block overflow-hidden shadow-sm"
             >
-              {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img
-                src={item.image}
-                alt={item.alt ?? item.title}
-                className="aspect-[4/3] rounded-none w-full object-cover transition-transform duration-500 group-hover:scale-105"
-                loading="lazy"
-              />
+              <div className="relative aspect-[4/3] w-full">
+                <Image
+                  src={item.image}
+                  alt={item.alt ?? item.title}
+                  fill
+                  className="object-cover transition-transform duration-500 group-hover:scale-105"
+                  sizes="(max-width: 1024px) 100vw, 300px"
+                />
+              </div>
               <span className="absolute inset-x-0 bottom-0 bg-brand-600 px-5 py-3 text-base font-semibold text-white">
                 {item.title}
               </span>

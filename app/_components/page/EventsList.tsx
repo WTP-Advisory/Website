@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import Image from "next/image";
 import Link from "next/link";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 
@@ -62,13 +63,15 @@ export function EventsList({ items }: { items: EventItem[] }) {
                 href={ev.href}
                 className="group block shrink-0 overflow-hidden rounded-xl shadow-sm lg:order-2 lg:w-[46%]"
               >
-                {/* eslint-disable-next-line @next/next/no-img-element */}
-                <img
-                  src={ev.image}
-                  alt={ev.title}
-                  className="aspect-[16/9] w-full object-cover transition-transform duration-300 group-hover:scale-105"
-                  loading="lazy"
-                />
+                <div className="relative aspect-[16/9] w-full">
+                  <Image
+                    src={ev.image}
+                    alt={ev.title}
+                    fill
+                    className="object-cover transition-transform duration-300 group-hover:scale-105"
+                    sizes="(max-width: 1024px) 100vw, 46vw"
+                  />
+                </div>
               </Link>
             )}
           </article>

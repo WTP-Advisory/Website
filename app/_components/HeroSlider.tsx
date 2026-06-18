@@ -1,6 +1,7 @@
 "use client";
 
 import { useCallback, useEffect, useState } from "react";
+import Image from "next/image";
 import Link from "next/link";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 import hero from "../_data/hero.json";
@@ -28,12 +29,13 @@ export function HeroSlider() {
           const active = i === index;
           const content = (
             <>
-              {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img
+              <Image
                 src={slide.image}
                 alt={slide.alt}
+                width={1536}
+                height={792}
                 className="h-full w-full object-cover"
-                loading={i === 0 ? "eager" : "lazy"}
+                priority={i === 0}
               />
               {slide.heading && (
                 <div className="absolute inset-0 flex items-center bg-black/35">

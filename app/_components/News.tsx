@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import Image from "next/image";
 import Link from "next/link";
 import { Container } from "./ui/Container";
 import news from "../_data/news.json";
@@ -27,13 +28,15 @@ export function News() {
               className="flex flex-col overflow-hidden rounded-lg bg-surface-3"
             >
               <Link href={article.href} className="block overflow-hidden">
-                {/* eslint-disable-next-line @next/next/no-img-element */}
-                <img
-                  src={article.image}
-                  alt={article.alt}
-                  className="aspect-[16/9] w-full object-cover transition-transform duration-500 hover:scale-105"
-                  loading="lazy"
-                />
+                <div className="relative aspect-video w-full">
+                  <Image
+                    src={article.image}
+                    alt={article.alt}
+                    fill
+                    className="object-cover transition-transform duration-500 hover:scale-105"
+                    sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
+                  />
+                </div>
               </Link>
               <div className="flex flex-1 flex-col p-5">
                 <h3 className="text-base font-bold leading-snug text-ink">

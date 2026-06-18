@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import Image from "next/image";
 import Link from "next/link";
 import { ChevronDown, ChevronRight, Menu, X } from "lucide-react";
 import { Container } from "./ui/Container";
@@ -41,11 +42,13 @@ function MegaPanel({ groups }: { groups: Group[] }) {
           {/* red accent — right edge meets the category list, bleeds off-screen left at any width */}
           <div className="pointer-events-none absolute right-full top-0 h-full w-screen bg-brand-600" />
           {/* faded city image — left edge starts past the cards, bleeds off-screen right */}
-          {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img
+          <Image
             src="/incorp/hero/slide-power-of-one.png"
             alt=""
+            width={1536}
+            height={792}
             className="pointer-events-none absolute left-full top-0 hidden h-full w-[40vw] object-cover opacity-20 lg:block"
+            aria-hidden
           />
           {/* left: category list */}
           <ul className="scrollbar-brand w-[30%] min-h-0 shrink-0 overflow-y-auto border-r border-stone-300 py-4">

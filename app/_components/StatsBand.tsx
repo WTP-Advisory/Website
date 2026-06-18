@@ -1,3 +1,4 @@
+import Image from "next/image";
 import { Container } from "./ui/Container";
 import stats from "../_data/stats.json";
 
@@ -15,8 +16,7 @@ export function StatsBand() {
         <div className="mt-12 grid grid-cols-2 gap-8 lg:grid-cols-4">
           {stats.items.map((item) => (
             <div key={item.label} className="flex flex-col items-center text-center">
-              {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img src={item.icon} alt={item.alt} className="h-16 w-16" loading="lazy" />
+              <Image src={item.icon} alt={item.alt} width={64} height={64} />
               <h3 className="mt-4 text-3xl font-bold text-brand-600 lg:text-4xl">
                 {item.value}
               </h3>

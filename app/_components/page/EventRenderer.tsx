@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import { ArrowLeft, ArrowRight, Check } from "lucide-react";
 import { TopBar } from "../TopBar";
@@ -82,12 +83,16 @@ export function EventRenderer({ data }: { data: EventData }) {
 
           {/* Banner */}
           {data.banner && (
-            // eslint-disable-next-line @next/next/no-img-element
-            <img
-              src={data.banner}
-              alt={data.title}
-              className="mt-7 w-full rounded-xl object-cover shadow-sm"
-            />
+            <div className="relative mt-7 aspect-video w-full overflow-hidden rounded-xl shadow-sm">
+              <Image
+                src={data.banner}
+                alt={data.title}
+                fill
+                className="object-cover"
+                priority
+                sizes="(max-width: 768px) 100vw, 800px"
+              />
+            </div>
           )}
 
           <div
@@ -152,12 +157,12 @@ export function EventRenderer({ data }: { data: EventData }) {
                         className="flex items-center gap-4 rounded-lg border border-stone-200 bg-surface-2 p-4"
                       >
                         {s.image ? (
-                          // eslint-disable-next-line @next/next/no-img-element
-                          <img
+                          <Image
                             src={s.image}
                             alt={s.name}
-                            className="h-16 w-16 shrink-0 rounded-full object-cover"
-                            loading="lazy"
+                            width={64}
+                            height={64}
+                            className="shrink-0 rounded-full object-cover"
                           />
                         ) : (
                           <span className="flex h-16 w-16 shrink-0 items-center justify-center rounded-full bg-brand-600 text-xl font-bold text-white">

@@ -18,3 +18,25 @@ When creating or editing a page:
 To check before committing, scan for exact-match duplicates and missing fields across `app/_data/pages/*.json`.
 
 Routes without an authored JSON (e.g. `/privacy`, `/terms`, or any unknown slug) fall through to the placeholder in `app/[...slug]/page.tsx`, which returns `robots: { index: false }` so these thin pages aren't indexed or flagged for duplicate meta descriptions. To make such a route a real, indexable page, add an `app/_data/pages/<slug>.json` with its own `title` and unique `metaDescription` — it then enters the sitemap (`app/sitemap.ts`) and is indexed automatically.
+# Images
+
+Always use `<Image>` from `next/image`. Never use plain `<img>` tags — the ESLint rule `@next/next/no-img-element` enforces this and the build will warn on violations.
+
+**Choosing the right variant:**
+
+- **`fill` + positioned wrapper** — use when the image fills a container whose size is set by CSS (aspect ratio, fixed height, responsive). The wrapper must have `position: relative` (or absolute/fixed) and `overflow: hidden`.
+  ```tsx
+  <div className="relative aspect-[4/3] w-full overflow-hidden rounded-md">
+    <Image src={src} alt={alt} fill className="object-cover" sizes="..." />
+  </div>
+  ```
+- **Explicit `width` / `height`** — use for fixed-size images where dimensions are known (avatars, icons, logos with fixed height). CSS classes can still override the rendered size.
+  ```tsx
+  <Image src={src} alt={alt} width={64} height={64} className="rounded-full object-cover" />
+  ```
+
+**Always set `sizes`** when using `fill` or when the image width varies across breakpoints — it drives the srcset and prevents the browser downloading oversized images. Omit only for images that are always the same pixel width (e.g. a fixed 64×64 avatar).
+
+**Use `priority`** (not `loading="eager"`) for images that are above the fold on initial load: page hero backgrounds, the first hero slider slide, and event banners. All other images get lazy loading by default.
+
+**AVIF/WebP** are enabled in `next.config.ts` (`formats: ["image/avif", "image/webp"]`). Vercel's image optimization serves the best format automatically — no manual conversion needed.

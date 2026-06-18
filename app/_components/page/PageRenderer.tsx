@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import { Mail, MapPin, Phone } from "lucide-react";
 import { TopBar } from "../TopBar";
@@ -33,15 +34,13 @@ function Hero({ hero, breadcrumb }: { hero: PageHero; breadcrumb: string }) {
     >
       {hero.image && (
         <>
-          {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img
+          <Image
             src={hero.image}
             alt=""
-            className={
-              brand
-                ? "absolute inset-0 h-full w-full object-cover object-right"
-                : "absolute inset-0 h-full w-full object-cover opacity-30"
-            }
+            fill
+            className={brand ? "object-cover object-right" : "object-cover opacity-30"}
+            priority
+            sizes="100vw"
           />
           <div
             className={

@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import {
   Check,
@@ -373,13 +374,15 @@ export function SectionRenderer({
                 const inner = (
                   <>
                     {item.image && (
-                      // eslint-disable-next-line @next/next/no-img-element
-                      <img
-                        src={item.image}
-                        alt={item.title}
-                        className="mb-4 aspect-[3/2] w-full rounded-md object-cover"
-                        loading="lazy"
-                      />
+                      <div className="relative mb-4 aspect-[3/2] w-full overflow-hidden rounded-md">
+                        <Image
+                          src={item.image}
+                          alt={item.title}
+                          fill
+                          className="object-cover"
+                          sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
+                        />
+                      </div>
                     )}
                     {Icon && !item.image && (
                       <span className="mb-4 flex h-12 w-12 items-center justify-center rounded-full bg-brand-50 text-brand-600">
@@ -635,13 +638,15 @@ export function SectionRenderer({
                 </div>
               </div>
               <div className={right ? "" : "lg:order-1"}>
-                {/* eslint-disable-next-line @next/next/no-img-element */}
-                <img
-                  src={section.image}
-                  alt={section.heading ?? ""}
-                  className="w-full rounded-lg object-cover shadow-sm"
-                  loading="lazy"
-                />
+                <div className="relative aspect-[4/3] w-full overflow-hidden rounded-lg shadow-sm">
+                  <Image
+                    src={section.image}
+                    alt={section.heading ?? ""}
+                    fill
+                    className="object-cover"
+                    sizes="(max-width: 1024px) 100vw, 50vw"
+                  />
+                </div>
               </div>
             </div>
           </Container>
@@ -716,12 +721,12 @@ export function SectionRenderer({
                     key={i}
                     className="flex flex-col rounded-lg bg-surface-2 p-5 transition-shadow hover:shadow-md"
                   >
-                    {/* eslint-disable-next-line @next/next/no-img-element */}
-                    <img
+                    <Image
                       src={m.image ?? "/incorp/people/placeholder.svg"}
                       alt={m.name}
-                      className="mx-auto h-28 w-28 rounded-full object-cover"
-                      loading="lazy"
+                      width={112}
+                      height={112}
+                      className="mx-auto rounded-full object-cover"
                     />
                     <h3 className="mt-4 font-bold text-brand-600">{m.name}</h3>
                     {m.role && (
@@ -735,13 +740,15 @@ export function SectionRenderer({
                   </div>
                 ) : (
                   <div key={i} className="text-center">
-                    {/* eslint-disable-next-line @next/next/no-img-element */}
-                    <img
-                      src={m.image ?? "/incorp/people/placeholder.svg"}
-                      alt={m.name}
-                      className="mx-auto aspect-square w-full max-w-[300px] rounded-sm object-cover"
-                      loading="lazy"
-                    />
+                    <div className="relative mx-auto aspect-square w-full max-w-[300px] overflow-hidden rounded-sm">
+                      <Image
+                        src={m.image ?? "/incorp/people/placeholder.svg"}
+                        alt={m.name}
+                        fill
+                        className="object-cover"
+                        sizes="(max-width: 640px) 100vw, 300px"
+                      />
+                    </div>
                     <h3 className="mt-5 text-lg font-bold text-brand-600">
                       {m.name}
                     </h3>
@@ -913,13 +920,15 @@ export function SectionRenderer({
                 >
                   <div className="flex aspect-[4/3] w-full items-center justify-center rounded-md bg-white p-6">
                     {logo.image ? (
-                      // eslint-disable-next-line @next/next/no-img-element
-                      <img
-                        src={logo.image}
-                        alt={logo.name}
-                        className="max-h-16 w-auto max-w-full object-contain"
-                        loading="lazy"
-                      />
+                      <div className="relative h-16 w-full">
+                        <Image
+                          src={logo.image}
+                          alt={logo.name}
+                          fill
+                          className="object-contain"
+                          sizes="(max-width: 640px) 50vw, (max-width: 1024px) 33vw, 25vw"
+                        />
+                      </div>
                     ) : (
                       <span className="text-center text-lg font-bold uppercase tracking-wide text-ink-soft">
                         {logo.name}
