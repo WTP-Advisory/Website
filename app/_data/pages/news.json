@@ -1,0 +1,59 @@
+{
+  "title": "Tin tức",
+  "metaDescription": "Tin tức & góc nhìn chuyên sâu từ WTP Advisory về kinh doanh, pháp lý, kế toán, thuế và nhân sự tại Việt Nam năm 2026.",
+  "hero": {
+    "eyebrow": "TIN TỨC",
+    "title": "Tin tức & Góc nhìn",
+    "subtitle": "Cập nhật những thay đổi pháp lý, xu hướng kinh doanh và góc nhìn chuyên sâu từ đội ngũ chuyên gia WTP Advisory."
+  },
+  "sections": [
+    {
+      "type": "cards",
+      "items": [
+        {
+          "title": "Hợp đồng lao động điện tử tại Việt Nam 2026: Quy định mới nhất và góc nhìn thực tiễn",
+          "desc": "Cơ sở pháp lý, yêu cầu của Nghị định 337/2025, Nền tảng Hợp đồng Lao động Điện tử Quốc gia, và cách doanh nghiệp FDI duy trì tuân thủ.",
+          "href": "/electronic-labor-contracts-in-vietnam",
+          "image": "/incorp/news/electronic-labor-contracts.png"
+        },
+        {
+          "title": "Làm chủ ứng dụng ERP tại Việt Nam: Cẩm nang toàn diện cho năm 2026",
+          "desc": "Xu hướng thị trường, lợi ích cốt lõi, các vấn đề an ninh mạng và pháp lý, phân hệ thiết yếu cho doanh nghiệp sản xuất vừa và nhỏ.",
+          "href": "/erp-application-in-vietnam-2026",
+          "image": "/incorp/news/erp-application.png"
+        },
+        {
+          "title": "Tự động hóa tại Việt Nam 2026: Đổi mới và công nghiệp hóa với trí tuệ nhân tạo",
+          "desc": "Tăng trưởng thị trường, ưu đãi của chính phủ, các nhà sản xuất dẫn đầu, tác động tới lực lượng lao động và những ngành hưởng lợi nhiều nhất.",
+          "href": "/automation-in-vietnam",
+          "image": "/incorp/news/automation.jpg"
+        },
+        {
+          "title": "Những công ty hàng đầu về dịch vụ thuế và tuân thủ tại Việt Nam: Cẩm nang 2026",
+          "desc": "Môi trường pháp lý mới, định danh điện tử và hóa đơn điện tử bắt buộc, các nhà cung cấp dịch vụ hàng đầu và cách lựa chọn đối tác phù hợp.",
+          "href": "/tax-and-compliance-services-in-vietnam",
+          "image": "/incorp/news/tax-compliance.png"
+        },
+        {
+          "title": "Cẩm nang tính lương tại Việt Nam: Những điều doanh nghiệp cần biết cho năm 2026",
+          "desc": "Lương tối thiểu theo vùng, các bậc thuế TNCN mới, mức trần bảo hiểm bắt buộc, quy định làm thêm giờ và bài toán tự thực hiện hay thuê ngoài.",
+          "href": "/manage-payroll-vietnam",
+          "image": "/incorp/news/payroll.png"
+        },
+        {
+          "title": "Vượt ra ngoài sổ sách: Cẩm nang 2026 về dịch vụ thuê ngoài tài chính và kế toán",
+          "desc": "Vì sao mô hình nội bộ gặp khó khăn, những thay đổi pháp lý thúc đẩy sự dịch chuyển, và lộ trình chuyển đổi bốn giai đoạn.",
+          "href": "/finance-and-accounting-outsourcing-services",
+          "image": "/incorp/news/finance-accounting.png"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Bạn muốn tư vấn chuyên sâu hơn?",
+      "subtitle": "Đội ngũ chuyên gia WTP Advisory sẵn sàng hỗ trợ bạn.",
+      "button": { "label": "Gửi yêu cầu tư vấn", "href": "/make-an-inquiry" },
+      "variant": "red"
+    }
+  ]
+}
