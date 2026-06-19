@@ -106,6 +106,18 @@
       ]
     },
     {
+      "label": "Tin tức",
+      "href": "/news",
+      "dropdown": [
+        { "title": "Hợp đồng lao động điện tử tại Việt Nam 2026", "href": "/electronic-labor-contracts-in-vietnam" },
+        { "title": "Làm chủ ứng dụng ERP tại Việt Nam 2026", "href": "/erp-application-in-vietnam-2026" },
+        { "title": "Tự động hóa tại Việt Nam 2026", "href": "/automation-in-vietnam" },
+        { "title": "Dịch vụ thuế và tuân thủ tại Việt Nam", "href": "/tax-and-compliance-services-in-vietnam" },
+        { "title": "Cẩm nang tính lương tại Việt Nam 2026", "href": "/manage-payroll-vietnam" },
+        { "title": "Dịch vụ thuê ngoài tài chính và kế toán", "href": "/finance-and-accounting-outsourcing-services" }
+      ]
+    },
+    {
       "label": "Tài nguyên",
       "href": "/resources",
       "resources": true
