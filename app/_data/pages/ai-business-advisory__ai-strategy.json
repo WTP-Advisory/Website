@@ -1,0 +1,131 @@
+{
+  "title": "Xây dựng chiến lược AI cho doanh nghiệp tại Việt Nam",
+  "metaDescription": "Dịch vụ xây dựng chiến lược AI cho doanh nghiệp tại Việt Nam — lộ trình AI toàn diện, đánh giá mức độ sẵn sàng và quản trị chuyển đổi số phù hợp với nguồn lực và mục tiêu tăng trưởng.",
+  "hero": {
+    "eyebrow": "Tư vấn DN ứng dụng AI",
+    "title": "Xây dựng chiến lược AI cho doanh nghiệp",
+    "subtitle": "Không phải mọi doanh nghiệp đều cần ứng dụng AI theo cách giống nhau. Chiến lược AI hiệu quả phải xuất phát từ mục tiêu kinh doanh, nguồn lực thực tế và bối cảnh ngành — không phải từ xu hướng công nghệ. WTP Advisory giúp bạn xây dựng lộ trình AI đúng hướng, khả thi và tạo ra kết quả đo lường được.",
+    "cta": {
+      "label": "Gửi yêu cầu tư vấn",
+      "href": "/make-an-inquiry"
+    },
+    "image": "/incorp/solutions/accounting-finance.jpg"
+  },
+  "sections": [
+    {
+      "type": "richText",
+      "heading": "Chiến lược AI — nền tảng để mọi dự án AI không lãng phí nguồn lực",
+      "body": [
+        "Nhiều doanh nghiệp bắt đầu với AI theo hướng ngược: mua phần mềm AI trước, rồi mới tìm cách dùng. Kết quả thường là các dự án pilot không đi đến đâu, chi phí đội lên và đội ngũ mất niềm tin vào AI.",
+        "WTP Advisory tiếp cận ngược lại: bắt đầu từ câu hỏi 'bạn đang cố giải quyết vấn đề gì?' rồi mới xác định AI có phải giải pháp tốt nhất không, và nếu có thì ứng dụng như thế nào. Chúng tôi xây dựng chiến lược AI gắn chặt với chiến lược kinh doanh — có ưu tiên rõ ràng, lộ trình thực tế và cơ chế quản trị để đảm bảo thành công lâu dài."
+      ],
+      "align": "left"
+    },
+    {
+      "type": "cards",
+      "heading": "Những gì chúng tôi cung cấp trong dịch vụ xây dựng chiến lược AI",
+      "columns": 3,
+      "items": [
+        {
+          "title": "Đánh giá mức độ sẵn sàng AI",
+          "desc": "Đánh giá toàn diện về dữ liệu, công nghệ, quy trình và năng lực đội ngũ — xác định rõ doanh nghiệp đang ở đâu trên hành trình AI và cần bắt đầu từ đâu.",
+          "icon": "target"
+        },
+        {
+          "title": "Xác định cơ hội ứng dụng AI",
+          "desc": "Phân tích toàn bộ chuỗi giá trị để tìm ra những điểm mà AI tạo ra tác động lớn nhất — theo tiêu chí ROI, khả thi kỹ thuật và ưu tiên chiến lược.",
+          "icon": "lightbulb"
+        },
+        {
+          "title": "Xây dựng lộ trình AI",
+          "desc": "Lộ trình triển khai theo giai đoạn 6–18 tháng, với mục tiêu cụ thể, nguồn lực cần thiết và milestone đo lường được cho từng giai đoạn.",
+          "icon": "chart"
+        },
+        {
+          "title": "Quản trị AI & tuân thủ",
+          "desc": "Khung quản trị AI bao gồm chính sách sử dụng dữ liệu, quản lý rủi ro, bảo mật và tuân thủ quy định pháp lý tại Việt Nam.",
+          "icon": "shield"
+        },
+        {
+          "title": "Lựa chọn công nghệ & nhà cung cấp",
+          "desc": "Đánh giá và lựa chọn công cụ, nền tảng AI phù hợp với quy mô, ngành nghề và ngân sách — tránh bị 'khóa' bởi một nhà cung cấp duy nhất.",
+          "icon": "network"
+        },
+        {
+          "title": "Xây dựng năng lực AI nội bộ",
+          "desc": "Kế hoạch đào tạo và phát triển năng lực AI cho đội ngũ — từ nhận thức cơ bản đến kỹ năng vận hành và quản lý dự án AI.",
+          "icon": "users"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Phương pháp tiếp cận của chúng tôi",
+      "columns": 3,
+      "items": [
+        {
+          "title": "Giai đoạn 1: Chẩn đoán",
+          "desc": "Phỏng vấn lãnh đạo và các bộ phận, đánh giá hiện trạng dữ liệu & công nghệ, xác định pain point và cơ hội — kết quả: báo cáo chẩn đoán toàn diện.",
+          "icon": "target"
+        },
+        {
+          "title": "Giai đoạn 2: Thiết kế chiến lược",
+          "desc": "Xây dựng tầm nhìn AI, xác định use case ưu tiên, thiết kế lộ trình và trình bày cho lãnh đạo — kết quả: tài liệu chiến lược AI được phê duyệt.",
+          "icon": "lightbulb"
+        },
+        {
+          "title": "Giai đoạn 3: Khởi động pilot",
+          "desc": "Triển khai 1–2 use case đầu tiên để chứng minh giá trị, rút bài học và tinh chỉnh lộ trình — kết quả: bằng chứng thực tế trước khi mở rộng.",
+          "icon": "globe"
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "heading": "Câu hỏi thường gặp về chiến lược AI doanh nghiệp",
+      "items": [
+        {
+          "q": "Chiến lược AI có khác với chiến lược chuyển đổi số không?",
+          "a": "Chiến lược AI là một phần của chuyển đổi số, nhưng tập trung cụ thể vào việc ứng dụng trí tuệ nhân tạo để tạo ra giá trị. Chuyển đổi số rộng hơn — bao gồm số hóa quy trình, hạ tầng đám mây và văn hóa tổ chức. Lý tưởng nhất là chiến lược AI nằm trong khuôn khổ chuyển đổi số tổng thể."
+        },
+        {
+          "q": "Doanh nghiệp cần bao nhiêu ngân sách để bắt đầu với AI?",
+          "a": "Không có con số chuẩn. Phụ thuộc vào quy mô, ngành nghề và mức độ tham vọng. Chúng tôi thiết kế chiến lược phù hợp với ngân sách thực tế của bạn — bắt đầu nhỏ, chứng minh giá trị, rồi mở rộng. Nhiều doanh nghiệp bắt đầu với ngân sách pilot khiêm tốn và tăng đầu tư khi nhìn thấy ROI rõ ràng."
+        },
+        {
+          "q": "Lãnh đạo cần hiểu về AI ở mức độ nào để xây dựng chiến lược?",
+          "a": "Không cần hiểu kỹ thuật sâu. Lãnh đạo cần hiểu AI có thể và không thể làm gì, cách đánh giá cơ hội và rủi ro, và cách quản trị dự án AI. Chúng tôi đồng hành để đảm bảo lãnh đạo có đủ thông tin ra quyết định mà không cần trở thành chuyên gia AI."
+        },
+        {
+          "q": "Chiến lược AI cần được cập nhật bao lâu một lần?",
+          "a": "AI đang phát triển nhanh, nên chiến lược cần được rà soát ít nhất 6 tháng một lần. Chúng tôi thiết kế chiến lược đủ linh hoạt để thích nghi với công nghệ mới, đồng thời đủ vững chắc để không bị cuốn theo mọi xu hướng ngắn hạn."
+        },
+        {
+          "q": "WTP Advisory có hỗ trợ triển khai sau khi xây dựng chiến lược không?",
+          "a": "Có. Chúng tôi có thể đồng hành trong toàn bộ hành trình — từ chiến lược đến triển khai pilot, mở rộng và tối ưu liên tục. Hoặc bạn có thể dùng chiến lược của chúng tôi để tự triển khai hoặc hợp tác với đơn vị kỹ thuật khác."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "heading": "WTP Advisory — đối tác tin cậy cho doanh nghiệp tại Việt Nam",
+      "items": [
+        { "value": "30+", "label": "Năm bề dày kinh nghiệm" },
+        { "value": "15,000+", "label": "Khách hàng trên toàn thế giới" },
+        { "value": "100+", "label": "Công ty được thành lập mỗi năm" },
+        { "value": "1,500+", "label": "Chuyên gia" }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Bắt đầu hành trình AI của doanh nghiệp đúng hướng",
+      "subtitle": "Đặt lịch tư vấn chiến lược AI miễn phí — chúng tôi sẽ giúp bạn xác định điểm xuất phát và lộ trình phù hợp nhất.",
+      "button": {
+        "label": "Gửi yêu cầu tư vấn",
+        "href": "/make-an-inquiry"
+      },
+      "variant": "red"
+    }
+  ],
+  "showContactForm": true
+}

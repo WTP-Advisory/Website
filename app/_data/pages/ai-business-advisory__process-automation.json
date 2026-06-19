@@ -1,0 +1,131 @@
+{
+  "title": "Tự động hóa quy trình kinh doanh với AI tại Việt Nam",
+  "metaDescription": "Dịch vụ tự động hóa quy trình kinh doanh với AI tại Việt Nam — loại bỏ công việc thủ công trong kế toán, nhân sự và tuân thủ, tăng năng suất và giảm chi phí vận hành.",
+  "hero": {
+    "eyebrow": "Tư vấn DN ứng dụng AI",
+    "title": "Tự động hóa quy trình kinh doanh với AI",
+    "subtitle": "Phần lớn thời gian làm việc của đội ngũ doanh nghiệp vẫn đang dành cho các tác vụ thủ công, lặp đi lặp lại: nhập liệu, đối chiếu, tổng hợp báo cáo. WTP Advisory giúp bạn xác định đúng quy trình cần tự động hóa và triển khai giải pháp AI phù hợp — tiết kiệm thời gian, giảm sai sót và giải phóng nguồn lực cho công việc tạo ra giá trị thực sự.",
+    "cta": {
+      "label": "Gửi yêu cầu tư vấn",
+      "href": "/make-an-inquiry"
+    },
+    "image": "/incorp/solutions/accounting-finance.jpg"
+  },
+  "sections": [
+    {
+      "type": "richText",
+      "heading": "Doanh nghiệp của bạn đang mất bao nhiêu giờ mỗi tuần cho công việc thủ công?",
+      "body": [
+        "Theo các khảo sát quản trị doanh nghiệp, trung bình nhân viên văn phòng dành từ 30–40% thời gian làm việc cho các tác vụ có thể tự động hóa: nhập liệu, sao chép thông tin giữa hệ thống, lập báo cáo định kỳ, gửi thông báo và theo dõi tiến độ thủ công.",
+        "WTP Advisory hỗ trợ doanh nghiệp tại Việt Nam phân tích toàn bộ luồng công việc, xác định điểm nghẽn và triển khai giải pháp tự động hóa bằng AI — từ các công cụ no-code phù hợp với SME đến tích hợp API phức tạp cho doanh nghiệp lớn. Chúng tôi đảm bảo giải pháp hoạt động ổn định trong môi trường pháp lý và vận hành thực tế tại Việt Nam."
+      ],
+      "align": "left"
+    },
+    {
+      "type": "cards",
+      "heading": "Các quy trình phổ biến chúng tôi giúp tự động hóa",
+      "columns": 3,
+      "items": [
+        {
+          "title": "Kế toán & tài chính",
+          "desc": "Tự động hóa ghi sổ, đối chiếu ngân hàng, phân loại giao dịch, lập hóa đơn và nhắc nhở thanh toán — giảm tải cho kế toán viên, tăng độ chính xác.",
+          "icon": "chart"
+        },
+        {
+          "title": "Nhân sự & tính lương",
+          "desc": "Tự động hóa quy trình onboarding, chấm công, tính lương, đăng ký bảo hiểm và thông báo nhân sự định kỳ.",
+          "icon": "users"
+        },
+        {
+          "title": "Tuân thủ & báo cáo",
+          "desc": "Tổng hợp dữ liệu báo cáo thuế, lập hồ sơ tuân thủ và gửi nhắc nhở deadline tự động theo lịch của cơ quan nhà nước.",
+          "icon": "shield"
+        },
+        {
+          "title": "Chăm sóc khách hàng",
+          "desc": "Chatbot AI trả lời câu hỏi thường gặp, phân loại yêu cầu và chuyển tiếp đến đúng bộ phận xử lý — hoạt động 24/7.",
+          "icon": "handshake"
+        },
+        {
+          "title": "Quản lý tài liệu",
+          "desc": "Tự động trích xuất thông tin từ hợp đồng, hóa đơn và hồ sơ — lưu trữ và tìm kiếm thông minh, không cần nhập tay.",
+          "icon": "layers"
+        },
+        {
+          "title": "Quy trình phê duyệt",
+          "desc": "Tự động hóa luồng phê duyệt đề xuất, hợp đồng và chi phí — thông báo đến đúng người, đúng thời điểm.",
+          "icon": "network"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Quy trình triển khai của chúng tôi",
+      "columns": 3,
+      "items": [
+        {
+          "title": "1. Khảo sát & đánh giá",
+          "desc": "Lập bản đồ toàn bộ quy trình hiện tại, đo thời gian và chi phí thực tế, xác định các quy trình ưu tiên tự động hóa theo tiêu chí ROI.",
+          "icon": "target"
+        },
+        {
+          "title": "2. Thiết kế giải pháp",
+          "desc": "Lựa chọn công cụ phù hợp (RPA, AI workflow, API integration), thiết kế luồng tự động hóa và xác nhận với team vận hành trước khi triển khai.",
+          "icon": "lightbulb"
+        },
+        {
+          "title": "3. Triển khai & đào tạo",
+          "desc": "Cài đặt, kiểm thử và bàn giao giải pháp. Đào tạo đội ngũ sử dụng và duy trì. Hỗ trợ trong giai đoạn vận hành ban đầu.",
+          "icon": "clock"
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "heading": "Câu hỏi thường gặp về tự động hóa quy trình với AI",
+      "items": [
+        {
+          "q": "Doanh nghiệp nhỏ có cần đến tự động hóa AI không, hay chỉ dành cho công ty lớn?",
+          "a": "Tự động hóa AI đặc biệt phù hợp với doanh nghiệp vừa và nhỏ — nơi nguồn lực hạn chế nhưng khối lượng tác vụ thủ công lại cao. Các công cụ no-code và low-code hiện nay giúp SME triển khai nhanh với chi phí hợp lý mà không cần đội IT riêng."
+        },
+        {
+          "q": "Tự động hóa AI có thay thế nhân viên không?",
+          "a": "Mục tiêu là giải phóng nhân viên khỏi tác vụ lặp đi lặp lại để tập trung vào công việc đòi hỏi tư duy, quan hệ và sáng tạo — những điều AI không thể thay thế. Hầu hết doanh nghiệp triển khai tự động hóa AI đều giữ nguyên hoặc mở rộng đội ngũ, với năng suất cao hơn."
+        },
+        {
+          "q": "Mất bao lâu để triển khai một giải pháp tự động hóa?",
+          "a": "Phụ thuộc vào độ phức tạp. Các quy trình đơn giản như tự động hóa báo cáo hay nhắc nhở có thể triển khai trong 2–4 tuần. Các tích hợp phức tạp hơn thường mất 2–3 tháng. Chúng tôi thiết kế theo giai đoạn để bạn nhìn thấy kết quả sớm."
+        },
+        {
+          "q": "Giải pháp có tích hợp được với phần mềm kế toán và ERP hiện tại không?",
+          "a": "Có. Chúng tôi có kinh nghiệm tích hợp với các phần mềm phổ biến tại Việt Nam như MISA, Fast Accounting, cũng như các nền tảng quốc tế như SAP, Oracle và Microsoft Dynamics."
+        },
+        {
+          "q": "Làm sao đo lường hiệu quả của tự động hóa?",
+          "a": "Chúng tôi thiết lập KPI rõ ràng ngay từ đầu: số giờ tiết kiệm, tỷ lệ lỗi giảm, thời gian xử lý rút ngắn và chi phí vận hành giảm. Sau 3 tháng triển khai, chúng tôi cùng bạn đánh giá kết quả thực tế so với mục tiêu ban đầu."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "heading": "WTP Advisory — đối tác tin cậy cho doanh nghiệp tại Việt Nam",
+      "items": [
+        { "value": "30+", "label": "Năm bề dày kinh nghiệm" },
+        { "value": "15,000+", "label": "Khách hàng trên toàn thế giới" },
+        { "value": "100+", "label": "Công ty được thành lập mỗi năm" },
+        { "value": "1,500+", "label": "Chuyên gia" }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Sẵn sàng loại bỏ công việc thủ công khỏi doanh nghiệp của bạn?",
+      "subtitle": "Đặt lịch tư vấn miễn phí để chúng tôi phân tích quy trình và đề xuất giải pháp tự động hóa phù hợp nhất.",
+      "button": {
+        "label": "Gửi yêu cầu tư vấn",
+        "href": "/make-an-inquiry"
+      },
+      "variant": "red"
+    }
+  ],
+  "showContactForm": true
+}

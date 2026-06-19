@@ -28,6 +28,16 @@
           ]
         },
         {
+          "title": "Tư vấn DN ứng dụng AI",
+          "href": "/ai-business-advisory",
+          "items": [
+            { "title": "Tư vấn doanh nghiệp ứng dụng AI", "desc": "Chuyển đổi số và tối ưu vận hành doanh nghiệp với Trí tuệ nhân tạo", "href": "/ai-business-advisory" },
+            { "title": "Tự động hóa quy trình với AI", "desc": "Loại bỏ công việc thủ công, tăng năng suất với giải pháp AI tùy chỉnh", "href": "/ai-business-advisory/process-automation" },
+            { "title": "Phân tích dữ liệu & Hỗ trợ quyết định", "desc": "Chuyển dữ liệu thành thông tin chiến lược phục vụ ra quyết định", "href": "/ai-business-advisory/data-analytics" },
+            { "title": "Xây dựng chiến lược AI cho doanh nghiệp", "desc": "Lộ trình AI toàn diện, phù hợp với mục tiêu và nguồn lực doanh nghiệp", "href": "/ai-business-advisory/ai-strategy" }
+          ]
+        },
+        {
           "title": "Kế toán & Tài chính",
           "href": "/accounting-taxation",
           "items": [

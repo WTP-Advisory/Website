@@ -1,0 +1,146 @@
+{
+  "title": "Tư vấn doanh nghiệp ứng dụng Trí tuệ nhân tạo tại Việt Nam",
+  "metaDescription": "Dịch vụ tư vấn doanh nghiệp ứng dụng AI tại Việt Nam — tự động hóa quy trình, phân tích dữ liệu và xây dựng chiến lược AI giúp doanh nghiệp tăng năng suất và cạnh tranh hiệu quả.",
+  "hero": {
+    "eyebrow": "Dịch vụ",
+    "title": "Tư vấn doanh nghiệp ứng dụng Trí tuệ nhân tạo",
+    "subtitle": "Trí tuệ nhân tạo (AI) đang định hình lại cách doanh nghiệp vận hành, ra quyết định và tạo ra giá trị. WTP Advisory hỗ trợ doanh nghiệp tại Việt Nam ứng dụng AI một cách thiết thực — từ tự động hóa quy trình, phân tích dữ liệu đến xây dựng chiến lược AI dài hạn, phù hợp với nguồn lực và mục tiêu tăng trưởng của từng tổ chức.",
+    "cta": {
+      "label": "Gửi yêu cầu tư vấn",
+      "href": "/make-an-inquiry"
+    },
+    "image": "/incorp/solutions/accounting-finance.jpg"
+  },
+  "sections": [
+    {
+      "type": "richText",
+      "heading": "Ứng dụng AI vào doanh nghiệp — không chỉ là công nghệ, mà là lợi thế cạnh tranh",
+      "body": [
+        "Nhiều doanh nghiệp tại Việt Nam đang đứng trước câu hỏi: bắt đầu với AI từ đâu, và làm thế nào để ứng dụng AI mang lại kết quả thực tế thay vì chỉ là thử nghiệm tốn kém?",
+        "WTP Advisory kết hợp hiểu biết sâu về môi trường kinh doanh Việt Nam với chuyên môn về chuyển đổi số, giúp doanh nghiệp xác định đúng cơ hội ứng dụng AI, triển khai có kiểm soát và đo lường được hiệu quả. Chúng tôi đồng hành cùng bạn từ đánh giá mức độ sẵn sàng đến triển khai và tối ưu liên tục."
+      ],
+      "align": "left"
+    },
+    {
+      "type": "cards",
+      "heading": "Tại sao doanh nghiệp chọn WTP Advisory cho hành trình ứng dụng AI",
+      "columns": 3,
+      "items": [
+        {
+          "title": "Hiểu bối cảnh Việt Nam",
+          "desc": "Tư vấn dựa trên hiểu biết thực tế về môi trường pháp lý, văn hóa kinh doanh và năng lực vận hành tại Việt Nam.",
+          "icon": "globe"
+        },
+        {
+          "title": "Tiếp cận thực dụng",
+          "desc": "Không hứa hẹn viển vông — chúng tôi tập trung vào những ứng dụng AI có thể triển khai và đo lường được ngay.",
+          "icon": "target"
+        },
+        {
+          "title": "Tích hợp với dịch vụ hiện có",
+          "desc": "Giải pháp AI được thiết kế phù hợp với hạ tầng, quy trình kế toán, nhân sự và pháp lý hiện tại của doanh nghiệp.",
+          "icon": "network"
+        },
+        {
+          "title": "Quản trị rủi ro AI",
+          "desc": "Tư vấn về rủi ro pháp lý, bảo mật dữ liệu và quản trị khi triển khai AI theo quy định Việt Nam.",
+          "icon": "shield"
+        },
+        {
+          "title": "Đội ngũ đa chuyên ngành",
+          "desc": "Chuyên gia tư vấn AI phối hợp với đội ngũ pháp lý, tài chính và nhân sự để đưa ra giải pháp toàn diện.",
+          "icon": "users"
+        },
+        {
+          "title": "Lộ trình rõ ràng, chi phí minh bạch",
+          "desc": "Phương án triển khai theo giai đoạn, phù hợp ngân sách và ưu tiên của từng doanh nghiệp.",
+          "icon": "chart"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Các lĩnh vực tư vấn AI chúng tôi cung cấp",
+      "columns": 3,
+      "items": [
+        {
+          "title": "Tự động hóa quy trình kinh doanh",
+          "desc": "Phân tích và tự động hóa các quy trình thủ công trong kế toán, nhân sự, tuân thủ và chăm sóc khách hàng bằng công cụ AI phù hợp.",
+          "icon": "layers"
+        },
+        {
+          "title": "Phân tích dữ liệu & hỗ trợ quyết định",
+          "desc": "Xây dựng dashboard AI, mô hình dự báo và hệ thống phân tích giúp lãnh đạo ra quyết định nhanh và chính xác hơn.",
+          "icon": "lightbulb"
+        },
+        {
+          "title": "Chiến lược AI dài hạn",
+          "desc": "Đánh giá mức độ sẵn sàng, xây dựng lộ trình AI toàn doanh nghiệp và quản trị quá trình chuyển đổi số bền vững.",
+          "icon": "building"
+        },
+        {
+          "title": "AI trong kế toán & tài chính",
+          "desc": "Ứng dụng AI để tự động hóa ghi sổ, đối chiếu, phát hiện gian lận và lập báo cáo tài chính theo thời gian thực.",
+          "icon": "chart"
+        },
+        {
+          "title": "AI trong quản lý nhân sự",
+          "desc": "Tối ưu tuyển dụng, tính lương, đánh giá nhân viên và dự báo nhu cầu nhân lực bằng công cụ AI.",
+          "icon": "users"
+        },
+        {
+          "title": "Tuân thủ & bảo mật dữ liệu AI",
+          "desc": "Đảm bảo việc triển khai AI tuân thủ Nghị định bảo vệ dữ liệu cá nhân và các quy định pháp lý liên quan tại Việt Nam.",
+          "icon": "shield"
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "heading": "Câu hỏi thường gặp về tư vấn doanh nghiệp ứng dụng AI",
+      "items": [
+        {
+          "q": "Doanh nghiệp của tôi có cần đội IT riêng mới có thể ứng dụng AI không?",
+          "a": "Không nhất thiết. Chúng tôi tư vấn các giải pháp AI phù hợp với năng lực nội tại của từng doanh nghiệp, kể cả khi bạn chưa có đội IT. Nhiều công cụ AI hiện nay không yêu cầu lập trình và có thể tích hợp ngay vào quy trình hiện tại."
+        },
+        {
+          "q": "Chi phí tư vấn AI tốn bao nhiêu và doanh nghiệp nhỏ có phù hợp không?",
+          "a": "Chi phí phụ thuộc vào phạm vi và mức độ phức tạp của dự án. Chúng tôi thiết kế lộ trình theo giai đoạn để phù hợp với ngân sách của từng doanh nghiệp, từ SME đến tập đoàn. Buổi tư vấn đánh giá ban đầu giúp xác định mức đầu tư phù hợp nhất."
+        },
+        {
+          "q": "Ứng dụng AI có vi phạm quy định bảo vệ dữ liệu tại Việt Nam không?",
+          "a": "Đây là câu hỏi quan trọng. Chúng tôi tư vấn triển khai AI trong khuôn khổ Nghị định 13/2023/NĐ-CP về bảo vệ dữ liệu cá nhân và các quy định liên quan, đảm bảo doanh nghiệp tuân thủ trong suốt quá trình chuyển đổi số."
+        },
+        {
+          "q": "Bắt đầu từ đâu nếu doanh nghiệp tôi muốn ứng dụng AI?",
+          "a": "Bước đầu tiên là đánh giá mức độ sẵn sàng: dữ liệu hiện có, quy trình cần ưu tiên và mục tiêu kinh doanh cụ thể. Chúng tôi sẽ cùng bạn xây dựng lộ trình rõ ràng với các mục tiêu có thể đo lường được ngay từ giai đoạn đầu."
+        },
+        {
+          "q": "WTP Advisory có triển khai giải pháp AI hay chỉ tư vấn chiến lược?",
+          "a": "Chúng tôi cung cấp cả hai: từ tư vấn chiến lược, lựa chọn công cụ, quản lý triển khai đến đào tạo đội ngũ. Tùy nhu cầu, chúng tôi có thể đồng hành toàn bộ quá trình hoặc hỗ trợ từng phần cụ thể."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "heading": "WTP Advisory — đối tác tin cậy cho doanh nghiệp tại Việt Nam",
+      "items": [
+        { "value": "30+", "label": "Năm bề dày kinh nghiệm" },
+        { "value": "15,000+", "label": "Khách hàng trên toàn thế giới" },
+        { "value": "100+", "label": "Công ty được thành lập mỗi năm" },
+        { "value": "1,500+", "label": "Chuyên gia" }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Sẵn sàng đưa AI vào doanh nghiệp của bạn?",
+      "subtitle": "Liên hệ với chúng tôi để được tư vấn miễn phí về cách ứng dụng AI phù hợp với thực tế doanh nghiệp của bạn tại Việt Nam.",
+      "button": {
+        "label": "Gửi yêu cầu tư vấn",
+        "href": "/make-an-inquiry"
+      },
+      "variant": "red"
+    }
+  ],
+  "showContactForm": true
+}

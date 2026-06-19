@@ -1,0 +1,131 @@
+{
+  "title": "Phân tích dữ liệu & Hỗ trợ quyết định bằng AI tại Việt Nam",
+  "metaDescription": "Dịch vụ phân tích dữ liệu và hỗ trợ ra quyết định bằng AI tại Việt Nam — xây dựng dashboard thông minh, mô hình dự báo và hệ thống BI giúp lãnh đạo quyết định nhanh và chính xác.",
+  "hero": {
+    "eyebrow": "Tư vấn DN ứng dụng AI",
+    "title": "Phân tích dữ liệu & Hỗ trợ quyết định bằng AI",
+    "subtitle": "Dữ liệu doanh nghiệp bạn đang có — từ doanh thu, nhân sự đến hành vi khách hàng — là tài sản chiến lược chưa được khai thác hết. WTP Advisory giúp bạn chuyển dữ liệu thô thành thông tin chiến lược rõ ràng, để lãnh đạo ra quyết định nhanh hơn, chính xác hơn và tự tin hơn.",
+    "cta": {
+      "label": "Gửi yêu cầu tư vấn",
+      "href": "/make-an-inquiry"
+    },
+    "image": "/incorp/solutions/accounting-finance.jpg"
+  },
+  "sections": [
+    {
+      "type": "richText",
+      "heading": "Từ dữ liệu rời rạc đến thông tin chiến lược phục vụ ra quyết định",
+      "body": [
+        "Hầu hết doanh nghiệp tại Việt Nam đang ngồi trên kho dữ liệu lớn — nhưng dữ liệu đó nằm rải rác ở nhiều hệ thống, được lưu trữ không nhất quán và chỉ được xem lại khi cần báo cáo. Kết quả là lãnh đạo phải ra quyết định dựa trên cảm tính hoặc chờ đội kế toán tổng hợp thủ công.",
+        "WTP Advisory xây dựng hạ tầng phân tích dữ liệu và ứng dụng AI để biến dữ liệu thành thông tin hành động được — dashboard real-time, cảnh báo sớm, dự báo tài chính và phân tích hiệu suất — giúp bạn ra quyết định dựa trên bằng chứng thay vì phỏng đoán."
+      ],
+      "align": "left"
+    },
+    {
+      "type": "cards",
+      "heading": "Giải pháp phân tích dữ liệu chúng tôi cung cấp",
+      "columns": 3,
+      "items": [
+        {
+          "title": "Dashboard & báo cáo thông minh",
+          "desc": "Xây dựng dashboard real-time tổng hợp dữ liệu từ nhiều nguồn — tài chính, nhân sự, bán hàng — hiển thị trực quan, cập nhật tự động và có thể truy cập trên mọi thiết bị.",
+          "icon": "chart"
+        },
+        {
+          "title": "Mô hình dự báo AI",
+          "desc": "Dự báo doanh thu, dòng tiền, nhu cầu nhân lực và rủi ro kinh doanh dựa trên dữ liệu lịch sử và xu hướng thị trường — với độ chính xác cao hơn phân tích truyền thống.",
+          "icon": "target"
+        },
+        {
+          "title": "Phân tích hiệu suất kinh doanh",
+          "desc": "Theo dõi KPI theo thời gian thực, xác định nguyên nhân gốc rễ của biến động và so sánh hiệu suất theo bộ phận, khu vực hay sản phẩm.",
+          "icon": "lightbulb"
+        },
+        {
+          "title": "Phân tích khách hàng & thị trường",
+          "desc": "Hiểu hành vi mua hàng, phân khúc khách hàng có giá trị cao và dự báo xu hướng thị trường để ra quyết định kinh doanh chính xác hơn.",
+          "icon": "globe"
+        },
+        {
+          "title": "Tích hợp & làm sạch dữ liệu",
+          "desc": "Kết nối và chuẩn hóa dữ liệu từ nhiều hệ thống (ERP, CRM, phần mềm kế toán) — tạo một nguồn dữ liệu duy nhất, đáng tin cậy cho toàn doanh nghiệp.",
+          "icon": "layers"
+        },
+        {
+          "title": "Cảnh báo & giám sát tự động",
+          "desc": "Thiết lập ngưỡng cảnh báo thông minh — tự động thông báo khi doanh thu sụt giảm, chi phí vượt ngưỡng hay chỉ số tuân thủ có dấu hiệu bất thường.",
+          "icon": "shield"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Ứng dụng thực tế trong các lĩnh vực",
+      "columns": 3,
+      "items": [
+        {
+          "title": "Tài chính & kế toán",
+          "desc": "Dashboard dòng tiền real-time, dự báo thu chi, phân tích phương sai ngân sách và cảnh báo rủi ro tài chính sớm.",
+          "icon": "chart"
+        },
+        {
+          "title": "Nhân sự",
+          "desc": "Phân tích tỷ lệ nghỉ việc, dự báo nhu cầu tuyển dụng, theo dõi hiệu suất nhân viên và tối ưu chi phí nhân sự.",
+          "icon": "users"
+        },
+        {
+          "title": "Vận hành & chuỗi cung ứng",
+          "desc": "Theo dõi hiệu suất vận hành, tối ưu hàng tồn kho, dự báo nhu cầu và phát hiện điểm nghẽn trong chuỗi cung ứng.",
+          "icon": "network"
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "heading": "Câu hỏi thường gặp về phân tích dữ liệu với AI",
+      "items": [
+        {
+          "q": "Doanh nghiệp cần có bao nhiêu dữ liệu mới bắt đầu được?",
+          "a": "Không có ngưỡng tối thiểu cứng nhắc. Chúng tôi bắt đầu từ dữ liệu hiện có của bạn — dù là 1 năm hay 5 năm — và xây dựng hạ tầng để thu thập dữ liệu chất lượng hơn từ đây về sau. Quan trọng hơn số lượng là dữ liệu đó có cấu trúc và đáng tin cậy không."
+        },
+        {
+          "q": "Có cần thay đổi phần mềm hiện tại không?",
+          "a": "Không nhất thiết. Chúng tôi ưu tiên kết nối với hệ thống hiện có (MISA, Fast, SAP, Excel...) thay vì yêu cầu thay thế. Việc thay đổi hệ thống chỉ được đề xuất khi hệ thống hiện tại thực sự là rào cản cho phân tích."
+        },
+        {
+          "q": "Dashboard có thể truy cập trên điện thoại không?",
+          "a": "Có. Các giải pháp chúng tôi triển khai đều responsive và có thể truy cập trên mọi thiết bị. Nhiều lãnh đạo sử dụng app mobile để xem chỉ số kinh doanh hàng ngày ngay trên điện thoại."
+        },
+        {
+          "q": "Dữ liệu doanh nghiệp có được bảo mật không?",
+          "a": "Bảo mật dữ liệu là ưu tiên hàng đầu. Chúng tôi thiết kế giải pháp với phân quyền truy cập rõ ràng, mã hóa dữ liệu nhạy cảm và tuân thủ Nghị định 13/2023/NĐ-CP về bảo vệ dữ liệu cá nhân tại Việt Nam."
+        },
+        {
+          "q": "Mất bao lâu để có dashboard đầu tiên?",
+          "a": "Dashboard MVP (phiên bản cơ bản nhất) thường có thể triển khai trong 3–6 tuần, tùy vào số lượng nguồn dữ liệu và độ phức tạp. Chúng tôi bàn giao theo phiên bản tăng dần để bạn sử dụng được sớm nhất có thể."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "heading": "WTP Advisory — đối tác tin cậy cho doanh nghiệp tại Việt Nam",
+      "items": [
+        { "value": "30+", "label": "Năm bề dày kinh nghiệm" },
+        { "value": "15,000+", "label": "Khách hàng trên toàn thế giới" },
+        { "value": "100+", "label": "Công ty được thành lập mỗi năm" },
+        { "value": "1,500+", "label": "Chuyên gia" }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Biến dữ liệu thành lợi thế cạnh tranh",
+      "subtitle": "Liên hệ để chúng tôi đánh giá hiện trạng dữ liệu và đề xuất lộ trình phân tích phù hợp với doanh nghiệp của bạn.",
+      "button": {
+        "label": "Gửi yêu cầu tư vấn",
+        "href": "/make-an-inquiry"
+      },
+      "variant": "red"
+    }
+  ],
+  "showContactForm": true
+}
