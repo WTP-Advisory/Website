@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import { Mail, MapPin, Phone } from "lucide-react";
+import { CalendarClock, Mail, MapPin, Phone } from "lucide-react";
 import { TopBar } from "../TopBar";
 import { Header } from "../Header";
 import { Footer } from "../Footer";
@@ -8,6 +8,7 @@ import { Container } from "../ui/Container";
 import { SectionRenderer, type Section, type CtaData } from "./Sections";
 import { ContactForm } from "./ContactForm";
 import footer from "../../_data/footer.json";
+import site from "../../_data/site.json";
 
 export type PageHero = {
   eyebrow?: string;
@@ -96,14 +97,15 @@ function ContactBlock() {
       <Container className="grid grid-cols-1 gap-10 lg:grid-cols-3">
         <div>
           <p className="text-xs font-semibold uppercase tracking-wide text-brand-600">
-            Get in touch
+            Liên hệ
           </p>
           <h2 className="mt-1.5 text-xl font-bold text-ink lg:text-2xl">
-            Talk to our experts
+            Trao đổi với chuyên gia của chúng tôi
           </h2>
           <p className="mt-2 text-sm text-ink-soft">
-            Tell us about your business and how we can help you expand into
-            Vietnam. We respond within one business day.
+            Cho chúng tôi biết về doanh nghiệp của bạn và mục tiêu tại Việt Nam.
+            Bạn có thể chủ động đặt lịch gọi, hoặc gửi yêu cầu để chúng tôi liên
+            hệ lại với bạn.
           </p>
           <div className="mt-4 space-y-3 text-sm text-ink-soft">
             {c.offices.map((office) => (
@@ -130,8 +132,41 @@ function ContactBlock() {
               </a>
             </div>
           </div>
+          {/* Two ways to reach us, worded so the distinction is explicit:
+              booking = customer-initiated / talk now; form = we call you back. */}
+          <div className="mt-6 space-y-5">
+            <div>
+              <p className="text-sm font-semibold text-ink">Chủ động đặt lịch</p>
+              <p className="mt-1 text-sm text-ink-soft">
+                Tự chọn khung giờ phù hợp và trao đổi trực tiếp 30 phút với
+                chuyên gia — không cần chờ phản hồi.
+              </p>
+              {/* Outline (secondary) so it doesn't compete with the form's
+                  primary submit. CalendlyButton watches this id to hide the
+                  duplicate floating button while it's on screen. */}
+              <a
+                id="calendly-inline-cta"
+                href={site.calendly.href}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="mt-3 inline-flex h-12 items-center justify-center gap-2 rounded-lg border-2 border-brand-600 bg-white px-6 text-sm font-medium text-brand-600 transition-colors hover:bg-brand-50 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-600 focus-visible:ring-offset-2"
+              >
+                <CalendarClock className="h-5 w-5" />
+                {site.calendly.label}
+              </a>
+            </div>
+            <div>
+              <p className="text-sm font-semibold text-ink">
+                Hoặc gửi yêu cầu tư vấn
+              </p>
+              <p className="mt-1 text-sm text-ink-soft">
+                Điền biểu mẫu, đội ngũ của chúng tôi sẽ liên hệ lại với bạn
+                trong vòng một ngày làm việc.
+              </p>
+            </div>
+          </div>
         </div>
-        <div className="lg:col-span-2">
+        <div id="contact-form-region" className="lg:col-span-2">
           <ContactForm />
         </div>
       </Container>

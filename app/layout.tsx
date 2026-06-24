@@ -3,6 +3,7 @@ import { Roboto } from "next/font/google";
 import Script from "next/script";
 import "./globals.css";
 import { BASE_URL } from "./_lib/site";
+import { CalendlyButton } from "./_components/CalendlyButton";
 
 const roboto = Roboto({
   variable: "--font-roboto",
@@ -63,6 +64,7 @@ export default function RootLayout({
     <html lang="en" className={`${roboto.variable} h-full antialiased`}>
       <body className="min-h-full flex flex-col bg-white text-ink-soft">
         {children}
+        <CalendlyButton />
         {process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID && (
           <>
             <Script

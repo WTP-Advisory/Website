@@ -27,5 +27,9 @@
   "whatsapp": {
     "href": "https://wa.me/842835350019",
     "label": "WhatsApp"
+  },
+  "calendly": {
+    "href": "https://calendly.com/wtp-advisory/30min",
+    "label": "Đặt lịch tư vấn 30 phút"
   }
 }
